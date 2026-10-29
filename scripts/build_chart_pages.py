@@ -19,8 +19,8 @@ import shutil
 from datetime import datetime, timezone
 from pathlib import Path
 
-from scripts.build_chart_tasks import get, safe_name
 from scripts.build_owid_article import GRAPHER
+from scripts.owid_pages import get, safe_name
 from scripts.snapshot_page import snapshot
 
 

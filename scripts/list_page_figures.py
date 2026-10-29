@@ -13,8 +13,8 @@ from pathlib import Path
 
 from bs4 import BeautifulSoup
 
-from scripts.build_chart_tasks import get, safe_name
 from scripts.build_owid_article import GRAPHER, article_blocks, embed_of, page_root
+from scripts.owid_pages import get, safe_name
 
 
 def chart_title(slug: str, cache: Path) -> str:

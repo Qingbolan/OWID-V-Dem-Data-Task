@@ -14,8 +14,8 @@ import json
 from pathlib import Path
 from urllib.parse import parse_qsl, urlencode, urlparse
 
-from scripts.build_chart_tasks import get
 from scripts.build_owid_article import GRAPHER
+from scripts.owid_pages import get
 
 
 def cached(url: str, path: Path) -> str:
