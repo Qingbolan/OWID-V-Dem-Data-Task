@@ -1,0 +1,8 @@
+{
+ "backend": "claude-code-cli",
+ "model": "claude-opus-5-5",
+ "max_tool_calls": 30,
+ "timeout_seconds": 600,
+ "query_timeout_seconds": 30,
+ "max_query_rows": 500
+}
