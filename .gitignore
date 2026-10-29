@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+.pytest_cache/
+.ruff_cache/
+
+# Environment / secrets
+.env
+.env.*
+
+# Large data: rebuilt by `make data`; checksums and manifests live in data/manifests/ (tracked)
+data/raw/**
+!data/raw/.gitkeep
+data/sqlite/**
+!data/sqlite/.gitkeep
+data/cache/
+
+# Benchmark run outputs (kept locally; summarised reports are copied to docs/ when needed)
+Benchmark/benchmarking/output/*
+!Benchmark/benchmarking/output/.gitkeep
+
+# OS
+.DS_Store
+
+# freeze snapshots: the archive of untracked files is not versioned (the files themselves are)
+docs/freeze/*/untracked.tar.gz
+.venv-golden/
+data/golden/

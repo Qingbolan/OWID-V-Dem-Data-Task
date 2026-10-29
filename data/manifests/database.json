@@ -1,0 +1,223 @@
+{
+ "database": "vdem2026.db",
+ "database_bytes": 736411648,
+ "source_dir": "data/raw/owid-snapshots/democracy/2026-03-17",
+ "catalog_dir": "data/raw/owid-catalog",
+ "elapsed_seconds": 34,
+ "tables": {
+  "vdem__identifiers": {
+   "rows": 28092,
+   "columns": 22,
+   "archive": "vdem.zip",
+   "md5": "5cc16b7636bd3bef29b39dcabf19e3d9",
+   "sha256": "4fcd51c81923f11c23f01a2d43918712aeeffc6f04947e4cfc415c9c2f345cf7",
+   "source": "vdem.zip:V-Dem-CY-Full+Others-v16.csv"
+  },
+  "vdem__v2x": {
+   "rows": 28092,
+   "columns": 345,
+   "archive": "vdem.zip",
+   "md5": "5cc16b7636bd3bef29b39dcabf19e3d9",
+   "sha256": "4fcd51c81923f11c23f01a2d43918712aeeffc6f04947e4cfc415c9c2f345cf7",
+   "source": "vdem.zip:V-Dem-CY-Full+Others-v16.csv"
+  },
+  "vdem__v2el": {
+   "rows": 28092,
+   "columns": 396,
+   "archive": "vdem.zip",
+   "md5": "5cc16b7636bd3bef29b39dcabf19e3d9",
+   "sha256": "4fcd51c81923f11c23f01a2d43918712aeeffc6f04947e4cfc415c9c2f345cf7",
+   "source": "vdem.zip:V-Dem-CY-Full+Others-v16.csv"
+  },
+  "vdem__v2ps": {
+   "rows": 28092,
+   "columns": 167,
+   "archive": "vdem.zip",
+   "md5": "5cc16b7636bd3bef29b39dcabf19e3d9",
+   "sha256": "4fcd51c81923f11c23f01a2d43918712aeeffc6f04947e4cfc415c9c2f345cf7",
+   "source": "vdem.zip:V-Dem-CY-Full+Others-v16.csv"
+  },
+  "vdem__v2dd": {
+   "rows": 28092,
+   "columns": 42,
+   "archive": "vdem.zip",
+   "md5": "5cc16b7636bd3bef29b39dcabf19e3d9",
+   "sha256": "4fcd51c81923f11c23f01a2d43918712aeeffc6f04947e4cfc415c9c2f345cf7",
+   "source": "vdem.zip:V-Dem-CY-Full+Others-v16.csv"
+  },
+  "vdem__v2ex": {
+   "rows": 28092,
+   "columns": 362,
+   "archive": "vdem.zip",
+   "md5": "5cc16b7636bd3bef29b39dcabf19e3d9",
+   "sha256": "4fcd51c81923f11c23f01a2d43918712aeeffc6f04947e4cfc415c9c2f345cf7",
+   "source": "vdem.zip:V-Dem-CY-Full+Others-v16.csv"
+  },
+  "vdem__v2re": {
+   "rows": 28092,
+   "columns": 108,
+   "archive": "vdem.zip",
+   "md5": "5cc16b7636bd3bef29b39dcabf19e3d9",
+   "sha256": "4fcd51c81923f11c23f01a2d43918712aeeffc6f04947e4cfc415c9c2f345cf7",
+   "source": "vdem.zip:V-Dem-CY-Full+Others-v16.csv"
+  },
+  "vdem__v2lg": {
+   "rows": 28092,
+   "columns": 201,
+   "archive": "vdem.zip",
+   "md5": "5cc16b7636bd3bef29b39dcabf19e3d9",
+   "sha256": "4fcd51c81923f11c23f01a2d43918712aeeffc6f04947e4cfc415c9c2f345cf7",
+   "source": "vdem.zip:V-Dem-CY-Full+Others-v16.csv"
+  },
+  "vdem__v2dl": {
+   "rows": 28092,
+   "columns": 95,
+   "archive": "vdem.zip",
+   "md5": "5cc16b7636bd3bef29b39dcabf19e3d9",
+   "sha256": "4fcd51c81923f11c23f01a2d43918712aeeffc6f04947e4cfc415c9c2f345cf7",
+   "source": "vdem.zip:V-Dem-CY-Full+Others-v16.csv"
+  },
+  "vdem__v2ju": {
+   "rows": 28092,
+   "columns": 152,
+   "archive": "vdem.zip",
+   "md5": "5cc16b7636bd3bef29b39dcabf19e3d9",
+   "sha256": "4fcd51c81923f11c23f01a2d43918712aeeffc6f04947e4cfc415c9c2f345cf7",
+   "source": "vdem.zip:V-Dem-CY-Full+Others-v16.csv"
+  },
+  "vdem__v2cl": {
+   "rows": 28092,
+   "columns": 368,
+   "archive": "vdem.zip",
+   "md5": "5cc16b7636bd3bef29b39dcabf19e3d9",
+   "sha256": "4fcd51c81923f11c23f01a2d43918712aeeffc6f04947e4cfc415c9c2f345cf7",
+   "source": "vdem.zip:V-Dem-CY-Full+Others-v16.csv"
+  },
+  "vdem__v2sv": {
+   "rows": 28092,
+   "columns": 37,
+   "archive": "vdem.zip",
+   "md5": "5cc16b7636bd3bef29b39dcabf19e3d9",
+   "sha256": "4fcd51c81923f11c23f01a2d43918712aeeffc6f04947e4cfc415c9c2f345cf7",
+   "source": "vdem.zip:V-Dem-CY-Full+Others-v16.csv"
+  },
+  "vdem__v2st": {
+   "rows": 28092,
+   "columns": 69,
+   "archive": "vdem.zip",
+   "md5": "5cc16b7636bd3bef29b39dcabf19e3d9",
+   "sha256": "4fcd51c81923f11c23f01a2d43918712aeeffc6f04947e4cfc415c9c2f345cf7",
+   "source": "vdem.zip:V-Dem-CY-Full+Others-v16.csv"
+  },
+  "vdem__v2cs": {
+   "rows": 28092,
+   "columns": 127,
+   "archive": "vdem.zip",
+   "md5": "5cc16b7636bd3bef29b39dcabf19e3d9",
+   "sha256": "4fcd51c81923f11c23f01a2d43918712aeeffc6f04947e4cfc415c9c2f345cf7",
+   "source": "vdem.zip:V-Dem-CY-Full+Others-v16.csv"
+  },
+  "vdem__v2me": {
+   "rows": 28092,
+   "columns": 205,
+   "archive": "vdem.zip",
+   "md5": "5cc16b7636bd3bef29b39dcabf19e3d9",
+   "sha256": "4fcd51c81923f11c23f01a2d43918712aeeffc6f04947e4cfc415c9c2f345cf7",
+   "source": "vdem.zip:V-Dem-CY-Full+Others-v16.csv"
+  },
+  "vdem__v2pe": {
+   "rows": 28092,
+   "columns": 293,
+   "archive": "vdem.zip",
+   "md5": "5cc16b7636bd3bef29b39dcabf19e3d9",
+   "sha256": "4fcd51c81923f11c23f01a2d43918712aeeffc6f04947e4cfc415c9c2f345cf7",
+   "source": "vdem.zip:V-Dem-CY-Full+Others-v16.csv"
+  },
+  "vdem__v2ca": {
+   "rows": 28092,
+   "columns": 224,
+   "archive": "vdem.zip",
+   "md5": "5cc16b7636bd3bef29b39dcabf19e3d9",
+   "sha256": "4fcd51c81923f11c23f01a2d43918712aeeffc6f04947e4cfc415c9c2f345cf7",
+   "source": "vdem.zip:V-Dem-CY-Full+Others-v16.csv"
+  },
+  "vdem__v3el": {
+   "rows": 28092,
+   "columns": 236,
+   "archive": "vdem.zip",
+   "md5": "5cc16b7636bd3bef29b39dcabf19e3d9",
+   "sha256": "4fcd51c81923f11c23f01a2d43918712aeeffc6f04947e4cfc415c9c2f345cf7",
+   "source": "vdem.zip:V-Dem-CY-Full+Others-v16.csv"
+  },
+  "vdem__v3lg": {
+   "rows": 28092,
+   "columns": 213,
+   "archive": "vdem.zip",
+   "md5": "5cc16b7636bd3bef29b39dcabf19e3d9",
+   "sha256": "4fcd51c81923f11c23f01a2d43918712aeeffc6f04947e4cfc415c9c2f345cf7",
+   "source": "vdem.zip:V-Dem-CY-Full+Others-v16.csv"
+  },
+  "vdem__v3st": {
+   "rows": 28092,
+   "columns": 38,
+   "archive": "vdem.zip",
+   "md5": "5cc16b7636bd3bef29b39dcabf19e3d9",
+   "sha256": "4fcd51c81923f11c23f01a2d43918712aeeffc6f04947e4cfc415c9c2f345cf7",
+   "source": "vdem.zip:V-Dem-CY-Full+Others-v16.csv"
+  },
+  "vdem__v2sm": {
+   "rows": 28092,
+   "columns": 456,
+   "archive": "vdem.zip",
+   "md5": "5cc16b7636bd3bef29b39dcabf19e3d9",
+   "sha256": "4fcd51c81923f11c23f01a2d43918712aeeffc6f04947e4cfc415c9c2f345cf7",
+   "source": "vdem.zip:V-Dem-CY-Full+Others-v16.csv"
+  },
+  "vdem__v2ed": {
+   "rows": 28092,
+   "columns": 278,
+   "archive": "vdem.zip",
+   "md5": "5cc16b7636bd3bef29b39dcabf19e3d9",
+   "sha256": "4fcd51c81923f11c23f01a2d43918712aeeffc6f04947e4cfc415c9c2f345cf7",
+   "source": "vdem.zip:V-Dem-CY-Full+Others-v16.csv"
+  },
+  "vdem__e": {
+   "rows": 28092,
+   "columns": 199,
+   "archive": "vdem.zip",
+   "md5": "5cc16b7636bd3bef29b39dcabf19e3d9",
+   "sha256": "4fcd51c81923f11c23f01a2d43918712aeeffc6f04947e4cfc415c9c2f345cf7",
+   "source": "vdem.zip:V-Dem-CY-Full+Others-v16.csv"
+  },
+  "vdem__misc": {
+   "rows": 28092,
+   "columns": 77,
+   "archive": "vdem.zip",
+   "md5": "5cc16b7636bd3bef29b39dcabf19e3d9",
+   "sha256": "4fcd51c81923f11c23f01a2d43918712aeeffc6f04947e4cfc415c9c2f345cf7",
+   "source": "vdem.zip:V-Dem-CY-Full+Others-v16.csv"
+  },
+  "vdem_documents": {
+   "rows": 513,
+   "columns": 3,
+   "archive": "vdem.zip",
+   "md5": "5cc16b7636bd3bef29b39dcabf19e3d9",
+   "sha256": "4fcd51c81923f11c23f01a2d43918712aeeffc6f04947e4cfc415c9c2f345cf7",
+   "source": "vdem.zip:*.pdf"
+  },
+  "owid_population": {
+   "rows": 78536,
+   "columns": 5,
+   "source": "https://catalog.ourworldindata.org/garden/demography/2024-07-15/population/population.feather",
+   "md5": "d3e43e3efac271efdf2a55199aef3a0f",
+   "sha256": "61fff7aa2fde3a9767f710399728d5122f4882b9978f2f11b6da3155d7de3448"
+  },
+  "owid_regions": {
+   "rows": 481,
+   "columns": 24,
+   "source": "https://catalog.ourworldindata.org/garden/regions/2023-01-01/regions/regions.feather",
+   "md5": "50d3ca0556bfa5566536b92701538867",
+   "sha256": "dabcd8e45228d20d20f528bc512e2e10c37479f5f26b7e78533895fb26c5ff76"
+  }
+ }
+}
