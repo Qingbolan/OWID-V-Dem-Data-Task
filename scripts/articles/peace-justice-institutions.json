@@ -1,0 +1,29 @@
+{
+ "url": "https://ourworldindata.org/sdgs/peace-justice-institutions",
+ "figures": [
+  "01 Homicide rate",
+  "02 Deaths in armed conflicts based on where they occurred",
+  "03 Share of the population subjected to physical violence, male vs. female",
+  "04 Share that feel safe walking alone around the area they live at night",
+  "05 Share of children who experienced violence",
+  "06 Human trafficking victims",
+  "07 Share of young women who experienced sexual violence as children",
+  "08 Share of victims who reported crime to the police",
+  "09 Unsentenced detainees as a proportion of overall prison population",
+  "10 Share of people with disputes using a dispute resolution mechanism",
+  "11 Inward illicit financial flows from drug trafficking",
+  "12 Share of small arms and light weapons with illicit origin",
+  "13 Share of people who say they were asked for a bribe or paid one",
+  "14 Share of firms that report being asked to pay a bribe",
+  "15 Primary government spending as a share of original budget",
+  "16 Share of population satisfied with government services",
+  "17 Share of women in parliament",
+  "18 Share of people who find political decision-making inclusive and responsive",
+  "19 Share of member states in international organizations",
+  "20 Share of births registered",
+  "21 Confirmed killings of human rights defenders, journalists and trade unionists",
+  "22 Countries with policy guarantees for public access to information",
+  "23 Share of countries with independent national human rights institutions",
+  "24 Share of adults reporting having felt discriminated against"
+ ]
+}

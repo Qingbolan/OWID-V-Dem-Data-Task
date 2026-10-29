@@ -1,0 +1,27 @@
+{
+ "url": "https://ourworldindata.org/data-insights/democracy-is-still-young-in-most-countries-considered-democratic-today",
+ "figures": [
+  {
+   "name": "01 Number of electoral democracies by age, World, 2023",
+   "view": "https://ourworldindata.org/grapher/number-electoral-democracies-age?tab=discrete-bar&time=2023&country=~OWID_WRL",
+   "image_title": "Democracy is young in most countries",
+   "image_subtitle": "Number of electoral democracies worldwide by age in 2023. Electoral democracies are understood here as political systems that hold meaningful, free and fair, and multi-party elections.",
+   "identification": "The image is a bar chart of five age groups of electoral democracies (1-18, 19-30, 31-60, 61-90, 91+ years) for the world in 2023, source V-Dem; the page links the chart number-electoral-democracies-age, whose categories and year match. The image was made with V-Dem (2024): its bars (21, 15, 31, 14, 10) differ slightly from the chart's current data (V-Dem v16: 20, 15, 31, 15, 9); the ground truth is the chart's current data (decision 0003).",
+   "scope": {
+    "entities": [
+     "World"
+    ],
+    "years": [
+     2023
+    ],
+    "columns": [
+     "Electoral democracies aged 1-18 years",
+     "19-30 years",
+     "31-60 years",
+     "61-90 years",
+     "91 years +"
+    ]
+   }
+  }
+ ]
+}

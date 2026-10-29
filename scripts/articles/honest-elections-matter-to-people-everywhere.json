@@ -1,0 +1,9 @@
+{
+ "url": "https://ourworldindata.org/data-insights/honest-elections-matter-to-people-everywhere",
+ "figures": [
+  "01 How important are honest elections to people across the world"
+ ],
+ "not_reproducible": {
+  "01 How important are honest elections to people across the world": "The image is a stacked bar chart of survey answers for 16 countries in 2022, source Integrated Values Surveys; the page links do-honest-elections-make-a-difference-to-your-life. Not V-Dem data: not reproducible from this database."
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "url": "https://ourworldindata.org/data-insights/the-share-of-democracies-has-recently-stagnated-but-remains-near-its-historical-high",
+ "figures": [
+  {
+   "name": "01 Countries that are democracies and autocracies, World, 1973-2023, relative",
+   "view": "https://ourworldindata.org/grapher/countries-democracies-autocracies-row?tab=chart&stackMode=relative&time=1973..2023&country=~OWID_WRL",
+   "image_title": "Countries that are democracies and autocracies",
+   "image_subtitle": "Political regimes based on the classification by Lührmann et al. (2018) and the estimates by V-Dem's experts.",
+   "identification": "The image is a 100% stacked area chart of the four regime types for the world from 1973 to 2023, source V-Dem (2024); the page links the chart countries-democracies-autocracies-row, shown here in relative mode. The ground truth is the chart's current data (decision 0003).",
+   "scope": {
+    "entities": [
+     "World"
+    ]
+   }
+  }
+ ]
+}

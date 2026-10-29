@@ -1,0 +1,20 @@
+{
+ "url": "https://ourworldindata.org/data-insights/four-countries-that-have-successfully-reversed-democratic-decline-in-recent-years",
+ "figures": [
+  {
+   "name": "01 Liberal democracy index, Brazil, Poland, Thailand and Zambia, 2003-2024",
+   "view": "https://ourworldindata.org/grapher/liberal-democracy-index?tab=chart&time=2003..2024&country=BRA~POL~THA~ZMB",
+   "image_title": "Autocratization can be turned around",
+   "image_subtitle": "Liberal democracy index by V-Dem, using expert estimates. It ranges from 0 (highly autocratic) to 1 (highly democratic).",
+   "identification": "The image shows four small-multiple line charts (Brazil, Poland, Thailand, Zambia) of V-Dem's liberal democracy index; the x-axis is labelled 2004, 2010, 2015, 2024 and the lines start one year before 2004; the page links the chart liberal-democracy-index. The image was made with V-Dem (2025); the ground truth is the chart's current data (decision 0003).",
+   "scope": {
+    "entities": [
+     "Brazil",
+     "Poland",
+     "Thailand",
+     "Zambia"
+    ]
+   }
+  }
+ ]
+}
