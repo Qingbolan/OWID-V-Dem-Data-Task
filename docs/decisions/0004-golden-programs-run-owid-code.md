@@ -21,11 +21,11 @@ The golden program of every chart has two parts:
    datasets are read from `owid_regions` and `owid_population`. Only `etl.helpers.PathFinder` and `etl.paths` are
    replaced by small stand-ins; `etl.data_helpers.geo` is OWID's file. It runs in its own environment with OWID's
    libraries at the same commit (`make golden-env`).
-2. **Per chart**: `spec.json` names, for every figure column, the column of OWID's output tables it plots (resolved from
+2. **Per figure**: `spec.json` names, for every figure column, the column of OWID's output tables it plots (resolved from
    the indicator's short name), and the view settings that transform it ([0003](0003-figure-view-as-ground-truth.md)).
 
 `make golden` compares the result with the published CSV cell by cell: one unit in the last printed decimal or 1e-6
-relative (OWID publishes some values as 32-bit floats). All 100 charts match.
+relative (OWID publishes some values as 32-bit floats). All 124 V-Dem figures (the 100 charts, in their page views) match.
 
 ## Which commit
 

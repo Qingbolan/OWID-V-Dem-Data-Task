@@ -36,16 +36,17 @@ One row per country-year, 1789-2025, including historical entities (e.g. Baden, 
 
 ## Tasks
 
-100 charts, one folder each in `OWID/` ([decision 0005](decisions/0005-chart-selection-and-host-pages.md)):
+124 tasks (figures) covering the 100 V-Dem-only charts, in 102 folders of `OWID/`: 14 OWID pages, 7 data insights and
+81 chart pages ([decision 0005](decisions/0005-chart-selection-and-host-pages.md)). Their views:
 
-| View | Charts |
+| View | Tasks |
 |---|---:|
-| Map (latest year) | 75 |
-| Stacked area (counts of countries or people by category, several in relative mode) | 10 |
-| Line chart | 9 |
+| Map | 83 |
+| Line chart | 18 |
+| Stacked area (counts of countries or people by category; 9 views in relative mode) | 12 |
+| Discrete bar | 4 |
 | Scatter plot | 4 |
-| Discrete bar | 2 |
+| Marimekko | 3 |
 
-Figure data: 1 to 237 rows per chart (median 174), 17,198 rows in all. Golden programs read seven of OWID's output
-tables: indices with regional averages (92 figure columns), country counts by category (57), population by category
-(16), indicators without regions (20), and others.
+Figure data: 1 to 606 rows per task (median 174), 20,537 rows in all. Two map views use a time tolerance (the closest
+year within 4 years, with an "(Original Year)" column).

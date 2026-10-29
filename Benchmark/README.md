@@ -1,9 +1,9 @@
 # Benchmark
 
-Runs solutions on the reproducible charts in `OWID/` and scores the executed results. A chart that no OWID page
-shows as a figure has no article level; image levels need redacted images, which this repository does not have yet.
-Unsupported levels are skipped (`Task.supports`). The package layout mirrors
-GEM-Bench's `GemBench` package.
+Runs solutions on the reproducible figures in `OWID/` (124 tasks) and scores the executed results. Every query ends
+with the output columns and their precision as supplementary material (docs/decisions/0006). A chart page has no
+article level; image levels need redacted images, which this repository does not have yet. Unsupported levels are
+skipped (`Task.supports`). The package layout mirrors GEM-Bench's `GemBench` package.
 
 ```
 Benchmark/
@@ -11,7 +11,7 @@ Benchmark/
 │   ├── OWIDBench.py              Entry point: solutions x tasks x input levels x repeats -> evaluate -> report
 │   ├── dataset/
 │   │   ├── OWIDDatasets.py       Builds tasks from OWID/ figures whose golden program verified as `match`
-│   │   └── VDEM_2026/            dataset.json (the 100 chart folders)
+│   │   └── VDEM_2026/            dataset.json (the 102 page and chart-page folders)
 │   ├── evaluator/
 │   │   ├── base_evaluator.py
 │   │   ├── quantitative_evaluator/   Cell-level comparison with the figure CSV (implemented)
@@ -34,6 +34,8 @@ Benchmark/
 uv run python -m Benchmark.cli tasks                                  # reproducible tasks
 uv run python -m Benchmark.cli show <task_id> --level subtitle        # exact solution input
 uv run python -m Benchmark.cli run --level title subtitle article --repeats 3
+uv run python -m Benchmark.cli run --level article --repeats 1                # only the 43 tasks with page text
+uv run python -m Benchmark.cli run --level subtitle article --richest       # per task, its richest level only
 uv run python -m Benchmark.demo.main                                  # one task, one level, one repeat
 ```
 
