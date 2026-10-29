@@ -1,0 +1,922 @@
+{
+ "group": "democracy/2026-03-17",
+ "dataset": "grapher/democracy/2026-03-17/vdem",
+ "rule": "    python -m scripts.select_charts <mapping.json> <crawl.json> <out.json>",
+ "charts": [
+  {
+   "slug": "academic-freedom-index",
+   "host": {
+    "url": "https://ourworldindata.org/democracy",
+    "title": "Democracy",
+    "published": "2013-03-15",
+    "charts": 66
+   },
+   "host_candidates": 1
+  },
+  {
+   "slug": "access-to-justice-men-row",
+   "host": {
+    "url": "https://ourworldindata.org/sdgs/peace-justice-institutions",
+    "title": "Promote just, peaceful and inclusive societies",
+    "published": "2023-07-18",
+    "charts": 46
+   },
+   "host_candidates": 1
+  },
+  {
+   "slug": "access-to-justice-women-row",
+   "host": {
+    "url": "https://ourworldindata.org/sdgs/peace-justice-institutions",
+    "title": "Promote just, peaceful and inclusive societies",
+    "published": "2023-07-18",
+    "charts": 46
+   },
+   "host_candidates": 1
+  },
+  {
+   "slug": "age-of-electoral-democracy",
+   "host": {
+    "url": "https://ourworldindata.org/democracies-age",
+    "title": "In most countries, democracy is a recent achievement. Dictatorship is far from a distant memory.",
+    "published": "2022-02-03",
+    "charts": 7
+   },
+   "host_candidates": 2
+  },
+  {
+   "slug": "age-of-liberal-democracy-row",
+   "host": {
+    "url": "https://ourworldindata.org/democracies-age",
+    "title": "In most countries, democracy is a recent achievement. Dictatorship is far from a distant memory.",
+    "published": "2022-02-03",
+    "charts": 7
+   },
+   "host_candidates": 2
+  },
+  {
+   "slug": "civil-society-participation-index",
+   "host": null,
+   "host_candidates": 0
+  },
+  {
+   "slug": "clientelism-index",
+   "host": {
+    "url": "https://ourworldindata.org/corruption",
+    "title": "Corruption",
+    "published": "2016-10-01",
+    "charts": 18
+   },
+   "host_candidates": 1
+  },
+  {
+   "slug": "common-good-justifications-score",
+   "host": null,
+   "host_candidates": 0
+  },
+  {
+   "slug": "countries-by-share-of-women-in-parliament",
+   "host": {
+    "url": "https://ourworldindata.org/women-political-advances",
+    "title": "Women have made major advances in politics — but the world is still far from equal",
+    "published": "2024-03-08",
+    "charts": 12
+   },
+   "host_candidates": 4
+  },
+  {
+   "slug": "countries-democracies-autocracies-row",
+   "host": {
+    "url": "https://ourworldindata.org/data-insights/the-share-of-democracies-has-recently-stagnated-but-remains-near-its-historical-high",
+    "title": "The share of democracies has recently stagnated but remains near its historical high",
+    "published": "2024-05-14",
+    "charts": 1
+   },
+   "host_candidates": 3
+  },
+  {
+   "slug": "countries-long-standing-electoral-democracies",
+   "host": null,
+   "host_candidates": 0
+  },
+  {
+   "slug": "countries-long-standing-liberal-democracies-row",
+   "host": null,
+   "host_candidates": 0
+  },
+  {
+   "slug": "deliberative-democracy-index-vdem",
+   "host": {
+    "url": "https://ourworldindata.org/democracy",
+    "title": "Democracy",
+    "published": "2013-03-15",
+    "charts": 66
+   },
+   "host_candidates": 1
+  },
+  {
+   "slug": "deliberative-political-institutions-index",
+   "host": null,
+   "host_candidates": 0
+  },
+  {
+   "slug": "democracies-autocracies-amb-row",
+   "host": null,
+   "host_candidates": 0
+  },
+  {
+   "slug": "democratic-electoral-institutions-row",
+   "host": null,
+   "host_candidates": 0
+  },
+  {
+   "slug": "direct-democracy-index",
+   "host": null,
+   "host_candidates": 0
+  },
+  {
+   "slug": "domestic-policy-free-from-interference-of-other-states-score",
+   "host": {
+    "url": "https://ourworldindata.org/state-capacity",
+    "title": "State Capacity",
+    "published": "2023-11-30",
+    "charts": 39
+   },
+   "host_candidates": 1
+  },
+  {
+   "slug": "egalitarian-democracy-index-vdem",
+   "host": {
+    "url": "https://ourworldindata.org/democracy",
+    "title": "Democracy",
+    "published": "2013-03-15",
+    "charts": 66
+   },
+   "host_candidates": 1
+  },
+  {
+   "slug": "egalitarian-political-institutions-index",
+   "host": null,
+   "host_candidates": 0
+  },
+  {
+   "slug": "elected-political-leaders-index",
+   "host": {
+    "url": "https://ourworldindata.org/democratic-world",
+    "title": "People around the world have gained democratic rights, but some have many more rights than others",
+    "published": "2022-07-19",
+    "charts": 9
+   },
+   "host_candidates": 1
+  },
+  {
+   "slug": "electoral-democracy-index",
+   "host": {
+    "url": "https://ourworldindata.org/vdem-electoral-democracy-data",
+    "title": "The ‘Varieties of Democracy’ data: how do researchers measure democracy?",
+    "published": "2022-11-30",
+    "charts": 1
+   },
+   "host_candidates": 5
+  },
+  {
+   "slug": "electoral-democracy-row",
+   "host": null,
+   "host_candidates": 0
+  },
+  {
+   "slug": "elite-consultations-score",
+   "host": null,
+   "host_candidates": 0
+  },
+  {
+   "slug": "engaged-society-score",
+   "host": null,
+   "host_candidates": 0
+  },
+  {
+   "slug": "equal-access-to-power-index",
+   "host": null,
+   "host_candidates": 0
+  },
+  {
+   "slug": "equal-resource-distribution-index",
+   "host": null,
+   "host_candidates": 0
+  },
+  {
+   "slug": "equal-rights-protection-index",
+   "host": {
+    "url": "https://ourworldindata.org/human-rights",
+    "title": "Human Rights",
+    "published": "2016-06-12",
+    "charts": 39
+   },
+   "host_candidates": 1
+  },
+  {
+   "slug": "equality-of-civil-liberties-across-social-groups-score",
+   "host": {
+    "url": "https://ourworldindata.org/human-rights",
+    "title": "Human Rights",
+    "published": "2016-06-12",
+    "charts": 39
+   },
+   "host_candidates": 1
+  },
+  {
+   "slug": "equality-of-political-power-across-social-groups-score",
+   "host": null,
+   "host_candidates": 0
+  },
+  {
+   "slug": "executive-corruption-index",
+   "host": {
+    "url": "https://ourworldindata.org/corruption",
+    "title": "Corruption",
+    "published": "2016-10-01",
+    "charts": 18
+   },
+   "host_candidates": 1
+  },
+  {
+   "slug": "foreign-policy-free-from-interference-of-other-states-score",
+   "host": {
+    "url": "https://ourworldindata.org/state-capacity",
+    "title": "State Capacity",
+    "published": "2023-11-30",
+    "charts": 39
+   },
+   "host_candidates": 1
+  },
+  {
+   "slug": "free-and-fair-elections-index",
+   "host": {
+    "url": "https://ourworldindata.org/democratic-world",
+    "title": "People around the world have gained democratic rights, but some have many more rights than others",
+    "published": "2022-07-19",
+    "charts": 9
+   },
+   "host_candidates": 2
+  },
+  {
+   "slug": "free-and-fair-elections-row",
+   "host": null,
+   "host_candidates": 0
+  },
+  {
+   "slug": "freedom-of-association-index",
+   "host": {
+    "url": "https://ourworldindata.org/democratic-world",
+    "title": "People around the world have gained democratic rights, but some have many more rights than others",
+    "published": "2022-07-19",
+    "charts": 9
+   },
+   "host_candidates": 3
+  },
+  {
+   "slug": "freedom-of-expression-index",
+   "host": {
+    "url": "https://ourworldindata.org/democratic-world",
+    "title": "People around the world have gained democratic rights, but some have many more rights than others",
+    "published": "2022-07-19",
+    "charts": 9
+   },
+   "host_candidates": 3
+  },
+  {
+   "slug": "gender-of-chief-executive",
+   "host": {
+    "url": "https://ourworldindata.org/women-political-advances",
+    "title": "Women have made major advances in politics — but the world is still far from equal",
+    "published": "2024-03-08",
+    "charts": 12
+   },
+   "host_candidates": 3
+  },
+  {
+   "slug": "gender-of-the-head-of-government",
+   "host": {
+    "url": "https://ourworldindata.org/women-political-advances",
+    "title": "Women have made major advances in politics — but the world is still far from equal",
+    "published": "2024-03-08",
+    "charts": 12
+   },
+   "host_candidates": 1
+  },
+  {
+   "slug": "gender-of-the-head-of-state",
+   "host": {
+    "url": "https://ourworldindata.org/women-political-advances",
+    "title": "Women have made major advances in politics — but the world is still far from equal",
+    "published": "2024-03-08",
+    "charts": 12
+   },
+   "host_candidates": 1
+  },
+  {
+   "slug": "government-effectiveness-vs-electoral-democracy-index",
+   "host": {
+    "url": "https://ourworldindata.org/democracy-health",
+    "title": "Does democracy lead to better health?",
+    "published": "2019-06-24",
+    "charts": 2
+   },
+   "host_candidates": 2
+  },
+  {
+   "slug": "human-rights-index-vdem",
+   "host": {
+    "url": "https://ourworldindata.org/data-insights/human-rights-have-improved-in-all-world-regions-over-the-last-century",
+    "title": "Human rights have improved in all world regions over the last century",
+    "published": "2024-06-14",
+    "charts": 1
+   },
+   "host_candidates": 3
+  },
+  {
+   "slug": "human-rights-index-vs-electoral-democracy-index",
+   "host": {
+    "url": "https://ourworldindata.org/human-rights",
+    "title": "Human Rights",
+    "published": "2016-06-12",
+    "charts": 39
+   },
+   "host_candidates": 2
+  },
+  {
+   "slug": "individual-liberties-and-equality-before-the-law-index",
+   "host": {
+    "url": "https://ourworldindata.org/human-rights",
+    "title": "Human Rights",
+    "published": "2016-06-12",
+    "charts": 39
+   },
+   "host_candidates": 1
+  },
+  {
+   "slug": "judicial-constraints-on-the-executive-index",
+   "host": {
+    "url": "https://ourworldindata.org/conflict-deaths-breakdown",
+    "title": "Millions have died in conflicts since the Cold War; most of them in Africa and intrastate conflicts",
+    "published": "2024-07-15",
+    "charts": 7
+   },
+   "host_candidates": 2
+  },
+  {
+   "slug": "judicial-corruption-score",
+   "host": {
+    "url": "https://ourworldindata.org/corruption",
+    "title": "Corruption",
+    "published": "2016-10-01",
+    "charts": 18
+   },
+   "host_candidates": 1
+  },
+  {
+   "slug": "justified-political-positions-score",
+   "host": null,
+   "host_candidates": 0
+  },
+  {
+   "slug": "key-features-of-democracy",
+   "host": {
+    "url": "https://ourworldindata.org/democracy",
+    "title": "Democracy",
+    "published": "2013-03-15",
+    "charts": 66
+   },
+   "host_candidates": 1
+  },
+  {
+   "slug": "key-features-of-electoral-democracy",
+   "host": {
+    "url": "https://ourworldindata.org/democracy",
+    "title": "Democracy",
+    "published": "2013-03-15",
+    "charts": 66
+   },
+   "host_candidates": 1
+  },
+  {
+   "slug": "key-features-of-human-rights",
+   "host": {
+    "url": "https://ourworldindata.org/human-rights",
+    "title": "Human Rights",
+    "published": "2016-06-12",
+    "charts": 39
+   },
+   "host_candidates": 1
+  },
+  {
+   "slug": "key-features-of-liberal-democracy",
+   "host": {
+    "url": "https://ourworldindata.org/democracy",
+    "title": "Democracy",
+    "published": "2013-03-15",
+    "charts": 66
+   },
+   "host_candidates": 1
+  },
+  {
+   "slug": "key-features-of-womens-political-empowerment",
+   "host": {
+    "url": "https://ourworldindata.org/human-rights",
+    "title": "Human Rights",
+    "published": "2016-06-12",
+    "charts": 39
+   },
+   "host_candidates": 2
+  },
+  {
+   "slug": "key-media-freedoms",
+   "host": {
+    "url": "https://ourworldindata.org/human-rights",
+    "title": "Human Rights",
+    "published": "2016-06-12",
+    "charts": 39
+   },
+   "host_candidates": 2
+  },
+  {
+   "slug": "legislative-constraints-on-the-executive-index",
+   "host": {
+    "url": "https://ourworldindata.org/democracy",
+    "title": "Democracy",
+    "published": "2013-03-15",
+    "charts": 66
+   },
+   "host_candidates": 1
+  },
+  {
+   "slug": "legislative-corruption-score",
+   "host": {
+    "url": "https://ourworldindata.org/corruption",
+    "title": "Corruption",
+    "published": "2016-10-01",
+    "charts": 18
+   },
+   "host_candidates": 1
+  },
+  {
+   "slug": "liberal-democracy-index",
+   "host": {
+    "url": "https://ourworldindata.org/data-insights/four-countries-that-have-successfully-reversed-democratic-decline-in-recent-years",
+    "title": "Four countries that have successfully reversed democratic decline in recent years",
+    "published": "2025-04-01",
+    "charts": 1
+   },
+   "host_candidates": 4
+  },
+  {
+   "slug": "liberal-democracy-row",
+   "host": null,
+   "host_candidates": 0
+  },
+  {
+   "slug": "liberal-political-institutions-index",
+   "host": {
+    "url": "https://ourworldindata.org/regimes-of-the-world-data",
+    "title": "The “Regimes of the World” data: how do researchers measure democracy?",
+    "published": "2021-12-02",
+    "charts": 2
+   },
+   "host_candidates": 1
+  },
+  {
+   "slug": "liberal-political-institutions-row",
+   "host": null,
+   "host_candidates": 0
+  },
+  {
+   "slug": "media-corruption-score",
+   "host": {
+    "url": "https://ourworldindata.org/corruption",
+    "title": "Corruption",
+    "published": "2016-10-01",
+    "charts": 18
+   },
+   "host_candidates": 1
+  },
+  {
+   "slug": "multi-party-elections-hoe-row",
+   "host": null,
+   "host_candidates": 0
+  },
+  {
+   "slug": "multi-party-elections-legislature-row",
+   "host": null,
+   "host_candidates": 0
+  },
+  {
+   "slug": "multi-party-elections-row",
+   "host": null,
+   "host_candidates": 0
+  },
+  {
+   "slug": "number-electoral-democracies-age",
+   "host": {
+    "url": "https://ourworldindata.org/data-insights/democracy-is-still-young-in-most-countries-considered-democratic-today",
+    "title": "Democracy is still young in most countries considered democratic today",
+    "published": "2024-10-01",
+    "charts": 1
+   },
+   "host_candidates": 3
+  },
+  {
+   "slug": "number-liberal-democracies-age",
+   "host": {
+    "url": "https://ourworldindata.org/democracies-age",
+    "title": "In most countries, democracy is a recent achievement. Dictatorship is far from a distant memory.",
+    "published": "2022-02-03",
+    "charts": 7
+   },
+   "host_candidates": 2
+  },
+  {
+   "slug": "participatory-democracy-index",
+   "host": {
+    "url": "https://ourworldindata.org/democracy",
+    "title": "Democracy",
+    "published": "2013-03-15",
+    "charts": 66
+   },
+   "host_candidates": 1
+  },
+  {
+   "slug": "participatory-political-institutions-index",
+   "host": null,
+   "host_candidates": 0
+  },
+  {
+   "slug": "people-living-in-democracies-autocracies",
+   "host": {
+    "url": "https://ourworldindata.org/democracy",
+    "title": "Democracy",
+    "published": "2013-03-15",
+    "charts": 66
+   },
+   "host_candidates": 1
+  },
+  {
+   "slug": "people-living-in-democracies-autocracies-amb-row",
+   "host": null,
+   "host_candidates": 0
+  },
+  {
+   "slug": "percentage-of-territory-controlled-by-government",
+   "host": {
+    "url": "https://ourworldindata.org/state-capacity",
+    "title": "State Capacity",
+    "published": "2023-11-30",
+    "charts": 39
+   },
+   "host_candidates": 1
+  },
+  {
+   "slug": "physical-integrity-rights-index-vdem",
+   "host": {
+    "url": "https://ourworldindata.org/human-rights",
+    "title": "Human Rights",
+    "published": "2016-06-12",
+    "charts": 39
+   },
+   "host_candidates": 1
+  },
+  {
+   "slug": "political-centralization-index",
+   "host": {
+    "url": "https://ourworldindata.org/democracy",
+    "title": "Democracy",
+    "published": "2013-03-15",
+    "charts": 66
+   },
+   "host_candidates": 1
+  },
+  {
+   "slug": "political-civil-liberties-index",
+   "host": {
+    "url": "https://ourworldindata.org/human-rights",
+    "title": "Human Rights",
+    "published": "2016-06-12",
+    "charts": 39
+   },
+   "host_candidates": 1
+  },
+  {
+   "slug": "political-corruption-index",
+   "host": {
+    "url": "https://ourworldindata.org/corruption",
+    "title": "Corruption",
+    "published": "2016-10-01",
+    "charts": 18
+   },
+   "host_candidates": 2
+  },
+  {
+   "slug": "political-corruption-index-vs-electoral-democracy-index",
+   "host": {
+    "url": "https://ourworldindata.org/corruption",
+    "title": "Corruption",
+    "published": "2016-10-01",
+    "charts": 18
+   },
+   "host_candidates": 2
+  },
+  {
+   "slug": "political-polarization-score",
+   "host": {
+    "url": "https://ourworldindata.org/democracy",
+    "title": "Democracy",
+    "published": "2013-03-15",
+    "charts": 66
+   },
+   "host_candidates": 1
+  },
+  {
+   "slug": "political-regime",
+   "host": {
+    "url": "https://ourworldindata.org/democratic-rights",
+    "title": "200 years ago, everyone lacked democratic rights. Now, billions of people have them",
+    "published": "2021-12-02",
+    "charts": 2
+   },
+   "host_candidates": 3
+  },
+  {
+   "slug": "political-regime-amb-row",
+   "host": null,
+   "host_candidates": 0
+  },
+  {
+   "slug": "private-civil-liberties-index",
+   "host": {
+    "url": "https://ourworldindata.org/human-rights",
+    "title": "Human Rights",
+    "published": "2016-06-12",
+    "charts": 39
+   },
+   "host_candidates": 1
+  },
+  {
+   "slug": "public-sector-corruption-index",
+   "host": {
+    "url": "https://ourworldindata.org/corruption",
+    "title": "Corruption",
+    "published": "2016-10-01",
+    "charts": 18
+   },
+   "host_candidates": 1
+  },
+  {
+   "slug": "respect-for-counterarguments-score",
+   "host": null,
+   "host_candidates": 0
+  },
+  {
+   "slug": "rigorous-and-impartial-public-administration-score",
+   "host": {
+    "url": "https://ourworldindata.org/corruption",
+    "title": "Corruption",
+    "published": "2016-10-01",
+    "charts": 18
+   },
+   "host_candidates": 2
+  },
+  {
+   "slug": "rule-of-law-index",
+   "host": {
+    "url": "https://ourworldindata.org/corruption",
+    "title": "Corruption",
+    "published": "2016-10-01",
+    "charts": 18
+   },
+   "host_candidates": 2
+  },
+  {
+   "slug": "share-of-countries-by-gender-of-the-chief-executive",
+   "host": {
+    "url": "https://ourworldindata.org/women-political-advances",
+    "title": "Women have made major advances in politics — but the world is still far from equal",
+    "published": "2024-03-08",
+    "charts": 12
+   },
+   "host_candidates": 3
+  },
+  {
+   "slug": "share-of-countries-by-gender-of-the-head-of-government",
+   "host": {
+    "url": "https://ourworldindata.org/women-political-advances",
+    "title": "Women have made major advances in politics — but the world is still far from equal",
+    "published": "2024-03-08",
+    "charts": 12
+   },
+   "host_candidates": 1
+  },
+  {
+   "slug": "share-of-countries-by-gender-of-the-head-of-state",
+   "host": {
+    "url": "https://ourworldindata.org/women-political-advances",
+    "title": "Women have made major advances in politics — but the world is still far from equal",
+    "published": "2024-03-08",
+    "charts": 12
+   },
+   "host_candidates": 1
+  },
+  {
+   "slug": "share-of-countries-that-have-had-a-woman-as-chief-executive",
+   "host": {
+    "url": "https://ourworldindata.org/women-rights",
+    "title": "Women’s Rights",
+    "published": "2023-05-12",
+    "charts": 51
+   },
+   "host_candidates": 1
+  },
+  {
+   "slug": "share-of-women-in-parliament",
+   "host": {
+    "url": "https://ourworldindata.org/data-insights/five-countries-had-more-women-than-men-in-parliament-in-2025",
+    "title": "Five countries had more women than men in parliament in 2025",
+    "published": "2026-09-05",
+    "charts": 1
+   },
+   "host_candidates": 6
+  },
+  {
+   "slug": "strong-civil-society-index",
+   "host": {
+    "url": "https://ourworldindata.org/democracy",
+    "title": "Democracy",
+    "published": "2013-03-15",
+    "charts": 66
+   },
+   "host_candidates": 1
+  },
+  {
+   "slug": "strong-elected-local-governments-index",
+   "host": null,
+   "host_candidates": 0
+  },
+  {
+   "slug": "strong-elected-regional-governments-index",
+   "host": null,
+   "host_candidates": 0
+  },
+  {
+   "slug": "suffrage",
+   "host": {
+    "url": "https://ourworldindata.org/democratic-world",
+    "title": "People around the world have gained democratic rights, but some have many more rights than others",
+    "published": "2022-07-19",
+    "charts": 9
+   },
+   "host_candidates": 3
+  },
+  {
+   "slug": "transparent-laws-row",
+   "host": null,
+   "host_candidates": 0
+  },
+  {
+   "slug": "varieties-democracy-vdem",
+   "host": {
+    "url": "https://ourworldindata.org/democracy",
+    "title": "Democracy",
+    "published": "2013-03-15",
+    "charts": 66
+   },
+   "host_candidates": 1
+  },
+  {
+   "slug": "voter-turnout-of-registered-voters",
+   "host": {
+    "url": "https://ourworldindata.org/the-rise-of-electoral-democracy",
+    "title": "The rise of electoral democracy",
+    "published": "2026-08-24",
+    "charts": 13
+   },
+   "host_candidates": 2
+  },
+  {
+   "slug": "voter-turnout-of-voting-age-population",
+   "host": {
+    "url": "https://ourworldindata.org/data-insights/young-people-are-less-likely-to-vote-than-older-people-often-considerably-so",
+    "title": "Young people are less likely to vote than older people — often considerably so",
+    "published": "2024-07-03",
+    "charts": 1
+   },
+   "host_candidates": 3
+  },
+  {
+   "slug": "women-civil-liberties-index",
+   "host": {
+    "url": "https://ourworldindata.org/human-rights",
+    "title": "Human Rights",
+    "published": "2016-06-12",
+    "charts": 39
+   },
+   "host_candidates": 2
+  },
+  {
+   "slug": "women-civil-society-participation-index",
+   "host": {
+    "url": "https://ourworldindata.org/human-rights",
+    "title": "Human Rights",
+    "published": "2016-06-12",
+    "charts": 39
+   },
+   "host_candidates": 2
+  },
+  {
+   "slug": "women-political-empowerment-index",
+   "host": {
+    "url": "https://ourworldindata.org/women-political-advances",
+    "title": "Women have made major advances in politics — but the world is still far from equal",
+    "published": "2024-03-08",
+    "charts": 12
+   },
+   "host_candidates": 3
+  },
+  {
+   "slug": "women-political-empowerment-index-vs-electoral-democracy-index",
+   "host": {
+    "url": "https://ourworldindata.org/women-rights",
+    "title": "Women’s Rights",
+    "published": "2023-05-12",
+    "charts": 51
+   },
+   "host_candidates": 2
+  },
+  {
+   "slug": "women-political-participation-index",
+   "host": {
+    "url": "https://ourworldindata.org/human-rights",
+    "title": "Human Rights",
+    "published": "2016-06-12",
+    "charts": 39
+   },
+   "host_candidates": 2
+  }
+ ],
+ "excluded": [
+  {
+   "slug": "child-mortality-vs-electoral-democracy",
+   "other_datasets": [
+    "grapher/un/2026-06-09/igme"
+   ]
+  },
+  {
+   "slug": "democracy-index-by-source",
+   "other_datasets": [
+    "grapher/democracy/2024-05-13/polity",
+    "grapher/democracy/2025-03-05/eiu",
+    "grapher/democracy/2026-03-23/fh",
+    "grapher/democracy/2026-03-27/bti"
+   ]
+  },
+  {
+   "slug": "gdp-per-capita-vs-electoral-democracy-index",
+   "other_datasets": [
+    "grapher/ggdc/2024-04-26/maddison_project_database"
+   ]
+  },
+  {
+   "slug": "human-rights-index-vs-gdp-per-capita",
+   "other_datasets": [
+    "grapher/demography/2024-07-15/population",
+    "grapher/ggdc/2024-04-26/maddison_project_database"
+   ]
+  },
+  {
+   "slug": "learning-adjusted-years-of-schooling-vs-electoral-democracy-index",
+   "other_datasets": [
+    "grapher/wb/2025-09-08/gender_statistics"
+   ]
+  },
+  {
+   "slug": "life-expectancy-vs-electoral-democracy-index",
+   "other_datasets": [
+    "grapher/demography/2025-10-22/life_expectancy"
+   ]
+  },
+  {
+   "slug": "share-of-people-who-recently-paid-a-bribe-or-were-asked-for-one-vs-political-corruption-index",
+   "other_datasets": [
+    "grapher/un/2026-07-31/un_sdg"
+   ]
+  },
+  {
+   "slug": "share-of-population-in-extreme-poverty-vs-electoral-democracy-index",
+   "other_datasets": [
+    "grapher/wb/2026-09-22/world_bank_pip"
+   ]
+  },
+  {
+   "slug": "tax-revenues-vs-electoral-democracy-index",
+   "other_datasets": [
+    "grapher/unu_wider/2026-03-24/government_revenue_dataset"
+   ]
+  }
+ ]
+}

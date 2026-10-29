@@ -1,0 +1,13 @@
+{
+ "repository": "https://github.com/owid/etl",
+ "commit": "bac9e164b0b4a828474804727af503e0785717ff",
+ "commit_date": "2026-10-28",
+ "why_this_commit": "owid/etl master when the charts were captured (2026-10-29). OWID's published V-Dem charts already include rules added on 2026-10-28 (37060a1), e.g. a closed autocracy in any year without regularly scheduled legislative elections (v2xlg_elecreg), which the code of an older clone (f1ffd5e, 2026-10-17) lacks. The V-Dem snapshot (democracy/2026-03-17/vdem.zip) is the same at both commits.",
+ "files": {
+  "vdem/__init__.py, vdem_clean.py, vdem_impute.py, vdem_refine.py, vdem_aggregate.py, shared.py, vdem.countries.json, vdem.countries_impute.yml, vdem.meta.yml": "etl/steps/data/garden/democracy/2026-03-17/vdem/",
+  "vdem/meadow.py": "etl/steps/data/meadow/democracy/2026-03-17/vdem.py",
+  "vdem/grapher.py": "etl/steps/data/grapher/democracy/2026-03-17/vdem.py",
+  "golden/vendor/geo.py": "etl/data_helpers/geo.py"
+ },
+ "environment": {"pandas": "3.0.6", "numpy": "2.4.4", "libraries": "lib/catalog, lib/datautils, lib/repack at this commit (versions from its uv.lock)"}
+}
