@@ -1,0 +1,6 @@
+{
+ "reproducible": false,
+ "reason": "the chart is not one of the V-Dem-only charts (data/reference/charts.json): it plots grapher/un/2026-07-31/un_sdg",
+ "view": "https://ourworldindata.org/grapher/degree-to-which-the-legal-framework-guarantees-womens-equal-rights-to-land-ownership-andor-control",
+ "chart_slug": "degree-to-which-the-legal-framework-guarantees-womens-equal-rights-to-land-ownership-andor-control"
+}

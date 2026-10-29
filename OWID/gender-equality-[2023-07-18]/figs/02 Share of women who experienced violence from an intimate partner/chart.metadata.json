@@ -1,0 +1,52 @@
+{
+ "chart": {
+  "title": "Share of women who experienced violence from an intimate partner",
+  "subtitle": "Ever-partnered women aged over 15 years who have been subject to physical or sexual violence by a current or former intimate partner in the last 12 months. An ever-partnered woman is a woman who has had an intimate partner at any time in their life.",
+  "citation": "Data from multiple sources compiled by the UN",
+  "originalChartUrl": "https://ourworldindata.org/grapher/share-of-women-who-experienced-violence-by-an-intimate-partner-un",
+  "selection": [
+   "World",
+   "Sub-Saharan Africa (UN SDG)",
+   "Northern Africa and Western Asia (UN SDG)",
+   "Central and Southern Asia (UN SDG)",
+   "Eastern and South-Eastern Asia (UN SDG)",
+   "Latin America and the Caribbean (UN SDG)",
+   "Europe and Northern America (UN SDG)",
+   "Australia and New Zealand (UN SDG)",
+   "Oceania (UN SDG)"
+  ]
+ },
+ "columns": {
+  "5.2.1 - Proportion of ever-partnered women and girls subjected to physical and/or sexual violence by a current or former intimate partner in the previous 12 months, by age (%) - VC_VAW_MARR - 15 years old and over": {
+   "titleShort": "Proportion of ever-partnered women and girls subjected to physical and/or sexual violence by a current or former intimate partner in the previous 12 months, by age (%) - 15 years old and over",
+   "titleLong": "Proportion of ever-partnered women and girls subjected to physical and/or sexual violence by a current or former intimate partner in the previous 12 months, by age (%) - 15 years old and over",
+   "descriptionShort": "Proportion of ever-partnered women and girls subjected to physical and/or sexual violence by a current or former intimate partner in the previous 12 months, by age (%).",
+   "shortUnit": "%",
+   "unit": "%",
+   "timespan": "2023-2023",
+   "type": "Numeric",
+   "owidVariableId": 1304623,
+   "shortName": "_5_2_1__vc_vaw_marr__15_years_old_and_over",
+   "lastUpdated": "2026-07-31",
+   "nextUpdate": "2027-07-31",
+   "citationShort": "Data from multiple sources compiled by the UN – processed by Our World in Data",
+   "citationLong": "Data from multiple sources compiled by the UN – processed by Our World in Data. “Proportion of ever-partnered women and girls subjected to physical and/or sexual violence by a current or former intimate partner in the previous 12 months, by age (%) - 15 years old and over” [dataset]. Data from multiple sources compiled by the UN, “All Surveys and studies that are population-based, representative at the national or sub-national level, conducted between 2000 and 2023 and measured IPV using act-specific questions.” [original data].",
+   "fullMetadata": "https://api.ourworldindata.org/v1/indicators/1304623.metadata.json"
+  },
+  "World region according to OWID": {
+   "titleShort": "World region according to OWID",
+   "titleLong": "World region according to OWID",
+   "descriptionShort": "Regions defined by Our World in Data, which are used in OWID charts and maps.",
+   "unit": "",
+   "timespan": "2023-2023",
+   "type": "Continent",
+   "owidVariableId": 900801,
+   "shortName": "owid_region",
+   "lastUpdated": "2023-01-01",
+   "citationShort": "Our World in Data",
+   "citationLong": "Our World in Data. “World region according to OWID” [dataset]. Our World in Data, “Regions” [original data].",
+   "fullMetadata": "https://api.ourworldindata.org/v1/indicators/900801.metadata.json"
+  }
+ },
+ "dateDownloaded": "2026-10-29"
+}

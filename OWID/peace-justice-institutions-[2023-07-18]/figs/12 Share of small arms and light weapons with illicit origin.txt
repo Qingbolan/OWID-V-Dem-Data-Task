@@ -1,0 +1,12 @@
+Figure 12: 12 Share of small arms and light weapons with illicit origin
+Article: Promote just, peaceful and inclusive societies (2023-07-18)
+
+Title: Share of small arms and light weapons with illicit origin
+Subtitle: Seized, found, or surrendered arms whose illicit origin or context has been traced or established. Small arms and light weapons include easily transportable weapons such as handguns and light machine guns.
+Note: 
+Source: United Nations Office on Drugs and Crime and UN Office for Disarmament Affairs
+Units: %
+Chart: https://ourworldindata.org/grapher/share-of-small-with-illicit-origin
+
+Text before the figure: Target: “Significantly reduce illicit financial and arms flows, strengthen the recovery and return of stolen assets and combat all forms of organized crime” across all countries by 2030.
+Text after the figure: ## Target 16.5 Substantially reduce corruption and bribery

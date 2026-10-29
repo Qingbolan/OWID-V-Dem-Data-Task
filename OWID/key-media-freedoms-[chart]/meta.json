@@ -1,0 +1,58 @@
+{
+ "title": "Key media freedoms",
+ "url": "https://ourworldindata.org/grapher/key-media-freedoms",
+ "date_published": null,
+ "chart_page": true,
+ "authors": [],
+ "retrieved_at": "2026-10-29T17:27:45.303123+00:00",
+ "materialised_at": "2026-10-29T17:27:45.303130+00:00",
+ "source_original_sha256": "21256198428a86b619bb3b713761bb65e52b0a7e2d704e8cbca77f8c1f3cb43b",
+ "offline_snapshot": {
+  "page": "source.html",
+  "assets": "source_files/",
+  "assets_manifest": "source_files/manifest.json",
+  "asset_count": 73,
+  "removed": "all <script> elements except application/ld+json"
+ },
+ "figures": [
+  {
+   "index": 1,
+   "name": "01 Key media freedoms",
+   "embed": {
+    "slug": "key-media-freedoms",
+    "query": {},
+    "image": null
+   },
+   "view_url": "https://ourworldindata.org/grapher/key-media-freedoms",
+   "csv_url": "https://ourworldindata.org/grapher/key-media-freedoms.csv?csvType=filtered",
+   "png_url": "https://ourworldindata.org/grapher/key-media-freedoms.png",
+   "data_available": true,
+   "config_title": "Key media freedoms",
+   "config_subtitle": "The scores are by [V-Dem](#dod:v-dem) and based on expert estimates. Higher scores indicate more freedom. A score of 0 is approximately the average across all countries and years.",
+   "files": {
+    "txt": {
+     "path": "figs/01 Key media freedoms.txt",
+     "sha256": "65fc601b2290aa555b0341f9bd0f64b73181de97eba2af09623fcff5b8e4e087"
+    },
+    "csv": {
+     "path": "figs/01 Key media freedoms.csv",
+     "sha256": "f05d7ddd7a01db39623e5b6a33b884afe735caf62a79d220125f04752a7b2d63"
+    },
+    "png": {
+     "path": "figs/01 Key media freedoms.png",
+     "sha256": "ff574a5b76ae6a5de89e33253517fb1e1521b2f711c736b579d6642690095b3f"
+    }
+   },
+   "chart_slug": "key-media-freedoms",
+   "column_short_names": {
+    "Entity": "entity",
+    "Code": "code",
+    "Year": "year",
+    "No government censorship of the media": "v2mecenefm__estimate_best",
+    "No journalist harassment": "v2meharjrn__estimate_best",
+    "No self-censorship by the media": "v2meslfcen__estimate_best",
+    "No media bias": "v2mebias__estimate_best"
+   }
+  }
+ ]
+}

@@ -1,0 +1,9 @@
+Figure 01: 01 Legislative Checks on Government Index
+Article: none; source page is the chart page https://ourworldindata.org/grapher/legislative-constraints-on-the-executive-index
+
+Title: Legislative Checks on Government Index
+Subtitle: Data by [V-Dem](#dod:v-dem). Expert estimates of the extent to which the legislature and government agencies can question, investigate and oversee the executive. The index ranges from 0 to 1 (most constrained).
+Note: 
+Source: V-Dem (2026)
+Units: 
+Chart: https://ourworldindata.org/grapher/legislative-constraints-on-the-executive-index

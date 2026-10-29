@@ -1,0 +1,12 @@
+Figure 24: 24 Share of adults reporting having felt discriminated against
+Article: Promote just, peaceful and inclusive societies (2023-07-18)
+
+Title: Share of adults reporting having felt discriminated against
+Subtitle: Adults reporting having experienced discrimination or harassment during the last year, based on grounds prohibited by international human rights law.
+Note: 
+Source: Office of the United Nations High Commissioner for Human Rights
+Units: %
+Chart: https://ourworldindata.org/grapher/share-of-the-population-reporting-having-felt-discriminated-against
+
+Text before the figure: More research: Further data and research can be found at the Our World in Data topic page on Human Rights .
+Text after the figure: ### Cite this work

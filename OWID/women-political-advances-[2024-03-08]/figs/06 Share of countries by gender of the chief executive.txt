@@ -1,0 +1,12 @@
+Figure 06: 06 Share of countries by gender of the chief executive
+Article: Women have made major advances in politics — but the world is still far from equal (2024-03-08)
+
+Title: Share of countries by gender of the chief executive
+Subtitle: "Chief executive" is defined here as the head of state or the head of government, whoever has more power over the appointment and dismissal of cabinet ministers.
+Note: This is recorded on December 31 of each year. When the head of state and head of government hold equal power, the head of government is considered the chief executive.
+Source: V-Dem (2026)
+Units: countries
+Chart: https://ourworldindata.org/grapher/share-of-countries-by-gender-of-the-chief-executive
+
+Text before the figure: The next chart shows how underrepresented women nonetheless are in the highest office. At any given point in time, almost all political chief executives have still been men. 2
+Text after the figure: Prominent exceptions to men’s monopoly on countries’ highest offices include India’s Indira Gandhi , Bangladesh’s Sheikh Hasina , and Germany’s Angela Merkel , the heads of government of their respective countries; and Russia’s Catherine II , Liberia’s Ellen Johnson Sirleaf , and Argentina’s Cristina Fernández de Kirchner , who were their countries’ head of state.

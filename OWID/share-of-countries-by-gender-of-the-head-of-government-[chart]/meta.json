@@ -1,0 +1,56 @@
+{
+ "title": "Share of countries by gender of the head of government",
+ "url": "https://ourworldindata.org/grapher/share-of-countries-by-gender-of-the-head-of-government",
+ "date_published": null,
+ "chart_page": true,
+ "authors": [],
+ "retrieved_at": "2026-10-29T17:44:46.400643+00:00",
+ "materialised_at": "2026-10-29T17:44:46.400651+00:00",
+ "source_original_sha256": "549ccbaf484dc57a56bcb6e414f7e253d5a1ed2991e71c6e6714dd2019ed04e3",
+ "offline_snapshot": {
+  "page": "source.html",
+  "assets": "source_files/",
+  "assets_manifest": "source_files/manifest.json",
+  "asset_count": 73,
+  "removed": "all <script> elements except application/ld+json"
+ },
+ "figures": [
+  {
+   "index": 1,
+   "name": "01 Share of countries by gender of the head of government",
+   "embed": {
+    "slug": "share-of-countries-by-gender-of-the-head-of-government",
+    "query": {},
+    "image": null
+   },
+   "view_url": "https://ourworldindata.org/grapher/share-of-countries-by-gender-of-the-head-of-government",
+   "csv_url": "https://ourworldindata.org/grapher/share-of-countries-by-gender-of-the-head-of-government.csv?csvType=filtered",
+   "png_url": "https://ourworldindata.org/grapher/share-of-countries-by-gender-of-the-head-of-government.png",
+   "data_available": true,
+   "config_title": "Share of countries by gender of the head of government",
+   "config_subtitle": "The head of government is the chief officer of the executive branch of their country.",
+   "files": {
+    "txt": {
+     "path": "figs/01 Share of countries by gender of the head of government.txt",
+     "sha256": "1d97da8102f3f97490611b168a5a9de4542a8321538e5f3d8b652cbc90d5fffd"
+    },
+    "csv": {
+     "path": "figs/01 Share of countries by gender of the head of government.csv",
+     "sha256": "8bfec4da54c19f08015a127367db7d1a7e7a8a00a6d5592f7e345b005ae3236e"
+    },
+    "png": {
+     "path": "figs/01 Share of countries by gender of the head of government.png",
+     "sha256": "287c6be2fb3297ae592d1003da3229554c10e13ee0c41438f119bcf21693639f"
+    }
+   },
+   "chart_slug": "share-of-countries-by-gender-of-the-head-of-government",
+   "column_short_names": {
+    "Entity": "entity",
+    "Code": "code",
+    "Year": "year",
+    "Man is head of government": "num_countries_hog__category_man",
+    "Woman is head of government": "num_countries_hog__category_woman"
+   }
+  }
+ ]
+}

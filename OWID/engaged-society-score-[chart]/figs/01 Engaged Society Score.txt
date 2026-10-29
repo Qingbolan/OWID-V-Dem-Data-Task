@@ -1,0 +1,9 @@
+Figure 01: 01 Engaged Society Score
+Article: none; source page is the chart page https://ourworldindata.org/grapher/engaged-society-score
+
+Title: Engaged Society Score
+Subtitle: Data by [V-Dem](#dod:v-dem). Expert estimates of the extent to which many ordinary people discuss policies freely in private and public. Higher scores mean more engagement. A score of 0 is approximately the average across all countries and years.
+Note: 
+Source: V-Dem (2026)
+Units: 
+Chart: https://ourworldindata.org/grapher/engaged-society-score

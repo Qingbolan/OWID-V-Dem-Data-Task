@@ -1,0 +1,175 @@
+Entity,Code,Year,Freedom of expression index,World region according to OWID
+Afghanistan,AFG,2025,0.022,Asia
+Albania,ALB,2025,0.673,Europe
+Algeria,DZA,2025,0.367,Africa
+Angola,AGO,2025,0.497,Africa
+Argentina,ARG,2025,0.736,South America
+Armenia,ARM,2025,0.732,Asia
+Australia,AUS,2025,0.915,Oceania
+Austria,AUT,2025,0.918,Europe
+Azerbaijan,AZE,2025,0.092,Asia
+Bahrain,BHR,2025,0.172,Asia
+Bangladesh,BGD,2025,0.527,Asia
+Barbados,BRB,2025,0.911,North America
+Belarus,BLR,2025,0.025,Europe
+Belgium,BEL,2025,0.969,Europe
+Benin,BEN,2025,0.676,Africa
+Bhutan,BTN,2025,0.682,Asia
+Bolivia,BOL,2025,0.68,South America
+Bosnia and Herzegovina,BIH,2025,0.653,Europe
+Botswana,BWA,2025,0.798,Africa
+Brazil,BRA,2025,0.91,South America
+Bulgaria,BGR,2025,0.754,Europe
+Burkina Faso,BFA,2025,0.261,Africa
+Burundi,BDI,2025,0.164,Africa
+Cambodia,KHM,2025,0.153,Asia
+Cameroon,CMR,2025,0.532,Africa
+Canada,CAN,2025,0.933,North America
+Cape Verde,CPV,2025,0.857,Africa
+Central African Republic,CAF,2025,0.613,Africa
+Chad,TCD,2025,0.427,Africa
+Chile,CHL,2025,0.926,South America
+China,CHN,2025,0.045,Asia
+Colombia,COL,2025,0.81,South America
+Comoros,COM,2025,0.498,Africa
+Congo,COG,2025,0.373,Africa
+Costa Rica,CRI,2025,0.915,North America
+Cote d'Ivoire,CIV,2025,0.681,Africa
+Croatia,HRV,2025,0.743,Europe
+Cuba,CUB,2025,0.074,North America
+Cyprus,CYP,2025,0.812,Europe
+Czechia,CZE,2025,0.947,Europe
+Democratic Republic of Congo,COD,2025,0.599,Africa
+Denmark,DNK,2025,0.98,Europe
+Djibouti,DJI,2025,0.336,Africa
+Dominican Republic,DOM,2025,0.901,North America
+East Timor,TLS,2025,0.838,Asia
+Ecuador,ECU,2025,0.706,South America
+Egypt,EGY,2025,0.179,Africa
+El Salvador,SLV,2025,0.356,North America
+Equatorial Guinea,GNQ,2025,0.112,Africa
+Eritrea,ERI,2025,0.024,Africa
+Estonia,EST,2025,0.969,Europe
+Eswatini,SWZ,2025,0.113,Africa
+Ethiopia,ETH,2025,0.285,Africa
+Fiji,FJI,2025,0.724,Oceania
+Finland,FIN,2025,0.946,Europe
+France,FRA,2025,0.959,Europe
+Gabon,GAB,2025,0.748,Africa
+Gambia,GMB,2025,0.814,Africa
+Georgia,GEO,2025,0.687,Asia
+Germany,DEU,2025,0.914,Europe
+Ghana,GHA,2025,0.896,Africa
+Greece,GRC,2025,0.81,Europe
+Guatemala,GTM,2025,0.839,North America
+Guinea,GIN,2025,0.56,Africa
+Guinea-Bissau,GNB,2025,0.552,Africa
+Guyana,GUY,2025,0.771,South America
+Haiti,HTI,2025,0.799,North America
+Honduras,HND,2025,0.861,North America
+Hungary,HUN,2025,0.493,Europe
+Iceland,ISL,2025,0.846,Europe
+India,IND,2025,0.458,Asia
+Indonesia,IDN,2025,0.688,Asia
+Iran,IRN,2025,0.166,Asia
+Iraq,IRQ,2025,0.571,Asia
+Ireland,IRL,2025,0.97,Europe
+Israel,ISR,2025,0.822,Asia
+Italy,ITA,2025,0.756,Europe
+Jamaica,JAM,2025,0.919,North America
+Japan,JPN,2025,0.847,Asia
+Jordan,JOR,2025,0.556,Asia
+Kazakhstan,KAZ,2025,0.329,Asia
+Kenya,KEN,2025,0.9,Africa
+Kosovo,OWID_KOS,2025,0.766,Europe
+Kuwait,KWT,2025,0.532,Asia
+Kyrgyzstan,KGZ,2025,0.469,Asia
+Laos,LAO,2025,0.032,Asia
+Latvia,LVA,2025,0.932,Europe
+Lebanon,LBN,2025,0.744,Asia
+Lesotho,LSO,2025,0.728,Africa
+Liberia,LBR,2025,0.836,Africa
+Libya,LBY,2025,0.536,Africa
+Lithuania,LTU,2025,0.917,Europe
+Luxembourg,LUX,2025,0.957,Europe
+Madagascar,MDG,2025,0.635,Africa
+Malawi,MWI,2025,0.754,Africa
+Malaysia,MYS,2025,0.586,Asia
+Maldives,MDV,2025,0.695,Asia
+Mali,MLI,2025,0.49,Africa
+Malta,MLT,2025,0.829,Europe
+Mauritania,MRT,2025,0.628,Africa
+Mauritius,MUS,2025,0.887,Africa
+Mexico,MEX,2025,0.619,North America
+Moldova,MDA,2025,0.652,Europe
+Mongolia,MNG,2025,0.771,Asia
+Montenegro,MNE,2025,0.853,Europe
+Morocco,MAR,2025,0.579,Africa
+Mozambique,MOZ,2025,0.518,Africa
+Myanmar,MMR,2025,0.026,Asia
+Namibia,NAM,2025,0.859,Africa
+Nepal,NPL,2025,0.813,Asia
+Netherlands,NLD,2025,0.91,Europe
+New Zealand,NZL,2025,0.927,Oceania
+Nicaragua,NIC,2025,0.018,North America
+Niger,NER,2025,0.756,Africa
+Nigeria,NGA,2025,0.849,Africa
+North Korea,PRK,2025,0.013,Asia
+North Macedonia,MKD,2025,0.664,Europe
+Norway,NOR,2025,0.953,Europe
+Oman,OMN,2025,0.151,Asia
+Pakistan,PAK,2025,0.559,Asia
+Panama,PAN,2025,0.812,North America
+Papua New Guinea,PNG,2025,0.839,Oceania
+Paraguay,PRY,2025,0.751,South America
+Peru,PER,2025,0.763,South America
+Philippines,PHL,2025,0.676,Asia
+Poland,POL,2025,0.917,Europe
+Portugal,PRT,2025,0.899,Europe
+Qatar,QAT,2025,0.055,Asia
+Romania,ROU,2025,0.777,Europe
+Russia,RUS,2025,0.08,Europe
+Rwanda,RWA,2025,0.17,Africa
+Sao Tome and Principe,STP,2025,0.793,Africa
+Saudi Arabia,SAU,2025,0.092,Asia
+Senegal,SEN,2025,0.82,Africa
+Serbia,SRB,2025,0.424,Europe
+Seychelles,SYC,2025,0.874,Africa
+Sierra Leone,SLE,2025,0.823,Africa
+Singapore,SGP,2025,0.4,Asia
+Slovakia,SVK,2025,0.765,Europe
+Slovenia,SVN,2025,0.691,Europe
+Solomon Islands,SLB,2025,0.84,Oceania
+Somalia,SOM,2025,0.619,Africa
+South Africa,ZAF,2025,0.837,Africa
+South Korea,KOR,2025,0.933,Asia
+South Sudan,SSD,2025,0.155,Africa
+Spain,ESP,2025,0.843,Europe
+Sri Lanka,LKA,2025,0.871,Asia
+Sudan,SDN,2025,0.289,Africa
+Suriname,SUR,2025,0.891,South America
+Sweden,SWE,2025,0.946,Europe
+Switzerland,CHE,2025,0.967,Europe
+Syria,SYR,2025,0.358,Asia
+Taiwan,TWN,2025,0.838,Asia
+Tajikistan,TJK,2025,0.043,Asia
+Tanzania,TZA,2025,0.552,Africa
+Thailand,THA,2025,0.587,Asia
+Togo,TGO,2025,0.579,Africa
+Trinidad and Tobago,TTO,2025,0.888,North America
+Tunisia,TUN,2025,0.687,Africa
+Turkey,TUR,2025,0.179,Asia
+Turkmenistan,TKM,2025,0.038,Asia
+Uganda,UGA,2025,0.432,Africa
+Ukraine,UKR,2025,0.418,Europe
+United Arab Emirates,ARE,2025,0.063,Asia
+United Kingdom,GBR,2025,0.833,Europe
+United States,USA,2025,0.729,North America
+Uruguay,URY,2025,0.931,South America
+Uzbekistan,UZB,2025,0.234,Asia
+Vanuatu,VUT,2025,0.848,Oceania
+Venezuela,VEN,2025,0.148,South America
+Vietnam,VNM,2025,0.102,Asia
+Yemen,YEM,2025,0.219,Asia
+Zambia,ZMB,2025,0.778,Africa
+Zimbabwe,ZWE,2025,0.414,Africa

@@ -1,0 +1,43 @@
+{
+ "reproducible": true,
+ "program": "golden.vdem_pipeline",
+ "chart_slug": "electoral-democracy-index",
+ "view": "https://ourworldindata.org/grapher/electoral-democracy-index?tab=chart&time=earliest&stackMode=relative",
+ "columns": [
+  "Electoral democracy index"
+ ],
+ "solution_columns": [
+  "Electoral democracy index"
+ ],
+ "output_precision": {
+  "Electoral democracy index": 9
+ },
+ "sources": {
+  "Electoral democracy index": {
+   "table": "vdem_multi_with_regions",
+   "column": "electdem_vdem",
+   "filter": {
+    "estimate": "best"
+   },
+   "short_name": "electdem_vdem__estimate_best",
+   "gold_index": 3
+  }
+ },
+ "gold_column_index": {
+  "Electoral democracy index": 3
+ },
+ "entity_mapping": "data/reference/owid_etl/vdem/vdem.countries.json",
+ "compare": {
+  "Electoral democracy index": {
+   "abs": 1e-09,
+   "rel": 1e-06
+  }
+ },
+ "encodings": {},
+ "scale": {},
+ "stack_relative": false,
+ "time_tolerance": 0,
+ "not_compared": {
+  "World region according to OWID": "OWID's world region (map and scatter colour), not a V-Dem indicator"
+ }
+}

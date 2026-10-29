@@ -1,0 +1,9 @@
+Figure 01: 01 Deliberative Political Institutions Index
+Article: none; source page is the chart page https://ourworldindata.org/grapher/deliberative-political-institutions-index
+
+Title: Deliberative Political Institutions Index
+Subtitle: Data by [V-Dem](#dod:v-dem). Expert estimates of the extent to which citizens and leaders discuss different views and seek the public good. The index ranges from 0 to 1 (most deliberative).
+Note: 
+Source: V-Dem (2026)
+Units: 
+Chart: https://ourworldindata.org/grapher/deliberative-political-institutions-index

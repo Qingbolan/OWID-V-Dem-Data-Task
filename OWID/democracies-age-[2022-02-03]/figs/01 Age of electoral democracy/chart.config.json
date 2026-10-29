@@ -1,0 +1,74 @@
+{
+ "id": 5517,
+ "map": {
+  "colorScale": {
+   "baseColorScheme": "YlGnBu",
+   "binningStrategy": "manual",
+   "customNumericColors": [
+    "#edf8b1",
+    "#c7e9b4",
+    "#41b6c4",
+    "#225ea8",
+    "#172976"
+   ],
+   "customNumericValues": [
+    0,
+    18,
+    30,
+    60,
+    90,
+    1
+   ],
+   "customCategoryColors": {
+    "closed autocracy": "#8d6e71",
+    "electoral autocracy": "#c6a1a5",
+    "electoral democracy": "#f3d0d4"
+   },
+   "customCategoryLabels": {
+    "closed autocracy": "Closed autocracy",
+    "electoral autocracy": "Electoral autocracy",
+    "electoral democracy": "Electoral democracy"
+   },
+   "customHiddenCategories": {
+    "No data": true
+   },
+   "customNumericColorsActive": true
+  },
+  "tooltipUseCustomLabels": true
+ },
+ "tab": "map",
+ "slug": "age-of-electoral-democracy",
+ "title": "Age of electoral democracy",
+ "yAxis": {
+  "min": "auto"
+ },
+ "$schema": "https://files.ourworldindata.org/schemas/grapher-schema.011.json",
+ "version": 53,
+ "subtitle": "Classification by [Lührmann et al. (2018)](#dod:regimes-of-the-world-simplified) based on expert estimates by [V-Dem](#dod:v-dem). Electoral democracies are political systems that hold meaningful, free and fair, and multi-party elections.",
+ "hasMapTab": true,
+ "originUrl": "/democracy",
+ "chartTypes": [],
+ "dimensions": [
+  {
+   "display": {
+    "shortUnit": "years",
+    "numDecimalPlaces": 0
+   },
+   "property": "y",
+   "variableId": 1210059
+  }
+ ],
+ "isPublished": true,
+ "variantName": "Regimes of the World",
+ "relatedQuestions": [
+  {
+   "url": "https://ourworldindata.org/regimes-of-the-world-data",
+   "text": "The 'Regimes of the World' data: how do researchers measure democracy?"
+  }
+ ],
+ "selectedEntityNames": [
+  "Sweden",
+  "Turkey",
+  "Ethiopia"
+ ]
+}

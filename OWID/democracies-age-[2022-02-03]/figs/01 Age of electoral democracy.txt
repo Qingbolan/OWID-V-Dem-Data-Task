@@ -1,0 +1,12 @@
+Figure 01: 01 Age of electoral democracy
+Article: In most countries, democracy is a recent achievement. Dictatorship is far from a distant memory. (2022-02-03)
+
+Title: Age of electoral democracy
+Subtitle: Classification by [Lührmann et al. (2018)](#dod:regimes-of-the-world-simplified) based on expert estimates by [V-Dem](#dod:v-dem). Electoral democracies are political systems that hold meaningful, free and fair, and multi-party elections.
+Note: 
+Source: V-Dem (2026)
+Units: years
+Chart: https://ourworldindata.org/grapher/age-of-electoral-democracy
+
+Text before the figure: To explore how the ages of democracies and their frequencies have changed over time, you can drag the time-slider below the charts as far back as 1789, when no country was democratic. 7
+Text after the figure: # Most democracies are young

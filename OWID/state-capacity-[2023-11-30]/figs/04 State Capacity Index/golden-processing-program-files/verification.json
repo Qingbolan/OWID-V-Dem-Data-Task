@@ -1,0 +1,6 @@
+{
+ "figure": "04 State Capacity Index",
+ "checked_at": "2026-10-29T18:06:18.476991+00:00",
+ "status": "not_reproducible",
+ "reason": "the chart is not one of the V-Dem-only charts (data/reference/charts.json): it plots grapher/state_capacity/2023-10-19/state_capacity_dataset"
+}

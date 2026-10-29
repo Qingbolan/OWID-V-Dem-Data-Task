@@ -1,0 +1,32 @@
+{
+ "id": 7126,
+ "slug": "total-inward-financial-flows-from-drug-trafficking",
+ "title": "Inward illicit financial flows from drug trafficking",
+ "yAxis": {
+  "min": 0
+ },
+ "$schema": "https://files.ourworldindata.org/schemas/grapher-schema.011.json",
+ "version": 12,
+ "subtitle": "A financial flow is considered illicit if it is illicitly generated (e.g., from criminal activities or tax evasion), illicitly transferred (e.g., violating currency controls), or illicitly used (e.g., for financing terrorism). This data is expressed in US dollars. It is not adjusted for inflation or differences in living costs between countries.",
+ "originUrl": "/illicit-drug-use",
+ "dimensions": [
+  {
+   "display": {
+    "unit": "current US$",
+    "shortUnit": "$",
+    "conversionFactor": 1000000,
+    "numDecimalPlaces": 0
+   },
+   "property": "y",
+   "variableId": 1301137
+  }
+ ],
+ "isPublished": true,
+ "selectedEntityNames": [
+  "Mexico",
+  "Peru"
+ ],
+ "hideAnnotationFieldsInTitle": {
+  "time": true
+ }
+}

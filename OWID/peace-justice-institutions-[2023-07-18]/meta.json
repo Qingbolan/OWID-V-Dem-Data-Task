@@ -1,0 +1,1017 @@
+{
+ "title": "Promote just, peaceful and inclusive societies",
+ "url": "https://ourworldindata.org/sdgs/peace-justice-institutions",
+ "date_published": "2023-07-18",
+ "authors": [],
+ "retrieved_at": "2026-10-29T15:15:26.649541+00:00",
+ "materialised_at": "2026-10-29T16:45:05.263495+00:00",
+ "source_original_sha256": "ebebcd3bc07504c3638ddfdb2c8a48d0de9b705091c507695d48785d853ebf87",
+ "offline_snapshot": {
+  "page": "source.html",
+  "assets": "source_files/",
+  "assets_manifest": "source_files/manifest.json",
+  "asset_count": 143,
+  "removed": "all <script> elements except application/ld+json"
+ },
+ "figures": [
+  {
+   "index": 1,
+   "name": "01 Homicide rate",
+   "embed": {
+    "slug": "homicide-rate-unodc",
+    "query": {},
+    "image": null
+   },
+   "files": {
+    "html": {
+     "path": "figs/01 Homicide rate.html",
+     "sha256": "7960fb148bfa464fecd8fd5a959234495700d04e90663377a5604d85a08a7282"
+    },
+    "csv": {
+     "path": "figs/01 Homicide rate.csv",
+     "sha256": "a3f03eb153a614488697ea5fb5f4a7c0ddd79e0d39e9e90756424718a4a199d4"
+    },
+    "png": {
+     "path": "figs/01 Homicide rate.png",
+     "sha256": "4088abe3a26be97d119423f0cdd377994673c8a82f2cb22b1a8a829d1dc4f4fd"
+    },
+    "txt": {
+     "path": "figs/01 Homicide rate.txt",
+     "sha256": "065fada607fb6e9b273232c86b6c80fe278c6541f8c7b68e98e41898b7591290"
+    }
+   },
+   "view_url": "https://ourworldindata.org/grapher/homicide-rate-unodc",
+   "csv_url": "https://ourworldindata.org/grapher/homicide-rate-unodc.csv?csvType=filtered",
+   "png_url": "https://ourworldindata.org/grapher/homicide-rate-unodc.png",
+   "data_available": true,
+   "config_title": "Homicide rate",
+   "config_subtitle": "Annual number of deaths from [homicide](#dod:homicide) per 100,000 people.",
+   "chart_slug": "homicide-rate-unodc",
+   "column_short_names": {
+    "Entity": "entity",
+    "Code": "code",
+    "Year": "year",
+    "Homicide rate per 100,000 population": "value__category_total__sex_total__age_total__unit_of_measurement_rate_per_100_000_population",
+    "World region according to OWID": "owid_region",
+    "Homicide rate per 100,000 population (Original Year)": "value__category_total__sex_total__age_total__unit_of_measurement_rate_per_100_000_population__original_year"
+   }
+  },
+  {
+   "index": 2,
+   "name": "02 Deaths in armed conflicts based on where they occurred",
+   "embed": {
+    "slug": "deaths-in-armed-conflicts-by-country",
+    "query": {},
+    "image": null
+   },
+   "files": {
+    "html": {
+     "path": "figs/02 Deaths in armed conflicts based on where they occurred.html",
+     "sha256": "0dccdc9a7de80e1fb74edbaa61baa9ef4ec3ae860be81a2461b90a598821b849"
+    },
+    "csv": {
+     "path": "figs/02 Deaths in armed conflicts based on where they occurred.csv",
+     "sha256": "1df6603b6ee2d1a57f1b04d1fd9144596fdfd16b8a8806911152eac1a4bbe79c"
+    },
+    "png": {
+     "path": "figs/02 Deaths in armed conflicts based on where they occurred.png",
+     "sha256": "88cf421082e09985802e00c136886d00e13b78bea6ba3327b07efe1ef3c98bb2"
+    },
+    "txt": {
+     "path": "figs/02 Deaths in armed conflicts based on where they occurred.txt",
+     "sha256": "44eaa96fd7bb1cad5c5af511615ddc062988642dd64a56436e654eacd007b5d7"
+    }
+   },
+   "view_url": "https://ourworldindata.org/grapher/deaths-in-armed-conflicts-by-country",
+   "csv_url": "https://ourworldindata.org/grapher/deaths-in-armed-conflicts-by-country.csv?csvType=filtered",
+   "png_url": "https://ourworldindata.org/grapher/deaths-in-armed-conflicts-by-country.png",
+   "data_available": true,
+   "config_title": "Deaths in armed conflicts based on where they occurred",
+   "config_subtitle": "Reported deaths of combatants and civilians due to fighting in [armed conflicts](#dod:armed-conflict-ucdp). Deaths due to disease and starvation resulting from the conflict are not included. Data for 2026 is incomplete and includes deaths within the first half of the year.",
+   "chart_slug": "deaths-in-armed-conflicts-by-country",
+   "column_short_names": {
+    "Entity": "entity",
+    "Code": "code",
+    "Year": "year",
+    "Deaths in armed conflicts based on where they occurred": "number_deaths_ongoing_conflicts__conflict_type_all"
+   }
+  },
+  {
+   "index": 3,
+   "name": "03 Share of the population subjected to physical violence, male vs. female",
+   "embed": {
+    "slug": "population-subjected-to-physical-violence",
+    "query": {},
+    "image": null
+   },
+   "files": {
+    "html": {
+     "path": "figs/03 Share of the population subjected to physical violence, male vs. female.html",
+     "sha256": "2b665b76677771d67190d65655241f081206f0d618f456d6e8cdb09edad75512"
+    },
+    "csv": {
+     "path": "figs/03 Share of the population subjected to physical violence, male vs. female.csv",
+     "sha256": "9a03c116d1609e898f868f0cb7ba56c3c004683149bb7c137d18c1dcec42facb"
+    },
+    "png": {
+     "path": "figs/03 Share of the population subjected to physical violence, male vs. female.png",
+     "sha256": "5ec7f6d2935a7770f1ddb5b1a207956a4b4b16be8b7bf1e5f9f602ae78b6af4d"
+    },
+    "txt": {
+     "path": "figs/03 Share of the population subjected to physical violence, male vs. female.txt",
+     "sha256": "0155919fdf46d895a1f62120514d14822485c50a92b1cfe1fb8c6d20105d3221"
+    }
+   },
+   "view_url": "https://ourworldindata.org/grapher/population-subjected-to-physical-violence",
+   "csv_url": "https://ourworldindata.org/grapher/population-subjected-to-physical-violence.csv?csvType=filtered",
+   "png_url": "https://ourworldindata.org/grapher/population-subjected-to-physical-violence.png",
+   "data_available": true,
+   "config_title": "Share of the population subjected to physical violence, male vs. female",
+   "config_subtitle": "Respondents were asked about violence they experienced in the previous year.",
+   "chart_slug": "population-subjected-to-physical-violence",
+   "column_short_names": {
+    "Entity": "entity",
+    "Code": "code",
+    "Year": "year",
+    "Male": "_16_1_3__vc_vov_phyl__male",
+    "Female": "_16_1_3__vc_vov_phyl__female",
+    "Population": "population_historical",
+    "World region according to OWID": "owid_region",
+    "Female (Original Year)": "_16_1_3__vc_vov_phyl__female__original_year",
+    "Male (Original Year)": "_16_1_3__vc_vov_phyl__male__original_year"
+   }
+  },
+  {
+   "index": 4,
+   "name": "04 Share that feel safe walking alone around the area they live at night",
+   "embed": {
+    "slug": "safety-walking-alone",
+    "query": {},
+    "image": null
+   },
+   "files": {
+    "html": {
+     "path": "figs/04 Share that feel safe walking alone around the area they live at night.html",
+     "sha256": "5cefb91c70bfb2f5cd6c6c481309e10b1742e57a91655fd5cd72d1817bc5338f"
+    },
+    "csv": {
+     "path": "figs/04 Share that feel safe walking alone around the area they live at night.csv",
+     "sha256": "ccf991cae73fb55c49083a7e7bdfbd53cf4a7b88314af979ec3df89c6eec6b24"
+    },
+    "png": {
+     "path": "figs/04 Share that feel safe walking alone around the area they live at night.png",
+     "sha256": "2845350af28105083a09f9edc48677af6cd8b51f9b3447ef593b6db280da527b"
+    },
+    "txt": {
+     "path": "figs/04 Share that feel safe walking alone around the area they live at night.txt",
+     "sha256": "d22cfa9d93978211f8b222972e1c51a70dec64286a8b90443e8ccc794115af6c"
+    }
+   },
+   "view_url": "https://ourworldindata.org/grapher/safety-walking-alone",
+   "csv_url": "https://ourworldindata.org/grapher/safety-walking-alone.csv?csvType=filtered",
+   "png_url": "https://ourworldindata.org/grapher/safety-walking-alone.png",
+   "data_available": true,
+   "config_title": "Share that feel safe walking alone around the area they live at night",
+   "config_subtitle": "",
+   "chart_slug": "safety-walking-alone",
+   "column_short_names": {
+    "Entity": "entity",
+    "Code": "code",
+    "Year": "year",
+    "Proportion of population that feel safe walking alone around the area they live after dark (%) - Both sexes": "_16_1_4__vc_sns_waln_drk__both_sexes",
+    "Proportion of population that feel safe walking alone around the area they live after dark (%) - Both sexes (Original Year)": "_16_1_4__vc_sns_waln_drk__both_sexes__original_year"
+   }
+  },
+  {
+   "index": 5,
+   "name": "05 Share of children who experienced violence",
+   "embed": {
+    "slug": "share-of-children-who-experienced-violence",
+    "query": {},
+    "image": null
+   },
+   "files": {
+    "html": {
+     "path": "figs/05 Share of children who experienced violence.html",
+     "sha256": "85f37fd24111b94729c656118de388d939921e56890f44d924862f3e9e48c257"
+    },
+    "csv": {
+     "path": "figs/05 Share of children who experienced violence.csv",
+     "sha256": "de3660b849e9b72b7e7298bc9f9d256aa8deefc43b5ce8d4704c16b511408424"
+    },
+    "png": {
+     "path": "figs/05 Share of children who experienced violence.png",
+     "sha256": "db5cd5fddda8dd7c169593c3f434c2dbeed8b6f1036e666eb72bd9ee09b5f8c2"
+    },
+    "txt": {
+     "path": "figs/05 Share of children who experienced violence.txt",
+     "sha256": "39f81072cddc61359baeeab9fc27480dddb16143f6307fdb382c4b0d242c9b9e"
+    }
+   },
+   "view_url": "https://ourworldindata.org/grapher/share-of-children-who-experienced-violence",
+   "csv_url": "https://ourworldindata.org/grapher/share-of-children-who-experienced-violence.csv?csvType=filtered",
+   "png_url": "https://ourworldindata.org/grapher/share-of-children-who-experienced-violence.png",
+   "data_available": true,
+   "config_title": "Share of children who experienced violence",
+   "config_subtitle": "Children aged 1-14 years who experienced physical punishment and/or psychological aggression by caregivers in the last month.",
+   "chart_slug": "share-of-children-who-experienced-violence",
+   "column_short_names": {
+    "Entity": "entity",
+    "Code": "code",
+    "Year": "year",
+    "Proportion of children aged 1-14 years who experienced physical punishment and/or psychological aggression by caregivers in last month (% of children aged 1-14 years) - 1 to 14 years old": "_16_2_1__vc_vaw_phypyv__1_to_14_years_old",
+    "Proportion of children aged 1-14 years who experienced physical punishment and/or psychological aggression by caregivers in last month (% of children aged 1-14 years) - 1 to 14 years old (Original Year)": "_16_2_1__vc_vaw_phypyv__1_to_14_years_old__original_year"
+   }
+  },
+  {
+   "index": 6,
+   "name": "06 Human trafficking victims",
+   "embed": {
+    "slug": "human-trafficking-victims",
+    "query": {},
+    "image": null
+   },
+   "files": {
+    "html": {
+     "path": "figs/06 Human trafficking victims.html",
+     "sha256": "a74dbf8296f004c6ba3e5230dff5ee23a92c9af94344b08bbdfa764cb67eb84a"
+    },
+    "csv": {
+     "path": "figs/06 Human trafficking victims.csv",
+     "sha256": "44f826359df4701b00cc2cdd7e0f43aae93e8d81caeed8cfeaf7b970f699d7ec"
+    },
+    "png": {
+     "path": "figs/06 Human trafficking victims.png",
+     "sha256": "5a3fe8ec349d70fe08e607c9f1554b831ba1d60c0e3554b13c069b442bea1872"
+    },
+    "txt": {
+     "path": "figs/06 Human trafficking victims.txt",
+     "sha256": "14298f85f551e8b183cd47ec23e347e32c5b124026d0523ba192ef2410c38dba"
+    }
+   },
+   "view_url": "https://ourworldindata.org/grapher/human-trafficking-victims",
+   "csv_url": "https://ourworldindata.org/grapher/human-trafficking-victims.csv?csvType=filtered",
+   "png_url": "https://ourworldindata.org/grapher/human-trafficking-victims.png",
+   "data_available": true,
+   "config_title": "Human trafficking victims",
+   "config_subtitle": "Total number of human trafficking victims officially detected by national authorities.",
+   "chart_slug": "human-trafficking-victims",
+   "column_short_names": {
+    "Entity": "entity",
+    "Code": "code",
+    "Year": "year",
+    "Detected victims of human trafficking, by age and sex (number) - All age ranges or no breaks by age - Both sexes": "_16_2_2__vc_htf_detv__all_age_ranges_or_no_breaks_by_age__both_sexes",
+    "Detected victims of human trafficking, by age and sex (number) - All age ranges or no breaks by age - Both sexes (Original Year)": "_16_2_2__vc_htf_detv__all_age_ranges_or_no_breaks_by_age__both_sexes__original_year"
+   }
+  },
+  {
+   "index": 7,
+   "name": "07 Share of young women who experienced sexual violence as children",
+   "embed": {
+    "slug": "women-who-experienced-sexual-violence-by-age-18",
+    "query": {},
+    "image": null
+   },
+   "files": {
+    "html": {
+     "path": "figs/07 Share of young women who experienced sexual violence as children.html",
+     "sha256": "0765fcb9b4952fed0bc03eb9a8e3fd8122a699a335aa6c2ead466df44d4b147a"
+    },
+    "csv": {
+     "path": "figs/07 Share of young women who experienced sexual violence as children.csv",
+     "sha256": "8d4cf1514286dbf9c088bb3261654619b9bb02e8d9ab0743fe384d0b9f372d6f"
+    },
+    "png": {
+     "path": "figs/07 Share of young women who experienced sexual violence as children.png",
+     "sha256": "a9987e9f4cad8b648061cd1e307884dee33afaf0d8d7edb02a3451ef76bea436"
+    },
+    "txt": {
+     "path": "figs/07 Share of young women who experienced sexual violence as children.txt",
+     "sha256": "c9178db62c8e6f749e39bbcdda1971f9e04d2466934ca0012aebe18bd3cbb273"
+    }
+   },
+   "view_url": "https://ourworldindata.org/grapher/women-who-experienced-sexual-violence-by-age-18",
+   "csv_url": "https://ourworldindata.org/grapher/women-who-experienced-sexual-violence-by-age-18.csv?csvType=filtered",
+   "png_url": "https://ourworldindata.org/grapher/women-who-experienced-sexual-violence-by-age-18.png",
+   "data_available": true,
+   "config_title": "Share of young women who experienced sexual violence as children",
+   "config_subtitle": "Women aged 18-29 years old who experienced any form of sexual violence before reaching the age of 18. Data is from 2005-2024.",
+   "chart_slug": "women-who-experienced-sexual-violence-by-age-18",
+   "column_short_names": {
+    "Entity": "entity",
+    "Code": "code",
+    "Year": "year",
+    "Proportion of population aged 18-29 years who experienced sexual violence by age 18, by sex (% of population aged 18-29) - 18 to 29 years old - Female": "_16_2_3__vc_vaw_sxvln__18_to_29_years_old__female",
+    "Proportion of population aged 18-29 years who experienced sexual violence by age 18, by sex (% of population aged 18-29) - 18 to 29 years old - Female (Original Year)": "_16_2_3__vc_vaw_sxvln__18_to_29_years_old__female__original_year"
+   }
+  },
+  {
+   "index": 8,
+   "name": "08 Share of victims who reported crime to the police",
+   "embed": {
+    "slug": "share-of-victims-who-reported-crime-to-the-police",
+    "query": {},
+    "image": null
+   },
+   "files": {
+    "html": {
+     "path": "figs/08 Share of victims who reported crime to the police.html",
+     "sha256": "e8e4447db3a242b40f560be8d51df126b6291e7053049f6aca1ff0ee6c7487f8"
+    },
+    "csv": {
+     "path": "figs/08 Share of victims who reported crime to the police.csv",
+     "sha256": "1bd4ed75ad5cac9e639e9ebbe07079379fad684bcebf8d5aa3e62b261e1cf8df"
+    },
+    "png": {
+     "path": "figs/08 Share of victims who reported crime to the police.png",
+     "sha256": "591b71c6db180722b68ff8e51a666843574f8a549b1a634dc6766aa532b29f84"
+    },
+    "txt": {
+     "path": "figs/08 Share of victims who reported crime to the police.txt",
+     "sha256": "ae519c797aa7f1c255e0d76def808a5fa45cc4860c6cccfc325d315f2eb5120a"
+    }
+   },
+   "view_url": "https://ourworldindata.org/grapher/share-of-victims-who-reported-crime-to-the-police",
+   "csv_url": "https://ourworldindata.org/grapher/share-of-victims-who-reported-crime-to-the-police.csv?csvType=filtered",
+   "png_url": "https://ourworldindata.org/grapher/share-of-victims-who-reported-crime-to-the-police.png",
+   "data_available": true,
+   "config_title": "Share of victims who reported crime to the police",
+   "config_subtitle": "Number of victims in the previous 12 months who reported the crime to competent authorities, divided by the number of all victims.",
+   "chart_slug": "share-of-victims-who-reported-crime-to-the-police",
+   "column_short_names": {
+    "Entity": "entity",
+    "Code": "code",
+    "Year": "year",
+    "Robbery": "_16_3_1__vc_prr_robb__both_sexes",
+    "Sexual assault": "_16_3_1__vc_prr_sexv__both_sexes",
+    "Physical assault": "_16_3_1__vc_prr_phyv__both_sexes"
+   }
+  },
+  {
+   "index": 9,
+   "name": "09 Unsentenced detainees as a proportion of overall prison population",
+   "embed": {
+    "slug": "unsentenced-detainees-as-proportion-of-prison-population",
+    "query": {},
+    "image": null
+   },
+   "files": {
+    "html": {
+     "path": "figs/09 Unsentenced detainees as a proportion of overall prison population.html",
+     "sha256": "be39438161de81771b17406adb5577f9015d3e57509c517e893adbdc93868a97"
+    },
+    "csv": {
+     "path": "figs/09 Unsentenced detainees as a proportion of overall prison population.csv",
+     "sha256": "9e4adc709a7c153bdc4445bac66fe3f18fe80063d3dcee64830417728bd23944"
+    },
+    "png": {
+     "path": "figs/09 Unsentenced detainees as a proportion of overall prison population.png",
+     "sha256": "a92c80e9b5e2a25b070316cd3bd7bbe490bf8172815e5fb7b0debe8807bf55ee"
+    },
+    "txt": {
+     "path": "figs/09 Unsentenced detainees as a proportion of overall prison population.txt",
+     "sha256": "27f6350b2e53f938dbb64f94dc29ad605f81d0ec29e8ebbe9395412f20252c4b"
+    }
+   },
+   "view_url": "https://ourworldindata.org/grapher/unsentenced-detainees-as-proportion-of-prison-population",
+   "csv_url": "https://ourworldindata.org/grapher/unsentenced-detainees-as-proportion-of-prison-population.csv?csvType=filtered",
+   "png_url": "https://ourworldindata.org/grapher/unsentenced-detainees-as-proportion-of-prison-population.png",
+   "data_available": true,
+   "config_title": "Unsentenced detainees as a proportion of overall prison population",
+   "config_subtitle": "People held in detention who have not yet been sentenced as a percentage of all people held in detention.",
+   "chart_slug": "unsentenced-detainees-as-proportion-of-prison-population",
+   "column_short_names": {
+    "Entity": "entity",
+    "Code": "code",
+    "Year": "year",
+    "Unsentenced detainees as a proportion of overall prison population (%) - Both sexes": "_16_3_2__vc_prs_unsnt__both_sexes",
+    "Unsentenced detainees as a proportion of overall prison population (%) - Both sexes (Original Year)": "_16_3_2__vc_prs_unsnt__both_sexes__original_year"
+   }
+  },
+  {
+   "index": 10,
+   "name": "10 Share of people with disputes using a dispute resolution mechanism",
+   "embed": {
+    "slug": "share-of-people-with-disputes-using-a-dispute-resolution-mechanism",
+    "query": {},
+    "image": null
+   },
+   "files": {
+    "html": {
+     "path": "figs/10 Share of people with disputes using a dispute resolution mechanism.html",
+     "sha256": "08eb56b00c1ce860048015033f864e34544e9ec5b3c7dfc27f5e9c7752fbd9d0"
+    },
+    "csv": {
+     "path": "figs/10 Share of people with disputes using a dispute resolution mechanism.csv",
+     "sha256": "b2d91ed99e2930773d1656a54fb21bc6741a0b575c7a3bbd0c4c2fabf519a452"
+    },
+    "png": {
+     "path": "figs/10 Share of people with disputes using a dispute resolution mechanism.png",
+     "sha256": "3fec92079f553cd538ba3917128e22a91405d2f2869951294067662f5b1a3ef5"
+    },
+    "txt": {
+     "path": "figs/10 Share of people with disputes using a dispute resolution mechanism.txt",
+     "sha256": "a216da3465ee6c286d2d0e5838a6f9149c267d510a76d0e6e62029d8ff3ac5bf"
+    }
+   },
+   "view_url": "https://ourworldindata.org/grapher/share-of-people-with-disputes-using-a-dispute-resolution-mechanism",
+   "csv_url": "https://ourworldindata.org/grapher/share-of-people-with-disputes-using-a-dispute-resolution-mechanism.csv?csvType=filtered",
+   "png_url": "https://ourworldindata.org/grapher/share-of-people-with-disputes-using-a-dispute-resolution-mechanism.png",
+   "data_available": true,
+   "config_title": "Share of people with disputes using a dispute resolution mechanism",
+   "config_subtitle": "A dispute can be understood as a problem between individuals or between individual(s) and an entity that gives rise to legal issues. Dispute resolution mechanisms include: lawyers, community or religious leaders, a court or tribunal, or the police.",
+   "chart_slug": "share-of-people-with-disputes-using-a-dispute-resolution-mechanism",
+   "column_short_names": {
+    "Entity": "entity",
+    "Code": "code",
+    "Year": "year",
+    "Proportion of the population who have experienced a dispute in the past two years who accessed a formal or informal dispute resolution mechanism (%) - No breakdown by disability - All areas - Both sexes": "_16_3_3__sp_disp_resol__no_breakdown_by_disability__all_areas__both_sexes",
+    "Proportion of the population who have experienced a dispute in the past two years who accessed a formal or informal dispute resolution mechanism (%) - No breakdown by disability - All areas - Both sexes (Original Year)": "_16_3_3__sp_disp_resol__no_breakdown_by_disability__all_areas__both_sexes__original_year"
+   }
+  },
+  {
+   "index": 11,
+   "name": "11 Inward illicit financial flows from drug trafficking",
+   "embed": {
+    "slug": "total-inward-financial-flows-from-drug-trafficking",
+    "query": {},
+    "image": null
+   },
+   "files": {
+    "html": {
+     "path": "figs/11 Inward illicit financial flows from drug trafficking.html",
+     "sha256": "f806e1f4417608f42603722d0173c4261bc4012b021fc82683c58b053c8228b3"
+    },
+    "csv": {
+     "path": "figs/11 Inward illicit financial flows from drug trafficking.csv",
+     "sha256": "8aee2bf396e575c8fdcffe1f16f892cd7416367094117b7f77fa703e10b6bb21"
+    },
+    "png": {
+     "path": "figs/11 Inward illicit financial flows from drug trafficking.png",
+     "sha256": "374d65ac3579dd61543cc344529e141d269c9ff264970b1693bbb1d1be83c6bb"
+    },
+    "txt": {
+     "path": "figs/11 Inward illicit financial flows from drug trafficking.txt",
+     "sha256": "64fd5494d93acfc019148b715190de4e34ff9c383cf50b3fdab9e13a98c9ba97"
+    }
+   },
+   "view_url": "https://ourworldindata.org/grapher/total-inward-financial-flows-from-drug-trafficking",
+   "csv_url": "https://ourworldindata.org/grapher/total-inward-financial-flows-from-drug-trafficking.csv?csvType=filtered",
+   "png_url": "https://ourworldindata.org/grapher/total-inward-financial-flows-from-drug-trafficking.png",
+   "data_available": true,
+   "config_title": "Inward illicit financial flows from drug trafficking",
+   "config_subtitle": "A financial flow is considered illicit if it is illicitly generated (e.g., from criminal activities or tax evasion), illicitly transferred (e.g., violating currency controls), or illicitly used (e.g., for financing terrorism). This data is expressed in US dollars. It is not adjusted for inflation or differences in living costs between countries.",
+   "chart_slug": "total-inward-financial-flows-from-drug-trafficking",
+   "column_short_names": {
+    "Entity": "entity",
+    "Code": "code",
+    "Year": "year",
+    "Total value of inward illicit financial flows - Drug trafficking": "_16_4_1__di_ill_in__drug_trafficking"
+   }
+  },
+  {
+   "index": 12,
+   "name": "12 Share of small arms and light weapons with illicit origin",
+   "embed": {
+    "slug": "share-of-small-with-illicit-origin",
+    "query": {},
+    "image": null
+   },
+   "files": {
+    "html": {
+     "path": "figs/12 Share of small arms and light weapons with illicit origin.html",
+     "sha256": "50773ac40115380039f9afb1481da66934e81b1cf0ed4822b4fd4b584108d88c"
+    },
+    "csv": {
+     "path": "figs/12 Share of small arms and light weapons with illicit origin.csv",
+     "sha256": "beb22daf9b80b6ffbbd7bebdda03d61c3a5b572f416e041588b38683b161ba45"
+    },
+    "png": {
+     "path": "figs/12 Share of small arms and light weapons with illicit origin.png",
+     "sha256": "a974193c849000268e202e218a878d8666e21ab2070f2b417fd1a81ec07b68f0"
+    },
+    "txt": {
+     "path": "figs/12 Share of small arms and light weapons with illicit origin.txt",
+     "sha256": "7ba6acba7bb7179be8b55f8496e983a1ce129cec3f6b1ea254f1f28d98eceed1"
+    }
+   },
+   "view_url": "https://ourworldindata.org/grapher/share-of-small-with-illicit-origin",
+   "csv_url": "https://ourworldindata.org/grapher/share-of-small-with-illicit-origin.csv?csvType=filtered",
+   "png_url": "https://ourworldindata.org/grapher/share-of-small-with-illicit-origin.png",
+   "data_available": true,
+   "config_title": "Share of small arms and light weapons with illicit origin",
+   "config_subtitle": "Seized, found, or surrendered arms whose illicit origin or context has been traced or established. Small arms and light weapons include easily transportable weapons such as handguns and light machine guns.",
+   "chart_slug": "share-of-small-with-illicit-origin",
+   "column_short_names": {
+    "Entity": "entity",
+    "Code": "code",
+    "Year": "year",
+    "Proportion of seized, found or surrendered arms whose illicit origin or context has been traced or established by a competent authority in line with international instruments": "_16_4_2__vc_arm_sztrace",
+    "Proportion of seized, found or surrendered arms whose illicit origin or context has been traced or established by a competent authority in line with international instruments (Original Year)": "_16_4_2__vc_arm_sztrace__original_year"
+   }
+  },
+  {
+   "index": 13,
+   "name": "13 Share of people who say they were asked for a bribe or paid one",
+   "embed": {
+    "slug": "bribery-prevalence-un",
+    "query": {},
+    "image": null
+   },
+   "files": {
+    "html": {
+     "path": "figs/13 Share of people who say they were asked for a bribe or paid one.html",
+     "sha256": "aaee016edaba09c5d02d49c9685be4949f1765bd0866f57307740321366ab8ef"
+    },
+    "csv": {
+     "path": "figs/13 Share of people who say they were asked for a bribe or paid one.csv",
+     "sha256": "e375c83eaa37e55b47b64dc20d7707adbf5710bf43086e15c9560dba4a82c8d8"
+    },
+    "png": {
+     "path": "figs/13 Share of people who say they were asked for a bribe or paid one.png",
+     "sha256": "2fd14019f4abf411afac483d196fe7a37564aa169c212483eca41ee68c5a557d"
+    },
+    "txt": {
+     "path": "figs/13 Share of people who say they were asked for a bribe or paid one.txt",
+     "sha256": "07755fe2957edbdb7892d8e9b0f9e58681de019a4c764b9e2c370c58793af798"
+    }
+   },
+   "view_url": "https://ourworldindata.org/grapher/bribery-prevalence-un",
+   "csv_url": "https://ourworldindata.org/grapher/bribery-prevalence-un.csv?csvType=filtered",
+   "png_url": "https://ourworldindata.org/grapher/bribery-prevalence-un.png",
+   "data_available": true,
+   "config_title": "Share of people who say they were asked for a bribe or paid one",
+   "config_subtitle": "Share of respondents who report having contact with a public official in the past 12 months and paying or being asked to pay a [bribe](#dod:bribery).",
+   "chart_slug": "bribery-prevalence-un",
+   "column_short_names": {
+    "Entity": "entity",
+    "Code": "code",
+    "Year": "year",
+    "Share of people who recently paid a bribe or were asked for one": "_16_5_1__iu_cor_brib__both_sexes",
+    "World region according to OWID": "owid_region",
+    "Share of people who recently paid a bribe or were asked for one (Original Year)": "_16_5_1__iu_cor_brib__both_sexes__original_year"
+   }
+  },
+  {
+   "index": 14,
+   "name": "14 Share of firms that report being asked to pay a bribe",
+   "embed": {
+    "slug": "bribery-incidence-for-firms",
+    "query": {},
+    "image": null
+   },
+   "files": {
+    "html": {
+     "path": "figs/14 Share of firms that report being asked to pay a bribe.html",
+     "sha256": "29b64b18055802dea9d3a813bdadbcb1229d6cb3f9f9b06d91914f98b131039a"
+    },
+    "csv": {
+     "path": "figs/14 Share of firms that report being asked to pay a bribe.csv",
+     "sha256": "0aecfd3afe54902320a3785b11ca82f576e60bf51115ae7d2ae3b30b67b67df8"
+    },
+    "png": {
+     "path": "figs/14 Share of firms that report being asked to pay a bribe.png",
+     "sha256": "22f958836e8be31dabcbed3cbff7608fa57753c274b99641c5f163be785ccee5"
+    },
+    "txt": {
+     "path": "figs/14 Share of firms that report being asked to pay a bribe.txt",
+     "sha256": "9c9b2fc19007014744dae4caa6008a82cb52110e2442606fa2706c324a958a1b"
+    }
+   },
+   "view_url": "https://ourworldindata.org/grapher/bribery-incidence-for-firms",
+   "csv_url": "https://ourworldindata.org/grapher/bribery-incidence-for-firms.csv?csvType=filtered",
+   "png_url": "https://ourworldindata.org/grapher/bribery-incidence-for-firms.png",
+   "data_available": true,
+   "config_title": "Share of firms that report being asked to pay a bribe",
+   "config_subtitle": "[Bribes](#dod:bribery) when dealing with core public services, such as operating licenses and construction permits.",
+   "chart_slug": "bribery-incidence-for-firms",
+   "column_short_names": {
+    "Entity": "entity",
+    "Code": "code",
+    "Year": "year",
+    "At least one bribe request": "bribery_incidence__percent_of_firms_experiencing_at_least_one_bribe_payment_request",
+    "World region according to OWID": "owid_region",
+    "At least one bribe request (Original Year)": "bribery_incidence__percent_of_firms_experiencing_at_least_one_bribe_payment_request__original_year"
+   }
+  },
+  {
+   "index": 15,
+   "name": "15 Primary government spending as a share of original budget",
+   "embed": {
+    "slug": "govt-expenditure-share-budget",
+    "query": {},
+    "image": null
+   },
+   "files": {
+    "html": {
+     "path": "figs/15 Primary government spending as a share of original budget.html",
+     "sha256": "f59a97d3b86b4c66444ecd3f8932ed192f1382965625cb4301411ffce1e21253"
+    },
+    "csv": {
+     "path": "figs/15 Primary government spending as a share of original budget.csv",
+     "sha256": "1852302faec63c5a847ad64df49c83cf8c3e4ff0ca92d6c2d11a2fe6ed211e86"
+    },
+    "png": {
+     "path": "figs/15 Primary government spending as a share of original budget.png",
+     "sha256": "37320e372d9c430838bd1cf2119fa17097fa1c6b06d207bcde7d05f2690db821"
+    },
+    "txt": {
+     "path": "figs/15 Primary government spending as a share of original budget.txt",
+     "sha256": "ee5ed65745be19b961567eeb474669cb4b6c678743eb840e57c5af9c5e6c361f"
+    }
+   },
+   "view_url": "https://ourworldindata.org/grapher/govt-expenditure-share-budget",
+   "csv_url": "https://ourworldindata.org/grapher/govt-expenditure-share-budget.csv?csvType=filtered",
+   "png_url": "https://ourworldindata.org/grapher/govt-expenditure-share-budget.png",
+   "data_available": true,
+   "config_title": "Primary government spending as a share of original budget",
+   "config_subtitle": "Expenditures between 85% and 115% of the original budget is considered consistent with good international practices.",
+   "chart_slug": "govt-expenditure-share-budget",
+   "column_short_names": {
+    "Entity": "entity",
+    "Code": "code",
+    "Year": "year",
+    "Primary government expenditures as a proportion of original approved budget (%)": "_16_6_1__gf_xpd_gbpc",
+    "Primary government expenditures as a proportion of original approved budget (%) (Original Year)": "_16_6_1__gf_xpd_gbpc__original_year"
+   }
+  },
+  {
+   "index": 16,
+   "name": "16 Share of population satisfied with government services",
+   "embed": {
+    "slug": "share-of-population-satisfied-with-government-services",
+    "query": {},
+    "image": null
+   },
+   "files": {
+    "html": {
+     "path": "figs/16 Share of population satisfied with government services.html",
+     "sha256": "4d05cb687b1639a0f130f8c8b93cca5c11e8df83da5a682b775904c14fbcbe0c"
+    },
+    "csv": {
+     "path": "figs/16 Share of population satisfied with government services.csv",
+     "sha256": "cba78355d6ec4067a36ee3297dbdd205e07682c5c69f68f0fbe399288369b6df"
+    },
+    "png": {
+     "path": "figs/16 Share of population satisfied with government services.png",
+     "sha256": "97360d635be1b9b573f17c099d53394fdce912004d7bc7145dc4622a0916f292"
+    },
+    "txt": {
+     "path": "figs/16 Share of population satisfied with government services.txt",
+     "sha256": "69937c0d8090bc5d5974a8baf5039e52c9b5d5b3459e503a3dbd71554cca02f2"
+    }
+   },
+   "view_url": "https://ourworldindata.org/grapher/share-of-population-satisfied-with-government-services",
+   "csv_url": "https://ourworldindata.org/grapher/share-of-population-satisfied-with-government-services.csv?csvType=filtered",
+   "png_url": "https://ourworldindata.org/grapher/share-of-population-satisfied-with-government-services.png",
+   "data_available": true,
+   "config_title": "Share of population satisfied with government services",
+   "config_subtitle": "People who have used government services in the last 12 months and were satisfied with their experience. Government services considered here include: services to obtain government-issued identification documents and the civil registration of life events, such as births marriages and deaths.",
+   "chart_slug": "share-of-population-satisfied-with-government-services",
+   "column_short_names": {
+    "Entity": "entity",
+    "Code": "code",
+    "Year": "year",
+    "Proportion of population who say that overall they are satisfied with the quality of government services (%) - All age ranges or no breaks by age - No breakdown by disability - All areas - TOTAL - Both sexes": "_16_6_2__sp_psr_osatis_gov__all_age_ranges_or_no_breaks_by_age__no_breakdown_by_disability__all_areas__total__both_sexes",
+    "Proportion of population who say that overall they are satisfied with the quality of government services (%) - All age ranges or no breaks by age - No breakdown by disability - All areas - TOTAL - Both sexes (Original Year)": "_16_6_2__sp_psr_osatis_gov__all_age_ranges_or_no_breaks_by_age__no_breakdown_by_disability__all_areas__total__both_sexes__original_year"
+   }
+  },
+  {
+   "index": 17,
+   "name": "17 Share of women in parliament",
+   "embed": {
+    "slug": "share-of-women-in-parliament",
+    "query": {},
+    "image": null
+   },
+   "files": {
+    "html": {
+     "path": "figs/17 Share of women in parliament.html",
+     "sha256": "8ab8af30cbc1eeafd9806ac1d1ca22acf70041399e4ec30495bd20393770e080"
+    },
+    "csv": {
+     "path": "figs/17 Share of women in parliament.csv",
+     "sha256": "f8c58a23686407a815970ab569be2f1246faf8d26d91ddc39788563d23ce9a91"
+    },
+    "png": {
+     "path": "figs/17 Share of women in parliament.png",
+     "sha256": "06cb058b26878f775ddc33a0b39934a76ea59b3b96fe4d3cf8b4b9957acae487"
+    },
+    "txt": {
+     "path": "figs/17 Share of women in parliament.txt",
+     "sha256": "a05b5c0aa52c8b1258d5777ceaf294c5bde7150672340dab37381edad9bd5120"
+    }
+   },
+   "view_url": "https://ourworldindata.org/grapher/share-of-women-in-parliament",
+   "csv_url": "https://ourworldindata.org/grapher/share-of-women-in-parliament.csv?csvType=filtered",
+   "png_url": "https://ourworldindata.org/grapher/share-of-women-in-parliament.png",
+   "data_available": true,
+   "config_title": "Share of women in parliament",
+   "config_subtitle": "Percentage of seats in lower or single chamber of the legislature held by women.",
+   "chart_slug": "share-of-women-in-parliament",
+   "column_short_names": {
+    "Entity": "entity",
+    "Code": "code",
+    "Year": "year",
+    "Lower chamber female legislators": "wom_parl_vdem__estimate_best",
+    "World region according to OWID": "owid_region"
+   }
+  },
+  {
+   "index": 18,
+   "name": "18 Share of people who find political decision-making inclusive and responsive",
+   "embed": {
+    "slug": "share-of-people-who-find-political-decision-making-inclusive-and-responsive",
+    "query": {},
+    "image": null
+   },
+   "files": {
+    "html": {
+     "path": "figs/18 Share of people who find political decision-making inclusive and responsive.html",
+     "sha256": "d25df1413c6e43b9455d73e5167ef9b420e0cf746d3ab884c3221f00f2080d56"
+    },
+    "csv": {
+     "path": "figs/18 Share of people who find political decision-making inclusive and responsive.csv",
+     "sha256": "1eb8d07560300a1d3682fc219aea6239a155ebb2f7a525e33f6fb7edae49c1cc"
+    },
+    "png": {
+     "path": "figs/18 Share of people who find political decision-making inclusive and responsive.png",
+     "sha256": "e540dd855115bdbdc7243b6521729e992b1884f7ffe90f87ab8fc675d91f80e9"
+    },
+    "txt": {
+     "path": "figs/18 Share of people who find political decision-making inclusive and responsive.txt",
+     "sha256": "13a7725d7b868327385b7bd52dfd8e83c1d4f1ba94299edbbc8da15eeab877af"
+    }
+   },
+   "view_url": "https://ourworldindata.org/grapher/share-of-people-who-find-political-decision-making-inclusive-and-responsive",
+   "csv_url": "https://ourworldindata.org/grapher/share-of-people-who-find-political-decision-making-inclusive-and-responsive.csv?csvType=filtered",
+   "png_url": "https://ourworldindata.org/grapher/share-of-people-who-find-political-decision-making-inclusive-and-responsive.png",
+   "data_available": true,
+   "config_title": "Share of people who find political decision-making inclusive and responsive",
+   "config_subtitle": "Share of people who responded that the political system in their country allows people like them to have a say in what the government does and to have an influence on politics.",
+   "chart_slug": "share-of-people-who-find-political-decision-making-inclusive-and-responsive",
+   "column_short_names": {
+    "Entity": "entity",
+    "Code": "code",
+    "Year": "year",
+    "Proportion of population who believe decision-making is inclusive and responsive (%) - All age ranges or no breaks by age - No breakdown by disability - Total or not breakdown - All areas - TOTAL - Both sexes": "_16_7_2__iu_dmk_icrs__all_age_ranges_or_no_breaks_by_age__no_breakdown_by_disability__total_or_not_breakdown__all_areas__total__both_sexes",
+    "Proportion of population who believe decision-making is inclusive and responsive (%) - All age ranges or no breaks by age - No breakdown by disability - Total or not breakdown - All areas - TOTAL - Both sexes (Original Year)": "_16_7_2__iu_dmk_icrs__all_age_ranges_or_no_breaks_by_age__no_breakdown_by_disability__total_or_not_breakdown__all_areas__total__both_sexes__original_year"
+   }
+  },
+  {
+   "index": 19,
+   "name": "19 Share of member states in international organizations",
+   "embed": {
+    "slug": "proportion-of-members-of-developing-countries-in-international-organizations",
+    "query": {},
+    "image": null
+   },
+   "files": {
+    "html": {
+     "path": "figs/19 Share of member states in international organizations.html",
+     "sha256": "2637d479cd60766f1e93b737449974dcbd18166ea63d3ea816250f09bdc106de"
+    },
+    "csv": {
+     "path": "figs/19 Share of member states in international organizations.csv",
+     "sha256": "66c85ba49628429b353ce018758d2dea0e7547208384c24eedd67c9a38b8e3df"
+    },
+    "png": {
+     "path": "figs/19 Share of member states in international organizations.png",
+     "sha256": "a7f5f082b75d70aa78e24a3a7cbf88f2a800df2111937110ed8915d4bf168a03"
+    },
+    "txt": {
+     "path": "figs/19 Share of member states in international organizations.txt",
+     "sha256": "ca6401609871117a051ebde5ff0f470feadd7d570277ae29bdf4d334794920ad"
+    }
+   },
+   "view_url": "https://ourworldindata.org/grapher/proportion-of-members-of-developing-countries-in-international-organizations",
+   "csv_url": "https://ourworldindata.org/grapher/proportion-of-members-of-developing-countries-in-international-organizations.csv?csvType=filtered",
+   "png_url": "https://ourworldindata.org/grapher/proportion-of-members-of-developing-countries-in-international-organizations.png",
+   "data_available": true,
+   "config_title": "Share of member states in international organizations",
+   "config_subtitle": "The international organizations each country or region is a member of, and the proportion of voting rights each country is allocated in each organization.",
+   "chart_slug": "proportion-of-members-of-developing-countries-in-international-organizations",
+   "column_short_names": {
+    "Entity": "entity",
+    "Year": "year",
+    "UN Security Council": "_10_6_1__sg_int_mbrdev__un_security_council",
+    "UN General Assembly": "_10_6_1__sg_int_mbrdev__un_general_assembly",
+    "African Development Bank": "_10_6_1__sg_int_mbrdev__african_development_bank",
+    "Asian Development Bank": "_10_6_1__sg_int_mbrdev__asian_development_bank",
+    "World Trade Organisation": "_10_6_1__sg_int_mbrdev__world_trade_organisation",
+    "Financial Stability Board": "_10_6_1__sg_int_mbrdev__financial_stability_board",
+    "UN Economic and Social Council": "_10_6_1__sg_int_mbrdev__un_economic_and_social_council",
+    "International Monetary Fund": "_10_6_1__sg_int_mbrdev__international_monetary_fund",
+    "Inter-American Development Bank": "_10_6_1__sg_int_mbrdev__inter_american_development_bank",
+    "International Finance Corporation": "_10_6_1__sg_int_mbrdev__international_finance_corporation",
+    "International Bank for Reconstruction & Development": "_10_6_1__sg_int_mbrdev__international_bank_for_reconstruction_and_development",
+    "African Development Bank (Original Year)": "_10_6_1__sg_int_mbrdev__african_development_bank__original_year",
+    "Asian Development Bank (Original Year)": "_10_6_1__sg_int_mbrdev__asian_development_bank__original_year"
+   }
+  },
+  {
+   "index": 20,
+   "name": "20 Share of births registered",
+   "embed": {
+    "slug": "births-registered",
+    "query": {},
+    "image": null
+   },
+   "files": {
+    "html": {
+     "path": "figs/20 Share of births registered.html",
+     "sha256": "b1c32ef4c404c2a17d2ddcda6bf4f6244de15651c9554591e9643429a880b6d6"
+    },
+    "csv": {
+     "path": "figs/20 Share of births registered.csv",
+     "sha256": "7c05390b7f6aeba791780c67c6b0f6746867af8e7cdec06185d756e0e16bb52b"
+    },
+    "png": {
+     "path": "figs/20 Share of births registered.png",
+     "sha256": "054a6b441e4be6ed09d237b5276eb22933c2cff325d1b5a2cf91effc2ba9f3f7"
+    },
+    "txt": {
+     "path": "figs/20 Share of births registered.txt",
+     "sha256": "99d803d50f16ef2822c09756fadf6500eed3ef277d1d1de65cd2344004b256fb"
+    }
+   },
+   "view_url": "https://ourworldindata.org/grapher/births-registered",
+   "csv_url": "https://ourworldindata.org/grapher/births-registered.csv?csvType=filtered",
+   "png_url": "https://ourworldindata.org/grapher/births-registered.png",
+   "data_available": true,
+   "config_title": "Share of births registered",
+   "config_subtitle": "Percentage of children under age five whose births were registered at the time of the survey. This includes children whose birth certificate was seen by the interviewer or whose mother or caretaker says the birth has been registered.",
+   "chart_slug": "births-registered",
+   "column_short_names": {
+    "Entity": "entity",
+    "Code": "code",
+    "Year": "year",
+    "Completeness of birth registration (%)": "sp_reg_brth_zs",
+    "World region according to OWID": "owid_region",
+    "Completeness of birth registration (%) (Original Year)": "sp_reg_brth_zs__original_year"
+   }
+  },
+  {
+   "index": 21,
+   "name": "21 Confirmed killings of human rights defenders, journalists and trade unionists",
+   "embed": {
+    "slug": "cases-of-killed-human-rights-defenders-journalists-trade-unionists",
+    "query": {},
+    "image": null
+   },
+   "files": {
+    "html": {
+     "path": "figs/21 Confirmed killings of human rights defenders, journalists and trade unionists.html",
+     "sha256": "392f8b3e68399bee94e30b92bc0033672b5a75501d6fbccb71aa1a5b9b0a43aa"
+    },
+    "csv": {
+     "path": "figs/21 Confirmed killings of human rights defenders, journalists and trade unionists.csv",
+     "sha256": "639241d751a7ebfaf4505c43330ea09e1813328703ce9dc9ac5f0bb5d21b732d"
+    },
+    "png": {
+     "path": "figs/21 Confirmed killings of human rights defenders, journalists and trade unionists.png",
+     "sha256": "6c8bfa1eb611aba0d2280494e1bf99ebfb3d2ea9bf04039ba8c6501fe01660f0"
+    },
+    "txt": {
+     "path": "figs/21 Confirmed killings of human rights defenders, journalists and trade unionists.txt",
+     "sha256": "012d52b27caaf0668b1bfcd0b1d9ddfaa302c216aa4526d4f4e9468a96abacc7"
+    }
+   },
+   "view_url": "https://ourworldindata.org/grapher/cases-of-killed-human-rights-defenders-journalists-trade-unionists",
+   "csv_url": "https://ourworldindata.org/grapher/cases-of-killed-human-rights-defenders-journalists-trade-unionists.csv?csvType=filtered",
+   "png_url": "https://ourworldindata.org/grapher/cases-of-killed-human-rights-defenders-journalists-trade-unionists.png",
+   "data_available": true,
+   "config_title": "Confirmed killings of human rights defenders, journalists and trade unionists",
+   "config_subtitle": "Number of killings that have been confirmed by UN agencies and national human rights institutions.",
+   "chart_slug": "cases-of-killed-human-rights-defenders-journalists-trade-unionists",
+   "column_short_names": {
+    "Entity": "entity",
+    "Code": "code",
+    "Year": "year",
+    "Male": "_16_10_1__vc_vaw_mtuhra__male",
+    "Female": "_16_10_1__vc_vaw_mtuhra__female"
+   }
+  },
+  {
+   "index": 22,
+   "name": "22 Countries with policy guarantees for public access to information",
+   "embed": {
+    "slug": "countries-that-adopt-guarantees-for-public-access-to-information",
+    "query": {},
+    "image": null
+   },
+   "files": {
+    "html": {
+     "path": "figs/22 Countries with policy guarantees for public access to information.html",
+     "sha256": "26db530f3ae27d9611c5baa2d8728caf7ab3ec3eec40efa7136d0f434ceb0cd0"
+    },
+    "csv": {
+     "path": "figs/22 Countries with policy guarantees for public access to information.csv",
+     "sha256": "bbf67e9199ca382c459817fb20548aa68d6b698bb9237f1669403763ad74a576"
+    },
+    "png": {
+     "path": "figs/22 Countries with policy guarantees for public access to information.png",
+     "sha256": "b28878d42a81c250921ba9aeea38e856f50f0609a2ba04bb333c16678f95238b"
+    },
+    "txt": {
+     "path": "figs/22 Countries with policy guarantees for public access to information.txt",
+     "sha256": "11424118880abc026f5fd8af91098a84c1782500b8d67e82d99c29711573d3e2"
+    }
+   },
+   "view_url": "https://ourworldindata.org/grapher/countries-that-adopt-guarantees-for-public-access-to-information",
+   "csv_url": "https://ourworldindata.org/grapher/countries-that-adopt-guarantees-for-public-access-to-information.csv?csvType=filtered",
+   "png_url": "https://ourworldindata.org/grapher/countries-that-adopt-guarantees-for-public-access-to-information.png",
+   "data_available": true,
+   "config_title": "Countries with policy guarantees for public access to information",
+   "config_subtitle": "Number of countries that have adopted and implemented constitutional, statutory and/or policy guarantees for public access to information.",
+   "chart_slug": "countries-that-adopt-guarantees-for-public-access-to-information",
+   "column_short_names": {
+    "Entity": "entity",
+    "Code": "code",
+    "Year": "year",
+    "Countries that adopt and implement constitutional, statutory and/or policy guarantees for public access to information": "_16_10_2__sg_inf_accss"
+   }
+  },
+  {
+   "index": 23,
+   "name": "23 Share of countries with independent national human rights institutions",
+   "embed": {
+    "slug": "share-countries-accredited-independent-national-human-rights-institutions",
+    "query": {},
+    "image": null
+   },
+   "files": {
+    "html": {
+     "path": "figs/23 Share of countries with independent national human rights institutions.html",
+     "sha256": "9b3b150d2ae1847883d7b5598c8d1e317139e6b691488acd6a1d6d17190d8c92"
+    },
+    "csv": {
+     "path": "figs/23 Share of countries with independent national human rights institutions.csv",
+     "sha256": "10b0956b2ebd67646e101bc5be8d3ce413820933720b947a611c9f9e64904394"
+    },
+    "png": {
+     "path": "figs/23 Share of countries with independent national human rights institutions.png",
+     "sha256": "0220cdd9ea1621e717232d69ac874612f262a994345c1c013943325e61ffbdc3"
+    },
+    "txt": {
+     "path": "figs/23 Share of countries with independent national human rights institutions.txt",
+     "sha256": "2fca86591bde2c24b864572f77029f5dd74d793ec33e1ecb5d5c14ef6cc12736"
+    }
+   },
+   "view_url": "https://ourworldindata.org/grapher/share-countries-accredited-independent-national-human-rights-institutions",
+   "csv_url": "https://ourworldindata.org/grapher/share-countries-accredited-independent-national-human-rights-institutions.csv?csvType=filtered",
+   "png_url": "https://ourworldindata.org/grapher/share-countries-accredited-independent-national-human-rights-institutions.png",
+   "data_available": true,
+   "config_title": "Share of countries with independent national human rights institutions",
+   "config_subtitle": "Independent national human rights institutions are self-governing administrative bodies set up by the respective country to promote and protect human rights. These institutions must meet the UN’s standards in order to be counted here.",
+   "chart_slug": "share-countries-accredited-independent-national-human-rights-institutions",
+   "column_short_names": {
+    "Entity": "entity",
+    "Code": "code",
+    "Year": "year",
+    "Proportion of countries with independent National Human Rights Institutions in compliance with the Paris Principles (%)": "_16_a_1__sg_nhr_impl"
+   }
+  },
+  {
+   "index": 24,
+   "name": "24 Share of adults reporting having felt discriminated against",
+   "embed": {
+    "slug": "share-of-the-population-reporting-having-felt-discriminated-against",
+    "query": {},
+    "image": null
+   },
+   "files": {
+    "html": {
+     "path": "figs/24 Share of adults reporting having felt discriminated against.html",
+     "sha256": "b0ce5492cdb91871954cf8bbbe5cb032d798c09a005351c008ffd41e0ca12c61"
+    },
+    "csv": {
+     "path": "figs/24 Share of adults reporting having felt discriminated against.csv",
+     "sha256": "3948a77e8c16104d6d795284a0ca562a00022e45edfec93854dd1ccc33744d11"
+    },
+    "png": {
+     "path": "figs/24 Share of adults reporting having felt discriminated against.png",
+     "sha256": "610891a5a13abfdb42a5edfb9bca15979696959331ca075a15ccf2caefaa354a"
+    },
+    "txt": {
+     "path": "figs/24 Share of adults reporting having felt discriminated against.txt",
+     "sha256": "583331aff5356e113ae953fd772ca1c05d20249d0b9bb39b21737eda39efc04b"
+    }
+   },
+   "view_url": "https://ourworldindata.org/grapher/share-of-the-population-reporting-having-felt-discriminated-against",
+   "csv_url": "https://ourworldindata.org/grapher/share-of-the-population-reporting-having-felt-discriminated-against.csv?csvType=filtered",
+   "png_url": "https://ourworldindata.org/grapher/share-of-the-population-reporting-having-felt-discriminated-against.png",
+   "data_available": true,
+   "config_title": "Share of adults reporting having felt discriminated against",
+   "config_subtitle": "Adults reporting having experienced discrimination or harassment during the last year, based on grounds prohibited by international human rights law.",
+   "chart_slug": "share-of-the-population-reporting-having-felt-discriminated-against",
+   "column_short_names": {
+    "Entity": "entity",
+    "Code": "code",
+    "Year": "year",
+    "Proportion of population reporting having felt discriminated against, by grounds of discrimination, sex and disability (%) - All age ranges or no breaks by age - No breakdown by disability - Total or not breakdown - All grounds or no breakdown - All areas - Total (national average) or no breakdown - Both sexes": "_16_b_1__vc_vov_gdsd__all_age_ranges_or_no_breaks_by_age__no_breakdown_by_disability__total_or_not_breakdown__all_grounds_or_no_breakdown__all_areas__total__national_average__or_no_breakdown__both_sexes",
+    "Proportion of population reporting having felt discriminated against, by grounds of discrimination, sex and disability (%) - All age ranges or no breaks by age - No breakdown by disability - Total or not breakdown - All grounds or no breakdown - All areas - Total (national average) or no breakdown - Both sexes (Original Year)": "_16_b_1__vc_vov_gdsd__all_age_ranges_or_no_breaks_by_age__no_breakdown_by_disability__total_or_not_breakdown__all_grounds_or_no_breakdown__all_areas__total__national_average__or_no_breakdown__both_sexes__original_year"
+   }
+  }
+ ]
+}

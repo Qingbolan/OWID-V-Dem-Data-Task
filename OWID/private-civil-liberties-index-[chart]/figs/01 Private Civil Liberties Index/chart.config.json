@@ -1,0 +1,83 @@
+{
+ "id": 6235,
+ "map": {
+  "colorScale": {
+   "baseColorScheme": "PuBu",
+   "binningStrategy": "manual",
+   "customNumericColors": [
+    "#9f0026",
+    "#e31a1c",
+    "#fd8d3c",
+    "#fed976",
+    "#ffeda0",
+    "#edf8b1",
+    "#c7e9b4",
+    "#41b6c4",
+    "#225ea8",
+    "#172976"
+   ],
+   "customNumericValues": [
+    0,
+    0.1,
+    0.2,
+    0.3,
+    0.4,
+    0.5,
+    0.6,
+    0.7,
+    0.8,
+    0.9,
+    1
+   ]
+  },
+  "columnSlug": "1209818"
+ },
+ "tab": "map",
+ "slug": "private-civil-liberties-index",
+ "title": "Private Civil Liberties Index",
+ "yAxis": {
+  "max": 1,
+  "min": 0
+ },
+ "$schema": "https://files.ourworldindata.org/schemas/grapher-schema.011.json",
+ "version": 58,
+ "subtitle": "Data by [V-Dem](#dod:v-dem). Expert estimates of the extent to which people are free from forced labor, have property rights, and enjoy freedom of movement and religion. The index ranges from 0 to 1 (most liberties).",
+ "hasMapTab": true,
+ "originUrl": "/human-rights",
+ "chartTypes": [
+  "LineChart",
+  "SlopeChart",
+  "DiscreteBar",
+  "Marimekko"
+ ],
+ "dimensions": [
+  {
+   "display": {
+    "name": "Private Civil Liberties Index",
+    "color": "#3c4e66"
+   },
+   "property": "y",
+   "variableId": 1209818
+  },
+  {
+   "property": "color",
+   "variableId": 900801
+  }
+ ],
+ "isPublished": true,
+ "variantName": "",
+ "hideFacetControl": false,
+ "relatedQuestions": [
+  {
+   "url": "https://ourworldindata.org/vdem-human-rights-data",
+   "text": "The 'Varieties of Democracy' data: how do researchers measure human rights?"
+  }
+ ],
+ "selectedEntityNames": [
+  "World",
+  "Argentina",
+  "Australia",
+  "Botswana",
+  "China"
+ ]
+}

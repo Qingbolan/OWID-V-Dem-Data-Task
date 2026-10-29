@@ -1,0 +1,56 @@
+{
+ "title": "Judicial Checks on Government Index",
+ "url": "https://ourworldindata.org/grapher/judicial-constraints-on-the-executive-index",
+ "date_published": null,
+ "chart_page": true,
+ "authors": [],
+ "retrieved_at": "2026-10-29T17:22:01.129071+00:00",
+ "materialised_at": "2026-10-29T17:22:01.129080+00:00",
+ "source_original_sha256": "b741ce8b12e3ec143c2dca6b54a428b051141b47105c5697c754ac38ddcbde4e",
+ "offline_snapshot": {
+  "page": "source.html",
+  "assets": "source_files/",
+  "assets_manifest": "source_files/manifest.json",
+  "asset_count": 73,
+  "removed": "all <script> elements except application/ld+json"
+ },
+ "figures": [
+  {
+   "index": 1,
+   "name": "01 Judicial Checks on Government Index",
+   "embed": {
+    "slug": "judicial-constraints-on-the-executive-index",
+    "query": {},
+    "image": null
+   },
+   "view_url": "https://ourworldindata.org/grapher/judicial-constraints-on-the-executive-index",
+   "csv_url": "https://ourworldindata.org/grapher/judicial-constraints-on-the-executive-index.csv?csvType=filtered",
+   "png_url": "https://ourworldindata.org/grapher/judicial-constraints-on-the-executive-index.png",
+   "data_available": true,
+   "config_title": "Judicial Checks on Government Index",
+   "config_subtitle": "Data by [V-Dem](#dod:v-dem). Expert estimates of the extent to which the executive respects the constitution and complies with the rulings of independent courts. The index ranges from 0 to 1 (most constrained).",
+   "files": {
+    "txt": {
+     "path": "figs/01 Judicial Checks on Government Index.txt",
+     "sha256": "eb7d0a05599e2088e333d9742a57c555c73159d944beb86cdbf8cb6c1ba7ca58"
+    },
+    "csv": {
+     "path": "figs/01 Judicial Checks on Government Index.csv",
+     "sha256": "4b006d50fffa67d57fbd6142f71560008bfdaef395c8b662dc8da9096a736594"
+    },
+    "png": {
+     "path": "figs/01 Judicial Checks on Government Index.png",
+     "sha256": "49639d893cfcd4e011c8d451e220d97e0fb47730b406afd3a939bc883e856136"
+    }
+   },
+   "chart_slug": "judicial-constraints-on-the-executive-index",
+   "column_short_names": {
+    "Entity": "entity",
+    "Code": "code",
+    "Year": "year",
+    "Judicial Checks on Government Index": "judicial_constr_vdem__estimate_best",
+    "World region according to OWID": "owid_region"
+   }
+  }
+ ]
+}

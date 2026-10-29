@@ -1,0 +1,43 @@
+{
+ "reproducible": true,
+ "program": "golden.vdem_pipeline",
+ "chart_slug": "deliberative-democracy-index-vdem",
+ "view": "https://ourworldindata.org/grapher/deliberative-democracy-index-vdem",
+ "columns": [
+  "Deliberative democracy index"
+ ],
+ "solution_columns": [
+  "Deliberative democracy index"
+ ],
+ "output_precision": {
+  "Deliberative democracy index": 3
+ },
+ "sources": {
+  "Deliberative democracy index": {
+   "table": "vdem_multi_with_regions",
+   "column": "delibdem_vdem",
+   "filter": {
+    "estimate": "best"
+   },
+   "short_name": "delibdem_vdem__estimate_best",
+   "gold_index": 3
+  }
+ },
+ "gold_column_index": {
+  "Deliberative democracy index": 3
+ },
+ "entity_mapping": "data/reference/owid_etl/vdem/vdem.countries.json",
+ "compare": {
+  "Deliberative democracy index": {
+   "abs": 0.001,
+   "rel": 1e-06
+  }
+ },
+ "encodings": {},
+ "scale": {},
+ "stack_relative": false,
+ "time_tolerance": 0,
+ "not_compared": {
+  "World region according to OWID": "OWID's world region (map and scatter colour), not a V-Dem indicator"
+ }
+}

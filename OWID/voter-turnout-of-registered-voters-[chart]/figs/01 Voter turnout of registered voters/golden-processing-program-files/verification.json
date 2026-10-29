@@ -1,0 +1,22 @@
+{
+ "figure": "01 Voter turnout of registered voters",
+ "checked_at": "2026-10-29T18:06:18.792549+00:00",
+ "status": "match",
+ "gold_rows": 153,
+ "gold_rows_missing_in_reference": 0,
+ "mismatched_cells": {
+  "Voter turnout of registered voters": 0,
+  "Voter turnout of registered voters (Original Year)": 0
+ },
+ "tolerance": {
+  "Voter turnout of registered voters": {
+   "abs": 0.01,
+   "rel": 1e-06
+  },
+  "Voter turnout of registered voters (Original Year)": {
+   "abs": 0.0
+  }
+ },
+ "first_mismatches": [],
+ "program": "golden.vdem_pipeline"
+}

@@ -1,0 +1,40 @@
+{
+ "reproducible": true,
+ "program": "golden.vdem_pipeline",
+ "chart_slug": "age-of-electoral-democracy",
+ "view": "https://ourworldindata.org/grapher/age-of-electoral-democracy",
+ "columns": [
+  "Age of electoral democracy"
+ ],
+ "solution_columns": [
+  "Age of electoral democracy"
+ ],
+ "output_precision": {
+  "Age of electoral democracy": "text"
+ },
+ "sources": {
+  "Age of electoral democracy": {
+   "table": "vdem_uni_without_regions",
+   "column": "num_years_in_electdem_consecutive",
+   "filter": {},
+   "short_name": "num_years_in_electdem_consecutive",
+   "gold_index": 3
+  }
+ },
+ "gold_column_index": {
+  "Age of electoral democracy": 3
+ },
+ "entity_mapping": "data/reference/owid_etl/vdem/vdem.countries.json",
+ "compare": {
+  "Age of electoral democracy": {
+   "equal": true
+  }
+ },
+ "encodings": {
+  "Age of electoral democracy": "NumberOrString values: 1, 104, 105, 106, 107, 11, 12, 122, 139, 16, 168, 17, 177, 19, 20, 23, 24, 25, 26, 3"
+ },
+ "scale": {},
+ "stack_relative": false,
+ "time_tolerance": 0,
+ "not_compared": {}
+}

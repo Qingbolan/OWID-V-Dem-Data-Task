@@ -1,0 +1,60 @@
+{
+ "chart": {
+  "title": "People asked for a bribe vs. Political Corruption Index",
+  "subtitle": "Share of respondents who had contact with a public official in the past 12 months and said they paid or were asked to pay a bribe. The political corruption index is by V-Dem, based on expert estimates, and ranges from 0 to 1 (most corrupt).",
+  "citation": "United Nations Office on Drugs and Crime; V-Dem (2026)",
+  "originalChartUrl": "https://ourworldindata.org/grapher/share-of-people-who-recently-paid-a-bribe-or-were-asked-for-one-vs-political-corruption-index",
+  "selection": []
+ },
+ "columns": {
+  "Share of people who said they were recently asked for a bribe or paid one": {
+   "titleShort": "Share of people who said they were recently asked for a bribe or paid one",
+   "titleLong": "Share of people who said they were recently asked for a bribe or paid one",
+   "descriptionShort": "Share of respondents who reported having contact with a public official in the past 12 months and paying or being asked to pay a bribe.",
+   "descriptionKey": "- This indicator measures how common bribery is in people’s everyday interactions with public officials. It shows the share of individuals who, in the past year, either paid a bribe or were asked to pay one during contact with a public official.\n- Bribes can take the form of money, gifts, or favors given in exchange for special treatment. The focus is on petty or administrative bribery — the kind people may face when accessing basic services, such as dealing with the police, schools, or healthcare.\n- “Public officials” refers to anyone holding a legislative, executive, administrative, or judicial role — including police officers, customs agents, judges, teachers, and doctors. The data does not cover high-level political corruption, trading of influence, or abuse of office.\n- Data comes primarily from national surveys, where respondents report their own direct experiences. Reports involving intermediaries (e.g. a bribe paid through someone else) are included, but second-hand accounts from other household members are excluded.\n- When national data is unavailable or insufficient, estimates may draw on [Global Corruption Barometer (GCB)](https://www.transparency.org/en/gcb) data, provided it aligns closely with UNODC definitions. These estimates are reviewed and validated by national authorities, usually through national statistics offices.\n- In some cases — such as Peru and Panama — UNODC estimates differ significantly from the GCB's figures. These differences may arise from variations in survey scope (e.g. UNODC's surveys inquire about any contact with public officials, while GCB asks about contact concerning a few core services), sample size, how people without recent contact with officials are handled, or how surveys are conducted (e.g. phone vs. in-person).\n- Earlier surveys often excluded people who were asked for a bribe but refused to pay. This likely led to underestimates of the prevalence of bribery. The UNODC aims to correct this by applying standardised methods across countries.",
+   "shortUnit": "%",
+   "unit": "%",
+   "timespan": "2004-2024",
+   "type": "Numeric",
+   "owidVariableId": 1301145,
+   "shortName": "_16_5_1__iu_cor_brib__both_sexes",
+   "lastUpdated": "2026-07-31",
+   "nextUpdate": "2027-07-31",
+   "citationShort": "United Nations Office on Drugs and Crime – with minor processing by Our World in Data",
+   "citationLong": "United Nations Office on Drugs and Crime – with minor processing by Our World in Data. “Share of people who said they were recently asked for a bribe or paid one” [dataset]. United Nations Office on Drugs and Crime, “Data from multiple sources” [original data].",
+   "fullMetadata": "https://api.ourworldindata.org/v1/indicators/1301145.metadata.json"
+  },
+  "Political corruption index (central estimate)": {
+   "titleShort": "Political Corruption Index",
+   "titleLong": "Political Corruption Index - V-Dem",
+   "descriptionShort": "Central estimate of the extent to which a country is affected by political corruption.",
+   "descriptionKey": "- This index, produced by Varieties of Democracy (V-Dem), is useful if you are interested in bribery and embezzlement, especially at high levels, want scores for almost all countries, or are also interested in corruption in the more distant past. For data that focuses on people's or firms' everyday experiences and perceptions of corruption, other sources will be more useful. You can explore these alternatives on our [Corruption topic page](https://ourworldindata.org/corruption).\n- The index is based on assessments by V-Dem's country experts.\n- Experts can be biased because they may rely on limited networks, be influenced by media narratives, or bring in their own political views. At the same time, they often draw on broader knowledge, follow national politics closely, monitor the media, speak with insiders in government and civil society, and some conduct direct investigations.\n- It is made up of four sub-indices: [executive corruption](https://ourworldindata.org/grapher/executive-corruption-index), [legislative corruption](https://ourworldindata.org/grapher/legislative-corruption-score), [judicial corruption](https://ourworldindata.org/grapher/judicial-corruption-score), and [public sector corruption](https://ourworldindata.org/grapher/public-sector-corruption-index).\n- V-Dem covers many more countries since 1900, which affects regional averages.\n- We provide two kinds of regional averages: **country averages** and **population-weighted averages**. Country averages weigh each country equally and give a sense of how the typical country is doing. Population-weighted averages weigh countries with larger populations more and therefore better reflect the average person's experience.",
+   "descriptionProcessing": "### Region aggregates\nThe default regional aggregates have been estimated by averaging the country values. These are only estimated since 1900 and when data for most countries and populations is available (i.e. 70% for most continents). We have used the list of countries in 1900 as a reference.\n\nIn addition, regional aggregates with names like \"Region (population-weighted)\" have been estimated by averaging the country values weighted by population. The population values are from the UN WPP 2024 revision dataset. These are only estimated when 70% of people in region have data for the given year.",
+   "unit": "",
+   "timespan": "1789-2025",
+   "type": "Numeric",
+   "owidVariableId": 1209730,
+   "shortName": "corruption_vdem__estimate_best",
+   "lastUpdated": "2026-03-17",
+   "nextUpdate": "2027-03-17",
+   "citationShort": "V-Dem (2026) – processed by Our World in Data",
+   "citationLong": "V-Dem (2026) – processed by Our World in Data. “Political Corruption Index – V-Dem” [dataset]. V-Dem, “Democracy report v16” [original data].",
+   "fullMetadata": "https://api.ourworldindata.org/v1/indicators/1209730.metadata.json"
+  },
+  "World region according to OWID": {
+   "titleShort": "World region according to OWID",
+   "titleLong": "World region according to OWID",
+   "descriptionShort": "Regions defined by Our World in Data, which are used in OWID charts and maps.",
+   "unit": "",
+   "timespan": "2023-2023",
+   "type": "Continent",
+   "owidVariableId": 900801,
+   "shortName": "owid_region",
+   "lastUpdated": "2023-01-01",
+   "citationShort": "Our World in Data",
+   "citationLong": "Our World in Data. “World region according to OWID” [dataset]. Our World in Data, “Regions” [original data].",
+   "fullMetadata": "https://api.ourworldindata.org/v1/indicators/900801.metadata.json"
+  }
+ },
+ "dateDownloaded": "2026-10-29"
+}

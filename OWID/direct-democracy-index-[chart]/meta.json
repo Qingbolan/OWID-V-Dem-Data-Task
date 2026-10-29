@@ -1,0 +1,56 @@
+{
+ "title": "Direct Democracy Index",
+ "url": "https://ourworldindata.org/grapher/direct-democracy-index",
+ "date_published": null,
+ "chart_page": true,
+ "authors": [],
+ "retrieved_at": "2026-10-29T17:05:45.073659+00:00",
+ "materialised_at": "2026-10-29T17:05:45.073668+00:00",
+ "source_original_sha256": "bcf07c7eefa3afb69eeca7921d65fcba670d31e4070496c1da9e2a46cdf6797c",
+ "offline_snapshot": {
+  "page": "source.html",
+  "assets": "source_files/",
+  "assets_manifest": "source_files/manifest.json",
+  "asset_count": 73,
+  "removed": "all <script> elements except application/ld+json"
+ },
+ "figures": [
+  {
+   "index": 1,
+   "name": "01 Direct Democracy Index",
+   "embed": {
+    "slug": "direct-democracy-index",
+    "query": {},
+    "image": null
+   },
+   "view_url": "https://ourworldindata.org/grapher/direct-democracy-index",
+   "csv_url": "https://ourworldindata.org/grapher/direct-democracy-index.csv?csvType=filtered",
+   "png_url": "https://ourworldindata.org/grapher/direct-democracy-index.png",
+   "data_available": true,
+   "config_title": "Direct Democracy Index",
+   "config_subtitle": "Data by [V-Dem](#dod:v-dem). Expert estimates of the extent to which citizens can easily vote on specific issues themselves in popular initiatives, referendums, and plebiscites. The index ranges from 0 to 1 (easiest).",
+   "files": {
+    "txt": {
+     "path": "figs/01 Direct Democracy Index.txt",
+     "sha256": "f7294d4078e18a6caeb4c1508cd8de565aad0611f91efbb8b192458ef73e8d52"
+    },
+    "csv": {
+     "path": "figs/01 Direct Democracy Index.csv",
+     "sha256": "c266306b27a68f03c490e96ff443b741d36f762b8130f6335a256e0276c51247"
+    },
+    "png": {
+     "path": "figs/01 Direct Democracy Index.png",
+     "sha256": "6d412e43211f4b6a2a8b9981f940379b7c3f49ccd0b5497642e02e125455bd1c"
+    }
+   },
+   "chart_slug": "direct-democracy-index",
+   "column_short_names": {
+    "Entity": "entity",
+    "Code": "code",
+    "Year": "year",
+    "Direct Democracy Index": "dirpop_vote_vdem",
+    "World region according to OWID": "owid_region"
+   }
+  }
+ ]
+}

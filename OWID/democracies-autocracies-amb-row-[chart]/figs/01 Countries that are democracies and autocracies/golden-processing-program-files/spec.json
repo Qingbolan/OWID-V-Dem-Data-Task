@@ -1,0 +1,194 @@
+{
+ "reproducible": true,
+ "program": "golden.vdem_pipeline",
+ "chart_slug": "democracies-autocracies-amb-row",
+ "view": "https://ourworldindata.org/grapher/democracies-autocracies-amb-row",
+ "columns": [
+  "Closed autocracies",
+  "Probably closed autocracies",
+  "Probably electoral autocracy",
+  "Electoral autocracies",
+  " Probably electoral autocracy",
+  " Probably electoral democracy",
+  "Electoral democracies",
+  "Probably electoral democracy",
+  "Probably liberal democracy",
+  "Liberal democracies"
+ ],
+ "solution_columns": [
+  "Closed autocracies",
+  "Probably closed autocracies",
+  "Probably electoral autocracy",
+  "Electoral autocracies",
+  " Probably electoral autocracy",
+  " Probably electoral democracy",
+  "Electoral democracies",
+  "Probably electoral democracy",
+  "Probably liberal democracy",
+  "Liberal democracies"
+ ],
+ "output_precision": {
+  "Closed autocracies": 15,
+  "Probably closed autocracies": 17,
+  "Probably electoral autocracy": 17,
+  "Electoral autocracies": 16,
+  " Probably electoral autocracy": 16,
+  " Probably electoral democracy": 16,
+  "Electoral democracies": 16,
+  "Probably electoral democracy": 16,
+  "Probably liberal democracy": 16,
+  "Liberal democracies": 16
+ },
+ "sources": {
+  "Closed autocracies": {
+   "table": "vdem_num_countries",
+   "column": "num_countries_regime_amb",
+   "filter": {
+    "category": "closed autocracy"
+   },
+   "short_name": "num_countries_regime_amb__category_closed_autocracy",
+   "gold_index": 3
+  },
+  "Probably closed autocracies": {
+   "table": "vdem_num_countries",
+   "column": "num_countries_regime_amb",
+   "filter": {
+    "category": "closed (maybe electoral) autocracy"
+   },
+   "short_name": "num_countries_regime_amb__category_closed__maybe_electoral__autocracy",
+   "gold_index": 4
+  },
+  "Probably electoral autocracy": {
+   "table": "vdem_num_countries",
+   "column": "num_countries_regime_amb",
+   "filter": {
+    "category": "electoral (maybe closed) autocracy"
+   },
+   "short_name": "num_countries_regime_amb__category_electoral__maybe_closed__autocracy",
+   "gold_index": 5
+  },
+  "Electoral autocracies": {
+   "table": "vdem_num_countries",
+   "column": "num_countries_regime",
+   "filter": {
+    "category": "electoral autocracy"
+   },
+   "short_name": "num_countries_regime__category_electoral_autocracy",
+   "gold_index": 6
+  },
+  " Probably electoral autocracy": {
+   "table": "vdem_num_countries",
+   "column": "num_countries_regime_amb",
+   "filter": {
+    "category": "electoral autocracy (maybe electoral democracy)"
+   },
+   "short_name": "num_countries_regime_amb__category_electoral_autocracy__maybe_electoral_democracy",
+   "gold_index": 7
+  },
+  " Probably electoral democracy": {
+   "table": "vdem_num_countries",
+   "column": "num_countries_regime_amb",
+   "filter": {
+    "category": "electoral democracy (maybe electoral autocracy)"
+   },
+   "short_name": "num_countries_regime_amb__category_electoral_democracy__maybe_electoral_autocracy",
+   "gold_index": 8
+  },
+  "Electoral democracies": {
+   "table": "vdem_num_countries",
+   "column": "num_countries_regime",
+   "filter": {
+    "category": "electoral democracy"
+   },
+   "short_name": "num_countries_regime__category_electoral_democracy",
+   "gold_index": 9
+  },
+  "Probably electoral democracy": {
+   "table": "vdem_num_countries",
+   "column": "num_countries_regime_amb",
+   "filter": {
+    "category": "electoral democracy (maybe liberal democracy)"
+   },
+   "short_name": "num_countries_regime_amb__category_electoral_democracy__maybe_liberal_democracy",
+   "gold_index": 10
+  },
+  "Probably liberal democracy": {
+   "table": "vdem_num_countries",
+   "column": "num_countries_regime_amb",
+   "filter": {
+    "category": "liberal democracy (maybe electoral democracy)"
+   },
+   "short_name": "num_countries_regime_amb__category_liberal_democracy__maybe_electoral_democracy",
+   "gold_index": 11
+  },
+  "Liberal democracies": {
+   "table": "vdem_num_countries",
+   "column": "num_countries_regime_amb",
+   "filter": {
+    "category": "liberal democracy"
+   },
+   "short_name": "num_countries_regime_amb__category_liberal_democracy",
+   "gold_index": 12
+  }
+ },
+ "gold_column_index": {
+  "Closed autocracies": 3,
+  "Probably closed autocracies": 4,
+  "Probably electoral autocracy": 5,
+  "Electoral autocracies": 6,
+  " Probably electoral autocracy": 7,
+  " Probably electoral democracy": 8,
+  "Electoral democracies": 9,
+  "Probably electoral democracy": 10,
+  "Probably liberal democracy": 11,
+  "Liberal democracies": 12
+ },
+ "entity_mapping": "data/reference/owid_etl/vdem/vdem.countries.json",
+ "compare": {
+  "Closed autocracies": {
+   "abs": 1e-15,
+   "rel": 1e-06
+  },
+  "Probably closed autocracies": {
+   "abs": 1e-17,
+   "rel": 1e-06
+  },
+  "Probably electoral autocracy": {
+   "abs": 1e-17,
+   "rel": 1e-06
+  },
+  "Electoral autocracies": {
+   "abs": 1e-16,
+   "rel": 1e-06
+  },
+  " Probably electoral autocracy": {
+   "abs": 1e-16,
+   "rel": 1e-06
+  },
+  " Probably electoral democracy": {
+   "abs": 1e-16,
+   "rel": 1e-06
+  },
+  "Electoral democracies": {
+   "abs": 1e-16,
+   "rel": 1e-06
+  },
+  "Probably electoral democracy": {
+   "abs": 1e-16,
+   "rel": 1e-06
+  },
+  "Probably liberal democracy": {
+   "abs": 1e-16,
+   "rel": 1e-06
+  },
+  "Liberal democracies": {
+   "abs": 1e-16,
+   "rel": 1e-06
+  }
+ },
+ "encodings": {},
+ "scale": {},
+ "stack_relative": true,
+ "time_tolerance": 0,
+ "not_compared": {}
+}

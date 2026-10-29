@@ -1,0 +1,282 @@
+{
+ "title": "Democracy",
+ "url": "https://ourworldindata.org/democracy",
+ "date_published": "2013-03-15",
+ "authors": [
+  "Bastian Herre",
+  "Lucas Rodés-Guirao",
+  "Esteban Ortiz-Ospina"
+ ],
+ "retrieved_at": "2026-10-29T15:14:50.089272+00:00",
+ "materialised_at": "2026-10-29T16:25:30.760535+00:00",
+ "source_original_sha256": "72d693187aefee9ab022d150f7e77082b02e4ad9e6b884b91ef6db005f8a60d1",
+ "offline_snapshot": {
+  "page": "source.html",
+  "assets": "source_files/",
+  "assets_manifest": "source_files/manifest.json",
+  "asset_count": 312,
+  "removed": "all <script> elements except application/ld+json"
+ },
+ "figures": [
+  {
+   "index": 1,
+   "name": "01 Countries that are democracies and autocracies",
+   "embed": {
+    "slug": "countries-democracies-autocracies-row",
+    "query": {},
+    "image": null
+   },
+   "files": {
+    "html": {
+     "path": "figs/01 Countries that are democracies and autocracies.html",
+     "sha256": "9894d695ba2dd74ab4ac0c9b8751d2e98dfb98c4f9fa837d6c06e4a0c0938c13"
+    },
+    "csv": {
+     "path": "figs/01 Countries that are democracies and autocracies.csv",
+     "sha256": "1c5d70ecc408fe4db4e3822df5bb78bf9da47f25336685365133c5d1a2484305"
+    },
+    "png": {
+     "path": "figs/01 Countries that are democracies and autocracies.png",
+     "sha256": "fe8ba12a9a37bc6b0bc78349ea3125231f66346d6e2538dfd4557e1f76c1a436"
+    },
+    "txt": {
+     "path": "figs/01 Countries that are democracies and autocracies.txt",
+     "sha256": "36c54c6f423d630bc499facf0eb8adc0fb852f9861d7ea3d0454b3ca8e660448"
+    }
+   },
+   "view_url": "https://ourworldindata.org/grapher/countries-democracies-autocracies-row",
+   "csv_url": "https://ourworldindata.org/grapher/countries-democracies-autocracies-row.csv?csvType=filtered",
+   "png_url": "https://ourworldindata.org/grapher/countries-democracies-autocracies-row.png",
+   "data_available": true,
+   "config_title": "Countries that are democracies and autocracies",
+   "config_subtitle": "Classification by [Lührmann et al. (2018)](#dod:regimes-of-the-world) based on expert estimates by [V-Dem](#dod:v-dem).",
+   "chart_slug": "countries-democracies-autocracies-row",
+   "column_short_names": {
+    "Entity": "entity",
+    "Code": "code",
+    "Year": "year",
+    "Closed autocracies": "num_countries_regime__category_closed_autocracy",
+    "Electoral autocracies": "num_countries_regime__category_electoral_autocracy",
+    "Electoral democracies": "num_countries_regime__category_electoral_democracy",
+    "Liberal democracies": "num_countries_regime__category_liberal_democracy"
+   }
+  },
+  {
+   "index": 2,
+   "name": "02 People living in democracies and autocracies",
+   "embed": {
+    "slug": "people-living-in-democracies-autocracies",
+    "query": {},
+    "image": null
+   },
+   "files": {
+    "html": {
+     "path": "figs/02 People living in democracies and autocracies.html",
+     "sha256": "b64d398206b8937a03e6a96a5fb9d674a776bcc5382b984576fb5414132bbf58"
+    },
+    "csv": {
+     "path": "figs/02 People living in democracies and autocracies.csv",
+     "sha256": "ffe7bf2414c76ccfa4062c6aa3c9d013f7eb13ac9667abac4390872901ef7e7e"
+    },
+    "png": {
+     "path": "figs/02 People living in democracies and autocracies.png",
+     "sha256": "0d0ffc9ec931446c138ea9b49cb17d9108c2d4031dfd8a9d41b382728cdbcd8c"
+    },
+    "txt": {
+     "path": "figs/02 People living in democracies and autocracies.txt",
+     "sha256": "b531c61c002bd2c135e886c300acd56a0a170ae635909aba498f74d84a44c9e7"
+    }
+   },
+   "view_url": "https://ourworldindata.org/grapher/people-living-in-democracies-autocracies",
+   "csv_url": "https://ourworldindata.org/grapher/people-living-in-democracies-autocracies.csv?csvType=filtered",
+   "png_url": "https://ourworldindata.org/grapher/people-living-in-democracies-autocracies.png",
+   "data_available": true,
+   "config_title": "People living in democracies and autocracies",
+   "config_subtitle": "Classification by [Lührmann et al. (2018)](#dod:regimes-of-the-world) based on expert estimates by [V-Dem](#dod:v-dem).",
+   "chart_slug": "people-living-in-democracies-autocracies",
+   "column_short_names": {
+    "Entity": "entity",
+    "Code": "code",
+    "Year": "year",
+    "No regime data": "population_regime__category__1",
+    "People living in closed autocracies": "population_regime__category_closed_autocracy",
+    "in electoral autocracies": "population_regime__category_electoral_autocracy",
+    "in electoral democracies": "population_regime__category_electoral_democracy",
+    "in liberal democracies": "population_regime__category_liberal_democracy"
+   }
+  },
+  {
+   "index": 3,
+   "name": "03 Number of electoral democracies by age",
+   "embed": {
+    "slug": "number-electoral-democracies-age",
+    "query": {},
+    "image": null
+   },
+   "files": {
+    "html": {
+     "path": "figs/03 Number of electoral democracies by age.html",
+     "sha256": "5e7475342ed95023eacf0d9b5f44a0760b19041b27a4969fbf423bbe7c356917"
+    },
+    "csv": {
+     "path": "figs/03 Number of electoral democracies by age.csv",
+     "sha256": "7dd3ac0dde9019d7c4285368517f075cc8a5891517f7ccae9989c4ca61da8996"
+    },
+    "png": {
+     "path": "figs/03 Number of electoral democracies by age.png",
+     "sha256": "c660ab71cb4ce0d9bc78234e2177655a7d40cfa37a69835f01fdb5dcd84f89f7"
+    },
+    "txt": {
+     "path": "figs/03 Number of electoral democracies by age.txt",
+     "sha256": "030c447cd6acce34190c4e72dd34bb6fe11950e8ad70d6282c9ab60c877c229a"
+    }
+   },
+   "view_url": "https://ourworldindata.org/grapher/number-electoral-democracies-age",
+   "csv_url": "https://ourworldindata.org/grapher/number-electoral-democracies-age.csv?csvType=filtered",
+   "png_url": "https://ourworldindata.org/grapher/number-electoral-democracies-age.png",
+   "data_available": true,
+   "config_title": "Number of electoral democracies by age",
+   "config_subtitle": "Classification by [Lührmann et al. (2018)](#dod:regimes-of-the-world-simplified) based on expert estimates by [V-Dem](#dod:v-dem). Electoral democracies are political systems that hold meaningful, free and fair, and multi-party elections.",
+   "chart_slug": "number-electoral-democracies-age",
+   "column_short_names": {
+    "Entity": "entity",
+    "Code": "code",
+    "Year": "year",
+    "Closed autocracies": "num_countries_regime__category_closed_autocracy",
+    "Electoral autocracies": "num_countries_regime__category_electoral_autocracy",
+    "91 years +": "num_countries_years_in_electdem__category_91plus_years",
+    "61-90 years": "num_countries_years_in_electdem__category_61_90_years",
+    "31-60 years": "num_countries_years_in_electdem__category_31_60_years",
+    "19-30 years": "num_countries_years_in_electdem__category_19_30_years",
+    "Electoral democracies aged 1-18 years": "num_countries_years_in_electdem__category_1_18_years"
+   }
+  },
+  {
+   "index": 4,
+   "name": "04 Electoral Democracy Index",
+   "embed": {
+    "slug": "electoral-democracy-index",
+    "query": {
+     "tab": "marimekko"
+    },
+    "image": null
+   },
+   "files": {
+    "html": {
+     "path": "figs/04 Electoral Democracy Index.html",
+     "sha256": "bf8f7c9c1550753bc67353dd465ad6d778e6b89ada59a38a7884e8bdd3993aa7"
+    },
+    "csv": {
+     "path": "figs/04 Electoral Democracy Index.csv",
+     "sha256": "cf157542aead980ec60734c50325f0037c788330f1232b9844793107a8baed50"
+    },
+    "png": {
+     "path": "figs/04 Electoral Democracy Index.png",
+     "sha256": "be3f88a0a4422061d62133a3b903ca98f21bba5837cfe18f40ff28ce265b2693"
+    },
+    "txt": {
+     "path": "figs/04 Electoral Democracy Index.txt",
+     "sha256": "c5779b027a67dc6071a7e8ebd8d6f2c719986dc69f95652fcf08592cf3ad50c2"
+    }
+   },
+   "view_url": "https://ourworldindata.org/grapher/electoral-democracy-index?tab=marimekko",
+   "csv_url": "https://ourworldindata.org/grapher/electoral-democracy-index.csv?csvType=filtered&tab=marimekko",
+   "png_url": "https://ourworldindata.org/grapher/electoral-democracy-index.png?tab=marimekko",
+   "data_available": true,
+   "config_title": "Electoral Democracy Index",
+   "config_subtitle": "Data by [V-Dem](#dod:v-dem). Expert estimates of the extent to which political leaders are elected under comprehensive voting rights in free and fair elections, and freedoms of association and expression are guaranteed. The index ranges from 0 to 1 (most democratic).",
+   "chart_slug": "electoral-democracy-index",
+   "column_short_names": {
+    "Entity": "entity",
+    "Code": "code",
+    "Year": "year",
+    "Electoral democracy index": "electdem_vdem__estimate_best",
+    "World region according to OWID": "owid_region"
+   }
+  },
+  {
+   "index": 5,
+   "name": "05 Countries that are democratizing and autocratizing",
+   "embed": {
+    "slug": "countries-that-are-democratizing-and-autocratizing",
+    "query": {
+     "stackMode": "absolute"
+    },
+    "image": null
+   },
+   "files": {
+    "html": {
+     "path": "figs/05 Countries that are democratizing and autocratizing.html",
+     "sha256": "fafeacabad966d6444d45279c99471b601a8ad6bdbb1062141591eb57a851d97"
+    },
+    "csv": {
+     "path": "figs/05 Countries that are democratizing and autocratizing.csv",
+     "sha256": "6dfa2ba4d13afa3af8177a933d7841285b77bd38f57799c01c840d3ce9ed9c2d"
+    },
+    "png": {
+     "path": "figs/05 Countries that are democratizing and autocratizing.png",
+     "sha256": "060d9f2167cdf4f1f0bc896ba7be8c83a7342d5071edc69ceed7588bde852f7c"
+    },
+    "txt": {
+     "path": "figs/05 Countries that are democratizing and autocratizing.txt",
+     "sha256": "23236bcbdead4e1175fb2b9bd9ee4959c6016405dbf29aca6ea4b6b7444be6cf"
+    }
+   },
+   "view_url": "https://ourworldindata.org/grapher/countries-that-are-democratizing-and-autocratizing?stackMode=absolute",
+   "csv_url": "https://ourworldindata.org/grapher/countries-that-are-democratizing-and-autocratizing.csv?csvType=filtered&stackMode=absolute",
+   "png_url": "https://ourworldindata.org/grapher/countries-that-are-democratizing-and-autocratizing.png?stackMode=absolute",
+   "data_available": true,
+   "config_title": "Countries that are democratizing and autocratizing",
+   "config_subtitle": "Data by [Episodes of Regime Transformation](#dod:regimes-episodes-regime-transformation) and [V-Dem](#dod:v-dem).",
+   "chart_slug": "countries-that-are-democratizing-and-autocratizing",
+   "column_short_names": {
+    "Entity": "entity",
+    "Code": "code",
+    "Year": "year",
+    "Autocratizing regimes": "num_regime_trich_ert__category_autocratizing_regime",
+    "Neither autocratizing nor democratizing": "num_regime_trich_ert__category_stable_regime",
+    "Democratizing regimes": "num_regime_trich_ert__category_democratizing_regime"
+   }
+  },
+  {
+   "index": 6,
+   "name": "06 Democracy",
+   "embed": {
+    "slug": "political-regime",
+    "query": {},
+    "image": null
+   },
+   "files": {
+    "html": {
+     "path": "figs/06 Democracy.html",
+     "sha256": "e4d27c4a6b8e16a11515b184fc4cd7314ad26c41f274472a5ad7e28c7e93b700"
+    },
+    "csv": {
+     "path": "figs/06 Democracy.csv",
+     "sha256": "e1545dc8dfd1f0bcb911c38e67fdbcae26a50f28556185e0082da775369083c7"
+    },
+    "png": {
+     "path": "figs/06 Democracy.png",
+     "sha256": "45eded3816e4718e8719f187f041f4b79fb1c5448e6d9998011581ff94976c41"
+    },
+    "txt": {
+     "path": "figs/06 Democracy.txt",
+     "sha256": "bdac4399641bd5882e2e5b14e65e4f20bdfa088b2b0872e23800132a020cb97d"
+    }
+   },
+   "view_url": "https://ourworldindata.org/grapher/political-regime",
+   "csv_url": "https://ourworldindata.org/grapher/political-regime.csv?csvType=filtered",
+   "png_url": "https://ourworldindata.org/grapher/political-regime.png",
+   "data_available": true,
+   "config_title": "Democracy",
+   "config_subtitle": "Classification by [Lührmann et al. (2018)](#dod:regimes-of-the-world) based on expert estimates by [V-Dem](#dod:v-dem).",
+   "chart_slug": "political-regime",
+   "column_short_names": {
+    "Entity": "entity",
+    "Code": "code",
+    "Year": "year",
+    "Political regime": "regime_row_owid"
+   }
+  }
+ ]
+}

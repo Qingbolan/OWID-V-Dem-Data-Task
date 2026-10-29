@@ -1,0 +1,56 @@
+{
+ "title": "Civil Society Participation Index",
+ "url": "https://ourworldindata.org/grapher/civil-society-participation-index",
+ "date_published": null,
+ "chart_page": true,
+ "authors": [],
+ "retrieved_at": "2026-10-29T16:59:07.735171+00:00",
+ "materialised_at": "2026-10-29T16:59:07.735192+00:00",
+ "source_original_sha256": "122767d9fa0e0aeb0209503052ec8309b7ac8c475617e00b24933325545cf023",
+ "offline_snapshot": {
+  "page": "source.html",
+  "assets": "source_files/",
+  "assets_manifest": "source_files/manifest.json",
+  "asset_count": 73,
+  "removed": "all <script> elements except application/ld+json"
+ },
+ "figures": [
+  {
+   "index": 1,
+   "name": "01 Civil Society Participation Index",
+   "embed": {
+    "slug": "civil-society-participation-index",
+    "query": {},
+    "image": null
+   },
+   "view_url": "https://ourworldindata.org/grapher/civil-society-participation-index",
+   "csv_url": "https://ourworldindata.org/grapher/civil-society-participation-index.csv?csvType=filtered",
+   "png_url": "https://ourworldindata.org/grapher/civil-society-participation-index.png",
+   "data_available": true,
+   "config_title": "Civil Society Participation Index",
+   "config_subtitle": "Data by [V-Dem](#dod:v-dem). Expert estimates of the extent to which citizens are active in diverse organizations which choose and influence policy-makers. The index ranges from 0 to 1 (most active).",
+   "files": {
+    "txt": {
+     "path": "figs/01 Civil Society Participation Index.txt",
+     "sha256": "42716712df74e009d68f489f10205978cd4a18aa1ffec311a64944e3353dec6d"
+    },
+    "csv": {
+     "path": "figs/01 Civil Society Participation Index.csv",
+     "sha256": "b25b970052f34da6fed0bc4ebfb2a590a44ea5d33dadd0710e2d2740900c9637"
+    },
+    "png": {
+     "path": "figs/01 Civil Society Participation Index.png",
+     "sha256": "72b33fc1bc62a522d9621e754f7f017f96ed36a72d8311fa4c4a4b3da100fb98"
+    }
+   },
+   "chart_slug": "civil-society-participation-index",
+   "column_short_names": {
+    "Entity": "entity",
+    "Code": "code",
+    "Year": "year",
+    "Civil society participation index": "civsoc_particip_vdem__estimate_best",
+    "World region according to OWID": "owid_region"
+   }
+  }
+ ]
+}

@@ -1,0 +1,23 @@
+{
+ "figure": "06 Share of countries by gender of the chief executive",
+ "checked_at": "2026-10-29T18:06:18.940980+00:00",
+ "status": "match",
+ "gold_rows": 237,
+ "gold_rows_missing_in_reference": 0,
+ "mismatched_cells": {
+  "Man is chief executive": 0,
+  "Woman is chief executive": 0
+ },
+ "tolerance": {
+  "Man is chief executive": {
+   "abs": 1e-14,
+   "rel": 1e-06
+  },
+  "Woman is chief executive": {
+   "abs": 1e-16,
+   "rel": 1e-06
+  }
+ },
+ "first_mismatches": [],
+ "program": "golden.vdem_pipeline"
+}

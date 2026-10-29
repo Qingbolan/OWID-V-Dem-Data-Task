@@ -1,0 +1,12 @@
+Figure 14: 14 Share of firms that report being asked to pay a bribe
+Article: Promote just, peaceful and inclusive societies (2023-07-18)
+
+Title: Share of firms that report being asked to pay a bribe
+Subtitle: [Bribes](#dod:bribery) when dealing with core public services, such as operating licenses and construction permits.
+Note: 
+Source: World Bank Enterprise Surveys (2024)
+Units: %
+Chart: https://ourworldindata.org/grapher/bribery-incidence-for-firms
+
+Text before the figure: More research: Further data and research can be found at the Our World in Data topic page on Corruption .
+Text after the figure: ## Target 16.6 Develop effective, accountable and transparent institutions

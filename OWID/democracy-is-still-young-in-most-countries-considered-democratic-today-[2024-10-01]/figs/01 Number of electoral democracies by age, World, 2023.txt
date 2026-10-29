@@ -1,0 +1,13 @@
+Figure 01: 01 Number of electoral democracies by age, World, 2023
+Article: Democracy is still young in most countries considered democratic today (2024-10-01)
+
+Title: Democracy is young in most countries
+Subtitle: Number of electoral democracies worldwide by age in 2023. Electoral democracies are understood here as political systems that hold meaningful, free and fair, and multi-party elections.
+Note: 
+Source: V-Dem (2026)
+Units: countries
+Image description: Bar chart titled "Number of electoral democracies by age, World, 2023". It categorizes political systems by type and age, based on the classification by Lührmann et al. (2018) and V-Dem data. Most democracies are less than a generation old, and few are older than three generations.
+Underlying chart (identified): https://ourworldindata.org/grapher/number-electoral-democracies-age?tab=discrete-bar&time=2023&country=~OWID_WRL
+
+Text before the figure: 
+Text after the figure: Most electoral democracies are younger than the oldest people who live in them.

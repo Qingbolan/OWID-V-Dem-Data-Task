@@ -1,0 +1,90 @@
+{
+ "id": 6380,
+ "note": "Only countries with at least one legislative chamber included.",
+ "slug": "countries-by-share-of-women-in-parliament",
+ "title": "Countries by share of women in parliament",
+ "$schema": "https://files.ourworldindata.org/schemas/grapher-schema.011.json",
+ "version": 37,
+ "subtitle": "Percentage of seats in lower or single chamber of the legislature held by women.",
+ "originUrl": "/women-rights",
+ "stackMode": "relative",
+ "chartTypes": [
+  "StackedArea",
+  "StackedDiscreteBar"
+ ],
+ "dimensions": [
+  {
+   "display": {
+    "name": "No women",
+    "color": "#e5d2a1",
+    "numDecimalPlaces": 0
+   },
+   "property": "y",
+   "variableId": 1209961
+  },
+  {
+   "display": {
+    "name": "Less than 10% women",
+    "color": "#dba198",
+    "numDecimalPlaces": 0
+   },
+   "property": "y",
+   "variableId": 1209962
+  },
+  {
+   "display": {
+    "name": "10 - 20% women",
+    "color": "#d08a94",
+    "numDecimalPlaces": 0
+   },
+   "property": "y",
+   "variableId": 1209963
+  },
+  {
+   "display": {
+    "name": "20 - 30% women",
+    "color": "#c37491",
+    "numDecimalPlaces": 0
+   },
+   "property": "y",
+   "variableId": 1209964
+  },
+  {
+   "display": {
+    "name": "30 - 40% women",
+    "color": "#b2608f",
+    "numDecimalPlaces": 0
+   },
+   "property": "y",
+   "variableId": 1209966
+  },
+  {
+   "display": {
+    "name": "40 - 50% women",
+    "color": "#863d8c",
+    "numDecimalPlaces": 0
+   },
+   "property": "y",
+   "variableId": 1209965
+  },
+  {
+   "display": {
+    "name": "50% or more women",
+    "color": "#6e016b",
+    "numDecimalPlaces": 0
+   },
+   "property": "y",
+   "variableId": 1209967
+  }
+ ],
+ "entityType": "region",
+ "isPublished": true,
+ "entityTypePlural": "regions",
+ "hideRelativeToggle": false,
+ "selectedEntityNames": [
+  "World"
+ ],
+ "hideAnnotationFieldsInTitle": {
+  "time": true
+ }
+}

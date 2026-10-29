@@ -1,0 +1,50 @@
+{
+ "chart": {
+  "title": "Tax revenue as share of GDP",
+  "subtitle": "Direct and indirect taxes as well as social contributions included.",
+  "citation": "UNU-WIDER Government Revenue Dataset (2025)",
+  "originalChartUrl": "https://ourworldindata.org/grapher/tax-revenues-as-a-share-of-gdp-unu-wider",
+  "selection": [
+   "Colombia",
+   "Ghana",
+   "Turkey",
+   "United States",
+   "France",
+   "United Kingdom"
+  ]
+ },
+ "columns": {
+  "Taxes including social contributions (as a share of GDP)": {
+   "titleShort": "Taxes including social contributions",
+   "titleLong": "Taxes including social contributions",
+   "descriptionKey": "- Taxes are mandatory payments to the government that are not made in exchange for a specific good or service.\n- Social contributions are payments –compulsory or voluntary– made by workers and employers into social insurance systems, such as pensions, unemployment insurance, or health insurance.\n- Resource taxes (mostly related to oil and mining) are not systematically defined or captured in the data.",
+   "descriptionProcessing": "The source provides their data with caution notes, classifying them as follows:\n\n  1. Accuracy, quality or comparability of data questionable.\n  2. Un-excluded resource revenues/taxes are significant but cannot be isolated from total revenue/taxes.\n  3. Un-excluded resource revenue/taxes are marginal but non-negligible and cannot be isolated from total revenue/taxes.\n  4. Inconsistencies with social contributions.\n\nWe have excluded from our dataset the observations flagged with caution note 1.\n",
+   "shortUnit": "%",
+   "unit": "% of GDP",
+   "timespan": "1980-2023",
+   "type": "Numeric",
+   "owidVariableId": 1210135,
+   "shortName": "tax_inc_sc",
+   "lastUpdated": "2026-03-24",
+   "nextUpdate": "2027-03-24",
+   "citationShort": "UNU-WIDER Government Revenue Dataset (2025) – with major processing by Our World in Data",
+   "citationLong": "UNU-WIDER Government Revenue Dataset (2025) – with major processing by Our World in Data. “Taxes including social contributions – UNU-WIDER” [dataset]. UNU-WIDER, “Government Revenue Dataset (GRD) 2025” [original data].",
+   "fullMetadata": "https://api.ourworldindata.org/v1/indicators/1210135.metadata.json"
+  },
+  "World region according to OWID": {
+   "titleShort": "World region according to OWID",
+   "titleLong": "World region according to OWID",
+   "descriptionShort": "Regions defined by Our World in Data, which are used in OWID charts and maps.",
+   "unit": "",
+   "timespan": "2023-2023",
+   "type": "Continent",
+   "owidVariableId": 900801,
+   "shortName": "owid_region",
+   "lastUpdated": "2023-01-01",
+   "citationShort": "Our World in Data",
+   "citationLong": "Our World in Data. “World region according to OWID” [dataset]. Our World in Data, “Regions” [original data].",
+   "fullMetadata": "https://api.ourworldindata.org/v1/indicators/900801.metadata.json"
+  }
+ },
+ "dateDownloaded": "2026-10-29"
+}

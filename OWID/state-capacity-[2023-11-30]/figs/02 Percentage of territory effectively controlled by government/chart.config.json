@@ -1,0 +1,78 @@
+{
+ "id": 7145,
+ "map": {
+  "colorScale": {
+   "baseColorScheme": "GnBu",
+   "binningStrategy": "manual",
+   "customNumericColors": [
+    null,
+    null,
+    null
+   ],
+   "customNumericLabels": [
+    "",
+    "",
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "customNumericValues": [
+    100,
+    50,
+    70,
+    80,
+    90,
+    95,
+    100
+   ]
+  },
+  "columnSlug": "1209838"
+ },
+ "tab": "map",
+ "note": "Values are missing if the country is not independent.",
+ "slug": "percentage-of-territory-controlled-by-government",
+ "title": "Percentage of territory effectively controlled by government",
+ "yAxis": {
+  "max": 100,
+  "min": 0
+ },
+ "$schema": "https://files.ourworldindata.org/schemas/grapher-schema.011.json",
+ "version": 54,
+ "subtitle": "Data by [V-Dem](#dod:v-dem). Expert estimates of the extent to which the government is recognized as the main authority, or rejected by others, such as insurgent groups, criminal organizations, or other countries.",
+ "hasMapTab": true,
+ "originUrl": "/state-capacity",
+ "chartTypes": [
+  "LineChart",
+  "SlopeChart",
+  "DiscreteBar",
+  "Marimekko",
+  "Dumbbell"
+ ],
+ "dimensions": [
+  {
+   "display": {
+    "name": "Territory under state control",
+    "unit": "%",
+    "color": "#3c4e66",
+    "numDecimalPlaces": 1
+   },
+   "property": "y",
+   "variableId": 1209838
+  },
+  {
+   "property": "color",
+   "variableId": 900801
+  }
+ ],
+ "isPublished": true,
+ "hideFacetControl": false,
+ "selectedEntityNames": [
+  "World",
+  "Argentina",
+  "Australia",
+  "Botswana",
+  "China"
+ ]
+}

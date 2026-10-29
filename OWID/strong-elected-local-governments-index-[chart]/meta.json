@@ -1,0 +1,56 @@
+{
+ "title": "Strong Elected Local Governments Index",
+ "url": "https://ourworldindata.org/grapher/strong-elected-local-governments-index",
+ "date_published": null,
+ "chart_page": true,
+ "authors": [],
+ "retrieved_at": "2026-10-29T17:47:27.439703+00:00",
+ "materialised_at": "2026-10-29T17:47:27.439714+00:00",
+ "source_original_sha256": "7175a75a30a3a3c4dd8809694c1e0034f1f6b83987694d2aec6c0e9e4240fe11",
+ "offline_snapshot": {
+  "page": "source.html",
+  "assets": "source_files/",
+  "assets_manifest": "source_files/manifest.json",
+  "asset_count": 73,
+  "removed": "all <script> elements except application/ld+json"
+ },
+ "figures": [
+  {
+   "index": 1,
+   "name": "01 Strong Elected Local Governments Index",
+   "embed": {
+    "slug": "strong-elected-local-governments-index",
+    "query": {},
+    "image": null
+   },
+   "view_url": "https://ourworldindata.org/grapher/strong-elected-local-governments-index",
+   "csv_url": "https://ourworldindata.org/grapher/strong-elected-local-governments-index.csv?csvType=filtered",
+   "png_url": "https://ourworldindata.org/grapher/strong-elected-local-governments-index.png",
+   "data_available": true,
+   "config_title": "Strong Elected Local Governments Index",
+   "config_subtitle": "Data by [V-Dem](#dod:v-dem). Expert estimates of the extent to which citizens elect local governments that are free from the influence of unelected local actors, except for courts. The index ranges from 0 to 1 (strongest).",
+   "files": {
+    "txt": {
+     "path": "figs/01 Strong Elected Local Governments Index.txt",
+     "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    "csv": {
+     "path": "figs/01 Strong Elected Local Governments Index.csv",
+     "sha256": "3408ff987ebb342bb007f211b6057fd86f34713338a94cfae050ed1fcefca87c"
+    },
+    "png": {
+     "path": "figs/01 Strong Elected Local Governments Index.png",
+     "sha256": "51030810df40596df617e09ea28b6ccec79f96d2f3554582c1d287cc2e771b4d"
+    }
+   },
+   "chart_slug": "strong-elected-local-governments-index",
+   "column_short_names": {
+    "Entity": "entity",
+    "Code": "code",
+    "Year": "year",
+    "Strong Elected Local Governments Index": "locelect_vdem__estimate_best",
+    "World region according to OWID": "owid_region"
+   }
+  }
+ ]
+}

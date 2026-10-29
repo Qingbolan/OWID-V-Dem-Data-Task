@@ -1,0 +1,56 @@
+{
+ "title": "Equal Rights Protection Index",
+ "url": "https://ourworldindata.org/grapher/equal-rights-protection-index",
+ "date_published": null,
+ "chart_page": true,
+ "authors": [],
+ "retrieved_at": "2026-10-29T17:12:59.606337+00:00",
+ "materialised_at": "2026-10-29T17:12:59.606344+00:00",
+ "source_original_sha256": "e2367dd99d63ccc00b44bba87f13e5b4c714cba2741b06958a2880f5ee9b826b",
+ "offline_snapshot": {
+  "page": "source.html",
+  "assets": "source_files/",
+  "assets_manifest": "source_files/manifest.json",
+  "asset_count": 73,
+  "removed": "all <script> elements except application/ld+json"
+ },
+ "figures": [
+  {
+   "index": 1,
+   "name": "01 Equal Rights Protection Index",
+   "embed": {
+    "slug": "equal-rights-protection-index",
+    "query": {},
+    "image": null
+   },
+   "view_url": "https://ourworldindata.org/grapher/equal-rights-protection-index",
+   "csv_url": "https://ourworldindata.org/grapher/equal-rights-protection-index.csv?csvType=filtered",
+   "png_url": "https://ourworldindata.org/grapher/equal-rights-protection-index.png",
+   "data_available": true,
+   "config_title": "Equal Rights Protection Index",
+   "config_subtitle": "Data by [V-Dem](#dod:v-dem). Expert estimates of the extent to which the state grants and protects rights and freedoms equally across all social groups. The index ranges from 0 to 1 (most equal).",
+   "files": {
+    "txt": {
+     "path": "figs/01 Equal Rights Protection Index.txt",
+     "sha256": "d6881323d496145a4cbb8f90dde4bfcc94b9f217e88920d8cb23a6cde3095aa4"
+    },
+    "csv": {
+     "path": "figs/01 Equal Rights Protection Index.csv",
+     "sha256": "6581e81db2b9e7e24fec208b7a444d5530783960dba9755f753c2c7936e6a90c"
+    },
+    "png": {
+     "path": "figs/01 Equal Rights Protection Index.png",
+     "sha256": "5593c37a895180700261ba13c09ab6ed0ea2cdf2a395b522b00dbf346f51443b"
+    }
+   },
+   "chart_slug": "equal-rights-protection-index",
+   "column_short_names": {
+    "Entity": "entity",
+    "Code": "code",
+    "Year": "year",
+    "Equal rights protection index": "equal_rights_vdem__estimate_best",
+    "World region according to OWID": "owid_region"
+   }
+  }
+ ]
+}

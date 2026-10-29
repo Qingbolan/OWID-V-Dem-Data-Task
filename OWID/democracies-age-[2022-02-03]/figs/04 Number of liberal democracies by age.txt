@@ -1,0 +1,12 @@
+Figure 04: 04 Number of liberal democracies by age
+Article: In most countries, democracy is a recent achievement. Dictatorship is far from a distant memory. (2022-02-03)
+
+Title: Number of liberal democracies by age
+Subtitle: Classification by [Lührmann et al. (2018)](#dod:regimes-of-the-world) based on expert estimates by [V-Dem](#dod:v-dem). Liberal democracies are political systems that hold meaningful, free and fair, and multi-party elections, and their citizens have further individual rights, are equal before the law, and the legislative and the courts constrain the executive.
+Note: 
+Source: V-Dem (2026)
+Units: countries
+Chart: https://ourworldindata.org/grapher/number-liberal-democracies-age
+
+Text before the figure: These liberal democracies split evenly into four age groups: democracies the age of children or young adults, such as Chile, Estonia, and Taiwan; middle-aged democracies, including Costa Rica, Italy, and Spain; democracies the age of senior citizens, such as France, Germany, and Japan; and even older liberal democracies: this includes Australia, New Zealand, and Sweden. The outlier by far is Switzerland, which the RoW classification categorizes as a liberal democracy without interruption since the middle of the 19th century.
+Text after the figure: # Democracy is a recent achievement regardless of the measure used

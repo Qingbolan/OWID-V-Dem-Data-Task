@@ -1,0 +1,58 @@
+{
+ "reproducible": true,
+ "program": "golden.vdem_pipeline",
+ "chart_slug": "share-of-countries-by-gender-of-the-chief-executive",
+ "view": "https://ourworldindata.org/grapher/share-of-countries-by-gender-of-the-chief-executive",
+ "columns": [
+  "Man is chief executive",
+  "Woman is chief executive"
+ ],
+ "solution_columns": [
+  "Man is chief executive",
+  "Woman is chief executive"
+ ],
+ "output_precision": {
+  "Man is chief executive": 14,
+  "Woman is chief executive": 16
+ },
+ "sources": {
+  "Man is chief executive": {
+   "table": "vdem_num_countries",
+   "column": "num_countries_hoe",
+   "filter": {
+    "category": "Man"
+   },
+   "short_name": "num_countries_hoe__category_man",
+   "gold_index": 3
+  },
+  "Woman is chief executive": {
+   "table": "vdem_num_countries",
+   "column": "num_countries_hoe",
+   "filter": {
+    "category": "Woman"
+   },
+   "short_name": "num_countries_hoe__category_woman",
+   "gold_index": 4
+  }
+ },
+ "gold_column_index": {
+  "Man is chief executive": 3,
+  "Woman is chief executive": 4
+ },
+ "entity_mapping": "data/reference/owid_etl/vdem/vdem.countries.json",
+ "compare": {
+  "Man is chief executive": {
+   "abs": 1e-14,
+   "rel": 1e-06
+  },
+  "Woman is chief executive": {
+   "abs": 1e-16,
+   "rel": 1e-06
+  }
+ },
+ "encodings": {},
+ "scale": {},
+ "stack_relative": true,
+ "time_tolerance": 0,
+ "not_compared": {}
+}

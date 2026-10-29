@@ -1,0 +1,56 @@
+{
+ "chart": {
+  "title": "Countries that have universal voting rights",
+  "subtitle": "This does not consider elections being held in practice, informal restrictions on voting rights, or legal restrictions based on age, criminal conviction, disability, or local residency.",
+  "citation": "Lexical Index (2026)",
+  "originalChartUrl": "https://ourworldindata.org/grapher/countries-that-have-universal-voting-rights",
+  "selection": [
+   "World"
+  ]
+ },
+ "columns": {
+  "Number of countries with no suffrage": {
+   "titleShort": "No universal right to vote",
+   "titleLong": "No universal right to vote",
+   "unit": "countries",
+   "timespan": "1789-2025",
+   "type": "Integer",
+   "owidVariableId": 1210625,
+   "shortName": "num_suffrage_lied__category_no_suffrage",
+   "lastUpdated": "2026-04-02",
+   "nextUpdate": "2027-04-02",
+   "citationShort": "Lexical Index (2026) – processed by Our World in Data",
+   "citationLong": "Lexical Index (2026) – processed by Our World in Data. “No universal right to vote” [dataset]. Lexical Index, “Lexical Index of Electoral Democracy (LIED) v6.9” [original data].",
+   "fullMetadata": "https://api.ourworldindata.org/v1/indicators/1210625.metadata.json"
+  },
+  "Number of countries with male suffrage": {
+   "titleShort": "Universal right to vote for men only",
+   "titleLong": "Universal right to vote for men only",
+   "unit": "countries",
+   "timespan": "1789-2025",
+   "type": "Integer",
+   "owidVariableId": 1210624,
+   "shortName": "num_suffrage_lied__category_male_suffrage",
+   "lastUpdated": "2026-04-02",
+   "nextUpdate": "2027-04-02",
+   "citationShort": "Lexical Index (2026) – processed by Our World in Data",
+   "citationLong": "Lexical Index (2026) – processed by Our World in Data. “Universal right to vote for men only” [dataset]. Lexical Index, “Lexical Index of Electoral Democracy (LIED) v6.9” [original data].",
+   "fullMetadata": "https://api.ourworldindata.org/v1/indicators/1210624.metadata.json"
+  },
+  "Number of countries with universal suffrage": {
+   "titleShort": "Universal right to vote for men and women",
+   "titleLong": "Universal right to vote for men and women",
+   "unit": "countries",
+   "timespan": "1789-2025",
+   "type": "Integer",
+   "owidVariableId": 1210628,
+   "shortName": "num_suffrage_lied__category_universal_suffrage",
+   "lastUpdated": "2026-04-02",
+   "nextUpdate": "2027-04-02",
+   "citationShort": "Lexical Index (2026) – processed by Our World in Data",
+   "citationLong": "Lexical Index (2026) – processed by Our World in Data. “Universal right to vote for men and women” [dataset]. Lexical Index, “Lexical Index of Electoral Democracy (LIED) v6.9” [original data].",
+   "fullMetadata": "https://api.ourworldindata.org/v1/indicators/1210628.metadata.json"
+  }
+ },
+ "dateDownloaded": "2026-10-29"
+}

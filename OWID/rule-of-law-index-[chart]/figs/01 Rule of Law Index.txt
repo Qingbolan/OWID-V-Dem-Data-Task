@@ -1,0 +1,9 @@
+Figure 01: 01 Rule of Law Index
+Article: none; source page is the chart page https://ourworldindata.org/grapher/rule-of-law-index
+
+Title: Rule of Law Index
+Subtitle: Data by [V-Dem](#dod:v-dem). Expert estimates of the extent to which the government complies with the law, courts are independent, laws transparent, justice accessible, corruption absent, and the bureaucracy is impartial. The index ranges from 0 to 1 (most rule-based).
+Note: 
+Source: V-Dem (2026)
+Units: 
+Chart: https://ourworldindata.org/grapher/rule-of-law-index

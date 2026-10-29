@@ -1,0 +1,1569 @@
+{
+ "page_url": "https://ourworldindata.org/democracy",
+ "original": "source.original.html",
+ "original_sha256": "72d693187aefee9ab022d150f7e77082b02e4ad9e6b884b91ef6db005f8a60d1",
+ "removed": "all <script> elements except application/ld+json",
+ "assets": {
+  "https://ourworldindata.org/favicon.ico": {
+   "path": "favicon-d1f144579b.ico",
+   "bytes": 1971,
+   "sha256": "1d6702f47aca42322a0d13241c493dd7ff9e1d4c2c7ca5a3a2cc9018edee65f7"
+  },
+  "https://ourworldindata.org/icon.svg": {
+   "path": "icon-ff8267052e.svg",
+   "bytes": 2465,
+   "sha256": "4dfa290441df2649ac44b4c16f1ab15074cf0b33ae6ca46e22777f6d8bb04bbd"
+  },
+  "https://ourworldindata.org/apple-touch-icon.png": {
+   "path": "apple-touch-icon-29e363e042.png",
+   "bytes": 1048,
+   "sha256": "38822130106bc15e007395d92b78cc45ae74bea1a7335cf59e8d3c95aa971b33"
+  },
+  "https://ourworldindata.org/fonts/LatoLatin-Hairline.woff2": {
+   "path": "LatoLatin-Hairline-c4baf4924f.woff2",
+   "bytes": 31412,
+   "sha256": "baa66cc06a42e66bdf85b2c4801e58038d02c04954e0cdde185619f42575bb40"
+  },
+  "https://ourworldindata.org/fonts/LatoLatin-HairlineItalic.woff2": {
+   "path": "LatoLatin-HairlineItalic-da452b3ce6.woff2",
+   "bytes": 33188,
+   "sha256": "ba6eaf35d1b2a93c046d265a60e3faba1fe65caf9bd1ebd83ea057667674eba1"
+  },
+  "https://ourworldindata.org/fonts/LatoLatin-Thin.woff2": {
+   "path": "LatoLatin-Thin-2d5915c98d.woff2",
+   "bytes": 33932,
+   "sha256": "27d31d611277f2ddf4888cbb8143891597b947a9d9957611fb72a6c12dc2ae21"
+  },
+  "https://ourworldindata.org/fonts/LatoLatin-ThinItalic.woff2": {
+   "path": "LatoLatin-ThinItalic-60d22844a8.woff2",
+   "bytes": 35232,
+   "sha256": "13814d52ed8d508655f3b083b37d672a72e8466a7da178d39fc61b85ac2c813d"
+  },
+  "https://ourworldindata.org/fonts/LatoLatin-Light.woff2": {
+   "path": "LatoLatin-Light-a7f42dba17.woff2",
+   "bytes": 34120,
+   "sha256": "73f4681ebfa49fe23607f49a93a7df2213e84babe1082d86c6539eaf61f50293"
+  },
+  "https://ourworldindata.org/fonts/LatoLatin-LightItalic.woff2": {
+   "path": "LatoLatin-LightItalic-704eb84778.woff2",
+   "bytes": 35420,
+   "sha256": "ce8e431fe6986f95d3761f30aa03b9435d6d80cfc2d5f942eff0f98954e4590f"
+  },
+  "https://ourworldindata.org/fonts/LatoLatin-Regular.woff2": {
+   "path": "LatoLatin-Regular-2c8cb731f3.woff2",
+   "bytes": 34336,
+   "sha256": "88c5b9c05d1693e4bb70f298ea5ed6ab8158d0565bea08b419d8fa5ede4aacaa"
+  },
+  "https://ourworldindata.org/fonts/LatoLatin-Italic.woff2": {
+   "path": "LatoLatin-Italic-62f9522790.woff2",
+   "bytes": 35840,
+   "sha256": "eb3b3d7b0738adc0fc207067033d296aa4a2a1674cddc9cc9c7d5ac156e957c6"
+  },
+  "https://ourworldindata.org/fonts/LatoLatin-Medium.woff2": {
+   "path": "LatoLatin-Medium-c7af9a4db8.woff2",
+   "bytes": 34664,
+   "sha256": "e37e2eb79686e64dfaf0b158b5ad5ca0c72fcf8cff66ecc2a9dc3171edbf9451"
+  },
+  "https://ourworldindata.org/fonts/LatoLatin-MediumItalic.woff2": {
+   "path": "LatoLatin-MediumItalic-d72c88886b.woff2",
+   "bytes": 35748,
+   "sha256": "2f06c1cb5064e8dc237339f5b692519cf46b5fcba173466c24a05f5105ba9fae"
+  },
+  "https://ourworldindata.org/fonts/LatoLatin-Semibold.woff2": {
+   "path": "LatoLatin-Semibold-7c538e8fea.woff2",
+   "bytes": 34388,
+   "sha256": "338e0ee08b65117c4b6d577cab60ceccf611604c47e049fb31f42477e0d0edfb"
+  },
+  "https://ourworldindata.org/fonts/LatoLatin-SemiboldItalic.woff2": {
+   "path": "LatoLatin-SemiboldItalic-1903a89e31.woff2",
+   "bytes": 36008,
+   "sha256": "a9c0e22f651b2200fad5529defbf6ca9c89d1c2bcf04d0ce15388ede898163ef"
+  },
+  "https://ourworldindata.org/fonts/LatoLatin-Bold.woff2": {
+   "path": "LatoLatin-Bold-ad08ab5d1b.woff2",
+   "bytes": 34312,
+   "sha256": "ee483c8339e3e7d00219e9f8ad10ab0219643956e80e8c7fe9d81024a264eb81"
+  },
+  "https://ourworldindata.org/fonts/LatoLatin-BoldItalic.woff2": {
+   "path": "LatoLatin-BoldItalic-a3feca4431.woff2",
+   "bytes": 35784,
+   "sha256": "2e173706738df9e485c2535f101de4adab5cec687b4b05da8967e10a60491bd7"
+  },
+  "https://ourworldindata.org/fonts/LatoLatin-Heavy.woff2": {
+   "path": "LatoLatin-Heavy-bd5c574369.woff2",
+   "bytes": 34504,
+   "sha256": "bc9bcde8479403ceadfc3ab424f33859443f40a4de8d505619c199f864940c6f"
+  },
+  "https://ourworldindata.org/fonts/LatoLatin-HeavyItalic.woff2": {
+   "path": "LatoLatin-HeavyItalic-39082cb158.woff2",
+   "bytes": 35964,
+   "sha256": "3feda293cee771cf5d6a542f448f3be53147eeae9a10bb5c2c388cf188ea2e00"
+  },
+  "https://ourworldindata.org/fonts/LatoLatin-Black.woff2": {
+   "path": "LatoLatin-Black-606db3cde7.woff2",
+   "bytes": 33456,
+   "sha256": "29bb0497beb16c967e33486fc5e7e4554a51d09407678cdfe36a06fa910d0006"
+  },
+  "https://ourworldindata.org/fonts/LatoLatin-BlackItalic.woff2": {
+   "path": "LatoLatin-BlackItalic-e6c53b1d30.woff2",
+   "bytes": 34756,
+   "sha256": "3c92ce6495904b07144dfa735602b13458aa74e6748163e369e292fd3bbefef0"
+  },
+  "https://ourworldindata.org/fonts/Lato-Hairline.woff2": {
+   "path": "Lato-Hairline-3d5469ffdd.woff2",
+   "bytes": 161672,
+   "sha256": "d9d9b406b5ddaad1ab4f9a5657bf42c84502bec768df78091924da824481757f"
+  },
+  "https://ourworldindata.org/fonts/Lato-HairlineItalic.woff2": {
+   "path": "Lato-HairlineItalic-fbe59124a4.woff2",
+   "bytes": 173948,
+   "sha256": "a484035048d45975f63b8352e5466920507602aad54b1e67315973329639c5a5"
+  },
+  "https://ourworldindata.org/fonts/Lato-Thin.woff2": {
+   "path": "Lato-Thin-8df2387730.woff2",
+   "bytes": 180576,
+   "sha256": "46a8722d9bf3c2441ddc81898e2b29f5fa7685765edf43b1003d50eb272076ef"
+  },
+  "https://ourworldindata.org/fonts/Lato-ThinItalic.woff2": {
+   "path": "Lato-ThinItalic-69070af7a1.woff2",
+   "bytes": 191804,
+   "sha256": "747f88b0cfeb061172fb4da48c3fd59e6ee45a0b9ca6ee556fc79c7e9bc8d683"
+  },
+  "https://ourworldindata.org/fonts/Lato-Light.woff2": {
+   "path": "Lato-Light-4bf7eeaa35.woff2",
+   "bytes": 181500,
+   "sha256": "f308e8c0de302ee57cd35b5365a028466300cebdc805c3a0b80c92fff3adbf44"
+  },
+  "https://ourworldindata.org/fonts/Lato-LightItalic.woff2": {
+   "path": "Lato-LightItalic-35604e6523.woff2",
+   "bytes": 192916,
+   "sha256": "4ecc8765454b071973cb44437e4d94b76f0842457175e0d443493c3ab38befd8"
+  },
+  "https://ourworldindata.org/fonts/Lato-Regular.woff2": {
+   "path": "Lato-Regular-d5f5de4db0.woff2",
+   "bytes": 182708,
+   "sha256": "983b0caf336e8542214fc17019a4fc5e0360864b92806ca14d55c1fc1c2c5a0f"
+  },
+  "https://ourworldindata.org/fonts/Lato-Italic.woff2": {
+   "path": "Lato-Italic-49ca3778af.woff2",
+   "bytes": 195704,
+   "sha256": "4465765f2f6eddcdad34ffd7cab559e56bc0e75e45e192f85e9562b0771481dc"
+  },
+  "https://ourworldindata.org/fonts/Lato-Medium.woff2": {
+   "path": "Lato-Medium-d5ba1eaeef.woff2",
+   "bytes": 182144,
+   "sha256": "537a85fb47f6a43a7654bb015c2109d579e098c635a8f713711185abdc7f8f4c"
+  },
+  "https://ourworldindata.org/fonts/Lato-MediumItalic.woff2": {
+   "path": "Lato-MediumItalic-cfe1ba5c90.woff2",
+   "bytes": 194608,
+   "sha256": "e4494fc9b671272a1debd1ec0aa41a5edeba26c536ec041b686efef073e92a52"
+  },
+  "https://ourworldindata.org/fonts/Lato-Semibold.woff2": {
+   "path": "Lato-Semibold-ddd5865dc8.woff2",
+   "bytes": 184076,
+   "sha256": "30f77a5ff0bcba46d4e760b0c939a5ff112da0d3ddd13a261834134e00cc21c7"
+  },
+  "https://ourworldindata.org/fonts/Lato-SemiboldItalic.woff2": {
+   "path": "Lato-SemiboldItalic-aa1e20e6b9.woff2",
+   "bytes": 195128,
+   "sha256": "207963887e9b2f49261fcf675fe2ba261a2968079e7fe83dbc9ae24dce647e03"
+  },
+  "https://ourworldindata.org/fonts/Lato-Bold.woff2": {
+   "path": "Lato-Bold-510539c745.woff2",
+   "bytes": 184912,
+   "sha256": "ae88fc0d7a961832f809527d30bd3983a6866d42f66a56ade23f543681594db6"
+  },
+  "https://ourworldindata.org/fonts/Lato-BoldItalic.woff2": {
+   "path": "Lato-BoldItalic-e06b3461cb.woff2",
+   "bytes": 193308,
+   "sha256": "c0916a33340d063f7b05679e08031e729d1888444706f04804705da5966d895d"
+  },
+  "https://ourworldindata.org/fonts/Lato-Heavy.woff2": {
+   "path": "Lato-Heavy-1981fb4dd1.woff2",
+   "bytes": 184520,
+   "sha256": "ceec41468f0cc73c37dcb60899bc324965bd9bedb9bab20685507c21b6262d67"
+  },
+  "https://ourworldindata.org/fonts/Lato-HeavyItalic.woff2": {
+   "path": "Lato-HeavyItalic-81ab6376ce.woff2",
+   "bytes": 194272,
+   "sha256": "f778270145fd838bd2cea5b9a3718bb4efba91e521d12761db6a453cc8b4f9b3"
+  },
+  "https://ourworldindata.org/fonts/Lato-Black.woff2": {
+   "path": "Lato-Black-f0af31ba9f.woff2",
+   "bytes": 176748,
+   "sha256": "34bb46634d07ac579411823eb39fac1376b012257460066a98b95075d086ccdd"
+  },
+  "https://ourworldindata.org/fonts/Lato-BlackItalic.woff2": {
+   "path": "Lato-BlackItalic-e555c110ed.woff2",
+   "bytes": 185544,
+   "sha256": "4b470f4680bcdea48db9e2e3df6a948ce7f4d96b8944c2de7ad97521899ddf19"
+  },
+  "https://ourworldindata.org/fonts/PlayfairDisplayLatin-Regular.woff2": {
+   "path": "PlayfairDisplayLatin-Regular-5d6a2375ba.woff2",
+   "bytes": 29252,
+   "sha256": "7c387a74e20e1c3f117cbc6992f1b11b526a24be4ac1db3db9cf53d4a48eed80"
+  },
+  "https://ourworldindata.org/fonts/PlayfairDisplayLatin-Italic.woff2": {
+   "path": "PlayfairDisplayLatin-Italic-4fdd06f089.woff2",
+   "bytes": 28752,
+   "sha256": "d0a18b183722356e4ebfb0d962526adb8e615176cbb2391bfab213f0ffbc7bf3"
+  },
+  "https://ourworldindata.org/fonts/PlayfairDisplayLatin-Medium.woff2": {
+   "path": "PlayfairDisplayLatin-Medium-42d803b064.woff2",
+   "bytes": 31352,
+   "sha256": "9577b52bc782c88b659f511ee4391dd508ab3c981aab304926d4dab151d0fe46"
+  },
+  "https://ourworldindata.org/fonts/PlayfairDisplayLatin-MediumItalic.woff2": {
+   "path": "PlayfairDisplayLatin-MediumItalic-27a87b99e1.woff2",
+   "bytes": 30888,
+   "sha256": "3a879ba9272f1184d061c53ddeccf95c35d0ec6601879b2fe430619cbb1e55d0"
+  },
+  "https://ourworldindata.org/fonts/PlayfairDisplayLatin-SemiBold.woff2": {
+   "path": "PlayfairDisplayLatin-SemiBold-9f3197576d.woff2",
+   "bytes": 31564,
+   "sha256": "0786dddc7a3935b20b18b91936f04dcebbff9b248a8e7c4067193913c8d6db29"
+  },
+  "https://ourworldindata.org/fonts/PlayfairDisplayLatin-SemiBoldItalic.woff2": {
+   "path": "PlayfairDisplayLatin-SemiBoldItalic-39cc2cc595.woff2",
+   "bytes": 31036,
+   "sha256": "b04de23414a9f696105ba27193860a08ebde9bd2b774651f3c164cce435ec2c1"
+  },
+  "https://ourworldindata.org/fonts/PlayfairDisplayLatin-Bold.woff2": {
+   "path": "PlayfairDisplayLatin-Bold-6b2e6d3fdf.woff2",
+   "bytes": 31624,
+   "sha256": "1ede897b597a5ff8840f4e2bc471b5b97ebf729efe97a1b364bd065cc49f3717"
+  },
+  "https://ourworldindata.org/fonts/PlayfairDisplayLatin-BoldItalic.woff2": {
+   "path": "PlayfairDisplayLatin-BoldItalic-a9a2c7d0f9.woff2",
+   "bytes": 31176,
+   "sha256": "d3e96183b32b02818fdc72e32c2b1d585e278f74abebaacabbf96b9a0ed509ae"
+  },
+  "https://ourworldindata.org/fonts/PlayfairDisplayLatin-ExtraBold.woff2": {
+   "path": "PlayfairDisplayLatin-ExtraBold-243db6d975.woff2",
+   "bytes": 31516,
+   "sha256": "380b5bd9361dd7816c5c6c75282339cd570a5fc86bf97b58c2582b992c88b981"
+  },
+  "https://ourworldindata.org/fonts/PlayfairDisplayLatin-ExtraBoldItalic.woff2": {
+   "path": "PlayfairDisplayLatin-ExtraBoldItalic-75b91fa88d.woff2",
+   "bytes": 31144,
+   "sha256": "f0799d8d2ad82a9da8db9a3452044d10dfa979ffe4df43bffbe6f50127c08315"
+  },
+  "https://ourworldindata.org/fonts/PlayfairDisplayLatin-Black.woff2": {
+   "path": "PlayfairDisplayLatin-Black-0d909aaaea.woff2",
+   "bytes": 30308,
+   "sha256": "8bc37404ff8d26f4976b80db5890083db7d28dffa566dbcc5b40a3ac0578a141"
+  },
+  "https://ourworldindata.org/fonts/PlayfairDisplayLatin-BlackItalic.woff2": {
+   "path": "PlayfairDisplayLatin-BlackItalic-1194a61996.woff2",
+   "bytes": 29004,
+   "sha256": "8c6c442b96700f6bbe80d1c992c876b1b3230e63bbe9de55ca92ba32aeefd81a"
+  },
+  "https://ourworldindata.org/fonts/PlayfairDisplay-Regular.woff2": {
+   "path": "PlayfairDisplay-Regular-37a0685155.woff2",
+   "bytes": 55260,
+   "sha256": "d4a0ca6ebf9d3f4418f4c87f89e86a755f9174d3323b6c2b16b3acea74b53952"
+  },
+  "https://ourworldindata.org/fonts/PlayfairDisplay-Italic.woff2": {
+   "path": "PlayfairDisplay-Italic-c55e7cb09e.woff2",
+   "bytes": 53756,
+   "sha256": "8f85f2b1fd7f5a5feb232ee08e50f47e8874ebce80d376bedb730873fe68cc94"
+  },
+  "https://ourworldindata.org/fonts/PlayfairDisplay-Medium.woff2": {
+   "path": "PlayfairDisplay-Medium-d7427676e2.woff2",
+   "bytes": 59828,
+   "sha256": "269ff0361934f2008b4f9c83be3c075a2166ecc568c255297ec5ba2c8d83c205"
+  },
+  "https://ourworldindata.org/fonts/PlayfairDisplay-MediumItalic.woff2": {
+   "path": "PlayfairDisplay-MediumItalic-8159f42a41.woff2",
+   "bytes": 57420,
+   "sha256": "855a934af5c49c2fcba06858704be5097448d5c8d5f4aa752857a3eb5d60a9a6"
+  },
+  "https://ourworldindata.org/fonts/PlayfairDisplay-SemiBold.woff2": {
+   "path": "PlayfairDisplay-SemiBold-56a6d7da70.woff2",
+   "bytes": 60024,
+   "sha256": "31dec59bab529c0bd52a373c9a8698f22395d183199aaae0cea3212e4bb1a44b"
+  },
+  "https://ourworldindata.org/fonts/PlayfairDisplay-SemiBoldItalic.woff2": {
+   "path": "PlayfairDisplay-SemiBoldItalic-fcfb989a95.woff2",
+   "bytes": 57848,
+   "sha256": "e98dd189a2d9d90238064ea8054d83451ad97d8d255a27220ba18344647ba7bf"
+  },
+  "https://ourworldindata.org/fonts/PlayfairDisplay-Bold.woff2": {
+   "path": "PlayfairDisplay-Bold-3a019351f4.woff2",
+   "bytes": 60056,
+   "sha256": "80eadae42589636e2421786500b8487b4e8d3b441df11e46269e3ed93fd400f7"
+  },
+  "https://ourworldindata.org/fonts/PlayfairDisplay-BoldItalic.woff2": {
+   "path": "PlayfairDisplay-BoldItalic-390b1ff4a8.woff2",
+   "bytes": 57912,
+   "sha256": "b9efa59573534c3f056b228352973b4a64b9cb6dd492ae6bc28c1ccfa5d42fe9"
+  },
+  "https://ourworldindata.org/fonts/PlayfairDisplay-ExtraBold.woff2": {
+   "path": "PlayfairDisplay-ExtraBold-7a20c6ed6f.woff2",
+   "bytes": 60112,
+   "sha256": "7e8c7f228d380656a097c38844f43c5f066b6653d8b098e12a9b49205fad605b"
+  },
+  "https://ourworldindata.org/fonts/PlayfairDisplay-ExtraBoldItalic.woff2": {
+   "path": "PlayfairDisplay-ExtraBoldItalic-ae8159fb8e.woff2",
+   "bytes": 57820,
+   "sha256": "20e727009d970261b49f9933a9c3d467266cf7dcd45165fc72261d92b7cecd77"
+  },
+  "https://ourworldindata.org/fonts/PlayfairDisplay-Black.woff2": {
+   "path": "PlayfairDisplay-Black-e032269e10.woff2",
+   "bytes": 57248,
+   "sha256": "0005e2c73efe4e2fa400c0c3118016d122e7ce5e1b22040a66b796c9bbd785e0"
+  },
+  "https://ourworldindata.org/fonts/PlayfairDisplay-BlackItalic.woff2": {
+   "path": "PlayfairDisplay-BlackItalic-ffabce7b3b.woff2",
+   "bytes": 54176,
+   "sha256": "1326ad0883e600e3884b46ee525e4eb9f1d9a423d5212c57882690a0d5c827e5"
+  },
+  "https://ourworldindata.org/images/world.svg": {
+   "path": "world-7cf88a76d6.svg",
+   "bytes": 40769,
+   "sha256": "219d74b478290bc7d424642f1fa517585bd88abc1483f170b8e339472fed17ca"
+  },
+  "https://ourworldindata.org/explorer-thumbnail.webp": {
+   "path": "explorer-thumbnail-4b4a56d763.webp",
+   "bytes": 23468,
+   "sha256": "570febe545f7915cfaf6d0e6bfb1400885a39c3fe0e4316eef762f808921b244"
+  },
+  "https://ourworldindata.org/assets/owid.css": {
+   "path": "owid-7b5b06cac8.css",
+   "bytes": 627263,
+   "sha256": "a248ab4c9e7c095b47476bb7ab6e08ed47a22d274d48fb3ca4b33aadd79d1f96",
+   "note": "url() references rewritten to local files"
+  },
+  "https://ourworldindata.org/oms-logo.svg": {
+   "path": "oms-logo-d019f29aa8.svg",
+   "bytes": 4774,
+   "sha256": "1688a00f1a2ff982d565805ad767cbf679d97d6fa0a15f68293ebd2e17353e26"
+  },
+  "https://ourworldindata.org/oxford-logo.svg": {
+   "path": "oxford-logo-1441512a51.svg",
+   "bytes": 12418,
+   "sha256": "7029779469eeb7cc775e3e418cdefd47e48ac6944e24e3f82abd57ed955a9155"
+  },
+  "https://ourworldindata.org/gcdl-logo.svg": {
+   "path": "gcdl-logo-33fb19deca.svg",
+   "bytes": 3324,
+   "sha256": "6a7a19b4772235589e89d1b24d2499a491eda58641a3ac1624531eb4c4b27f71"
+  },
+  "https://ourworldindata.org/grapher/countries-democracies-autocracies-row.png?imWidth=850": {
+   "path": "countries-democracies-autocracies-row-5a72a6e039.png",
+   "bytes": 61272,
+   "sha256": "fe8ba12a9a37bc6b0bc78349ea3125231f66346d6e2538dfd4557e1f76c1a436"
+  },
+  "https://ourworldindata.org/grapher/countries-democracies-autocracies-row.png?imWidth=1700": {
+   "path": "countries-democracies-autocracies-row-b492c4c4e8.png",
+   "bytes": 130982,
+   "sha256": "d7708bb666f43cb339f479b1d175cbd387bf581a4c51f4079d31a84d4995d953"
+  },
+  "https://ourworldindata.org/grapher/countries-democracies-autocracies-row.png": {
+   "path": "countries-democracies-autocracies-row-740597c3a0.png",
+   "bytes": 61272,
+   "sha256": "fe8ba12a9a37bc6b0bc78349ea3125231f66346d6e2538dfd4557e1f76c1a436"
+  },
+  "https://ourworldindata.org/cdn-cgi/imagedelivery/qLq-8BTgXU8yG0N6HnOy8g/7fab1e77-1c31-4d70-0b05-208af950a200/w=48": {
+   "path": "w=48-50ec6930de.jpg",
+   "bytes": 598,
+   "sha256": "3a4c7f88ac4fad983d9d1106874ae76c9787c3c8cd1761b5345a5752ef8fbc76"
+  },
+  "https://ourworldindata.org/cdn-cgi/imagedelivery/qLq-8BTgXU8yG0N6HnOy8g/7fab1e77-1c31-4d70-0b05-208af950a200/w=100": {
+   "path": "w=100-5fee75834f.jpg",
+   "bytes": 1351,
+   "sha256": "5750e011fd3e48089363af5ff74b5caba43854bec098abc5fd9edac9861686e7"
+  },
+  "https://ourworldindata.org/cdn-cgi/imagedelivery/qLq-8BTgXU8yG0N6HnOy8g/7fab1e77-1c31-4d70-0b05-208af950a200/w=350": {
+   "path": "w=350-d37c25d953.jpg",
+   "bytes": 4168,
+   "sha256": "7c11332e1ec865369403f37f833473d924229f30577c325ccca164c214b288f2"
+  },
+  "https://ourworldindata.org/cdn-cgi/imagedelivery/qLq-8BTgXU8yG0N6HnOy8g/7fab1e77-1c31-4d70-0b05-208af950a200/w=850": {
+   "path": "w=850-18a368b952.jpg",
+   "bytes": 10505,
+   "sha256": "52b04106374eb12830c7c8ef1f8d57d847303b25b7ca784a551e41c2b5236e62"
+  },
+  "https://ourworldindata.org/cdn-cgi/imagedelivery/qLq-8BTgXU8yG0N6HnOy8g/7fab1e77-1c31-4d70-0b05-208af950a200/w=1350": {
+   "path": "w=1350-7d0f251c20.jpg",
+   "bytes": 17766,
+   "sha256": "ef73c573472faedc8b7b5aaa85ca0db0cfdcfd2a40ff160091a21a65b3ec6b58"
+  },
+  "https://ourworldindata.org/cdn-cgi/imagedelivery/qLq-8BTgXU8yG0N6HnOy8g/7fab1e77-1c31-4d70-0b05-208af950a200/w=1600": {
+   "path": "w=1600-1111753612.png",
+   "bytes": 38003,
+   "sha256": "d4897a28d752b17a09ca67e2f5ba6ec208170e4e6b7971716722720692f4eff9"
+  },
+  "https://ourworldindata.org/grapher/people-living-in-democracies-autocracies.png?imWidth=850": {
+   "path": "people-living-in-democracies-autocracies-8ee6306cf6.png",
+   "bytes": 62968,
+   "sha256": "0d0ffc9ec931446c138ea9b49cb17d9108c2d4031dfd8a9d41b382728cdbcd8c"
+  },
+  "https://ourworldindata.org/grapher/people-living-in-democracies-autocracies.png?imWidth=1700": {
+   "path": "people-living-in-democracies-autocracies-c8de1dfd0c.png",
+   "bytes": 139285,
+   "sha256": "0ec7268837b3153a31891e4cdf90b16eb450782ad4319bbd299c399c51909a48"
+  },
+  "https://ourworldindata.org/grapher/people-living-in-democracies-autocracies.png": {
+   "path": "people-living-in-democracies-autocracies-4d6d950edf.png",
+   "bytes": 62968,
+   "sha256": "0d0ffc9ec931446c138ea9b49cb17d9108c2d4031dfd8a9d41b382728cdbcd8c"
+  },
+  "https://ourworldindata.org/cdn-cgi/imagedelivery/qLq-8BTgXU8yG0N6HnOy8g/10989ae9-bb83-401e-cdbc-f34d5c03a800/w=48": {
+   "path": "w=48-28bbe497d5.png",
+   "bytes": 820,
+   "sha256": "fcbe31750ba3cf1b9613c5211598d576c30f37370e06bb572c1f54ca790135f1"
+  },
+  "https://ourworldindata.org/cdn-cgi/imagedelivery/qLq-8BTgXU8yG0N6HnOy8g/10989ae9-bb83-401e-cdbc-f34d5c03a800/w=100": {
+   "path": "w=100-40acf05464.png",
+   "bytes": 1080,
+   "sha256": "dbfa3f7aab7e0d6b284594a10be69b7705c20e325057d8f7e8d329aaca3d111f"
+  },
+  "https://ourworldindata.org/cdn-cgi/imagedelivery/qLq-8BTgXU8yG0N6HnOy8g/10989ae9-bb83-401e-cdbc-f34d5c03a800/w=350": {
+   "path": "w=350-3241cdd43a.png",
+   "bytes": 1437,
+   "sha256": "de0e44560a2d52170623753ed340544753fe53a1e410cf89dc9a1d9d2203ed3b"
+  },
+  "https://ourworldindata.org/cdn-cgi/imagedelivery/qLq-8BTgXU8yG0N6HnOy8g/10989ae9-bb83-401e-cdbc-f34d5c03a800/w=850": {
+   "path": "w=850-28ea64184f.png",
+   "bytes": 2816,
+   "sha256": "c60440a8fd1ca16f030042a07a6633ad27ec3ef85b6ba30c5f0ffa03a388d9b4"
+  },
+  "https://ourworldindata.org/cdn-cgi/imagedelivery/qLq-8BTgXU8yG0N6HnOy8g/10989ae9-bb83-401e-cdbc-f34d5c03a800/w=1200": {
+   "path": "w=1200-3eb1d95296.png",
+   "bytes": 5401,
+   "sha256": "20e0cb531699680300f7eec5a67b26209537008bf15883694d82aa058b15f014"
+  },
+  "https://ourworldindata.org/grapher/number-electoral-democracies-age.png?imWidth=850": {
+   "path": "number-electoral-democracies-age-eaf36314f5.png",
+   "bytes": 34838,
+   "sha256": "c660ab71cb4ce0d9bc78234e2177655a7d40cfa37a69835f01fdb5dcd84f89f7"
+  },
+  "https://ourworldindata.org/grapher/number-electoral-democracies-age.png?imWidth=1700": {
+   "path": "number-electoral-democracies-age-9af380fd46.png",
+   "bytes": 78683,
+   "sha256": "2e6ed37ffe270159b8788ed79292659b27c52c529c260d35995247c88ab52c87"
+  },
+  "https://ourworldindata.org/grapher/number-electoral-democracies-age.png": {
+   "path": "number-electoral-democracies-age-5955b08330.png",
+   "bytes": 34838,
+   "sha256": "c660ab71cb4ce0d9bc78234e2177655a7d40cfa37a69835f01fdb5dcd84f89f7"
+  },
+  "https://ourworldindata.org/cdn-cgi/imagedelivery/qLq-8BTgXU8yG0N6HnOy8g/f6a6f886-ea04-44ca-0092-82e1a2cc7800/w=48": {
+   "path": "w=48-764e2b2d0c.png",
+   "bytes": 879,
+   "sha256": "92202e3f445a69473f7244ac1d2d7584c5a1d261d7f41db3f3982d98edaa31ad"
+  },
+  "https://ourworldindata.org/cdn-cgi/imagedelivery/qLq-8BTgXU8yG0N6HnOy8g/f6a6f886-ea04-44ca-0092-82e1a2cc7800/w=100": {
+   "path": "w=100-b228a588d0.png",
+   "bytes": 2069,
+   "sha256": "5027d154bbb5098d8f0930ad095df6e37b4e381afe68f2a5fcfdb86bed80883b"
+  },
+  "https://ourworldindata.org/cdn-cgi/imagedelivery/qLq-8BTgXU8yG0N6HnOy8g/f6a6f886-ea04-44ca-0092-82e1a2cc7800/w=350": {
+   "path": "w=350-d849c8dd6c.png",
+   "bytes": 10672,
+   "sha256": "20a7b1f51346994f753b7a7ed6f569956ae6036bd5a40a8d9eb2ba0e12a1792d"
+  },
+  "https://ourworldindata.org/cdn-cgi/imagedelivery/qLq-8BTgXU8yG0N6HnOy8g/f6a6f886-ea04-44ca-0092-82e1a2cc7800/w=850": {
+   "path": "w=850-2155101748.png",
+   "bytes": 31822,
+   "sha256": "c72792d5627198dffe81f72cf9d3830972149b6a2407ed93ce7b782a0fb7b9ef"
+  },
+  "https://ourworldindata.org/cdn-cgi/imagedelivery/qLq-8BTgXU8yG0N6HnOy8g/f6a6f886-ea04-44ca-0092-82e1a2cc7800/w=1200": {
+   "path": "w=1200-104c5304e7.png",
+   "bytes": 90628,
+   "sha256": "5700a070160f2400b3ec5ecda16675c23329b48af1c0774af3849afabbc0f12e"
+  },
+  "https://ourworldindata.org/grapher/electoral-democracy-index.png?tab=marimekko&country=&imWidth=850": {
+   "path": "electoral-democracy-index-b80b479ee6.png",
+   "bytes": 61821,
+   "sha256": "20768c392a7fcb682a68acac34aa22d5ab668b8b9fcb849e75017b6498b98858"
+  },
+  "https://ourworldindata.org/grapher/electoral-democracy-index.png?tab=marimekko&country=&imWidth=1700": {
+   "path": "electoral-democracy-index-15eda2c867.png",
+   "bytes": 126143,
+   "sha256": "68de97882538fcdb4a06848afb3dbde98f0735c3e213c774d66730a86f484870"
+  },
+  "https://ourworldindata.org/grapher/electoral-democracy-index.png?tab=marimekko&country=": {
+   "path": "electoral-democracy-index-bde6c14dab.png",
+   "bytes": 61821,
+   "sha256": "20768c392a7fcb682a68acac34aa22d5ab668b8b9fcb849e75017b6498b98858"
+  },
+  "https://ourworldindata.org/cdn-cgi/imagedelivery/qLq-8BTgXU8yG0N6HnOy8g/50cbde34-5aef-4535-a34c-b21b46223000/w=48": {
+   "path": "w=48-cd3913fa11.png",
+   "bytes": 1097,
+   "sha256": "ab6e0c0165833f0d532dd48d7be221c63ce153439d31207002966b629f0a0da4"
+  },
+  "https://ourworldindata.org/cdn-cgi/imagedelivery/qLq-8BTgXU8yG0N6HnOy8g/50cbde34-5aef-4535-a34c-b21b46223000/w=100": {
+   "path": "w=100-8c90c94eff.png",
+   "bytes": 2062,
+   "sha256": "2d22e482bf40c94c8b0d01ce78c1bf99268d6111f22c8bd5fb8ca8a560d76e91"
+  },
+  "https://ourworldindata.org/cdn-cgi/imagedelivery/qLq-8BTgXU8yG0N6HnOy8g/50cbde34-5aef-4535-a34c-b21b46223000/w=350": {
+   "path": "w=350-b6985485cc.png",
+   "bytes": 5344,
+   "sha256": "f9c785503e5dd96a71f50e293c1a0d57d7cb861a6d9147d52bd5a1b189806231"
+  },
+  "https://ourworldindata.org/cdn-cgi/imagedelivery/qLq-8BTgXU8yG0N6HnOy8g/50cbde34-5aef-4535-a34c-b21b46223000/w=850": {
+   "path": "w=850-91f70aebd7.png",
+   "bytes": 25304,
+   "sha256": "02493e07ea05846b2c7927e9746e39dbe39abdf5e69d71ff84043590bbe1511e"
+  },
+  "https://ourworldindata.org/grapher/countries-that-are-democratizing-and-autocratizing.png?stackMode=absolute&imWidth=850": {
+   "path": "countries-that-are-democratizing-and-autocratizing-411a98c926.png",
+   "bytes": 57253,
+   "sha256": "060d9f2167cdf4f1f0bc896ba7be8c83a7342d5071edc69ceed7588bde852f7c"
+  },
+  "https://ourworldindata.org/grapher/countries-that-are-democratizing-and-autocratizing.png?stackMode=absolute&imWidth=1700": {
+   "path": "countries-that-are-democratizing-and-autocratizing-6d7a9a6f3e.png",
+   "bytes": 123918,
+   "sha256": "c241d4dc4df8d68be58cb40d38f1031bf05f76c09ce496f2d3e630ebbc7ac95d"
+  },
+  "https://ourworldindata.org/grapher/countries-that-are-democratizing-and-autocratizing.png?stackMode=absolute": {
+   "path": "countries-that-are-democratizing-and-autocratizing-298a8ad136.png",
+   "bytes": 57253,
+   "sha256": "060d9f2167cdf4f1f0bc896ba7be8c83a7342d5071edc69ceed7588bde852f7c"
+  },
+  "https://ourworldindata.org/cdn-cgi/imagedelivery/qLq-8BTgXU8yG0N6HnOy8g/969f81d5-1e58-4178-b2aa-224cd5029d00/w=48": {
+   "path": "w=48-8b0d928a89.png",
+   "bytes": 1658,
+   "sha256": "f2ac96b570fa723a9361245055c9fa31f9adc651b7f7a211cbadcce4dcfca3b6"
+  },
+  "https://ourworldindata.org/cdn-cgi/imagedelivery/qLq-8BTgXU8yG0N6HnOy8g/969f81d5-1e58-4178-b2aa-224cd5029d00/w=100": {
+   "path": "w=100-fc29aad121.png",
+   "bytes": 3537,
+   "sha256": "b673512064d52f844193d6e43c62189af768d984fd8f82ea78d5f25a9e8dd24d"
+  },
+  "https://ourworldindata.org/cdn-cgi/imagedelivery/qLq-8BTgXU8yG0N6HnOy8g/969f81d5-1e58-4178-b2aa-224cd5029d00/w=350": {
+   "path": "w=350-acb85a6c15.png",
+   "bytes": 17428,
+   "sha256": "827c9cb5d437c70da11fc3ab2b5d29520baacfe74202ca7b79893fd667a63650"
+  },
+  "https://ourworldindata.org/cdn-cgi/imagedelivery/qLq-8BTgXU8yG0N6HnOy8g/969f81d5-1e58-4178-b2aa-224cd5029d00/w=850": {
+   "path": "w=850-fb2c79b0e5.png",
+   "bytes": 58882,
+   "sha256": "2c47f120e627357ce362f38af3e94274585a820a3cfc986e5f28be58f0461da5"
+  },
+  "https://ourworldindata.org/cdn-cgi/imagedelivery/qLq-8BTgXU8yG0N6HnOy8g/969f81d5-1e58-4178-b2aa-224cd5029d00/w=1350": {
+   "path": "w=1350-e6a5ea0edb.png",
+   "bytes": 113241,
+   "sha256": "f3ea9289d4b59e38012f84cec104ba87239d089b979dd36f4b4f9656833dafc3"
+  },
+  "https://ourworldindata.org/cdn-cgi/imagedelivery/qLq-8BTgXU8yG0N6HnOy8g/969f81d5-1e58-4178-b2aa-224cd5029d00/w=3750": {
+   "path": "w=3750-ee3f8f7f4a.png",
+   "bytes": 1314462,
+   "sha256": "a379a9ea507d4146a01c6d801ae29592ef3f000ad5ebfc436adce391de972b6c"
+  },
+  "https://ourworldindata.org/cdn-cgi/imagedelivery/qLq-8BTgXU8yG0N6HnOy8g/8bb8ce32-4bbc-487c-e8bf-4ca148339a00/w=48": {
+   "path": "w=48-f230da3e3c.png",
+   "bytes": 1339,
+   "sha256": "f1c5415c516460307e266489f5f024894c734295ced36230355b77a53c1d4bf8"
+  },
+  "https://ourworldindata.org/cdn-cgi/imagedelivery/qLq-8BTgXU8yG0N6HnOy8g/8bb8ce32-4bbc-487c-e8bf-4ca148339a00/w=100": {
+   "path": "w=100-16d2cbcef9.png",
+   "bytes": 1867,
+   "sha256": "0e3ff34b62b7878f23a061f6d01c6eeb3a3847b4c1f4289821114aee25833845"
+  },
+  "https://ourworldindata.org/cdn-cgi/imagedelivery/qLq-8BTgXU8yG0N6HnOy8g/8bb8ce32-4bbc-487c-e8bf-4ca148339a00/w=350": {
+   "path": "w=350-5540558b3d.png",
+   "bytes": 4695,
+   "sha256": "52e2687317e8cadb640ecf2065268b32e988cb5b99faf909b5dba4abd7cf9fad"
+  },
+  "https://ourworldindata.org/cdn-cgi/imagedelivery/qLq-8BTgXU8yG0N6HnOy8g/8bb8ce32-4bbc-487c-e8bf-4ca148339a00/w=850": {
+   "path": "w=850-970ed29fdf.png",
+   "bytes": 10462,
+   "sha256": "8acc1424a404f9707dc3a32dbc8657ab9c3d0550f5821aad93a58a9996d6ec0c"
+  },
+  "https://ourworldindata.org/cdn-cgi/imagedelivery/qLq-8BTgXU8yG0N6HnOy8g/8bb8ce32-4bbc-487c-e8bf-4ca148339a00/w=1350": {
+   "path": "w=1350-d5236ebe1b.png",
+   "bytes": 17672,
+   "sha256": "c1fa7a7eb583e18aa30f28eaa7dfe784eb80ab058c2808bfdb7c672baac7b92e"
+  },
+  "https://ourworldindata.org/cdn-cgi/imagedelivery/qLq-8BTgXU8yG0N6HnOy8g/8bb8ce32-4bbc-487c-e8bf-4ca148339a00/w=2400": {
+   "path": "w=2400-ff0b3ee12f.png",
+   "bytes": 66549,
+   "sha256": "6d9d2ccbe59873d5ae8ddfb2238c7c333809ed1417003ed7700acf67e5f826e7"
+  },
+  "https://ourworldindata.org/cdn-cgi/imagedelivery/qLq-8BTgXU8yG0N6HnOy8g/cb071a49-3c5a-4e67-5ac3-e09b1d85d100/w=48": {
+   "path": "w=48-19c9746c46.png",
+   "bytes": 1290,
+   "sha256": "8f6f1c486c0891d9e4715fb926ecd33a175fe4d642d0e6a9fc515eb913085def"
+  },
+  "https://ourworldindata.org/cdn-cgi/imagedelivery/qLq-8BTgXU8yG0N6HnOy8g/cb071a49-3c5a-4e67-5ac3-e09b1d85d100/w=100": {
+   "path": "w=100-cb2c7d9f26.png",
+   "bytes": 1865,
+   "sha256": "c49c1acf0eeff161aef1db4d62c6dde3f0cf5c93ee7c69642f73901758848896"
+  },
+  "https://ourworldindata.org/cdn-cgi/imagedelivery/qLq-8BTgXU8yG0N6HnOy8g/cb071a49-3c5a-4e67-5ac3-e09b1d85d100/w=350": {
+   "path": "w=350-ff27e3defb.png",
+   "bytes": 4003,
+   "sha256": "4c1fc384156e82b6286296d11a0db90e973fa2c695aea5703e6b2c2f71f73f2e"
+  },
+  "https://ourworldindata.org/cdn-cgi/imagedelivery/qLq-8BTgXU8yG0N6HnOy8g/cb071a49-3c5a-4e67-5ac3-e09b1d85d100/w=850": {
+   "path": "w=850-e6d5c0054b.png",
+   "bytes": 16318,
+   "sha256": "f3b8f9ce3f0a93e89ebcf2e0f4d74e879e3df26deb5f88990f7eb5f6949d8c76"
+  },
+  "https://ourworldindata.org/cdn-cgi/imagedelivery/qLq-8BTgXU8yG0N6HnOy8g/cb071a49-3c5a-4e67-5ac3-e09b1d85d100/w=1200": {
+   "path": "w=1200-f28c9d9958.png",
+   "bytes": 18415,
+   "sha256": "90b41ff915507850fb35de91b5325c012cd204b0e4b48498a716776d43f3c0d5"
+  },
+  "https://ourworldindata.org/cdn-cgi/imagedelivery/qLq-8BTgXU8yG0N6HnOy8g/a21e7201-235c-4b24-ae12-d5f9dbc9a200/w=48": {
+   "path": "w=48-006a353370.jpg",
+   "bytes": 543,
+   "sha256": "e29fc3af36718e595f0742af74c80b06520c58695ec3190cd43ea8a36c7ced81"
+  },
+  "https://ourworldindata.org/cdn-cgi/imagedelivery/qLq-8BTgXU8yG0N6HnOy8g/a21e7201-235c-4b24-ae12-d5f9dbc9a200/w=100": {
+   "path": "w=100-c11f8a2e8b.jpg",
+   "bytes": 1307,
+   "sha256": "dcb0b11396faf6663ebd3f7345c0fa9ffad0a24877a74d9abf79632a379a844a"
+  },
+  "https://ourworldindata.org/cdn-cgi/imagedelivery/qLq-8BTgXU8yG0N6HnOy8g/a21e7201-235c-4b24-ae12-d5f9dbc9a200/w=350": {
+   "path": "w=350-95bd9e818b.jpg",
+   "bytes": 4167,
+   "sha256": "7ef91c222ccf70e080636552221c5d3fd17699f3f78569ec7736f966f6cf7ca2"
+  },
+  "https://ourworldindata.org/cdn-cgi/imagedelivery/qLq-8BTgXU8yG0N6HnOy8g/a21e7201-235c-4b24-ae12-d5f9dbc9a200/w=850": {
+   "path": "w=850-968da116a4.jpg",
+   "bytes": 10586,
+   "sha256": "8ddc4150fdc2ec00a6ef8aadc8481925e3ab640afa9e2843cb726c82f12d887a"
+  },
+  "https://ourworldindata.org/cdn-cgi/imagedelivery/qLq-8BTgXU8yG0N6HnOy8g/a21e7201-235c-4b24-ae12-d5f9dbc9a200/w=1350": {
+   "path": "w=1350-65410459b0.jpg",
+   "bytes": 18132,
+   "sha256": "061bef416e07744cdc155da3f04fd832d0451d8bf90d8a5e79e1b812eb6b55c5"
+  },
+  "https://ourworldindata.org/cdn-cgi/imagedelivery/qLq-8BTgXU8yG0N6HnOy8g/a21e7201-235c-4b24-ae12-d5f9dbc9a200/w=1600": {
+   "path": "w=1600-2666a7719c.png",
+   "bytes": 38888,
+   "sha256": "50970ad9a4e66a31b55b2cba69b21139dfa0d0ddaa27eb922485e7fd4b4bee92"
+  },
+  "https://ourworldindata.org/grapher/political-regime.png?imWidth=850": {
+   "path": "political-regime-b8be5caa23.png",
+   "bytes": 134923,
+   "sha256": "45eded3816e4718e8719f187f041f4b79fb1c5448e6d9998011581ff94976c41"
+  },
+  "https://ourworldindata.org/grapher/political-regime.png?imWidth=1700": {
+   "path": "political-regime-80c9e5f2ad.png",
+   "bytes": 305722,
+   "sha256": "4f05ac44ec7be4330fecbe0d2ccda9456531cdd9da3152ee7ee9a5e828b6057b"
+  },
+  "https://ourworldindata.org/grapher/political-regime.png": {
+   "path": "political-regime-f0af316641.png",
+   "bytes": 134923,
+   "sha256": "45eded3816e4718e8719f187f041f4b79fb1c5448e6d9998011581ff94976c41"
+  },
+  "https://ourworldindata.org/grapher/electoral-democracy-index.png?imWidth=850": {
+   "path": "electoral-democracy-index-cecf557c24.png",
+   "bytes": 143971,
+   "sha256": "cbcd4c487312d7d3b169c394ba22ae0f39b345afb9af1f0c11d243bbf76ef1a5"
+  },
+  "https://ourworldindata.org/grapher/electoral-democracy-index.png?imWidth=1700": {
+   "path": "electoral-democracy-index-73c8b115b0.png",
+   "bytes": 321516,
+   "sha256": "03888ccb9c0d34ccea3b3f10034142c25a1b9cd26ec663fe9df75e714f4b6e6c"
+  },
+  "https://ourworldindata.org/grapher/electoral-democracy-index.png": {
+   "path": "electoral-democracy-index-e51efc4308.png",
+   "bytes": 143971,
+   "sha256": "cbcd4c487312d7d3b169c394ba22ae0f39b345afb9af1f0c11d243bbf76ef1a5"
+  },
+  "https://ourworldindata.org/grapher/liberal-democracy-index.png?imWidth=850": {
+   "path": "liberal-democracy-index-b252106847.png",
+   "bytes": 141742,
+   "sha256": "64d647105c372bb61cd1eda47956b3f553cfcaa6848755d694b25fe1847de4d8"
+  },
+  "https://ourworldindata.org/grapher/liberal-democracy-index.png?imWidth=1700": {
+   "path": "liberal-democracy-index-0289394358.png",
+   "bytes": 319243,
+   "sha256": "b71e11cbf3f51cb3312596c7e4392217fc3b12905024ddc3b137c0c3b9f46a64"
+  },
+  "https://ourworldindata.org/grapher/liberal-democracy-index.png": {
+   "path": "liberal-democracy-index-f8ccfb52a2.png",
+   "bytes": 141742,
+   "sha256": "64d647105c372bb61cd1eda47956b3f553cfcaa6848755d694b25fe1847de4d8"
+  },
+  "https://ourworldindata.org/grapher/countries-that-are-democratizing-and-autocratizing.png?imWidth=850": {
+   "path": "countries-that-are-democratizing-and-autocratizing-6e765e782b.png",
+   "bytes": 53913,
+   "sha256": "5f08b634c4758a3b1ee4052397eff79a12c1870d7fa8fd387d4cdf7066bf55be"
+  },
+  "https://ourworldindata.org/grapher/countries-that-are-democratizing-and-autocratizing.png?imWidth=1700": {
+   "path": "countries-that-are-democratizing-and-autocratizing-a3881974a8.png",
+   "bytes": 118022,
+   "sha256": "6fd554f3cf895afaae35b79042a1a74159ca7f4cef971623cb6347d7a8045529"
+  },
+  "https://ourworldindata.org/grapher/countries-that-are-democratizing-and-autocratizing.png": {
+   "path": "countries-that-are-democratizing-and-autocratizing-e457e14f78.png",
+   "bytes": 53913,
+   "sha256": "5f08b634c4758a3b1ee4052397eff79a12c1870d7fa8fd387d4cdf7066bf55be"
+  },
+  "https://ourworldindata.org/grapher/political-regime-lexical.png?imWidth=850": {
+   "path": "political-regime-lexical-1e15fb427d.png",
+   "bytes": 137577,
+   "sha256": "9c2b870b5adf3d15b404791c05ab2b9d1868cf533bd8dae3e7b5a116ef606f81"
+  },
+  "https://ourworldindata.org/grapher/political-regime-lexical.png?imWidth=1700": {
+   "path": "political-regime-lexical-b0598d658f.png",
+   "bytes": 308456,
+   "sha256": "93c1af211189f6536dd3e2858d21377e1d4ade2b722211d66751e5e8568dc09c"
+  },
+  "https://ourworldindata.org/grapher/political-regime-lexical.png": {
+   "path": "political-regime-lexical-ae1ca71d68.png",
+   "bytes": 137577,
+   "sha256": "9c2b870b5adf3d15b404791c05ab2b9d1868cf533bd8dae3e7b5a116ef606f81"
+  },
+  "https://ourworldindata.org/grapher/academic-freedom-index.png?imWidth=850": {
+   "path": "academic-freedom-index-1f285c2d73.png",
+   "bytes": 146004,
+   "sha256": "88dfd9b8eb4d4d0d20a02d178db46d834a83383e136d7a0321e2553b78be2854"
+  },
+  "https://ourworldindata.org/grapher/academic-freedom-index.png?imWidth=1700": {
+   "path": "academic-freedom-index-7204adde3a.png",
+   "bytes": 324464,
+   "sha256": "d488138e7232fbcba554d67dd9a380105be634a8989e8cdff77f049d4901b038"
+  },
+  "https://ourworldindata.org/grapher/academic-freedom-index.png": {
+   "path": "academic-freedom-index-eb98445a16.png",
+   "bytes": 146004,
+   "sha256": "88dfd9b8eb4d4d0d20a02d178db46d834a83383e136d7a0321e2553b78be2854"
+  },
+  "https://ourworldindata.org/grapher/political-centralization-index.png?imWidth=850": {
+   "path": "political-centralization-index-b25d6c0ee5.png",
+   "bytes": 140486,
+   "sha256": "ea4ad24a13cd1d5a46bdced1467564f7f309031bd864cadb47771254b4dd7ee4"
+  },
+  "https://ourworldindata.org/grapher/political-centralization-index.png?imWidth=1700": {
+   "path": "political-centralization-index-3fd282bf03.png",
+   "bytes": 318505,
+   "sha256": "b349451ca8c38b2cd035a0d5fd9e4af9e6d306ad8e7b227bff18e1fce4e2c9bf"
+  },
+  "https://ourworldindata.org/grapher/political-centralization-index.png": {
+   "path": "political-centralization-index-74ba26b5e3.png",
+   "bytes": 140486,
+   "sha256": "ea4ad24a13cd1d5a46bdced1467564f7f309031bd864cadb47771254b4dd7ee4"
+  },
+  "https://ourworldindata.org/grapher/child-mortality-vs-electoral-democracy.png?imWidth=850": {
+   "path": "child-mortality-vs-electoral-democracy-a745901bf5.png",
+   "bytes": 89386,
+   "sha256": "83f18876f6cec20e732a989dbb6fbf614616905a56adf5107f5950acc7fedb17"
+  },
+  "https://ourworldindata.org/grapher/child-mortality-vs-electoral-democracy.png?imWidth=1700": {
+   "path": "child-mortality-vs-electoral-democracy-014664ea52.png",
+   "bytes": 206582,
+   "sha256": "6b206895ce24eea9cc024f343d93b07e65995dbb353b74ad863a2d1583a0e736"
+  },
+  "https://ourworldindata.org/grapher/child-mortality-vs-electoral-democracy.png": {
+   "path": "child-mortality-vs-electoral-democracy-d4b3d78e5b.png",
+   "bytes": 89386,
+   "sha256": "83f18876f6cec20e732a989dbb6fbf614616905a56adf5107f5950acc7fedb17"
+  },
+  "https://ourworldindata.org/grapher/countries-democracies-autocracies-lexical.png?imWidth=850": {
+   "path": "countries-democracies-autocracies-lexical-8382d7f58b.png",
+   "bytes": 94138,
+   "sha256": "3000b3632e5c52f1b75675c0332b93232d0c2696da05ef4cbe523304af11fad1"
+  },
+  "https://ourworldindata.org/grapher/countries-democracies-autocracies-lexical.png?imWidth=1700": {
+   "path": "countries-democracies-autocracies-lexical-692e9996e2.png",
+   "bytes": 205048,
+   "sha256": "83284b64203945e5192b54fc200cb5fe45653270c0392c377c07def877c6c58a"
+  },
+  "https://ourworldindata.org/grapher/countries-democracies-autocracies-lexical.png": {
+   "path": "countries-democracies-autocracies-lexical-cc1c0ec064.png",
+   "bytes": 94138,
+   "sha256": "3000b3632e5c52f1b75675c0332b93232d0c2696da05ef4cbe523304af11fad1"
+  },
+  "https://ourworldindata.org/grapher/countries-that-are-democratizing-and-autocratizing-within-regimes.png?imWidth=850": {
+   "path": "countries-that-are-democratizing-and-autocratizing-within-regimes-5a75b101aa.png",
+   "bytes": 70834,
+   "sha256": "f16176800ed5d058eb5c3075b92a493d43b1c6e7d82fae0649c73e27541e3efc"
+  },
+  "https://ourworldindata.org/grapher/countries-that-are-democratizing-and-autocratizing-within-regimes.png?imWidth=1700": {
+   "path": "countries-that-are-democratizing-and-autocratizing-within-regimes-0943ec8365.png",
+   "bytes": 154319,
+   "sha256": "1cc39a5124ab2a77c39e25369e6bd4d22c333a2d0f424579cb758fd1ade16c43"
+  },
+  "https://ourworldindata.org/grapher/countries-that-are-democratizing-and-autocratizing-within-regimes.png": {
+   "path": "countries-that-are-democratizing-and-autocratizing-within-regimes-02ec9a36f0.png",
+   "bytes": 70834,
+   "sha256": "f16176800ed5d058eb5c3075b92a493d43b1c6e7d82fae0649c73e27541e3efc"
+  },
+  "https://ourworldindata.org/grapher/countries-that-have-universal-voting-rights.png?imWidth=850": {
+   "path": "countries-that-have-universal-voting-rights-75dadd2837.png",
+   "bytes": 51252,
+   "sha256": "1b3b4df88591118e7914fd7fbb3b7bf4cde22448b26a7527f8a985e4cb097b4e"
+  },
+  "https://ourworldindata.org/grapher/countries-that-have-universal-voting-rights.png?imWidth=1700": {
+   "path": "countries-that-have-universal-voting-rights-3e4c5fdcf8.png",
+   "bytes": 110200,
+   "sha256": "485635bed6693d3173e8c90bc65f9a847b6689594374c43b7aa4b55b9e1c9dee"
+  },
+  "https://ourworldindata.org/grapher/countries-that-have-universal-voting-rights.png": {
+   "path": "countries-that-have-universal-voting-rights-66b68935a1.png",
+   "bytes": 51252,
+   "sha256": "1b3b4df88591118e7914fd7fbb3b7bf4cde22448b26a7527f8a985e4cb097b4e"
+  },
+  "https://ourworldindata.org/grapher/countries-that-have-universal-voting-rights-in-practice.png?imWidth=850": {
+   "path": "countries-that-have-universal-voting-rights-in-practice-9ef7d7ce86.png",
+   "bytes": 59241,
+   "sha256": "b08a451ab493b078f14ab6b39d9422a5c654cf454ee89d388f731d62b2b757ad"
+  },
+  "https://ourworldindata.org/grapher/countries-that-have-universal-voting-rights-in-practice.png?imWidth=1700": {
+   "path": "countries-that-have-universal-voting-rights-in-practice-3f9bc118e9.png",
+   "bytes": 129347,
+   "sha256": "bcaca1dc6b7752c1fd331c12e32c4672109637a2d42b0830ae6c56bd601511eb"
+  },
+  "https://ourworldindata.org/grapher/countries-that-have-universal-voting-rights-in-practice.png": {
+   "path": "countries-that-have-universal-voting-rights-in-practice-7b05a59cb9.png",
+   "bytes": 59241,
+   "sha256": "b08a451ab493b078f14ab6b39d9422a5c654cf454ee89d388f731d62b2b757ad"
+  },
+  "https://ourworldindata.org/grapher/number-of-countries-with-recent-electoral-turnover.png?imWidth=850": {
+   "path": "number-of-countries-with-recent-electoral-turnover-8a7ea846e2.png",
+   "bytes": 44436,
+   "sha256": "ed65a3c874f3eb2cc8dbe24833f61f7e5a567f8fe6b6626512487f63d419531d"
+  },
+  "https://ourworldindata.org/grapher/number-of-countries-with-recent-electoral-turnover.png?imWidth=1700": {
+   "path": "number-of-countries-with-recent-electoral-turnover-b03c15a73b.png",
+   "bytes": 98270,
+   "sha256": "6863e28eb373fd2aea21cac78b6c7b7d9b2d0709bb335c9b06c776cf3e452530"
+  },
+  "https://ourworldindata.org/grapher/number-of-countries-with-recent-electoral-turnover.png": {
+   "path": "number-of-countries-with-recent-electoral-turnover-92e6586530.png",
+   "bytes": 44436,
+   "sha256": "ed65a3c874f3eb2cc8dbe24833f61f7e5a567f8fe6b6626512487f63d419531d"
+  },
+  "https://ourworldindata.org/grapher/countries-with-an-elected-parliament-and-government.png?imWidth=850": {
+   "path": "countries-with-an-elected-parliament-and-government-d9563a2f7b.png",
+   "bytes": 53224,
+   "sha256": "9b758ad9b2e72b9a215bf8c5c230dc8eb89d720612190554f2c7bcda1ce9d2ba"
+  },
+  "https://ourworldindata.org/grapher/countries-with-an-elected-parliament-and-government.png?imWidth=1700": {
+   "path": "countries-with-an-elected-parliament-and-government-6f9c5fdbcc.png",
+   "bytes": 115366,
+   "sha256": "0573941aa90805e2e046e5ee319991f4e101da4bac829a504f686f40299c2fd3"
+  },
+  "https://ourworldindata.org/grapher/countries-with-an-elected-parliament-and-government.png": {
+   "path": "countries-with-an-elected-parliament-and-government-17fc805f10.png",
+   "bytes": 53224,
+   "sha256": "9b758ad9b2e72b9a215bf8c5c230dc8eb89d720612190554f2c7bcda1ce9d2ba"
+  },
+  "https://ourworldindata.org/grapher/political-regime-bti.png?imWidth=850": {
+   "path": "political-regime-bti-24510ec58f.png",
+   "bytes": 128780,
+   "sha256": "e2d2913af30b1bf32d53176790de892d413b6609e310921c1c7ce1104edaa8de"
+  },
+  "https://ourworldindata.org/grapher/political-regime-bti.png?imWidth=1700": {
+   "path": "political-regime-bti-51e51b1b94.png",
+   "bytes": 300616,
+   "sha256": "a71df0917c1afeea8e4af5e4a90f977fc147a9b95b466a6f44edb0fa943b6e27"
+  },
+  "https://ourworldindata.org/grapher/political-regime-bti.png": {
+   "path": "political-regime-bti-d4902b3067.png",
+   "bytes": 128780,
+   "sha256": "e2d2913af30b1bf32d53176790de892d413b6609e310921c1c7ce1104edaa8de"
+  },
+  "https://ourworldindata.org/grapher/political-regime-ert-within-regimes.png?imWidth=850": {
+   "path": "political-regime-ert-within-regimes-e8160e662e.png",
+   "bytes": 137722,
+   "sha256": "1d7b045c50d1c1b771cef62f0c8485ec99c66f71e226cc27b1a4b14af01d8a1c"
+  },
+  "https://ourworldindata.org/grapher/political-regime-ert-within-regimes.png?imWidth=1700": {
+   "path": "political-regime-ert-within-regimes-d50f42c2c1.png",
+   "bytes": 310596,
+   "sha256": "b28d0724ca4fba07fd969f73ee5757b3c642943c68691a417ebd38c1e9004fd3"
+  },
+  "https://ourworldindata.org/grapher/political-regime-ert-within-regimes.png": {
+   "path": "political-regime-ert-within-regimes-0f9aae0996.png",
+   "bytes": 137722,
+   "sha256": "1d7b045c50d1c1b771cef62f0c8485ec99c66f71e226cc27b1a4b14af01d8a1c"
+  },
+  "https://ourworldindata.org/grapher/democracy-index-eiu.png?imWidth=850": {
+   "path": "democracy-index-eiu-b85cb760c2.png",
+   "bytes": 145983,
+   "sha256": "02c5f19130ab822ee9ed264394ae9ac6938c7c27684e8b928f4b312a05cd7fa6"
+  },
+  "https://ourworldindata.org/grapher/democracy-index-eiu.png?imWidth=1700": {
+   "path": "democracy-index-eiu-43336dd70b.png",
+   "bytes": 329828,
+   "sha256": "ea8a920f2512a0c4fe9b3cbfd02ddd5484108c87405b7ff0d7c72c59ead12a5d"
+  },
+  "https://ourworldindata.org/grapher/democracy-index-eiu.png": {
+   "path": "democracy-index-eiu-8525533009.png",
+   "bytes": 145983,
+   "sha256": "02c5f19130ab822ee9ed264394ae9ac6938c7c27684e8b928f4b312a05cd7fa6"
+  },
+  "https://ourworldindata.org/grapher/political-regime-classification-by-source.png?imWidth=850": {
+   "path": "political-regime-classification-by-source-c38ab0cfb5.png",
+   "bytes": 42001,
+   "sha256": "9902023db640543f923d33fab58cc8292f2b3ce33f6d28a183a6ae097416bd62"
+  },
+  "https://ourworldindata.org/grapher/political-regime-classification-by-source.png?imWidth=1700": {
+   "path": "political-regime-classification-by-source-5f17ca7c54.png",
+   "bytes": 91241,
+   "sha256": "8a31c31200261356b67f0b93b0107df379fef41d18c815100b77d1b1f6125f89"
+  },
+  "https://ourworldindata.org/grapher/political-regime-classification-by-source.png": {
+   "path": "political-regime-classification-by-source-e5b185dce9.png",
+   "bytes": 42001,
+   "sha256": "9902023db640543f923d33fab58cc8292f2b3ce33f6d28a183a6ae097416bd62"
+  },
+  "https://ourworldindata.org/grapher/democracy-index-by-source.png?imWidth=850": {
+   "path": "democracy-index-by-source-3dff327dde.png",
+   "bytes": 58604,
+   "sha256": "dc3bd8f0e131f6284507b5acf6520de6a92a134e39c36585cce93914890d5f1b"
+  },
+  "https://ourworldindata.org/grapher/democracy-index-by-source.png?imWidth=1700": {
+   "path": "democracy-index-by-source-5eb48eecfb.png",
+   "bytes": 130273,
+   "sha256": "2832d6a978b6f6879ebfd78520785e65a0319153431d341ced94e7fe131746b5"
+  },
+  "https://ourworldindata.org/grapher/democracy-index-by-source.png": {
+   "path": "democracy-index-by-source-a785e9b832.png",
+   "bytes": 58604,
+   "sha256": "dc3bd8f0e131f6284507b5acf6520de6a92a134e39c36585cce93914890d5f1b"
+  },
+  "https://ourworldindata.org/grapher/democratic-features-bti.png?imWidth=850": {
+   "path": "democratic-features-bti-7cbcd156fe.png",
+   "bytes": 131880,
+   "sha256": "fae3d479743fcfe0cdfc3b7fb68a7e22ed7bc2d406cc462361291acb5dee32cb"
+  },
+  "https://ourworldindata.org/grapher/democratic-features-bti.png?imWidth=1700": {
+   "path": "democratic-features-bti-a1fa76de94.png",
+   "bytes": 310335,
+   "sha256": "d3460dd606ecbd07347ae80f74e4397afc56b88cee49421e47fb77a5c4242d4d"
+  },
+  "https://ourworldindata.org/grapher/democratic-features-bti.png": {
+   "path": "democratic-features-bti-4c3facef88.png",
+   "bytes": 131880,
+   "sha256": "fae3d479743fcfe0cdfc3b7fb68a7e22ed7bc2d406cc462361291acb5dee32cb"
+  },
+  "https://ourworldindata.org/grapher/political-regime-ert.png?imWidth=850": {
+   "path": "political-regime-ert-2a9204a6e3.png",
+   "bytes": 136189,
+   "sha256": "863ad018e7b4d7a4c67fcc5ead6bcaf16de1ef056a07c05c1510b8326b219213"
+  },
+  "https://ourworldindata.org/grapher/political-regime-ert.png?imWidth=1700": {
+   "path": "political-regime-ert-474b1a3897.png",
+   "bytes": 304641,
+   "sha256": "b683448e915f88bcf65a4cdc19442b0c69494504e4b3dded1754e29252f7a764"
+  },
+  "https://ourworldindata.org/grapher/political-regime-ert.png": {
+   "path": "political-regime-ert-9a90baf912.png",
+   "bytes": 136189,
+   "sha256": "863ad018e7b4d7a4c67fcc5ead6bcaf16de1ef056a07c05c1510b8326b219213"
+  },
+  "https://ourworldindata.org/grapher/elections-recently-led-to-a-change-in-government.png?imWidth=850": {
+   "path": "elections-recently-led-to-a-change-in-government-4e8ed6aae4.png",
+   "bytes": 131894,
+   "sha256": "c21691e1bec4da70e13281e17f478a98825ef2bcdd7be9cb55b133cb563f96c2"
+  },
+  "https://ourworldindata.org/grapher/elections-recently-led-to-a-change-in-government.png?imWidth=1700": {
+   "path": "elections-recently-led-to-a-change-in-government-16e6bb7404.png",
+   "bytes": 304923,
+   "sha256": "6fa59ee9384e182580cf7f96d40da06a7ce49181d63541b6ad68302a48396d5d"
+  },
+  "https://ourworldindata.org/grapher/elections-recently-led-to-a-change-in-government.png": {
+   "path": "elections-recently-led-to-a-change-in-government-4ac7bad0ce.png",
+   "bytes": 131894,
+   "sha256": "c21691e1bec4da70e13281e17f478a98825ef2bcdd7be9cb55b133cb563f96c2"
+  },
+  "https://ourworldindata.org/grapher/political-regime-fh.png?imWidth=850": {
+   "path": "political-regime-fh-2f1e239ad3.png",
+   "bytes": 140541,
+   "sha256": "b7fe5c7f5e1023a8da54034590e4590901292c43a01d8215a5939bc749b7effa"
+  },
+  "https://ourworldindata.org/grapher/political-regime-fh.png?imWidth=1700": {
+   "path": "political-regime-fh-fe0c5008a5.png",
+   "bytes": 314796,
+   "sha256": "0c8bc41b70e0db131534a9752ed0d4cb49dd9bac760380218dd7c5210ad76f67"
+  },
+  "https://ourworldindata.org/grapher/political-regime-fh.png": {
+   "path": "political-regime-fh-34985604c3.png",
+   "bytes": 140541,
+   "sha256": "b7fe5c7f5e1023a8da54034590e4590901292c43a01d8215a5939bc749b7effa"
+  },
+  "https://ourworldindata.org/grapher/freedom-score-fh.png?imWidth=850": {
+   "path": "freedom-score-fh-29c8229e21.png",
+   "bytes": 140972,
+   "sha256": "b17e280c58d24c528b92863d18411a9e7a7b24979d44ee95881873a77e02116c"
+  },
+  "https://ourworldindata.org/grapher/freedom-score-fh.png?imWidth=1700": {
+   "path": "freedom-score-fh-4dadd927d4.png",
+   "bytes": 317061,
+   "sha256": "6e556be1729fb2677c0202789add4d5707db0d8839b807796d6b331c8790b082"
+  },
+  "https://ourworldindata.org/grapher/freedom-score-fh.png": {
+   "path": "freedom-score-fh-23c5a7a650.png",
+   "bytes": 140972,
+   "sha256": "b17e280c58d24c528b92863d18411a9e7a7b24979d44ee95881873a77e02116c"
+  },
+  "https://ourworldindata.org/grapher/freedom-of-association-index.png?imWidth=850": {
+   "path": "freedom-of-association-index-f472efb848.png",
+   "bytes": 140006,
+   "sha256": "d4c5106e9db685fe34959344226de9a649cb1cba657433e281fd477200f052e6"
+  },
+  "https://ourworldindata.org/grapher/freedom-of-association-index.png?imWidth=1700": {
+   "path": "freedom-of-association-index-1eb035a379.png",
+   "bytes": 314703,
+   "sha256": "da663f4db6c5570fbe2e9830f2a5070b9dd1993a9f3779bfc4dca847b94439b5"
+  },
+  "https://ourworldindata.org/grapher/freedom-of-association-index.png": {
+   "path": "freedom-of-association-index-e7b78c2a19.png",
+   "bytes": 140006,
+   "sha256": "d4c5106e9db685fe34959344226de9a649cb1cba657433e281fd477200f052e6"
+  },
+  "https://ourworldindata.org/grapher/freedom-of-expression-index.png?imWidth=850": {
+   "path": "freedom-of-expression-index-fb8f22ebaa.png",
+   "bytes": 138102,
+   "sha256": "6a695c5f234644e6b4331191373fc71db4b9733d333e86d66254f4fec7792859"
+  },
+  "https://ourworldindata.org/grapher/freedom-of-expression-index.png?imWidth=1700": {
+   "path": "freedom-of-expression-index-96435c3bfa.png",
+   "bytes": 308409,
+   "sha256": "36445766e91dcff7aecc26983870a17e92e47548595e249b32eb6ffe9e8ba33b"
+  },
+  "https://ourworldindata.org/grapher/freedom-of-expression-index.png": {
+   "path": "freedom-of-expression-index-dc3dc5d981.png",
+   "bytes": 138102,
+   "sha256": "6a695c5f234644e6b4331191373fc71db4b9733d333e86d66254f4fec7792859"
+  },
+  "https://ourworldindata.org/grapher/gdp-per-capita-vs-electoral-democracy-index.png?imWidth=850": {
+   "path": "gdp-per-capita-vs-electoral-democracy-index-e92fbf52d6.png",
+   "bytes": 100325,
+   "sha256": "d01aa8dc1ebcba76e266a85ecf31d666af63d00994e308ee0c1f9a58b958411a"
+  },
+  "https://ourworldindata.org/grapher/gdp-per-capita-vs-electoral-democracy-index.png?imWidth=1700": {
+   "path": "gdp-per-capita-vs-electoral-democracy-index-abd7525d7e.png",
+   "bytes": 234247,
+   "sha256": "2a237ae110879aaa46042a90f70445c79001d71d684c22067e274571628b5118"
+  },
+  "https://ourworldindata.org/grapher/gdp-per-capita-vs-electoral-democracy-index.png": {
+   "path": "gdp-per-capita-vs-electoral-democracy-index-345633e620.png",
+   "bytes": 100325,
+   "sha256": "d01aa8dc1ebcba76e266a85ecf31d666af63d00994e308ee0c1f9a58b958411a"
+  },
+  "https://ourworldindata.org/grapher/government-effectiveness-vs-electoral-democracy-index.png?imWidth=850": {
+   "path": "government-effectiveness-vs-electoral-democracy-index-c3926da875.png",
+   "bytes": 93264,
+   "sha256": "aa9ba51f8d17582ecbc20ea92a6bb023d28f0962843fa0386ca85158eac0d8ca"
+  },
+  "https://ourworldindata.org/grapher/government-effectiveness-vs-electoral-democracy-index.png?imWidth=1700": {
+   "path": "government-effectiveness-vs-electoral-democracy-index-874eef6388.png",
+   "bytes": 215883,
+   "sha256": "87d63f1a715d1347316726ed57269c88bc73e5a4577fbfd129c2936b36bb0fca"
+  },
+  "https://ourworldindata.org/grapher/government-effectiveness-vs-electoral-democracy-index.png": {
+   "path": "government-effectiveness-vs-electoral-democracy-index-79d4034953.png",
+   "bytes": 93264,
+   "sha256": "aa9ba51f8d17582ecbc20ea92a6bb023d28f0962843fa0386ca85158eac0d8ca"
+  },
+  "https://ourworldindata.org/grapher/human-rights-index-vs-electoral-democracy-index.png?imWidth=850": {
+   "path": "human-rights-index-vs-electoral-democracy-index-bae0c6749b.png",
+   "bytes": 76110,
+   "sha256": "58eefb4fb3c921d6ba7900f99d809851684dd2e8f67794b34082d2f0bf9295e7"
+  },
+  "https://ourworldindata.org/grapher/human-rights-index-vs-electoral-democracy-index.png?imWidth=1700": {
+   "path": "human-rights-index-vs-electoral-democracy-index-df9ee2c342.png",
+   "bytes": 174841,
+   "sha256": "a5dfd4cd856ac4f51954e1da237e6ebe585fd391462b4c1ddacb9aa5605dcc2f"
+  },
+  "https://ourworldindata.org/grapher/human-rights-index-vs-electoral-democracy-index.png": {
+   "path": "human-rights-index-vs-electoral-democracy-index-86269c88a9.png",
+   "bytes": 76110,
+   "sha256": "58eefb4fb3c921d6ba7900f99d809851684dd2e8f67794b34082d2f0bf9295e7"
+  },
+  "https://ourworldindata.org/grapher/key-features-of-democracy.png?imWidth=850": {
+   "path": "key-features-of-democracy-5cd6887d6f.png",
+   "bytes": 45466,
+   "sha256": "38713f9c66ecdcea6ca4e9c7ee753c1fd97607e168bb9f363f72cb9c7a7ee2ad"
+  },
+  "https://ourworldindata.org/grapher/key-features-of-democracy.png?imWidth=1700": {
+   "path": "key-features-of-democracy-8117bc1161.png",
+   "bytes": 102979,
+   "sha256": "b2ea268dfcacf58beb5fc05b4724cca114addb29a6a49bf7f83d5d02cad7c812"
+  },
+  "https://ourworldindata.org/grapher/key-features-of-democracy.png": {
+   "path": "key-features-of-democracy-89acb0f073.png",
+   "bytes": 45466,
+   "sha256": "38713f9c66ecdcea6ca4e9c7ee753c1fd97607e168bb9f363f72cb9c7a7ee2ad"
+  },
+  "https://ourworldindata.org/grapher/key-features-of-electoral-democracy.png?imWidth=850": {
+   "path": "key-features-of-electoral-democracy-fb6739b8f0.png",
+   "bytes": 53538,
+   "sha256": "7a6a239873afa028956261c867663c2c0e8fb040c8a60145876355ca965979ff"
+  },
+  "https://ourworldindata.org/grapher/key-features-of-electoral-democracy.png?imWidth=1700": {
+   "path": "key-features-of-electoral-democracy-f019514a01.png",
+   "bytes": 118217,
+   "sha256": "d2f4f8268cc1b6b72a4f4a79fbf0d9e1f4c46dc3d96e3792933ec5ea499a6908"
+  },
+  "https://ourworldindata.org/grapher/key-features-of-electoral-democracy.png": {
+   "path": "key-features-of-electoral-democracy-875425d3a6.png",
+   "bytes": 53538,
+   "sha256": "7a6a239873afa028956261c867663c2c0e8fb040c8a60145876355ca965979ff"
+  },
+  "https://ourworldindata.org/grapher/key-features-of-liberal-democracy.png?imWidth=850": {
+   "path": "key-features-of-liberal-democracy-fc2872ebc8.png",
+   "bytes": 57475,
+   "sha256": "7ad53206bbcb9c81afcb2b1215dc346ec976f1eab49887a1ee746024f89f6a1f"
+  },
+  "https://ourworldindata.org/grapher/key-features-of-liberal-democracy.png?imWidth=1700": {
+   "path": "key-features-of-liberal-democracy-76223f5400.png",
+   "bytes": 131534,
+   "sha256": "d409e84983a5ae71c12701d4314c063031529ba1c8b80e39cb25fe52a7f3da59"
+  },
+  "https://ourworldindata.org/grapher/key-features-of-liberal-democracy.png": {
+   "path": "key-features-of-liberal-democracy-377dbc948a.png",
+   "bytes": 57475,
+   "sha256": "7ad53206bbcb9c81afcb2b1215dc346ec976f1eab49887a1ee746024f89f6a1f"
+  },
+  "https://ourworldindata.org/grapher/key-media-freedoms.png?imWidth=850": {
+   "path": "key-media-freedoms-f627b86c4e.png",
+   "bytes": 43110,
+   "sha256": "ff574a5b76ae6a5de89e33253517fb1e1521b2f711c736b579d6642690095b3f"
+  },
+  "https://ourworldindata.org/grapher/key-media-freedoms.png?imWidth=1700": {
+   "path": "key-media-freedoms-eac8ea9e1c.png",
+   "bytes": 96783,
+   "sha256": "8d1540152ab30f3f22dd192b670096406d0e1f648421ee049b84e066d1480c3b"
+  },
+  "https://ourworldindata.org/grapher/key-media-freedoms.png": {
+   "path": "key-media-freedoms-480c89c7f9.png",
+   "bytes": 43110,
+   "sha256": "ff574a5b76ae6a5de89e33253517fb1e1521b2f711c736b579d6642690095b3f"
+  },
+  "https://ourworldindata.org/grapher/learning-adjusted-years-of-schooling-vs-electoral-democracy-index.png?imWidth=850": {
+   "path": "learning-adjusted-years-of-schooling-vs-electoral-democracy-index-f8d6e852b9.png",
+   "bytes": 94397,
+   "sha256": "16ddfbba8c7aad04efbb4218e825900abaddc5cd6a62dbfcd6d4234a6ce0156e"
+  },
+  "https://ourworldindata.org/grapher/learning-adjusted-years-of-schooling-vs-electoral-democracy-index.png?imWidth=1700": {
+   "path": "learning-adjusted-years-of-schooling-vs-electoral-democracy-index-7ba1b33bac.png",
+   "bytes": 217911,
+   "sha256": "97c264f2060b985749011e5e639090cc41c3ded725fdf234bd04ae06e39e56f1"
+  },
+  "https://ourworldindata.org/grapher/learning-adjusted-years-of-schooling-vs-electoral-democracy-index.png": {
+   "path": "learning-adjusted-years-of-schooling-vs-electoral-democracy-index-63fae08516.png",
+   "bytes": 94397,
+   "sha256": "16ddfbba8c7aad04efbb4218e825900abaddc5cd6a62dbfcd6d4234a6ce0156e"
+  },
+  "https://ourworldindata.org/grapher/life-expectancy-vs-electoral-democracy-index.png?imWidth=850": {
+   "path": "life-expectancy-vs-electoral-democracy-index-4fed29a10c.png",
+   "bytes": 96278,
+   "sha256": "9e5f15b5cfc947ce668425eceba45659af6c4b7a4be151bb44f2252ff484d973"
+  },
+  "https://ourworldindata.org/grapher/life-expectancy-vs-electoral-democracy-index.png?imWidth=1700": {
+   "path": "life-expectancy-vs-electoral-democracy-index-77971a8ff3.png",
+   "bytes": 224691,
+   "sha256": "7daf54084387317576fdabfb1b7149dc9c772bb026cf01b247745034fe453ee2"
+  },
+  "https://ourworldindata.org/grapher/life-expectancy-vs-electoral-democracy-index.png": {
+   "path": "life-expectancy-vs-electoral-democracy-index-84fd3e4166.png",
+   "bytes": 96278,
+   "sha256": "9e5f15b5cfc947ce668425eceba45659af6c4b7a4be151bb44f2252ff484d973"
+  },
+  "https://ourworldindata.org/grapher/people-living-in-democracies-autocracies-lexical.png?imWidth=850": {
+   "path": "people-living-in-democracies-autocracies-lexical-337f5cff46.png",
+   "bytes": 86373,
+   "sha256": "baf85cb746a0b92d016a7c46e20bacd36e91ff0aeff6d7f0ae6bed5d37328212"
+  },
+  "https://ourworldindata.org/grapher/people-living-in-democracies-autocracies-lexical.png?imWidth=1700": {
+   "path": "people-living-in-democracies-autocracies-lexical-d1f69ae368.png",
+   "bytes": 193442,
+   "sha256": "25d0ec4651adc050cded0fd20cf7456366f1c754e1cc52e2a5e9518cef9c631c"
+  },
+  "https://ourworldindata.org/grapher/people-living-in-democracies-autocracies-lexical.png": {
+   "path": "people-living-in-democracies-autocracies-lexical-ef93a05033.png",
+   "bytes": 86373,
+   "sha256": "baf85cb746a0b92d016a7c46e20bacd36e91ff0aeff6d7f0ae6bed5d37328212"
+  },
+  "https://ourworldindata.org/grapher/people-living-in-democratizing-autocratizing-countries-ert.png?imWidth=850": {
+   "path": "people-living-in-democratizing-autocratizing-countries-ert-b218122616.png",
+   "bytes": 66255,
+   "sha256": "d603f89505f4fa757d04556a391e4b87998f1c0e4ffcdd8c8464a03ed85295e7"
+  },
+  "https://ourworldindata.org/grapher/people-living-in-democratizing-autocratizing-countries-ert.png?imWidth=1700": {
+   "path": "people-living-in-democratizing-autocratizing-countries-ert-3dd1e05aee.png",
+   "bytes": 148558,
+   "sha256": "42a5fd1d1a283460369b2ca67fe122d4e33ec979a5bd16683dbb0476f3fc9f8f"
+  },
+  "https://ourworldindata.org/grapher/people-living-in-democratizing-autocratizing-countries-ert.png": {
+   "path": "people-living-in-democratizing-autocratizing-countries-ert-753e16bc7a.png",
+   "bytes": 66255,
+   "sha256": "d603f89505f4fa757d04556a391e4b87998f1c0e4ffcdd8c8464a03ed85295e7"
+  },
+  "https://ourworldindata.org/grapher/people-living-in-democratizing-autocratizing-democracies-autocracies-ert.png?imWidth=850": {
+   "path": "people-living-in-democratizing-autocratizing-democracies-autocracies-ert-12c4dc0479.png",
+   "bytes": 82033,
+   "sha256": "5660f5280129a8b91aae428ac4e728c9762354f8ee1c72948a751cbc734a29cd"
+  },
+  "https://ourworldindata.org/grapher/people-living-in-democratizing-autocratizing-democracies-autocracies-ert.png?imWidth=1700": {
+   "path": "people-living-in-democratizing-autocratizing-democracies-autocracies-ert-9d2e494a56.png",
+   "bytes": 181625,
+   "sha256": "8a394a95bfa7dfe70ac7f21b60f43a2eb96529ae630c82cece9c1a8e8a960a79"
+  },
+  "https://ourworldindata.org/grapher/people-living-in-democratizing-autocratizing-democracies-autocracies-ert.png": {
+   "path": "people-living-in-democratizing-autocratizing-democracies-autocracies-ert-b0c9369917.png",
+   "bytes": 82033,
+   "sha256": "5660f5280129a8b91aae428ac4e728c9762354f8ee1c72948a751cbc734a29cd"
+  },
+  "https://ourworldindata.org/grapher/political-corruption-index-vs-electoral-democracy-index.png?imWidth=850": {
+   "path": "political-corruption-index-vs-electoral-democracy-index-a1e8211ce6.png",
+   "bytes": 94135,
+   "sha256": "db3a520ff246b1d3d31598508167b90c0af6ea40bb5e62f75369592a91157731"
+  },
+  "https://ourworldindata.org/grapher/political-corruption-index-vs-electoral-democracy-index.png?imWidth=1700": {
+   "path": "political-corruption-index-vs-electoral-democracy-index-9421635b42.png",
+   "bytes": 221361,
+   "sha256": "c20a75897f641747fc7540401974c8d7494e93ee022dab97ddbe574b72512759"
+  },
+  "https://ourworldindata.org/grapher/political-corruption-index-vs-electoral-democracy-index.png": {
+   "path": "political-corruption-index-vs-electoral-democracy-index-3f071fbcb4.png",
+   "bytes": 94135,
+   "sha256": "db3a520ff246b1d3d31598508167b90c0af6ea40bb5e62f75369592a91157731"
+  },
+  "https://ourworldindata.org/grapher/political-polarization-score.png?imWidth=850": {
+   "path": "political-polarization-score-38c05eeaa7.png",
+   "bytes": 143850,
+   "sha256": "70c52a91fede553e6adfe0e343c941d6b3f0fae058f38d4cacd3fe34b73edf81"
+  },
+  "https://ourworldindata.org/grapher/political-polarization-score.png?imWidth=1700": {
+   "path": "political-polarization-score-6d2a7edc1e.png",
+   "bytes": 327253,
+   "sha256": "532f9d792ad7a948ee57c463b36342990a0806516c03626aec638afddad5df0d"
+  },
+  "https://ourworldindata.org/grapher/political-polarization-score.png": {
+   "path": "political-polarization-score-263eaa94e6.png",
+   "bytes": 143850,
+   "sha256": "70c52a91fede553e6adfe0e343c941d6b3f0fae058f38d4cacd3fe34b73edf81"
+  },
+  "https://ourworldindata.org/grapher/suffrage.png?imWidth=850": {
+   "path": "suffrage-3c6877b55c.png",
+   "bytes": 135929,
+   "sha256": "f49fc774e41141326d24d70354504322e4e96d68140d29080fa823a98b946fa0"
+  },
+  "https://ourworldindata.org/grapher/suffrage.png?imWidth=1700": {
+   "path": "suffrage-a550bed792.png",
+   "bytes": 301863,
+   "sha256": "e309a16047d1c07e546bc8a1374c9c4409893c144295bf32ea6a3da3ac9a0a37"
+  },
+  "https://ourworldindata.org/grapher/suffrage.png": {
+   "path": "suffrage-1f80758ee4.png",
+   "bytes": 135929,
+   "sha256": "f49fc774e41141326d24d70354504322e4e96d68140d29080fa823a98b946fa0"
+  },
+  "https://ourworldindata.org/grapher/share-of-population-in-extreme-poverty-vs-electoral-democracy-index.png?imWidth=850": {
+   "path": "share-of-population-in-extreme-poverty-vs-electoral-democracy-index-ffecf32357.png",
+   "bytes": 92261,
+   "sha256": "ae76a851110e16471452e4eb368daab65c9ed4d354211f3644c352d95aad6a04"
+  },
+  "https://ourworldindata.org/grapher/share-of-population-in-extreme-poverty-vs-electoral-democracy-index.png?imWidth=1700": {
+   "path": "share-of-population-in-extreme-poverty-vs-electoral-democracy-index-70b2832a5b.png",
+   "bytes": 209600,
+   "sha256": "e0ac6f470e9aa179b75405e97cc6a77bf44354e658d00dbb82eff3d8a73a1ea9"
+  },
+  "https://ourworldindata.org/grapher/share-of-population-in-extreme-poverty-vs-electoral-democracy-index.png": {
+   "path": "share-of-population-in-extreme-poverty-vs-electoral-democracy-index-d1d481dca4.png",
+   "bytes": 92261,
+   "sha256": "ae76a851110e16471452e4eb368daab65c9ed4d354211f3644c352d95aad6a04"
+  },
+  "https://ourworldindata.org/grapher/strong-civil-society-index.png?imWidth=850": {
+   "path": "strong-civil-society-index-bfd8bdb6d8.png",
+   "bytes": 143373,
+   "sha256": "63d82c37827eaf480312874e5ec584101929279593c4ed75d0833a2c45d8d4f4"
+  },
+  "https://ourworldindata.org/grapher/strong-civil-society-index.png?imWidth=1700": {
+   "path": "strong-civil-society-index-ee45f79889.png",
+   "bytes": 318619,
+   "sha256": "a330815ebdff27ec75a953999c986fd89654fb10064d9c32678ee4091eb31803"
+  },
+  "https://ourworldindata.org/grapher/strong-civil-society-index.png": {
+   "path": "strong-civil-society-index-47096653ab.png",
+   "bytes": 143373,
+   "sha256": "63d82c37827eaf480312874e5ec584101929279593c4ed75d0833a2c45d8d4f4"
+  },
+  "https://ourworldindata.org/grapher/tax-revenues-vs-electoral-democracy-index.png?imWidth=850": {
+   "path": "tax-revenues-vs-electoral-democracy-index-de0cd79481.png",
+   "bytes": 95628,
+   "sha256": "e73ee17c49210ac5650df461954359994d90608861dafad7fd88b2fa1a563d8f"
+  },
+  "https://ourworldindata.org/grapher/tax-revenues-vs-electoral-democracy-index.png?imWidth=1700": {
+   "path": "tax-revenues-vs-electoral-democracy-index-175e00660e.png",
+   "bytes": 222534,
+   "sha256": "80d12d8bc9dad012663da1ad3a227d905075b4939def84dadd07faaca21250d8"
+  },
+  "https://ourworldindata.org/grapher/tax-revenues-vs-electoral-democracy-index.png": {
+   "path": "tax-revenues-vs-electoral-democracy-index-b88d63c47f.png",
+   "bytes": 95628,
+   "sha256": "e73ee17c49210ac5650df461954359994d90608861dafad7fd88b2fa1a563d8f"
+  },
+  "https://ourworldindata.org/grapher/universal-suffrage-lexical.png?imWidth=850": {
+   "path": "universal-suffrage-lexical-1666737063.png",
+   "bytes": 137271,
+   "sha256": "04beaed3641561d38157c9532ba240f75f7794f52654248b127a36d8b65a3c1b"
+  },
+  "https://ourworldindata.org/grapher/universal-suffrage-lexical.png?imWidth=1700": {
+   "path": "universal-suffrage-lexical-ca0fca0adc.png",
+   "bytes": 307090,
+   "sha256": "5d1035455b170ed86d2fa725f88b672bbaeba5c41f88d3c97be962cd5c3080bc"
+  },
+  "https://ourworldindata.org/grapher/universal-suffrage-lexical.png": {
+   "path": "universal-suffrage-lexical-58a8c21d58.png",
+   "bytes": 137271,
+   "sha256": "04beaed3641561d38157c9532ba240f75f7794f52654248b127a36d8b65a3c1b"
+  },
+  "https://ourworldindata.org/grapher/varieties-democracy-vdem.png?imWidth=850": {
+   "path": "varieties-democracy-vdem-d419c464a9.png",
+   "bytes": 51281,
+   "sha256": "942cbd6aa4e3ae48ece204f5067b2c5dc26c73e428b6fc1fdb1fd9f14d24636d"
+  },
+  "https://ourworldindata.org/grapher/varieties-democracy-vdem.png?imWidth=1700": {
+   "path": "varieties-democracy-vdem-5351ccb1df.png",
+   "bytes": 114122,
+   "sha256": "9bd8a517363d2d51261620a25c57ce28d73a9a20a2157e8b702d68f205830084"
+  },
+  "https://ourworldindata.org/grapher/varieties-democracy-vdem.png": {
+   "path": "varieties-democracy-vdem-cc8e0c82b1.png",
+   "bytes": 51281,
+   "sha256": "942cbd6aa4e3ae48ece204f5067b2c5dc26c73e428b6fc1fdb1fd9f14d24636d"
+  },
+  "https://ourworldindata.org/grapher/voter-turnout-of-registered-voters.png?imWidth=850": {
+   "path": "voter-turnout-of-registered-voters-b1985e95b0.png",
+   "bytes": 141485,
+   "sha256": "3c267ea61e330780393693d7a19442b403899ce2e4d66be70f04c76186a6bc19"
+  },
+  "https://ourworldindata.org/grapher/voter-turnout-of-registered-voters.png?imWidth=1700": {
+   "path": "voter-turnout-of-registered-voters-7c09c80da4.png",
+   "bytes": 319796,
+   "sha256": "c13fe62d8c60cf1839ecc9357a01d809b9dec829d18086d1d7adf16ce280b1be"
+  },
+  "https://ourworldindata.org/grapher/voter-turnout-of-registered-voters.png": {
+   "path": "voter-turnout-of-registered-voters-06cb164a3e.png",
+   "bytes": 141485,
+   "sha256": "3c267ea61e330780393693d7a19442b403899ce2e4d66be70f04c76186a6bc19"
+  },
+  "https://ourworldindata.org/grapher/voter-turnout-of-voting-age-population.png?imWidth=850": {
+   "path": "voter-turnout-of-voting-age-population-00f245b147.png",
+   "bytes": 145473,
+   "sha256": "9923ce6a8daf384671b553977120219f06f4018384ba8df5cdb5c3f2151c1a18"
+  },
+  "https://ourworldindata.org/grapher/voter-turnout-of-voting-age-population.png?imWidth=1700": {
+   "path": "voter-turnout-of-voting-age-population-a6b49bb7b0.png",
+   "bytes": 329052,
+   "sha256": "6d85a022033f6c21b9d34fcf5de8b369427349e18849ba8ee99cd949c78c56a8"
+  },
+  "https://ourworldindata.org/grapher/voter-turnout-of-voting-age-population.png": {
+   "path": "voter-turnout-of-voting-age-population-1d783cd4dd.png",
+   "bytes": 145473,
+   "sha256": "9923ce6a8daf384671b553977120219f06f4018384ba8df5cdb5c3f2151c1a18"
+  },
+  "https://ourworldindata.org/grapher/women-political-empowerment-index-vs-electoral-democracy-index.png?imWidth=850": {
+   "path": "women-political-empowerment-index-vs-electoral-democracy-index-9bd7736d94.png",
+   "bytes": 78857,
+   "sha256": "34392cda876b144ede5440f370b167e0dd6c0f1a8ba51427af7e01d994565bf0"
+  },
+  "https://ourworldindata.org/grapher/women-political-empowerment-index-vs-electoral-democracy-index.png?imWidth=1700": {
+   "path": "women-political-empowerment-index-vs-electoral-democracy-index-5972a04918.png",
+   "bytes": 184418,
+   "sha256": "839c81ddbf1cf5d3ad8da18a67b4ba9b284c41d8727b080af20544025c0af088"
+  },
+  "https://ourworldindata.org/grapher/women-political-empowerment-index-vs-electoral-democracy-index.png": {
+   "path": "women-political-empowerment-index-vs-electoral-democracy-index-2c10d51906.png",
+   "bytes": 78857,
+   "sha256": "34392cda876b144ede5440f370b167e0dd6c0f1a8ba51427af7e01d994565bf0"
+  },
+  "https://ourworldindata.org/grapher/age-of-electoral-democracy.png?imWidth=850": {
+   "path": "age-of-electoral-democracy-280bbc302b.png",
+   "bytes": 140581,
+   "sha256": "d3e926f620b1fb7af6d9855340cc4deb784836edb2cb11de4d6062a4cdb0e20c"
+  },
+  "https://ourworldindata.org/grapher/age-of-electoral-democracy.png?imWidth=1700": {
+   "path": "age-of-electoral-democracy-5d195d3a7a.png",
+   "bytes": 317882,
+   "sha256": "d25cfb3443c3b9e3cd4443b5a2375ef4492c1872d8fe3f07f5f070cf7b2675e5"
+  },
+  "https://ourworldindata.org/grapher/age-of-electoral-democracy.png": {
+   "path": "age-of-electoral-democracy-1b94034ddb.png",
+   "bytes": 140581,
+   "sha256": "d3e926f620b1fb7af6d9855340cc4deb784836edb2cb11de4d6062a4cdb0e20c"
+  },
+  "https://ourworldindata.org/grapher/age-of-liberal-democracy-row.png?imWidth=850": {
+   "path": "age-of-liberal-democracy-row-26e53ad762.png",
+   "bytes": 143768,
+   "sha256": "a1625d0e318e4c9e2c951da3a5a081d407a11d2af557e6f713156a0f82890bcc"
+  },
+  "https://ourworldindata.org/grapher/age-of-liberal-democracy-row.png?imWidth=1700": {
+   "path": "age-of-liberal-democracy-row-40073c9ae9.png",
+   "bytes": 328102,
+   "sha256": "4c5b0984b98088dd172f22ffee3229c4f1faa23f2e5550799878cea39275198f"
+  },
+  "https://ourworldindata.org/grapher/age-of-liberal-democracy-row.png": {
+   "path": "age-of-liberal-democracy-row-e3a496ff25.png",
+   "bytes": 143768,
+   "sha256": "a1625d0e318e4c9e2c951da3a5a081d407a11d2af557e6f713156a0f82890bcc"
+  },
+  "https://ourworldindata.org/grapher/countries-democracies-nondemocracies-simplified-lexical.png?imWidth=850": {
+   "path": "countries-democracies-nondemocracies-simplified-lexical-eb52ec0101.png",
+   "bytes": 47522,
+   "sha256": "a143a6ba513416a4fda869104e3b04efc462e19336b9e850cec75a46cf2739fe"
+  },
+  "https://ourworldindata.org/grapher/countries-democracies-nondemocracies-simplified-lexical.png?imWidth=1700": {
+   "path": "countries-democracies-nondemocracies-simplified-lexical-de7a27cd55.png",
+   "bytes": 105221,
+   "sha256": "aca9bdb0b287e59a6edb499ddd06599ef7de56cf3ecd5bf91ebfcf7ef04e906e"
+  },
+  "https://ourworldindata.org/grapher/countries-democracies-nondemocracies-simplified-lexical.png": {
+   "path": "countries-democracies-nondemocracies-simplified-lexical-9754243383.png",
+   "bytes": 47522,
+   "sha256": "a143a6ba513416a4fda869104e3b04efc462e19336b9e850cec75a46cf2739fe"
+  },
+  "https://ourworldindata.org/grapher/deliberative-democracy-index-vdem.png?imWidth=850": {
+   "path": "deliberative-democracy-index-vdem-790dde42ed.png",
+   "bytes": 144069,
+   "sha256": "ef73880f0be6537f388c1ee4629f401b1b5111a4719e5104383f325834bbab2c"
+  },
+  "https://ourworldindata.org/grapher/deliberative-democracy-index-vdem.png?imWidth=1700": {
+   "path": "deliberative-democracy-index-vdem-1c126ef5b2.png",
+   "bytes": 324486,
+   "sha256": "c4eb9aec24c3a36288e6fde2005e08a6ba9e7e21bc36f973279dc01547b28c6f"
+  },
+  "https://ourworldindata.org/grapher/deliberative-democracy-index-vdem.png": {
+   "path": "deliberative-democracy-index-vdem-847fa42195.png",
+   "bytes": 144069,
+   "sha256": "ef73880f0be6537f388c1ee4629f401b1b5111a4719e5104383f325834bbab2c"
+  },
+  "https://ourworldindata.org/grapher/perceived-influence-over-government.png?imWidth=850": {
+   "path": "perceived-influence-over-government-73d2736b61.png",
+   "bytes": 49345,
+   "sha256": "5bc522d2aaca1aee231c87d932ed3a6a39ecf06c58c11622dabff9663584bb52"
+  },
+  "https://ourworldindata.org/grapher/perceived-influence-over-government.png?imWidth=1700": {
+   "path": "perceived-influence-over-government-e8a4d0f494.png",
+   "bytes": 102829,
+   "sha256": "91a9b6c7c6fe72821f8f5a2e1cfe0c49a45f89099ca37fba5fd8b2e92ef0e0d7"
+  },
+  "https://ourworldindata.org/grapher/perceived-influence-over-government.png": {
+   "path": "perceived-influence-over-government-f011ee0fbb.png",
+   "bytes": 49345,
+   "sha256": "5bc522d2aaca1aee231c87d932ed3a6a39ecf06c58c11622dabff9663584bb52"
+  },
+  "https://ourworldindata.org/grapher/egalitarian-democracy-index-vdem.png?imWidth=850": {
+   "path": "egalitarian-democracy-index-vdem-fb3750b863.png",
+   "bytes": 144421,
+   "sha256": "619a0b43537624e272408ae992404c8bb5015d9ea2b92e5e48f462fc6766b5c3"
+  },
+  "https://ourworldindata.org/grapher/egalitarian-democracy-index-vdem.png?imWidth=1700": {
+   "path": "egalitarian-democracy-index-vdem-44e85942ee.png",
+   "bytes": 325498,
+   "sha256": "71976f017f57a68fa4b7abb679b5344cb5a1bb68697bf700be4a13216a7e9f77"
+  },
+  "https://ourworldindata.org/grapher/egalitarian-democracy-index-vdem.png": {
+   "path": "egalitarian-democracy-index-vdem-373031645b.png",
+   "bytes": 144421,
+   "sha256": "619a0b43537624e272408ae992404c8bb5015d9ea2b92e5e48f462fc6766b5c3"
+  },
+  "https://ourworldindata.org/grapher/elected-parliament-and-government.png?imWidth=850": {
+   "path": "elected-parliament-and-government-96b9d2015c.png",
+   "bytes": 139498,
+   "sha256": "66ccdaeafb3c3f88f5676c57c1a2ce350ad20e112d92fd31a0f2dbb3148d695c"
+  },
+  "https://ourworldindata.org/grapher/elected-parliament-and-government.png?imWidth=1700": {
+   "path": "elected-parliament-and-government-daa6be2b9b.png",
+   "bytes": 308417,
+   "sha256": "c2cf897605e8d11d9d5c62bba728d2b527714a475cd2f4e7b3409bd1416dd71f"
+  },
+  "https://ourworldindata.org/grapher/elected-parliament-and-government.png": {
+   "path": "elected-parliament-and-government-3f8166144f.png",
+   "bytes": 139498,
+   "sha256": "66ccdaeafb3c3f88f5676c57c1a2ce350ad20e112d92fd31a0f2dbb3148d695c"
+  },
+  "https://ourworldindata.org/grapher/judicial-constraints-on-the-executive-index.png?imWidth=850": {
+   "path": "judicial-constraints-on-the-executive-index-b5ce57afd9.png",
+   "bytes": 141965,
+   "sha256": "49639d893cfcd4e011c8d451e220d97e0fb47730b406afd3a939bc883e856136"
+  },
+  "https://ourworldindata.org/grapher/judicial-constraints-on-the-executive-index.png?imWidth=1700": {
+   "path": "judicial-constraints-on-the-executive-index-9a6f6f91a8.png",
+   "bytes": 317084,
+   "sha256": "4a11b1739df2c33fbfd6441a58f86da2f97d25e2784e927e55f11c0c5b7aef67"
+  },
+  "https://ourworldindata.org/grapher/judicial-constraints-on-the-executive-index.png": {
+   "path": "judicial-constraints-on-the-executive-index-97d689127c.png",
+   "bytes": 141965,
+   "sha256": "49639d893cfcd4e011c8d451e220d97e0fb47730b406afd3a939bc883e856136"
+  },
+  "https://ourworldindata.org/grapher/legislative-constraints-on-the-executive-index.png?imWidth=850": {
+   "path": "legislative-constraints-on-the-executive-index-a3f2aed9a9.png",
+   "bytes": 143040,
+   "sha256": "95faad0f9f6fa28f73f3d7148a93a03ce9754152b1e282c44dbadd84f898d077"
+  },
+  "https://ourworldindata.org/grapher/legislative-constraints-on-the-executive-index.png?imWidth=1700": {
+   "path": "legislative-constraints-on-the-executive-index-32b3b07025.png",
+   "bytes": 319201,
+   "sha256": "8a84a54a54d27f19ba3738652f9c84941ab9baeceeb0dbde563c14390ba77e46"
+  },
+  "https://ourworldindata.org/grapher/legislative-constraints-on-the-executive-index.png": {
+   "path": "legislative-constraints-on-the-executive-index-2a816c87bd.png",
+   "bytes": 143040,
+   "sha256": "95faad0f9f6fa28f73f3d7148a93a03ce9754152b1e282c44dbadd84f898d077"
+  },
+  "https://ourworldindata.org/grapher/participatory-democracy-index.png?imWidth=850": {
+   "path": "participatory-democracy-index-be21e1948b.png",
+   "bytes": 145096,
+   "sha256": "7aa0a23f0f3ae36d2cabc32e64e40b7ccad2d7e43ece0a76b6dc5c976bd197ab"
+  },
+  "https://ourworldindata.org/grapher/participatory-democracy-index.png?imWidth=1700": {
+   "path": "participatory-democracy-index-a174d6fd00.png",
+   "bytes": 329445,
+   "sha256": "e50b1fb695189d7d571d52180497bf31dde932cbc0c14b93efd9fef23769309b"
+  },
+  "https://ourworldindata.org/grapher/participatory-democracy-index.png": {
+   "path": "participatory-democracy-index-9fc9a53f28.png",
+   "bytes": 145096,
+   "sha256": "7aa0a23f0f3ae36d2cabc32e64e40b7ccad2d7e43ece0a76b6dc5c976bd197ab"
+  },
+  "https://ourworldindata.org/grapher/people-living-in-democracies-nondemocracies-simplified-lexical.png?imWidth=850": {
+   "path": "people-living-in-democracies-nondemocracies-simplified-lexical-9303689e88.png",
+   "bytes": 53757,
+   "sha256": "37e99ed013339f78a06e2d4357ed226ce0f3dfbbd17d8c2210282a3086e38c83"
+  },
+  "https://ourworldindata.org/grapher/people-living-in-democracies-nondemocracies-simplified-lexical.png?imWidth=1700": {
+   "path": "people-living-in-democracies-nondemocracies-simplified-lexical-edabb7d5db.png",
+   "bytes": 118562,
+   "sha256": "c5af21bf6719345d0e848b3d90f775dbdf148cef98f287f1f6052eaeb28c8bc9"
+  },
+  "https://ourworldindata.org/grapher/people-living-in-democracies-nondemocracies-simplified-lexical.png": {
+   "path": "people-living-in-democracies-nondemocracies-simplified-lexical-8a2e97ba3e.png",
+   "bytes": 53757,
+   "sha256": "37e99ed013339f78a06e2d4357ed226ce0f3dfbbd17d8c2210282a3086e38c83"
+  },
+  "https://ourworldindata.org/grapher/universal-right-to-vote-in-practice.png?imWidth=850": {
+   "path": "universal-right-to-vote-in-practice-481ca359b4.png",
+   "bytes": 143701,
+   "sha256": "4478745634b619819f4cc5132798e5468072a10f962a022c2cc3bc76c5fb47bf"
+  },
+  "https://ourworldindata.org/grapher/universal-right-to-vote-in-practice.png?imWidth=1700": {
+   "path": "universal-right-to-vote-in-practice-3f598358d1.png",
+   "bytes": 320209,
+   "sha256": "c1a118bdd4ae222804e3a682bc4afab453160ffe6e19d49fd2d52d86bdea9376"
+  },
+  "https://ourworldindata.org/grapher/universal-right-to-vote-in-practice.png": {
+   "path": "universal-right-to-vote-in-practice-9a101f1f96.png",
+   "bytes": 143701,
+   "sha256": "4478745634b619819f4cc5132798e5468072a10f962a022c2cc3bc76c5fb47bf"
+  },
+  "https://ourworldindata.org/owid-logo.svg": {
+   "path": "owid-logo-863d1fe978.svg",
+   "bytes": 8226,
+   "sha256": "001364b2498b2a05eae11d547a95a7903bbfd4697a813f577d4875d6c26e69d7"
+  },
+  "https://ourworldindata.org/yc-logo.svg": {
+   "path": "yc-logo-b653d9bbce.svg",
+   "bytes": 5929,
+   "sha256": "0adc0b248f89d95ebd4ed732d313a7ae2149f45b92cfe6b5ca3644c0495acde1"
+  }
+ }
+}

@@ -1,0 +1,56 @@
+{
+ "title": "Freedom of Expression Index",
+ "url": "https://ourworldindata.org/grapher/freedom-of-expression-index",
+ "date_published": null,
+ "chart_page": true,
+ "authors": [],
+ "retrieved_at": "2026-10-29T17:18:34.852899+00:00",
+ "materialised_at": "2026-10-29T17:18:34.852908+00:00",
+ "source_original_sha256": "2af7307a053a305ff288c01a33f52794fdde22088622a20d607e907d039f0ecd",
+ "offline_snapshot": {
+  "page": "source.html",
+  "assets": "source_files/",
+  "assets_manifest": "source_files/manifest.json",
+  "asset_count": 73,
+  "removed": "all <script> elements except application/ld+json"
+ },
+ "figures": [
+  {
+   "index": 1,
+   "name": "01 Freedom of Expression Index",
+   "embed": {
+    "slug": "freedom-of-expression-index",
+    "query": {},
+    "image": null
+   },
+   "view_url": "https://ourworldindata.org/grapher/freedom-of-expression-index",
+   "csv_url": "https://ourworldindata.org/grapher/freedom-of-expression-index.csv?csvType=filtered",
+   "png_url": "https://ourworldindata.org/grapher/freedom-of-expression-index.png",
+   "data_available": true,
+   "config_title": "Freedom of Expression Index",
+   "config_subtitle": "Data by [V-Dem](#dod:v-dem). Expert estimates of the extent of free speech and the freedom of the press. The index ranges from 0 to 1 (most free).",
+   "files": {
+    "txt": {
+     "path": "figs/01 Freedom of Expression Index.txt",
+     "sha256": "93beac0c043f8123a1bea0de399c8c7ae312cdf890a794b66268f2089fd3f537"
+    },
+    "csv": {
+     "path": "figs/01 Freedom of Expression Index.csv",
+     "sha256": "7aec097fc754798e86a3c8be577bbb977ec77c68a7d893407555f3669d690cf4"
+    },
+    "png": {
+     "path": "figs/01 Freedom of Expression Index.png",
+     "sha256": "6a695c5f234644e6b4331191373fc71db4b9733d333e86d66254f4fec7792859"
+    }
+   },
+   "chart_slug": "freedom-of-expression-index",
+   "column_short_names": {
+    "Entity": "entity",
+    "Code": "code",
+    "Year": "year",
+    "Freedom of expression index": "freeexpr_vdem__estimate_best",
+    "World region according to OWID": "owid_region"
+   }
+  }
+ ]
+}

@@ -1,0 +1,104 @@
+{
+ "title": "Does democracy lead to better health?",
+ "url": "https://ourworldindata.org/democracy-health",
+ "date_published": "2019-06-24",
+ "authors": [
+  "Esteban Ortiz-Ospina"
+ ],
+ "retrieved_at": "2026-10-29T15:15:18.455708+00:00",
+ "materialised_at": "2026-10-29T16:17:25.933769+00:00",
+ "source_original_sha256": "9b600290d9298cf075af5fc0caa1fb83bb2f2940628ae27253653878c014f3d2",
+ "offline_snapshot": {
+  "page": "source.html",
+  "assets": "source_files/",
+  "assets_manifest": "source_files/manifest.json",
+  "asset_count": 82,
+  "removed": "all <script> elements except application/ld+json"
+ },
+ "figures": [
+  {
+   "index": 1,
+   "name": "01 Life expectancy vs. Electoral Democracy Index",
+   "embed": {
+    "slug": "life-expectancy-vs-electoral-democracy-index",
+    "query": {},
+    "image": null
+   },
+   "files": {
+    "html": {
+     "path": "figs/01 Life expectancy vs. Electoral Democracy Index.html",
+     "sha256": "3dc5b1c0709f64f6cb4d97348eff0d421baa61ce63534ce5bfc05788a7c2a5d1"
+    },
+    "csv": {
+     "path": "figs/01 Life expectancy vs. Electoral Democracy Index.csv",
+     "sha256": "555ec81723be09a59f395153ee6b11769d7d3024ef50afa3ba5a638a60c53ff5"
+    },
+    "png": {
+     "path": "figs/01 Life expectancy vs. Electoral Democracy Index.png",
+     "sha256": "9e5f15b5cfc947ce668425eceba45659af6c4b7a4be151bb44f2252ff484d973"
+    },
+    "txt": {
+     "path": "figs/01 Life expectancy vs. Electoral Democracy Index.txt",
+     "sha256": "8a01dca9caa0f4ae6dd702907ffa0a5e35419041916519baaab82204391cea9b"
+    }
+   },
+   "view_url": "https://ourworldindata.org/grapher/life-expectancy-vs-electoral-democracy-index",
+   "csv_url": "https://ourworldindata.org/grapher/life-expectancy-vs-electoral-democracy-index.csv?csvType=filtered",
+   "png_url": "https://ourworldindata.org/grapher/life-expectancy-vs-electoral-democracy-index.png",
+   "data_available": true,
+   "config_title": "Life expectancy vs. Electoral Democracy Index",
+   "config_subtitle": "The [period life expectancy](#dod:period-life-expectancy) at birth, in a given year. The electoral democracy index is by [V-Dem](#dod:v-dem), based on expert estimates, and ranges from 0 to 1 (most democratic).",
+   "chart_slug": "life-expectancy-vs-electoral-democracy-index",
+   "column_short_names": {
+    "Entity": "entity",
+    "Code": "code",
+    "Year": "year",
+    "Life expectancy": "life_expectancy_0",
+    "Electoral Democracy Index": "electdem_vdem__estimate_best",
+    "World region according to OWID": "owid_region"
+   }
+  },
+  {
+   "index": 2,
+   "name": "02 Government Effectiveness Index vs. Electoral Democracy Index",
+   "embed": {
+    "slug": "government-effectiveness-vs-electoral-democracy-index",
+    "query": {},
+    "image": null
+   },
+   "files": {
+    "html": {
+     "path": "figs/02 Government Effectiveness Index vs. Electoral Democracy Index.html",
+     "sha256": "6911114d6d5290e2b9e71d958f59ec7b55943adee7b32185fa3b26e8b1e8df65"
+    },
+    "csv": {
+     "path": "figs/02 Government Effectiveness Index vs. Electoral Democracy Index.csv",
+     "sha256": "caa260b30b8da1c3309369544d8f37bab2a7684b62583063f06fb53ff5a85b39"
+    },
+    "png": {
+     "path": "figs/02 Government Effectiveness Index vs. Electoral Democracy Index.png",
+     "sha256": "aa9ba51f8d17582ecbc20ea92a6bb023d28f0962843fa0386ca85158eac0d8ca"
+    },
+    "txt": {
+     "path": "figs/02 Government Effectiveness Index vs. Electoral Democracy Index.txt",
+     "sha256": "f8a733a07fa15b691d44e3f1cc04d1295794d604f776c7209ce9f41699458109"
+    }
+   },
+   "view_url": "https://ourworldindata.org/grapher/government-effectiveness-vs-electoral-democracy-index",
+   "csv_url": "https://ourworldindata.org/grapher/government-effectiveness-vs-electoral-democracy-index.csv?csvType=filtered",
+   "png_url": "https://ourworldindata.org/grapher/government-effectiveness-vs-electoral-democracy-index.png",
+   "data_available": true,
+   "config_title": "Government Effectiveness Index vs. Electoral Democracy Index",
+   "config_subtitle": "The government effectiveness index captures perceptions of the quality of public services, the civil service, and policy formulation and implementation (positive values mean higher effectiveness). The electoral democracy index is by [V-Dem](#dod:v-dem), based on expert estimates, and ranges from 0 to 1 (most democratic).",
+   "chart_slug": "government-effectiveness-vs-electoral-democracy-index",
+   "column_short_names": {
+    "Entity": "entity",
+    "Code": "code",
+    "Year": "year",
+    "Electoral Democracy ndex": "electdem_vdem__estimate_best",
+    "Government Effectiveness Index": "goveffective_vdem_wbgi",
+    "World region according to OWID": "owid_region"
+   }
+  }
+ ]
+}

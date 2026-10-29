@@ -1,0 +1,70 @@
+{
+ "id": 7143,
+ "map": {
+  "colorScale": {
+   "baseColorScheme": "RdPu",
+   "binningStrategy": "manual",
+   "customNumericColors": [
+    null,
+    null,
+    null,
+    null
+   ],
+   "customNumericValues": [
+    0,
+    0.1,
+    0.2,
+    0.3,
+    0.4,
+    0.5,
+    0.6,
+    0.7,
+    0.8,
+    0.9,
+    1
+   ]
+  },
+  "columnSlug": "1209809"
+ },
+ "tab": "map",
+ "slug": "political-centralization-index",
+ "title": "Centralization of Political Power Index",
+ "yAxis": {
+  "max": 1,
+  "min": 0
+ },
+ "$schema": "https://files.ourworldindata.org/schemas/grapher-schema.011.json",
+ "version": 40,
+ "subtitle": "Data by [V-Dem](#dod:v-dem). Expert estimates of the extent to which the executive is unconstrained by the legislature, judiciary, electoral management body, and other oversight bodies. The index ranges from 0 to 1 (most centralized).",
+ "hasMapTab": true,
+ "originUrl": "/democracy",
+ "chartTypes": [
+  "LineChart",
+  "SlopeChart",
+  "DiscreteBar",
+  "Marimekko"
+ ],
+ "dimensions": [
+  {
+   "display": {
+    "name": "Centralization of Political Power Index",
+    "color": "#3c4e66"
+   },
+   "property": "y",
+   "variableId": 1209809
+  },
+  {
+   "property": "color",
+   "variableId": 900801
+  }
+ ],
+ "isPublished": true,
+ "hideFacetControl": false,
+ "selectedEntityNames": [
+  "World",
+  "Argentina",
+  "Botswana",
+  "China",
+  "Australia"
+ ]
+}

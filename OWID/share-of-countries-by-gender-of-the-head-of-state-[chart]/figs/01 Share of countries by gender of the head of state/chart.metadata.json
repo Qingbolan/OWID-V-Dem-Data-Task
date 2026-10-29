@@ -1,0 +1,45 @@
+{
+ "chart": {
+  "title": "Share of countries by gender of the head of state",
+  "subtitle": "The head of state is the chief public representative of their country.",
+  "note": "This is recorded on December 31 of each year.",
+  "citation": "V-Dem (2026)",
+  "originalChartUrl": "https://ourworldindata.org/grapher/share-of-countries-by-gender-of-the-head-of-state",
+  "selection": [
+   "World"
+  ]
+ },
+ "columns": {
+  "Number of countries in which head of state is a man": {
+   "titleShort": "Man is head of state",
+   "titleLong": "Man is head of state",
+   "descriptionProcessing": "We only count the countries that V-Dem covers in the given year. Where we impute a country's data from a historical entity it was part of, those imputed values are excluded from the count, because the country did not yet exist separately at the time.",
+   "unit": "countries",
+   "timespan": "1789-2025",
+   "type": "Integer",
+   "owidVariableId": 1209934,
+   "shortName": "num_countries_hos__category_man",
+   "lastUpdated": "2026-03-17",
+   "nextUpdate": "2027-03-17",
+   "citationShort": "V-Dem (2026) – processed by Our World in Data",
+   "citationLong": "V-Dem (2026) – processed by Our World in Data. “Man is head of state” [dataset]. V-Dem, “Democracy report v16” [original data].",
+   "fullMetadata": "https://api.ourworldindata.org/v1/indicators/1209934.metadata.json"
+  },
+  "Number of countries in which head of state is a woman": {
+   "titleShort": "Woman is head of state",
+   "titleLong": "Woman is head of state",
+   "descriptionProcessing": "We only count the countries that V-Dem covers in the given year. Where we impute a country's data from a historical entity it was part of, those imputed values are excluded from the count, because the country did not yet exist separately at the time.",
+   "unit": "countries",
+   "timespan": "1789-2025",
+   "type": "Integer",
+   "owidVariableId": 1209935,
+   "shortName": "num_countries_hos__category_woman",
+   "lastUpdated": "2026-03-17",
+   "nextUpdate": "2027-03-17",
+   "citationShort": "V-Dem (2026) – processed by Our World in Data",
+   "citationLong": "V-Dem (2026) – processed by Our World in Data. “Woman is head of state” [dataset]. V-Dem, “Democracy report v16” [original data].",
+   "fullMetadata": "https://api.ourworldindata.org/v1/indicators/1209935.metadata.json"
+  }
+ },
+ "dateDownloaded": "2026-10-29"
+}

@@ -1,0 +1,12 @@
+Figure 09: 09 Access to sexual and reproductive health care
+Article: Achieve gender equality and empower all women and girls (2023-07-18)
+
+Title: Access to sexual and reproductive health care
+Subtitle: Extent to which countries have regulations that guarantee full and equal access to women and men aged 15 years and older to sexual and reproductive health care. Index of specific legal enablers and barriers for [13 sexual health components](#dod:indicator-5-6-2). Higher values indicate greater access.
+Note: 
+Source: United Nations Population Fund
+Units: %
+Chart: https://ourworldindata.org/grapher/access-to-sexual-health-care-and-education
+
+Text before the figure: Unmet need for contraception
+Text after the figure: ## Target 5.a Equal rights to economic resources, property ownership and financial services

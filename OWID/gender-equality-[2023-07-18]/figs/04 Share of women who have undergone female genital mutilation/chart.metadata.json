@@ -1,0 +1,36 @@
+{
+ "chart": {
+  "title": "Share of women who have undergone female genital mutilation",
+  "subtitle": "Share of women, aged 15–49, who have gone through partial or total removal of the female external genitalia or other injury to the female genital organs for cultural or other non-therapeutic reasons.",
+  "citation": "UNICEF, Demographic and Health Surveys (DHS), and Multiple Indicator Cluster Surveys (MICS), via World Bank (2026)",
+  "originalChartUrl": "https://ourworldindata.org/grapher/female-genital-mutilation-prevalence",
+  "selection": [
+   "Chad",
+   "Mali",
+   "Mauritania",
+   "Somalia",
+   "Uganda",
+   "Nigeria",
+   "Niger",
+   "Guinea"
+  ]
+ },
+ "columns": {
+  "Female genital mutilation prevalence (%)": {
+   "titleShort": "Female genital mutilation prevalence (%)",
+   "titleLong": "Female genital mutilation prevalence (%)",
+   "shortUnit": "%",
+   "unit": "%",
+   "timespan": "1990-2023",
+   "type": "Numeric",
+   "owidVariableId": 1294601,
+   "shortName": "sh_sta_fgms_zs",
+   "lastUpdated": "2026-07-27",
+   "nextUpdate": "2027-01-23",
+   "citationShort": "UNICEF, Demographic and Health Surveys (DHS), and Multiple Indicator Cluster Surveys (MICS), via World Bank (2026) – processed by Our World in Data",
+   "citationLong": "UNICEF, Demographic and Health Surveys (DHS), and Multiple Indicator Cluster Surveys (MICS), via World Bank (2026) – processed by Our World in Data. “Female genital mutilation prevalence (%)” [dataset]. UNICEF, Demographic and Health Surveys (DHS), and Multiple Indicator Cluster Surveys (MICS), via World Bank, “World Development Indicators 129” [original data].",
+   "fullMetadata": "https://api.ourworldindata.org/v1/indicators/1294601.metadata.json"
+  }
+ },
+ "dateDownloaded": "2026-10-29"
+}

@@ -1,0 +1,9 @@
+Figure 01: 01 Voter turnout of registered voters
+Article: none; source page is the chart page https://ourworldindata.org/grapher/voter-turnout-of-registered-voters
+
+Title: Voter turnout of registered voters
+Subtitle: Percentage of all registered voters who cast a vote in the national election, according to official results.
+Note: 
+Source: V-Dem (2026)
+Units: %
+Chart: https://ourworldindata.org/grapher/voter-turnout-of-registered-voters

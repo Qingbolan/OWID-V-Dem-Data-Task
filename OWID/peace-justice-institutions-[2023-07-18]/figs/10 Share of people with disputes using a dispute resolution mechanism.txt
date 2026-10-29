@@ -1,0 +1,12 @@
+Figure 10: 10 Share of people with disputes using a dispute resolution mechanism
+Article: Promote just, peaceful and inclusive societies (2023-07-18)
+
+Title: Share of people with disputes using a dispute resolution mechanism
+Subtitle: A dispute can be understood as a problem between individuals or between individual(s) and an entity that gives rise to legal issues. Dispute resolution mechanisms include: lawyers, community or religious leaders, a court or tribunal, or the police.
+Note: 
+Source: United Nations Development Programme and Organization for Economic Cooperation and Development and United Nations on Drugs and Crime
+Units: %
+Chart: https://ourworldindata.org/grapher/share-of-people-with-disputes-using-a-dispute-resolution-mechanism
+
+Text before the figure: Access to justice for women
+Text after the figure: ## Target 16.4 Combat organized crime and illicit financial and arms flows

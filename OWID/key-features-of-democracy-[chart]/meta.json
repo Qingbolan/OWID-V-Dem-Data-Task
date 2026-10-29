@@ -1,0 +1,59 @@
+{
+ "title": "Key features of democracy",
+ "url": "https://ourworldindata.org/grapher/key-features-of-democracy",
+ "date_published": null,
+ "chart_page": true,
+ "authors": [],
+ "retrieved_at": "2026-10-29T17:24:11.929523+00:00",
+ "materialised_at": "2026-10-29T17:24:11.929531+00:00",
+ "source_original_sha256": "8230d014541e7d5e8bfa0ae3e1871cb1eed023cec892726e60b935c4ef20140b",
+ "offline_snapshot": {
+  "page": "source.html",
+  "assets": "source_files/",
+  "assets_manifest": "source_files/manifest.json",
+  "asset_count": 73,
+  "removed": "all <script> elements except application/ld+json"
+ },
+ "figures": [
+  {
+   "index": 1,
+   "name": "01 Key features of democracy",
+   "embed": {
+    "slug": "key-features-of-democracy",
+    "query": {},
+    "image": null
+   },
+   "view_url": "https://ourworldindata.org/grapher/key-features-of-democracy",
+   "csv_url": "https://ourworldindata.org/grapher/key-features-of-democracy.csv?csvType=filtered",
+   "png_url": "https://ourworldindata.org/grapher/key-features-of-democracy.png",
+   "data_available": true,
+   "config_title": "Key features of democracy",
+   "config_subtitle": "The [indices](#dod:key-indices-democracy-vdem) are by [V-Dem](#dod:v-dem), based on expert estimates, and range from 0 to 1 (most democratic).",
+   "files": {
+    "txt": {
+     "path": "figs/01 Key features of democracy.txt",
+     "sha256": "1127726fbb2281c7bc9bf441ce45cae43756cfa22e720d28ae416919f72da9c3"
+    },
+    "csv": {
+     "path": "figs/01 Key features of democracy.csv",
+     "sha256": "91e1ee29a6d3037d34e5c4094b6e2e7a9a3248a2230c4eb2abc3a2b15ee0d685"
+    },
+    "png": {
+     "path": "figs/01 Key features of democracy.png",
+     "sha256": "38713f9c66ecdcea6ca4e9c7ee753c1fd97607e168bb9f363f72cb9c7a7ee2ad"
+    }
+   },
+   "chart_slug": "key-features-of-democracy",
+   "column_short_names": {
+    "Entity": "entity",
+    "Code": "code",
+    "Year": "year",
+    "Electoral political institutions": "electdem_vdem__estimate_best",
+    "Liberal political institutions": "lib_vdem__estimate_best",
+    "Participatory political institutions": "particip_vdem__estimate_best",
+    "Egalitarian political institutions": "egal_vdem__estimate_best",
+    "Deliberative political institutions": "delib_vdem__estimate_best"
+   }
+  }
+ ]
+}

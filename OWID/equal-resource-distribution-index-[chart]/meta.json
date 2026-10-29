@@ -1,0 +1,56 @@
+{
+ "title": "Equal Resource Distribution Index",
+ "url": "https://ourworldindata.org/grapher/equal-resource-distribution-index",
+ "date_published": null,
+ "chart_page": true,
+ "authors": [],
+ "retrieved_at": "2026-10-29T17:12:19.268874+00:00",
+ "materialised_at": "2026-10-29T17:12:19.268890+00:00",
+ "source_original_sha256": "328227637859fbadf23c340e18edcd00cb2928836fe3fecc5be418d14a053629",
+ "offline_snapshot": {
+  "page": "source.html",
+  "assets": "source_files/",
+  "assets_manifest": "source_files/manifest.json",
+  "asset_count": 73,
+  "removed": "all <script> elements except application/ld+json"
+ },
+ "figures": [
+  {
+   "index": 1,
+   "name": "01 Equal Resource Distribution Index",
+   "embed": {
+    "slug": "equal-resource-distribution-index",
+    "query": {},
+    "image": null
+   },
+   "view_url": "https://ourworldindata.org/grapher/equal-resource-distribution-index",
+   "csv_url": "https://ourworldindata.org/grapher/equal-resource-distribution-index.csv?csvType=filtered",
+   "png_url": "https://ourworldindata.org/grapher/equal-resource-distribution-index.png",
+   "data_available": true,
+   "config_title": "Equal Resource Distribution Index",
+   "config_subtitle": "Data by [V-Dem](#dod:v-dem). Expert estimates of the extent to which all social groups benefit from public spending, and have equal access to education, healthcare, and the welfare state. The index ranges from 0 to 1 (most equal).",
+   "files": {
+    "txt": {
+     "path": "figs/01 Equal Resource Distribution Index.txt",
+     "sha256": "977bc163d817586f1229b8115f58c2a9af33585c2561b2191e958a91d335be54"
+    },
+    "csv": {
+     "path": "figs/01 Equal Resource Distribution Index.csv",
+     "sha256": "db6847a03abcbbeab50b8bbeaaf42aa18050c7690e5289c3a990e8509e23c684"
+    },
+    "png": {
+     "path": "figs/01 Equal Resource Distribution Index.png",
+     "sha256": "01b333bf4f046ddb3b5176cf680c178142cc5fdafc93b83b3918d8dcf98f87fa"
+    }
+   },
+   "chart_slug": "equal-resource-distribution-index",
+   "column_short_names": {
+    "Entity": "entity",
+    "Code": "code",
+    "Year": "year",
+    "Equal resource distribution index": "equal_res_vdem__estimate_best",
+    "World region according to OWID": "owid_region"
+   }
+  }
+ ]
+}

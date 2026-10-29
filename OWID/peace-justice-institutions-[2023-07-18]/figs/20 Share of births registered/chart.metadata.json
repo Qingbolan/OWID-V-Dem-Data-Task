@@ -1,0 +1,47 @@
+{
+ "chart": {
+  "title": "Share of births registered",
+  "subtitle": "Percentage of children under age five whose births were registered at the time of the survey. This includes children whose birth certificate was seen by the interviewer or whose mother or caretaker says the birth has been registered.",
+  "citation": "Household surveys (DHS, MICS), compiled by UNICEF, via World Bank (2026)",
+  "originalChartUrl": "https://ourworldindata.org/grapher/births-registered",
+  "selection": [
+   "United States",
+   "South Africa",
+   "India",
+   "Colombia",
+   "Mexico"
+  ]
+ },
+ "columns": {
+  "Completeness of birth registration (%)": {
+   "titleShort": "Completeness of birth registration (%)",
+   "titleLong": "Completeness of birth registration (%)",
+   "shortUnit": "%",
+   "unit": "%",
+   "timespan": "2000-2022",
+   "type": "Numeric",
+   "owidVariableId": 1294936,
+   "shortName": "sp_reg_brth_zs",
+   "lastUpdated": "2026-07-27",
+   "nextUpdate": "2027-01-23",
+   "citationShort": "Household surveys (DHS, MICS), compiled by UNICEF, via World Bank (2026) – processed by Our World in Data",
+   "citationLong": "Household surveys (DHS, MICS), compiled by UNICEF, via World Bank (2026) – processed by Our World in Data. “Completeness of birth registration (%)” [dataset]. Household surveys (DHS, MICS), compiled by UNICEF, via World Bank, “World Development Indicators 129” [original data].",
+   "fullMetadata": "https://api.ourworldindata.org/v1/indicators/1294936.metadata.json"
+  },
+  "World region according to OWID": {
+   "titleShort": "World region according to OWID",
+   "titleLong": "World region according to OWID",
+   "descriptionShort": "Regions defined by Our World in Data, which are used in OWID charts and maps.",
+   "unit": "",
+   "timespan": "2023-2023",
+   "type": "Continent",
+   "owidVariableId": 900801,
+   "shortName": "owid_region",
+   "lastUpdated": "2023-01-01",
+   "citationShort": "Our World in Data",
+   "citationLong": "Our World in Data. “World region according to OWID” [dataset]. Our World in Data, “Regions” [original data].",
+   "fullMetadata": "https://api.ourworldindata.org/v1/indicators/900801.metadata.json"
+  }
+ },
+ "dateDownloaded": "2026-10-29"
+}

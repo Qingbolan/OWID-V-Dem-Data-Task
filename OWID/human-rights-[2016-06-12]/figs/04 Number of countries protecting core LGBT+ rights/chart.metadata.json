@@ -1,0 +1,100 @@
+{
+ "chart": {
+  "title": "Number of countries protecting core LGBT+ rights",
+  "subtitle": "Countries that fully implement these core policies. Countries that only partially implement them, such as when laws differ across the country, are not included.",
+  "citation": "Mignot (2026); Equaldex (2026)",
+  "originalChartUrl": "https://ourworldindata.org/grapher/countries-protecting-core-lgbt-rights",
+  "selection": [
+   "World"
+  ]
+ },
+ "columns": {
+  "Number of countries where homosexuality is legal": {
+   "titleShort": "Same-sex sexual acts legal",
+   "titleLong": "Same-sex sexual acts legal",
+   "descriptionShort": "Number of countries where homosexuality is legal. Homosexuality is defined in this case as consensual homosexual acts among adults in private.",
+   "descriptionKey": "The legal status shown for each country reflects the situation as of June 2026.",
+   "descriptionProcessing": "From the original table, we constructed a new dataset with data for all countries between 1760 and 2025.\n\nFor countries where criminalization was implemented at different points in time across their regions, we considered the earliest year of the change as the year of criminalization. This is the case for the United States (1610-1948).\n\nConversely, for countries where _decriminalization_ was implemented at different points in time across their regions, we considered the latest year of the change as the year of decriminalization. This is the case for Australia (1975-1997), Bosnia and Herzegovina (1998-2001), United Kingdom (1967-1982), and United States (1962-2003).\n\nWe consider the year of the last decriminalization of homosexuality in Germany to be 1969, the year it was decriminalized in West Germany. East Germany did it in 1968.\n\nWe modified the homosexuality status for Russia, Armenia, Azerbaijan, Estonia, Georgia, Kazakhstan, Kyrgyzstan, Latvia, Lithuania, Moldova, Tajikistan, Turkmenistan, and Uzbekistan before 1832 to \"Legal\" to reflect what it is mentioned on page 8 of the original paper (_[the Russian Empire] have not criminalized these practices since at least the 18th century_).",
+   "shortUnit": "",
+   "unit": "countries",
+   "timespan": "1760-2025",
+   "type": "Integer",
+   "owidVariableId": 1270845,
+   "shortName": "status_legal_count",
+   "lastUpdated": "2026-06-15",
+   "nextUpdate": "2027-06-15",
+   "citationShort": "Mignot (2026) – with major processing by Our World in Data",
+   "citationLong": "Mignot (2026) – with major processing by Our World in Data. “Same-sex sexual acts legal – Mignot” [dataset]. Mignot, “Homosexuality criminalization data from Mignot” [original data].",
+   "fullMetadata": "https://api.ourworldindata.org/v1/indicators/1270845.metadata.json"
+  },
+  "Adoption - Legal (Count)": {
+   "titleShort": "Adoption - Legal (Count)",
+   "titleLong": "Adoption - Legal (Count) - Equaldex",
+   "descriptionShort": "Number of countries with the status 'Legal' for adoption.",
+   "descriptionProcessing": "- We have extracted the data from the official [Equaldex JSON API](https://equaldex.stoplight.io/docs/equaldex/d033e28a5cf0c-equaldex-json-api).\n- We combine the historical and current data extracted from the API to create a time series.\n- If Equaldex doesn't record when a status began, we only include it for the most recent year — we don't extend it backward.\n- We group some of the categories the source has defined for each issue, for further clarity in our visualizations.\n- We present this data only for sovereign states, defined by [Butcher and Griffiths (2020)](https://ourworldindata.org/grapher/sovereign-state-butcher-griffiths), using the definitions of the latest year available. Greenland is the one exception: we keep it as its own country row but exclude it from regional aggregates.",
+   "shortUnit": "",
+   "unit": "countries",
+   "timespan": "1950-2026",
+   "type": "Integer",
+   "owidVariableId": 1229870,
+   "shortName": "adoption_legal_count",
+   "lastUpdated": "2026-05-14",
+   "nextUpdate": "2027-05-14",
+   "citationShort": "Equaldex (2026) – with major processing by Our World in Data",
+   "citationLong": "Equaldex (2026) – with major processing by Our World in Data. “Adoption - Legal (Count) – Equaldex” [dataset]. Equaldex, “Equaldex” [original data].",
+   "fullMetadata": "https://api.ourworldindata.org/v1/indicators/1229870.metadata.json"
+  },
+  "Marriage - Legal (Count)": {
+   "titleShort": "Marriage - Legal (Count)",
+   "titleLong": "Marriage - Legal (Count) - Equaldex",
+   "descriptionShort": "Number of countries with the status 'Legal' for marriage.",
+   "descriptionProcessing": "- We have extracted the data from the official [Equaldex JSON API](https://equaldex.stoplight.io/docs/equaldex/d033e28a5cf0c-equaldex-json-api).\n- We combine the historical and current data extracted from the API to create a time series.\n- If Equaldex doesn't record when a status began, we only include it for the most recent year — we don't extend it backward.\n- We group some of the categories the source has defined for each issue, for further clarity in our visualizations.\n- We present this data only for sovereign states, defined by [Butcher and Griffiths (2020)](https://ourworldindata.org/grapher/sovereign-state-butcher-griffiths), using the definitions of the latest year available. Greenland is the one exception: we keep it as its own country row but exclude it from regional aggregates.",
+   "shortUnit": "",
+   "unit": "countries",
+   "timespan": "1950-2026",
+   "type": "Integer",
+   "owidVariableId": 1229862,
+   "shortName": "marriage_legal_count",
+   "lastUpdated": "2026-05-14",
+   "nextUpdate": "2027-05-14",
+   "citationShort": "Equaldex (2026) – with major processing by Our World in Data",
+   "citationLong": "Equaldex (2026) – with major processing by Our World in Data. “Marriage - Legal (Count) – Equaldex” [dataset]. Equaldex, “Equaldex” [original data].",
+   "fullMetadata": "https://api.ourworldindata.org/v1/indicators/1229862.metadata.json"
+  },
+  "Changing_gender - Legal, no restrictions (Count)": {
+   "titleShort": "Changing_gender - Legal, no restrictions (Count)",
+   "titleLong": "Changing_gender - Legal, no restrictions (Count) - Equaldex",
+   "descriptionShort": "Number of countries with the status 'Legal, no restrictions' for changing_gender.",
+   "descriptionProcessing": "- We have extracted the data from the official [Equaldex JSON API](https://equaldex.stoplight.io/docs/equaldex/d033e28a5cf0c-equaldex-json-api).\n- We combine the historical and current data extracted from the API to create a time series.\n- If Equaldex doesn't record when a status began, we only include it for the most recent year — we don't extend it backward.\n- We group some of the categories the source has defined for each issue, for further clarity in our visualizations.\n- We present this data only for sovereign states, defined by [Butcher and Griffiths (2020)](https://ourworldindata.org/grapher/sovereign-state-butcher-griffiths), using the definitions of the latest year available. Greenland is the one exception: we keep it as its own country row but exclude it from regional aggregates.",
+   "shortUnit": "",
+   "unit": "countries",
+   "timespan": "1950-2026",
+   "type": "Integer",
+   "owidVariableId": 1229854,
+   "shortName": "changing_gender_legal__no_restrictions_count",
+   "lastUpdated": "2026-05-14",
+   "nextUpdate": "2027-05-14",
+   "citationShort": "Equaldex (2026) – with major processing by Our World in Data",
+   "citationLong": "Equaldex (2026) – with major processing by Our World in Data. “Changing_gender - Legal, no restrictions (Count) – Equaldex” [dataset]. Equaldex, “Equaldex” [original data].",
+   "fullMetadata": "https://api.ourworldindata.org/v1/indicators/1229854.metadata.json"
+  },
+  "Non_binary_gender_recognition - Recognized (Count)": {
+   "titleShort": "Non_binary_gender_recognition - Recognized (Count)",
+   "titleLong": "Non_binary_gender_recognition - Recognized (Count) - Equaldex",
+   "descriptionShort": "Number of countries with the status 'Recognized' for non_binary_gender_recognition.",
+   "descriptionProcessing": "- We have extracted the data from the official [Equaldex JSON API](https://equaldex.stoplight.io/docs/equaldex/d033e28a5cf0c-equaldex-json-api).\n- We combine the historical and current data extracted from the API to create a time series.\n- If Equaldex doesn't record when a status began, we only include it for the most recent year — we don't extend it backward.\n- We group some of the categories the source has defined for each issue, for further clarity in our visualizations.\n- We present this data only for sovereign states, defined by [Butcher and Griffiths (2020)](https://ourworldindata.org/grapher/sovereign-state-butcher-griffiths), using the definitions of the latest year available. Greenland is the one exception: we keep it as its own country row but exclude it from regional aggregates.",
+   "shortUnit": "",
+   "unit": "countries",
+   "timespan": "1950-2026",
+   "type": "Integer",
+   "owidVariableId": 1229932,
+   "shortName": "non_binary_gender_recognition_recognized_count",
+   "lastUpdated": "2026-05-14",
+   "nextUpdate": "2027-05-14",
+   "citationShort": "Equaldex (2026) – with major processing by Our World in Data",
+   "citationLong": "Equaldex (2026) – with major processing by Our World in Data. “Non_binary_gender_recognition - Recognized (Count) – Equaldex” [dataset]. Equaldex, “Equaldex” [original data].",
+   "fullMetadata": "https://api.ourworldindata.org/v1/indicators/1229932.metadata.json"
+  }
+ },
+ "dateDownloaded": "2026-10-29"
+}

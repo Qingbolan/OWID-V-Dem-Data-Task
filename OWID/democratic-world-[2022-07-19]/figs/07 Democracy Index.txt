@@ -1,0 +1,12 @@
+Figure 07: 07 Democracy Index
+Article: People around the world have gained democratic rights, but some have many more rights than others (2022-07-19)
+
+Title: Democracy Index
+Subtitle: Data by [Polity 5](#dod:polity). Expert estimates of the extent to which open, multi-party, and competitive elections choose a chief executive who faces comprehensive institutional constraints, and political participation is competitive. The index ranges from -10 to 10 (fully democratic).
+Note: 
+Source: Polity 5 (2020); Population based on various sources (2023)
+Units: 
+Chart: https://ourworldindata.org/grapher/democracy-index-polity
+
+Text before the figure: But the fact that so many countries are still highly undemocratic means that the fight for democratic political rights goes on.
+Text after the figure: ## Keep reading at Our World in Data

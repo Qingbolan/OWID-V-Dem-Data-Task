@@ -1,0 +1,50 @@
+{
+ "id": 6399,
+ "slug": "countries-that-have-universal-voting-rights",
+ "title": "Countries that have universal voting rights",
+ "$schema": "https://files.ourworldindata.org/schemas/grapher-schema.011.json",
+ "version": 34,
+ "subtitle": "This does not consider elections being held in practice, informal restrictions on voting rights, or legal restrictions based on age, criminal conviction, disability, or local residency.",
+ "originUrl": "/democracy",
+ "stackMode": "relative",
+ "chartTypes": [
+  "StackedArea",
+  "StackedDiscreteBar"
+ ],
+ "dimensions": [
+  {
+   "display": {
+    "name": "No universal right to vote",
+    "color": "#bc8e5a"
+   },
+   "property": "y",
+   "variableId": 1210625
+  },
+  {
+   "display": {
+    "name": "Universal right to vote for men only",
+    "color": "#7fcdbb"
+   },
+   "property": "y",
+   "variableId": 1210624
+  },
+  {
+   "display": {
+    "name": "Universal right to vote for men and women",
+    "color": "#2c7fb8"
+   },
+   "property": "y",
+   "variableId": 1210628
+  }
+ ],
+ "entityType": "region",
+ "isPublished": true,
+ "entityTypePlural": "regions",
+ "hideRelativeToggle": false,
+ "selectedEntityNames": [
+  "World"
+ ],
+ "hideAnnotationFieldsInTitle": {
+  "time": true
+ }
+}

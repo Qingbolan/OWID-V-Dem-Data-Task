@@ -1,0 +1,23 @@
+{
+ "figure": "01 Share of countries by gender of the head of government",
+ "checked_at": "2026-10-29T18:06:18.379292+00:00",
+ "status": "match",
+ "gold_rows": 237,
+ "gold_rows_missing_in_reference": 0,
+ "mismatched_cells": {
+  "Man is head of government": 0,
+  "Woman is head of government": 0
+ },
+ "tolerance": {
+  "Man is head of government": {
+   "abs": 1e-14,
+   "rel": 1e-06
+  },
+  "Woman is head of government": {
+   "abs": 1e-16,
+   "rel": 1e-06
+  }
+ },
+ "first_mismatches": [],
+ "program": "golden.vdem_pipeline"
+}

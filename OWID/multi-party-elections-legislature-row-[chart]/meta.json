@@ -1,0 +1,55 @@
+{
+ "title": "Multi-party elections for legislature",
+ "url": "https://ourworldindata.org/grapher/multi-party-elections-legislature-row",
+ "date_published": null,
+ "chart_page": true,
+ "authors": [],
+ "retrieved_at": "2026-10-29T17:33:44.163459+00:00",
+ "materialised_at": "2026-10-29T17:33:44.163467+00:00",
+ "source_original_sha256": "23d41459fea5c77585ae14c564c5af99b68881eae817f8bb66fdea0ad0ce4df2",
+ "offline_snapshot": {
+  "page": "source.html",
+  "assets": "source_files/",
+  "assets_manifest": "source_files/manifest.json",
+  "asset_count": 73,
+  "removed": "all <script> elements except application/ld+json"
+ },
+ "figures": [
+  {
+   "index": 1,
+   "name": "01 Multi-party elections for legislature",
+   "embed": {
+    "slug": "multi-party-elections-legislature-row",
+    "query": {},
+    "image": null
+   },
+   "view_url": "https://ourworldindata.org/grapher/multi-party-elections-legislature-row",
+   "csv_url": "https://ourworldindata.org/grapher/multi-party-elections-legislature-row.csv?csvType=filtered",
+   "png_url": "https://ourworldindata.org/grapher/multi-party-elections-legislature-row.png",
+   "data_available": true,
+   "config_title": "Multi-party elections for legislature",
+   "config_subtitle": "Data by Lührmann et al. (2018) and [V-Dem](#dod:v-dem).",
+   "files": {
+    "txt": {
+     "path": "figs/01 Multi-party elections for legislature.txt",
+     "sha256": "eda35836556604c1bde51b8734f540926cca87ea5c93e2890432e0ef17af1427"
+    },
+    "csv": {
+     "path": "figs/01 Multi-party elections for legislature.csv",
+     "sha256": "cceb2bccdcb570257717a154e628dd2f41ab38332d90467893bea8cc9c891e06"
+    },
+    "png": {
+     "path": "figs/01 Multi-party elections for legislature.png",
+     "sha256": "2247486310a81f12498666cf44f2b519cebebbb3e68afc449dedc262ba295d5f"
+    }
+   },
+   "chart_slug": "multi-party-elections-legislature-row",
+   "column_short_names": {
+    "Entity": "entity",
+    "Code": "code",
+    "Year": "year",
+    "Multiparty elections for legislature": "electmulpar_leg_row__estimate_best"
+   }
+  }
+ ]
+}

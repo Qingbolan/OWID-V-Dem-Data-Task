@@ -1,0 +1,18 @@
+{
+ "figure": "04 Electoral Democracy Index",
+ "checked_at": "2026-10-29T18:06:16.071006+00:00",
+ "status": "match",
+ "gold_rows": 5,
+ "gold_rows_missing_in_reference": 0,
+ "mismatched_cells": {
+  "Electoral democracy index": 0
+ },
+ "tolerance": {
+  "Electoral democracy index": {
+   "abs": 1e-08,
+   "rel": 1e-06
+  }
+ },
+ "first_mismatches": [],
+ "program": "golden.vdem_pipeline"
+}

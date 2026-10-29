@@ -1,0 +1,9 @@
+Figure 01: 01 Women's political empowerment index vs. electoral democracy index
+Article: none; source page is the chart page https://ourworldindata.org/grapher/women-political-empowerment-index-vs-electoral-democracy-index
+
+Title: Women's political empowerment index vs. electoral democracy index
+Subtitle: The indices are by [V-Dem](#dod:v-dem), based on expert estimates, and range from 0 to 1 (most empowered/most democratic).
+Note: 
+Source: V-Dem (2026)
+Units: 
+Chart: https://ourworldindata.org/grapher/women-political-empowerment-index-vs-electoral-democracy-index

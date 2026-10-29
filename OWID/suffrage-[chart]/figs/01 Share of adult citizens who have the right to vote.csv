@@ -1,0 +1,175 @@
+Entity,Code,Year,Share of population with suffrage,World region according to OWID
+Afghanistan,AFG,2025,100,Asia
+Albania,ALB,2025,100,Europe
+Algeria,DZA,2025,100,Africa
+Angola,AGO,2025,100,Africa
+Argentina,ARG,2025,100,South America
+Armenia,ARM,2025,100,Asia
+Australia,AUS,2025,100,Oceania
+Austria,AUT,2025,100,Europe
+Azerbaijan,AZE,2025,100,Asia
+Bahrain,BHR,2025,100,Asia
+Bangladesh,BGD,2025,100,Asia
+Barbados,BRB,2025,100,North America
+Belarus,BLR,2025,100,Europe
+Belgium,BEL,2025,100,Europe
+Benin,BEN,2025,100,Africa
+Bhutan,BTN,2025,100,Asia
+Bolivia,BOL,2025,100,South America
+Bosnia and Herzegovina,BIH,2025,100,Europe
+Botswana,BWA,2025,100,Africa
+Brazil,BRA,2025,100,South America
+Bulgaria,BGR,2025,100,Europe
+Burkina Faso,BFA,2025,100,Africa
+Burundi,BDI,2025,100,Africa
+Cambodia,KHM,2025,100,Asia
+Cameroon,CMR,2025,100,Africa
+Canada,CAN,2025,100,North America
+Cape Verde,CPV,2025,100,Africa
+Central African Republic,CAF,2025,100,Africa
+Chad,TCD,2025,100,Africa
+Chile,CHL,2025,100,South America
+China,CHN,2025,100,Asia
+Colombia,COL,2025,100,South America
+Comoros,COM,2025,100,Africa
+Congo,COG,2025,100,Africa
+Costa Rica,CRI,2025,100,North America
+Cote d'Ivoire,CIV,2025,100,Africa
+Croatia,HRV,2025,100,Europe
+Cuba,CUB,2025,100,North America
+Cyprus,CYP,2025,100,Europe
+Czechia,CZE,2025,100,Europe
+Democratic Republic of Congo,COD,2025,100,Africa
+Denmark,DNK,2025,100,Europe
+Djibouti,DJI,2025,100,Africa
+Dominican Republic,DOM,2025,100,North America
+East Timor,TLS,2025,100,Asia
+Ecuador,ECU,2025,100,South America
+Egypt,EGY,2025,100,Africa
+El Salvador,SLV,2025,100,North America
+Equatorial Guinea,GNQ,2025,100,Africa
+Eritrea,ERI,2025,100,Africa
+Estonia,EST,2025,100,Europe
+Eswatini,SWZ,2025,100,Africa
+Ethiopia,ETH,2025,100,Africa
+Fiji,FJI,2025,100,Oceania
+Finland,FIN,2025,100,Europe
+France,FRA,2025,100,Europe
+Gabon,GAB,2025,100,Africa
+Gambia,GMB,2025,100,Africa
+Georgia,GEO,2025,100,Asia
+Germany,DEU,2025,100,Europe
+Ghana,GHA,2025,100,Africa
+Greece,GRC,2025,100,Europe
+Guatemala,GTM,2025,100,North America
+Guinea,GIN,2025,100,Africa
+Guinea-Bissau,GNB,2025,100,Africa
+Guyana,GUY,2025,100,South America
+Haiti,HTI,2025,100,North America
+Honduras,HND,2025,100,North America
+Hungary,HUN,2025,100,Europe
+Iceland,ISL,2025,100,Europe
+India,IND,2025,100,Asia
+Indonesia,IDN,2025,100,Asia
+Iran,IRN,2025,100,Asia
+Iraq,IRQ,2025,100,Asia
+Ireland,IRL,2025,100,Europe
+Israel,ISR,2025,100,Asia
+Italy,ITA,2025,100,Europe
+Jamaica,JAM,2025,100,North America
+Japan,JPN,2025,100,Asia
+Jordan,JOR,2025,100,Asia
+Kazakhstan,KAZ,2025,100,Asia
+Kenya,KEN,2025,100,Africa
+Kosovo,OWID_KOS,2025,100,Europe
+Kuwait,KWT,2025,100,Asia
+Kyrgyzstan,KGZ,2025,100,Asia
+Laos,LAO,2025,100,Asia
+Latvia,LVA,2025,100,Europe
+Lebanon,LBN,2025,100,Asia
+Lesotho,LSO,2025,100,Africa
+Liberia,LBR,2025,100,Africa
+Libya,LBY,2025,100,Africa
+Lithuania,LTU,2025,100,Europe
+Luxembourg,LUX,2025,100,Europe
+Madagascar,MDG,2025,100,Africa
+Malawi,MWI,2025,100,Africa
+Malaysia,MYS,2025,100,Asia
+Maldives,MDV,2025,100,Asia
+Mali,MLI,2025,100,Africa
+Malta,MLT,2025,100,Europe
+Mauritania,MRT,2025,100,Africa
+Mauritius,MUS,2025,100,Africa
+Mexico,MEX,2025,100,North America
+Moldova,MDA,2025,100,Europe
+Mongolia,MNG,2025,100,Asia
+Montenegro,MNE,2025,100,Europe
+Morocco,MAR,2025,100,Africa
+Mozambique,MOZ,2025,100,Africa
+Myanmar,MMR,2025,100,Asia
+Namibia,NAM,2025,100,Africa
+Nepal,NPL,2025,100,Asia
+Netherlands,NLD,2025,100,Europe
+New Zealand,NZL,2025,100,Oceania
+Nicaragua,NIC,2025,100,North America
+Niger,NER,2025,100,Africa
+Nigeria,NGA,2025,100,Africa
+North Korea,PRK,2025,100,Asia
+North Macedonia,MKD,2025,100,Europe
+Norway,NOR,2025,100,Europe
+Oman,OMN,2025,100,Asia
+Pakistan,PAK,2025,100,Asia
+Panama,PAN,2025,100,North America
+Papua New Guinea,PNG,2025,100,Oceania
+Paraguay,PRY,2025,100,South America
+Peru,PER,2025,100,South America
+Philippines,PHL,2025,100,Asia
+Poland,POL,2025,100,Europe
+Portugal,PRT,2025,100,Europe
+Qatar,QAT,2025,35,Asia
+Romania,ROU,2025,100,Europe
+Russia,RUS,2025,100,Europe
+Rwanda,RWA,2025,100,Africa
+Sao Tome and Principe,STP,2025,100,Africa
+Saudi Arabia,SAU,2025,0,Asia
+Senegal,SEN,2025,100,Africa
+Serbia,SRB,2025,100,Europe
+Seychelles,SYC,2025,100,Africa
+Sierra Leone,SLE,2025,100,Africa
+Singapore,SGP,2025,100,Asia
+Slovakia,SVK,2025,100,Europe
+Slovenia,SVN,2025,100,Europe
+Solomon Islands,SLB,2025,100,Oceania
+Somalia,SOM,2025,0.2,Africa
+South Africa,ZAF,2025,100,Africa
+South Korea,KOR,2025,100,Asia
+South Sudan,SSD,2025,100,Africa
+Spain,ESP,2025,100,Europe
+Sri Lanka,LKA,2025,100,Asia
+Sudan,SDN,2025,100,Africa
+Suriname,SUR,2025,100,South America
+Sweden,SWE,2025,100,Europe
+Switzerland,CHE,2025,100,Europe
+Syria,SYR,2025,100,Asia
+Taiwan,TWN,2025,100,Asia
+Tajikistan,TJK,2025,100,Asia
+Tanzania,TZA,2025,100,Africa
+Thailand,THA,2025,99.4,Asia
+Togo,TGO,2025,100,Africa
+Trinidad and Tobago,TTO,2025,100,North America
+Tunisia,TUN,2025,100,Africa
+Turkey,TUR,2025,100,Asia
+Turkmenistan,TKM,2025,100,Asia
+Uganda,UGA,2025,100,Africa
+Ukraine,UKR,2025,100,Europe
+United Arab Emirates,ARE,2025,36,Asia
+United Kingdom,GBR,2025,100,Europe
+United States,USA,2025,100,North America
+Uruguay,URY,2025,100,South America
+Uzbekistan,UZB,2025,100,Asia
+Vanuatu,VUT,2025,100,Oceania
+Venezuela,VEN,2025,100,South America
+Vietnam,VNM,2025,100,Asia
+Yemen,YEM,2025,100,Asia
+Zambia,ZMB,2025,100,Africa
+Zimbabwe,ZWE,2025,100,Africa

@@ -1,0 +1,41 @@
+{
+ "reproducible": true,
+ "program": "golden.vdem_pipeline",
+ "chart_slug": "direct-democracy-index",
+ "view": "https://ourworldindata.org/grapher/direct-democracy-index",
+ "columns": [
+  "Direct Democracy Index"
+ ],
+ "solution_columns": [
+  "Direct Democracy Index"
+ ],
+ "output_precision": {
+  "Direct Democracy Index": 3
+ },
+ "sources": {
+  "Direct Democracy Index": {
+   "table": "vdem_uni_without_regions",
+   "column": "dirpop_vote_vdem",
+   "filter": {},
+   "short_name": "dirpop_vote_vdem",
+   "gold_index": 3
+  }
+ },
+ "gold_column_index": {
+  "Direct Democracy Index": 3
+ },
+ "entity_mapping": "data/reference/owid_etl/vdem/vdem.countries.json",
+ "compare": {
+  "Direct Democracy Index": {
+   "abs": 0.001,
+   "rel": 1e-06
+  }
+ },
+ "encodings": {},
+ "scale": {},
+ "stack_relative": false,
+ "time_tolerance": 0,
+ "not_compared": {
+  "World region according to OWID": "OWID's world region (map and scatter colour), not a V-Dem indicator"
+ }
+}

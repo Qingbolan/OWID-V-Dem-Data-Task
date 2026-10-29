@@ -1,0 +1,47 @@
+{
+ "chart": {
+  "title": "Share of countries that have had a woman as chief executive",
+  "subtitle": "Share of current countries that have had a woman as chief executive since 1789.",
+  "note": "\"Chief executive\" is defined here as the head of government (such as Germany's Angela Merkel) or the head of state (such as Argentina's Cristina Fernández de Kirchner), whoever has more power over the appointment and dismissal of cabinet ministers. Democracies as identified by V-Dem's \"Regimes of the World\" classification.",
+  "citation": "V-Dem (2026)",
+  "originalChartUrl": "https://ourworldindata.org/grapher/share-of-countries-that-have-had-a-woman-as-chief-executive",
+  "selection": [
+   "World"
+  ]
+ },
+ "columns": {
+  "Share of countries that had a woman chief executive": {
+   "titleShort": "Any woman chief executive",
+   "titleLong": "Any woman chief executive",
+   "descriptionShort": "Share of today's countries that had ever had a woman chief executive by the end of the given year. A woman counts for a given year if she held the office at any point during that year.",
+   "descriptionProcessing": "We estimate the share based on the countries that V-Dem lists in the most recent year of the data.",
+   "unit": "%",
+   "timespan": "1789-2025",
+   "type": "Numeric",
+   "owidVariableId": 1210034,
+   "shortName": "share_countries_wom_hoe_ever",
+   "lastUpdated": "2026-03-17",
+   "nextUpdate": "2027-03-17",
+   "citationShort": "V-Dem (2026) – processed by Our World in Data",
+   "citationLong": "V-Dem (2026) – processed by Our World in Data. “Any woman chief executive” [dataset]. V-Dem, “Democracy report v16” [original data].",
+   "fullMetadata": "https://api.ourworldindata.org/v1/indicators/1210034.metadata.json"
+  },
+  "Share of countries that had a woman chief executive elected democratically": {
+   "titleShort": "Democratically-elected woman chief executive",
+   "titleLong": "Democratically-elected woman chief executive",
+   "descriptionShort": "Share of today's countries that had ever had a woman chief executive who took office through multi-party elections while the country was an electoral or a liberal democracy, by the end of the given year. A woman counts for a given year if she held the office at any point during that year.",
+   "descriptionProcessing": "We estimate the share based on the countries that V-Dem lists in the most recent year of the data.",
+   "unit": "%",
+   "timespan": "1789-2025",
+   "type": "Numeric",
+   "owidVariableId": 1210035,
+   "shortName": "share_countries_wom_hoe_ever_demelect",
+   "lastUpdated": "2026-03-17",
+   "nextUpdate": "2027-03-17",
+   "citationShort": "V-Dem (2026) – processed by Our World in Data",
+   "citationLong": "V-Dem (2026) – processed by Our World in Data. “Democratically-elected woman chief executive” [dataset]. V-Dem, “Democracy report v16” [original data].",
+   "fullMetadata": "https://api.ourworldindata.org/v1/indicators/1210035.metadata.json"
+  }
+ },
+ "dateDownloaded": "2026-10-29"
+}

@@ -1,0 +1,12 @@
+Figure 03: 03 Share of the population subjected to physical violence, male vs. female
+Article: Promote just, peaceful and inclusive societies (2023-07-18)
+
+Title: Share of the population subjected to physical violence, male vs. female
+Subtitle: Respondents were asked about violence they experienced in the previous year.
+Note: 
+Source: United Nations Office on Drugs and Crime
+Units: %; people
+Chart: https://ourworldindata.org/grapher/population-subjected-to-physical-violence
+
+Text before the figure: Target: “Significantly reduce all forms of violence and related death rates” across all countries by 2030.
+Text after the figure: ### SDG Indicator 16.1.4 Public safety

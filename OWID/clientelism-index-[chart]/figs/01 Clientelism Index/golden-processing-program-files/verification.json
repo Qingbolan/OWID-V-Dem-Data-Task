@@ -1,0 +1,18 @@
+{
+ "figure": "01 Clientelism Index",
+ "checked_at": "2026-10-29T18:06:14.643135+00:00",
+ "status": "match",
+ "gold_rows": 174,
+ "gold_rows_missing_in_reference": 0,
+ "mismatched_cells": {
+  "Clientelism Index": 0
+ },
+ "tolerance": {
+  "Clientelism Index": {
+   "abs": 0.001,
+   "rel": 1e-06
+  }
+ },
+ "first_mismatches": [],
+ "program": "golden.vdem_pipeline"
+}

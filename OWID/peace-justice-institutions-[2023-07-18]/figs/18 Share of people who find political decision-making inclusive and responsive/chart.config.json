@@ -1,0 +1,47 @@
+{
+ "id": 6609,
+ "map": {
+  "colorScale": {
+   "binningStrategy": "manual",
+   "customNumericValues": [
+    0,
+    10,
+    20,
+    30,
+    40,
+    -1
+   ]
+  },
+  "columnSlug": "1301989",
+  "timeTolerance": 5
+ },
+ "tab": "discrete-bar",
+ "slug": "share-of-people-who-find-political-decision-making-inclusive-and-responsive",
+ "title": "Share of people who find political decision-making inclusive and responsive",
+ "yAxis": {
+  "min": 0
+ },
+ "$schema": "https://files.ourworldindata.org/schemas/grapher-schema.011.json",
+ "version": 9,
+ "subtitle": "Share of people who responded that the political system in their country allows people like them to have a say in what the government does and to have an influence on politics.",
+ "hasMapTab": true,
+ "originUrl": "/trust",
+ "dimensions": [
+  {
+   "display": {
+    "tolerance": 5
+   },
+   "property": "y",
+   "variableId": 1301989
+  }
+ ],
+ "isPublished": true,
+ "selectedEntityNames": [
+  "Colombia",
+  "Palestine",
+  "Tunisia",
+  "Cape Verde",
+  "Latvia",
+  "South Korea"
+ ]
+}

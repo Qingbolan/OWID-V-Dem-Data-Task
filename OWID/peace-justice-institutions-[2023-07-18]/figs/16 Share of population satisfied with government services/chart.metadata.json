@@ -1,0 +1,36 @@
+{
+ "chart": {
+  "title": "Share of population satisfied with government services",
+  "subtitle": "People who have used government services in the last 12 months and were satisfied with their experience. Government services considered here include: services to obtain government-issued identification documents and the civil registration of life events, such as births marriages and deaths.",
+  "citation": "United Nations Development Programme",
+  "originalChartUrl": "https://ourworldindata.org/grapher/share-of-population-satisfied-with-government-services",
+  "selection": [
+   "Belarus",
+   "Cyprus",
+   "Gambia",
+   "Israel",
+   "Mexico",
+   "Palestine",
+   "Tunisia"
+  ]
+ },
+ "columns": {
+  "16.6.2 - Proportion of population who say that overall they are satisfied with the quality of government services (%) - SP_PSR_OSATIS_GOV - All age ranges or no breaks by age - No breakdown by disability - All areas - TOTAL - Both sexes": {
+   "titleShort": "Proportion of population who say that overall they are satisfied with the quality of government services (%) - All age ranges or no breaks by age - No breakdown by disability - All areas - TOTAL - Both sexes",
+   "titleLong": "Proportion of population who say that overall they are satisfied with the quality of government services (%) - All age ranges or no breaks by age - No breakdown by disability - All areas - TOTAL - Both sexes",
+   "descriptionShort": "Proportion of population who say that overall they are satisfied with the quality of government services (%).",
+   "shortUnit": "%",
+   "unit": "%",
+   "timespan": "2015-2025",
+   "type": "Numeric",
+   "owidVariableId": 1301157,
+   "shortName": "_16_6_2__sp_psr_osatis_gov__all_age_ranges_or_no_breaks_by_age__no_breakdown_by_disability__all_areas__total__both_sexes",
+   "lastUpdated": "2026-07-31",
+   "nextUpdate": "2027-07-31",
+   "citationShort": "United Nations Development Programme – processed by Our World in Data",
+   "citationLong": "United Nations Development Programme – processed by Our World in Data. “Proportion of population who say that overall they are satisfied with the quality of government services (%) - All age ranges or no breaks by age - No breakdown by disability - All areas - TOTAL - Both sexes” [dataset]. United Nations Development Programme, “Data from multiple sources” [original data].",
+   "fullMetadata": "https://api.ourworldindata.org/v1/indicators/1301157.metadata.json"
+  }
+ },
+ "dateDownloaded": "2026-10-29"
+}

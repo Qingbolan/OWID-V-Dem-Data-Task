@@ -1,0 +1,57 @@
+{
+ "title": "Voter turnout of registered voters",
+ "url": "https://ourworldindata.org/grapher/voter-turnout-of-registered-voters",
+ "date_published": null,
+ "chart_page": true,
+ "authors": [],
+ "retrieved_at": "2026-10-29T17:50:58.670375+00:00",
+ "materialised_at": "2026-10-29T17:50:58.670381+00:00",
+ "source_original_sha256": "956a57f9f2c6169e334e13cb13884be33c22c81046f1d6e5b6226113a0efa670",
+ "offline_snapshot": {
+  "page": "source.html",
+  "assets": "source_files/",
+  "assets_manifest": "source_files/manifest.json",
+  "asset_count": 73,
+  "removed": "all <script> elements except application/ld+json"
+ },
+ "figures": [
+  {
+   "index": 1,
+   "name": "01 Voter turnout of registered voters",
+   "embed": {
+    "slug": "voter-turnout-of-registered-voters",
+    "query": {},
+    "image": null
+   },
+   "view_url": "https://ourworldindata.org/grapher/voter-turnout-of-registered-voters",
+   "csv_url": "https://ourworldindata.org/grapher/voter-turnout-of-registered-voters.csv?csvType=filtered",
+   "png_url": "https://ourworldindata.org/grapher/voter-turnout-of-registered-voters.png",
+   "data_available": true,
+   "config_title": "Voter turnout of registered voters",
+   "config_subtitle": "Percentage of all registered voters who cast a vote in the national election, according to official results.",
+   "files": {
+    "txt": {
+     "path": "figs/01 Voter turnout of registered voters.txt",
+     "sha256": "6580e0df2e58a3b7d7535f3c87e675addcb3827378d0d7201b3ad337cc93eb75"
+    },
+    "csv": {
+     "path": "figs/01 Voter turnout of registered voters.csv",
+     "sha256": "bc6faefca4ed1439b8eaeb420783dcdbe3ab7c0ae0611b15f3c9ae8aa9615af4"
+    },
+    "png": {
+     "path": "figs/01 Voter turnout of registered voters.png",
+     "sha256": "3c267ea61e330780393693d7a19442b403899ce2e4d66be70f04c76186a6bc19"
+    }
+   },
+   "chart_slug": "voter-turnout-of-registered-voters",
+   "column_short_names": {
+    "Entity": "entity",
+    "Code": "code",
+    "Year": "year",
+    "Voter turnout of registered voters": "turnout_vdem",
+    "World region according to OWID": "owid_region",
+    "Voter turnout of registered voters (Original Year)": "turnout_vdem__original_year"
+   }
+  }
+ ]
+}

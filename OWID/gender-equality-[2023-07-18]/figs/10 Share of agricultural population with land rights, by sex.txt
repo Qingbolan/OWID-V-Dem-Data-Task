@@ -1,0 +1,12 @@
+Figure 10: 10 Share of agricultural population with land rights, by sex
+Article: Achieve gender equality and empower all women and girls (2023-07-18)
+
+Title: Share of agricultural population with land rights, by sex
+Subtitle: The agricultural population refers to the number of adult individuals living in a household where at least one person operates land for agricultural purposes or raises livestock. Secure tenure rights over land include agricultural land ownership and the right to sell or bequeath agricultural land.
+Note: 
+Source: Food and Agriculture Organization of the United Nations
+Units: %; people
+Chart: https://ourworldindata.org/grapher/share-or-agricultural-population-with-land-ownership-rights-by-sex
+
+Text before the figure: More research: Further data and research on this topic can be found at the Our World in Data topic pages on Women’s Rights and Economic Inequality by Gender .
+Text after the figure: ### SDG Indicator 5.a.2 Equal rights to land ownership

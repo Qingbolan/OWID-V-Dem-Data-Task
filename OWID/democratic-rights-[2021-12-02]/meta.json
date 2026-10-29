@@ -1,0 +1,108 @@
+{
+ "title": "200 years ago, everyone lacked democratic rights. Now, billions of people have them",
+ "url": "https://ourworldindata.org/democratic-rights",
+ "date_published": "2021-12-02",
+ "authors": [
+  "Bastian Herre"
+ ],
+ "retrieved_at": "2026-10-29T15:15:19.728544+00:00",
+ "materialised_at": "2026-10-29T16:26:26.401961+00:00",
+ "source_original_sha256": "7810f790865112c8ad882bfc4f0f7da7db9deb178755eb9c4293f1bf4e178022",
+ "offline_snapshot": {
+  "page": "source.html",
+  "assets": "source_files/",
+  "assets_manifest": "source_files/manifest.json",
+  "asset_count": 80,
+  "removed": "all <script> elements except application/ld+json"
+ },
+ "figures": [
+  {
+   "index": 1,
+   "name": "01 Democracy",
+   "embed": {
+    "slug": "political-regime",
+    "query": {},
+    "image": null
+   },
+   "files": {
+    "html": {
+     "path": "figs/01 Democracy.html",
+     "sha256": "d33a076062d49d005744564e6ab38c39b9bacb479ef97994b4c81c3e83ee8750"
+    },
+    "csv": {
+     "path": "figs/01 Democracy.csv",
+     "sha256": "e1545dc8dfd1f0bcb911c38e67fdbcae26a50f28556185e0082da775369083c7"
+    },
+    "png": {
+     "path": "figs/01 Democracy.png",
+     "sha256": "45eded3816e4718e8719f187f041f4b79fb1c5448e6d9998011581ff94976c41"
+    },
+    "txt": {
+     "path": "figs/01 Democracy.txt",
+     "sha256": "8cda89be0f943051381bbe779bde95e57d32a90dfa3e602173ad048056c7cc42"
+    }
+   },
+   "view_url": "https://ourworldindata.org/grapher/political-regime",
+   "csv_url": "https://ourworldindata.org/grapher/political-regime.csv?csvType=filtered",
+   "png_url": "https://ourworldindata.org/grapher/political-regime.png",
+   "data_available": true,
+   "config_title": "Democracy",
+   "config_subtitle": "Classification by [Lührmann et al. (2018)](#dod:regimes-of-the-world) based on expert estimates by [V-Dem](#dod:v-dem).",
+   "chart_slug": "political-regime",
+   "column_short_names": {
+    "Entity": "entity",
+    "Code": "code",
+    "Year": "year",
+    "Political regime": "regime_row_owid"
+   }
+  },
+  {
+   "index": 2,
+   "name": "02 People living in democracies and autocracies",
+   "embed": {
+    "slug": "people-living-in-democracies-autocracies",
+    "query": {
+     "tab": "chart",
+     "time": "earliest..latest",
+     "country": "~OWID_WRL"
+    },
+    "image": "https://ourworldindata.org/grapher/by-uuid/019a35ae-d101-7e99-aa89-a7945fe27d30.png"
+   },
+   "files": {
+    "html": {
+     "path": "figs/02 People living in democracies and autocracies.html",
+     "sha256": "c37c691af1d7ac1d111c10d0d8341b096578c586ff9616c9a5d594a0bc519d01"
+    },
+    "csv": {
+     "path": "figs/02 People living in democracies and autocracies.csv",
+     "sha256": "ffe7bf2414c76ccfa4062c6aa3c9d013f7eb13ac9667abac4390872901ef7e7e"
+    },
+    "png": {
+     "path": "figs/02 People living in democracies and autocracies.png",
+     "sha256": "474d10aa3303d797544122cf83da3ff187f9d2baec5549645c4007e4befc5625"
+    },
+    "txt": {
+     "path": "figs/02 People living in democracies and autocracies.txt",
+     "sha256": "00b33630215fc8a393d8f8249c007c1c1c1059c769320520a44ff5f5bf3d091f"
+    }
+   },
+   "view_url": "https://ourworldindata.org/grapher/people-living-in-democracies-autocracies?tab=chart&time=earliest..latest&country=~OWID_WRL",
+   "csv_url": "https://ourworldindata.org/grapher/people-living-in-democracies-autocracies.csv?csvType=filtered&tab=chart&time=earliest..latest&country=~OWID_WRL",
+   "png_url": "https://ourworldindata.org/grapher/by-uuid/019a35ae-d101-7e99-aa89-a7945fe27d30.png",
+   "data_available": true,
+   "config_title": "People living in democracies and autocracies",
+   "config_subtitle": "Classification by [Lührmann et al. (2018)](#dod:regimes-of-the-world) based on expert estimates by [V-Dem](#dod:v-dem).",
+   "chart_slug": "people-living-in-democracies-autocracies",
+   "column_short_names": {
+    "Entity": "entity",
+    "Code": "code",
+    "Year": "year",
+    "No regime data": "population_regime__category__1",
+    "People living in closed autocracies": "population_regime__category_closed_autocracy",
+    "in electoral autocracies": "population_regime__category_electoral_autocracy",
+    "in electoral democracies": "population_regime__category_electoral_democracy",
+    "in liberal democracies": "population_regime__category_liberal_democracy"
+   }
+  }
+ ]
+}

@@ -1,0 +1,12 @@
+Figure 06: 06 Electoral Democracy Index
+Article: People around the world have gained democratic rights, but some have many more rights than others (2022-07-19)
+
+Title: Electoral Democracy Index
+Subtitle: Data by [V-Dem](#dod:v-dem). Expert estimates of the extent to which political leaders are elected under comprehensive voting rights in free and fair elections, and freedoms of association and expression are guaranteed. The index ranges from 0 to 1 (most democratic).
+Note: 
+Source: V-Dem (2026)
+Units: 
+Chart: https://ourworldindata.org/grapher/electoral-democracy-index?tab=chart&time=latest&stackMode=relative
+
+Text before the figure: The spread of democracy has slowed in the 21st century compared to previous decades.
+Text after the figure: While some countries became more democratic according to V-Dem, such as Tunisia and Peru, many stagnated or became less democratic — some, such as India, Indonesia, and Mexico, considerably so.

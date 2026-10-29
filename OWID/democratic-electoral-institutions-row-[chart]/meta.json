@@ -1,0 +1,55 @@
+{
+ "title": "Meaningful democratic electoral institutions",
+ "url": "https://ourworldindata.org/grapher/democratic-electoral-institutions-row",
+ "date_published": null,
+ "chart_page": true,
+ "authors": [],
+ "retrieved_at": "2026-10-29T17:04:58.383740+00:00",
+ "materialised_at": "2026-10-29T17:04:58.383752+00:00",
+ "source_original_sha256": "61d264b18ba1ac39a722a2ad6f5e401a7dc918c7922958de8ae31945b9efb8b0",
+ "offline_snapshot": {
+  "page": "source.html",
+  "assets": "source_files/",
+  "assets_manifest": "source_files/manifest.json",
+  "asset_count": 73,
+  "removed": "all <script> elements except application/ld+json"
+ },
+ "figures": [
+  {
+   "index": 1,
+   "name": "01 Meaningful democratic electoral institutions",
+   "embed": {
+    "slug": "democratic-electoral-institutions-row",
+    "query": {},
+    "image": null
+   },
+   "view_url": "https://ourworldindata.org/grapher/democratic-electoral-institutions-row",
+   "csv_url": "https://ourworldindata.org/grapher/democratic-electoral-institutions-row.csv?csvType=filtered",
+   "png_url": "https://ourworldindata.org/grapher/democratic-electoral-institutions-row.png",
+   "data_available": true,
+   "config_title": "Meaningful democratic electoral institutions",
+   "config_subtitle": "Data by Lührmann et al. (2018) and [V-Dem](#dod:v-dem). Expert estimates of whether the country has meaningful democratic electoral institutions, meaning political leaders are elected under comprehensive voting rights in free and fair elections, and freedoms of association and expression are guaranteed.",
+   "files": {
+    "txt": {
+     "path": "figs/01 Meaningful democratic electoral institutions.txt",
+     "sha256": "1cfa93f03d1db20ac7cacae5ffb6bb58828a92c015f00d72c66b951852dff9ad"
+    },
+    "csv": {
+     "path": "figs/01 Meaningful democratic electoral institutions.csv",
+     "sha256": "92eb81f585fa92c3dccc286ab793daf1660e65bed5dae3ff561a2fed9297297a"
+    },
+    "png": {
+     "path": "figs/01 Meaningful democratic electoral institutions.png",
+     "sha256": "12e98ac6bddb98b2031b3386cc46ca32bff66f3a421544cfa352515859b81b50"
+    }
+   },
+   "chart_slug": "democratic-electoral-institutions-row",
+   "column_short_names": {
+    "Entity": "entity",
+    "Code": "code",
+    "Year": "year",
+    "Electoral democracy": "electdem_dich_row_owid__estimate_best"
+   }
+  }
+ ]
+}

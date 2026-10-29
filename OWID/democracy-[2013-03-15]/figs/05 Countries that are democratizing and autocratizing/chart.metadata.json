@@ -1,0 +1,56 @@
+{
+ "chart": {
+  "title": "Countries that are democratizing and autocratizing",
+  "subtitle": "Data by Episodes of Regime Transformation and V-Dem.",
+  "citation": "Episodes of Regime Transformation (2026)",
+  "originalChartUrl": "https://ourworldindata.org/grapher/countries-that-are-democratizing-and-autocratizing",
+  "selection": [
+   "World"
+  ]
+ },
+ "columns": {
+  "Number of autocratizing regimes (trich)": {
+   "titleShort": "Autocratizing regimes",
+   "titleLong": "Autocratizing regimes",
+   "unit": "countries",
+   "timespan": "1900-2025",
+   "type": "Integer",
+   "owidVariableId": 1210075,
+   "shortName": "num_regime_trich_ert__category_autocratizing_regime",
+   "lastUpdated": "2026-03-18",
+   "nextUpdate": "2027-03-18",
+   "citationShort": "Episodes of Regime Transformation (2026) – processed by Our World in Data",
+   "citationLong": "Episodes of Regime Transformation (2026) – processed by Our World in Data. “Autocratizing regimes” [dataset]. V-Dem, “Episodes of Regime Transformation v16” [original data].",
+   "fullMetadata": "https://api.ourworldindata.org/v1/indicators/1210075.metadata.json"
+  },
+  "Number of stable regimes (trich)": {
+   "titleShort": "Neither autocratizing nor democratizing",
+   "titleLong": "Neither autocratizing nor democratizing",
+   "unit": "countries",
+   "timespan": "1900-2025",
+   "type": "Integer",
+   "owidVariableId": 1210077,
+   "shortName": "num_regime_trich_ert__category_stable_regime",
+   "lastUpdated": "2026-03-18",
+   "nextUpdate": "2027-03-18",
+   "citationShort": "Episodes of Regime Transformation (2026) – processed by Our World in Data",
+   "citationLong": "Episodes of Regime Transformation (2026) – processed by Our World in Data. “Neither autocratizing nor democratizing” [dataset]. V-Dem, “Episodes of Regime Transformation v16” [original data].",
+   "fullMetadata": "https://api.ourworldindata.org/v1/indicators/1210077.metadata.json"
+  },
+  "Number of democratizing regimes (trich)": {
+   "titleShort": "Democratizing regimes",
+   "titleLong": "Democratizing regimes",
+   "unit": "countries",
+   "timespan": "1900-2025",
+   "type": "Integer",
+   "owidVariableId": 1210076,
+   "shortName": "num_regime_trich_ert__category_democratizing_regime",
+   "lastUpdated": "2026-03-18",
+   "nextUpdate": "2027-03-18",
+   "citationShort": "Episodes of Regime Transformation (2026) – processed by Our World in Data",
+   "citationLong": "Episodes of Regime Transformation (2026) – processed by Our World in Data. “Democratizing regimes” [dataset]. V-Dem, “Episodes of Regime Transformation v16” [original data].",
+   "fullMetadata": "https://api.ourworldindata.org/v1/indicators/1210076.metadata.json"
+  }
+ },
+ "dateDownloaded": "2026-10-29"
+}

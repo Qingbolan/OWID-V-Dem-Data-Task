@@ -1,0 +1,9 @@
+Figure 01: 01 Strong Elected Regional Governments Index
+Article: none; source page is the chart page https://ourworldindata.org/grapher/strong-elected-regional-governments-index
+
+Title: Strong Elected Regional Governments Index
+Subtitle: Data by [V-Dem](#dod:v-dem). Expert estimates of the extent to which citizens elect regional governments that are free from the influence of unelected regional actors, except for courts. The index ranges from 0 to 1 (strongest).
+Note: 
+Source: V-Dem (2026)
+Units: 
+Chart: https://ourworldindata.org/grapher/strong-elected-regional-governments-index

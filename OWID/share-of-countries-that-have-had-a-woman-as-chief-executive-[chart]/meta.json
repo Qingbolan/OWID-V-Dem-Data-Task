@@ -1,0 +1,56 @@
+{
+ "title": "Share of countries that have had a woman as chief executive",
+ "url": "https://ourworldindata.org/grapher/share-of-countries-that-have-had-a-woman-as-chief-executive",
+ "date_published": null,
+ "chart_page": true,
+ "authors": [],
+ "retrieved_at": "2026-10-29T17:46:07.305331+00:00",
+ "materialised_at": "2026-10-29T17:46:07.305339+00:00",
+ "source_original_sha256": "71557aa0a244bea28df9fd3c64b205046dfdbbfb14ffeef6842813d78d8253ee",
+ "offline_snapshot": {
+  "page": "source.html",
+  "assets": "source_files/",
+  "assets_manifest": "source_files/manifest.json",
+  "asset_count": 73,
+  "removed": "all <script> elements except application/ld+json"
+ },
+ "figures": [
+  {
+   "index": 1,
+   "name": "01 Share of countries that have had a woman as chief executive",
+   "embed": {
+    "slug": "share-of-countries-that-have-had-a-woman-as-chief-executive",
+    "query": {},
+    "image": null
+   },
+   "view_url": "https://ourworldindata.org/grapher/share-of-countries-that-have-had-a-woman-as-chief-executive",
+   "csv_url": "https://ourworldindata.org/grapher/share-of-countries-that-have-had-a-woman-as-chief-executive.csv?csvType=filtered",
+   "png_url": "https://ourworldindata.org/grapher/share-of-countries-that-have-had-a-woman-as-chief-executive.png",
+   "data_available": true,
+   "config_title": "Share of countries that have had a woman as chief executive",
+   "config_subtitle": "Share of current countries that have had a woman as chief executive since 1789.",
+   "files": {
+    "txt": {
+     "path": "figs/01 Share of countries that have had a woman as chief executive.txt",
+     "sha256": "14a3ebc66d3a0ba160eee189b5b536c185849e37b5ad887a6de28ea8113c081e"
+    },
+    "csv": {
+     "path": "figs/01 Share of countries that have had a woman as chief executive.csv",
+     "sha256": "fe16dd6e25157de1fc5cd6e1b0d3a68a96533359b8a7866ba12ed209ce5fb8c6"
+    },
+    "png": {
+     "path": "figs/01 Share of countries that have had a woman as chief executive.png",
+     "sha256": "221f18e76ba8b303f4f0c2ae7c258429aba9d655fb0865e971d0b35bc8ee138a"
+    }
+   },
+   "chart_slug": "share-of-countries-that-have-had-a-woman-as-chief-executive",
+   "column_short_names": {
+    "Entity": "entity",
+    "Code": "code",
+    "Year": "year",
+    "Any woman chief executive": "share_countries_wom_hoe_ever",
+    "Democratically-elected woman chief executive": "share_countries_wom_hoe_ever_demelect"
+   }
+  }
+ ]
+}

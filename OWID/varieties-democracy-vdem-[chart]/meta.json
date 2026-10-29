@@ -1,0 +1,59 @@
+{
+ "title": "Varieties of democracy",
+ "url": "https://ourworldindata.org/grapher/varieties-democracy-vdem",
+ "date_published": null,
+ "chart_page": true,
+ "authors": [],
+ "retrieved_at": "2026-10-29T17:50:15.690900+00:00",
+ "materialised_at": "2026-10-29T17:50:15.690917+00:00",
+ "source_original_sha256": "98e6c43af9c37a8c9bd66dbca29eebe5cbc485fcfbde22b3e89e7e3123f9d0b7",
+ "offline_snapshot": {
+  "page": "source.html",
+  "assets": "source_files/",
+  "assets_manifest": "source_files/manifest.json",
+  "asset_count": 73,
+  "removed": "all <script> elements except application/ld+json"
+ },
+ "figures": [
+  {
+   "index": 1,
+   "name": "01 Varieties of democracy",
+   "embed": {
+    "slug": "varieties-democracy-vdem",
+    "query": {},
+    "image": null
+   },
+   "view_url": "https://ourworldindata.org/grapher/varieties-democracy-vdem",
+   "csv_url": "https://ourworldindata.org/grapher/varieties-democracy-vdem.csv?csvType=filtered",
+   "png_url": "https://ourworldindata.org/grapher/varieties-democracy-vdem.png",
+   "data_available": true,
+   "config_title": "Varieties of democracy",
+   "config_subtitle": "The indices are by [V-Dem](#dod:v-dem), based on expert estimates, and range from 0 to 1 (most democratic).",
+   "files": {
+    "txt": {
+     "path": "figs/01 Varieties of democracy.txt",
+     "sha256": "5f3f9695b00c0f13575dfd0c88050e8a01eb0171088ed448a9769aa8a67e8ba4"
+    },
+    "csv": {
+     "path": "figs/01 Varieties of democracy.csv",
+     "sha256": "8a6ce832eaeac52491818e5d0f2b1b25878b35d740c44082790ffe6c9a7e6fb8"
+    },
+    "png": {
+     "path": "figs/01 Varieties of democracy.png",
+     "sha256": "942cbd6aa4e3ae48ece204f5067b2c5dc26c73e428b6fc1fdb1fd9f14d24636d"
+    }
+   },
+   "chart_slug": "varieties-democracy-vdem",
+   "column_short_names": {
+    "Entity": "entity",
+    "Code": "code",
+    "Year": "year",
+    "Electoral democracy index": "electdem_vdem__estimate_best",
+    "Liberal democracy": "libdem_vdem__estimate_best",
+    "Participatory democracy index": "participdem_vdem__estimate_best",
+    "Deliberative democracy": "delibdem_vdem__estimate_best",
+    "Egalitarian democracy": "egaldem_vdem__estimate_best"
+   }
+  }
+ ]
+}

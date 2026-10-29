@@ -1,0 +1,38 @@
+{
+ "figure": "01 Varieties of democracy",
+ "checked_at": "2026-10-29T18:06:18.619257+00:00",
+ "status": "match",
+ "gold_rows": 126,
+ "gold_rows_missing_in_reference": 0,
+ "mismatched_cells": {
+  "Electoral democracy index": 0,
+  "Liberal democracy": 0,
+  "Participatory democracy index": 0,
+  "Deliberative democracy": 0,
+  "Egalitarian democracy": 0
+ },
+ "tolerance": {
+  "Electoral democracy index": {
+   "abs": 1e-08,
+   "rel": 1e-06
+  },
+  "Liberal democracy": {
+   "abs": 1e-08,
+   "rel": 1e-06
+  },
+  "Participatory democracy index": {
+   "abs": 1e-09,
+   "rel": 1e-06
+  },
+  "Deliberative democracy": {
+   "abs": 1e-09,
+   "rel": 1e-06
+  },
+  "Egalitarian democracy": {
+   "abs": 1e-09,
+   "rel": 1e-06
+  }
+ },
+ "first_mismatches": [],
+ "program": "golden.vdem_pipeline"
+}

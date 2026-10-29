@@ -1,0 +1,9 @@
+Figure 01: 01 Chief executive of the government is chosen in multi-party elections
+Article: none; source page is the chart page https://ourworldindata.org/grapher/multi-party-elections-hoe-row
+
+Title: Chief executive of the government is chosen in multi-party elections
+Subtitle: Data by Lührmann et al. (2018) and [V-Dem](#dod:v-dem). "Chief executive" is defined here as the head of state or the head of government, whoever has more power over the appointment and dismissal of cabinet ministers.
+Note: When the head of state and head of government hold equal power, the head of government is considered the chief executive.
+Source: V-Dem (2026)
+Units: 
+Chart: https://ourworldindata.org/grapher/multi-party-elections-hoe-row

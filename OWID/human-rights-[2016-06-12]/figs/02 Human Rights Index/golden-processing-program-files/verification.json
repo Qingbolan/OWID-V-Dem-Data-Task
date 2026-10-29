@@ -1,0 +1,18 @@
+{
+ "figure": "02 Human Rights Index",
+ "checked_at": "2026-10-29T18:06:16.901402+00:00",
+ "status": "match",
+ "gold_rows": 5,
+ "gold_rows_missing_in_reference": 0,
+ "mismatched_cells": {
+  "Human Rights Index": 0
+ },
+ "tolerance": {
+  "Human Rights Index": {
+   "abs": 1e-08,
+   "rel": 1e-06
+  }
+ },
+ "first_mismatches": [],
+ "program": "golden.vdem_pipeline"
+}

@@ -1,0 +1,12 @@
+Figure 06: 06 People asked for a bribe vs. firms asked for a bribe
+Article: Corruption (2016-10-01)
+
+Title: People asked for a bribe vs. firms asked for a bribe
+Subtitle: Share of respondents who report having contact with a public official in the past 12 months and paying or being asked to pay a [bribe](#dod:bribery), vs. share of firms that report being asked to pay a bribe when dealing with core public services.
+Note: 
+Source: United Nations Office on Drugs and Crime; World Bank Enterprise Surveys (2024)
+Units: %
+Chart: https://ourworldindata.org/grapher/people-asked-for-a-bribe-vs-firms-asked-for-a-bribe
+
+Text before the figure: Generally, for any given level of bribery reported by individuals, the level reported by firms can vary greatly, showing that these indicators do not measure the same phenomenon.
+Text after the figure: The next chart compares the survey responses from citizens about bribery to expert survey data from V-Dem.

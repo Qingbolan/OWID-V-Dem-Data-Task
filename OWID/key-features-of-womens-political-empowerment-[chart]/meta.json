@@ -1,0 +1,58 @@
+{
+ "title": "Key features of women's political empowerment",
+ "url": "https://ourworldindata.org/grapher/key-features-of-womens-political-empowerment",
+ "date_published": null,
+ "chart_page": true,
+ "authors": [],
+ "retrieved_at": "2026-10-29T17:27:00.416770+00:00",
+ "materialised_at": "2026-10-29T17:27:00.416777+00:00",
+ "source_original_sha256": "0e8bb4688428ac909815be5a97dab2c5e2cb7871eb5586a6b90187d80011899f",
+ "offline_snapshot": {
+  "page": "source.html",
+  "assets": "source_files/",
+  "assets_manifest": "source_files/manifest.json",
+  "asset_count": 73,
+  "removed": "all <script> elements except application/ld+json"
+ },
+ "figures": [
+  {
+   "index": 1,
+   "name": "01 Key features of women's political empowerment",
+   "embed": {
+    "slug": "key-features-of-womens-political-empowerment",
+    "query": {},
+    "image": null
+   },
+   "view_url": "https://ourworldindata.org/grapher/key-features-of-womens-political-empowerment",
+   "csv_url": "https://ourworldindata.org/grapher/key-features-of-womens-political-empowerment.csv?csvType=filtered",
+   "png_url": "https://ourworldindata.org/grapher/key-features-of-womens-political-empowerment.png",
+   "data_available": true,
+   "config_title": "Key features of women's political empowerment",
+   "config_subtitle": "The [indices](#dod:key-indices-women-political-empowerment) are by [V-Dem](#dod:v-dem), based on expert estimates, and range from 0 to 1 (most empowered).",
+   "files": {
+    "txt": {
+     "path": "figs/01 Key features of women's political empowerment.txt",
+     "sha256": "afc8813afc24d8a8b8c2a9b027a41d9c949bfa94c692496dd0c72826e9296126"
+    },
+    "csv": {
+     "path": "figs/01 Key features of women's political empowerment.csv",
+     "sha256": "7c764dc4ec73e0a36a45747e39d2ecb31de61c4bdc4479584ed22d0bade224ba"
+    },
+    "png": {
+     "path": "figs/01 Key features of women's political empowerment.png",
+     "sha256": "a8a46f3efc5ac428f24e7baefc8aa9ed3aaa66f63b2d71276bce44bf4fbaddd5"
+    }
+   },
+   "chart_slug": "key-features-of-womens-political-empowerment",
+   "column_short_names": {
+    "Entity": "entity",
+    "Code": "code",
+    "Year": "year",
+    "Women's political empowerment overall": "wom_emp_vdem__estimate_best",
+    "Women's civil liberties": "wom_civ_libs_vdem__estimate_best",
+    "Women's civil society participation": "wom_civ_soc_vdem__estimate_best",
+    "Women's political participation": "wom_pol_par_vdem__estimate_best"
+   }
+  }
+ ]
+}

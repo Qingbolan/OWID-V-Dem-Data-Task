@@ -1,0 +1,56 @@
+{
+ "title": "Women's Civil Society Participation Index",
+ "url": "https://ourworldindata.org/grapher/women-civil-society-participation-index",
+ "date_published": null,
+ "chart_page": true,
+ "authors": [],
+ "retrieved_at": "2026-10-29T17:53:05.944949+00:00",
+ "materialised_at": "2026-10-29T17:53:05.944958+00:00",
+ "source_original_sha256": "696dd67b3c76f11dcb871ea97cd7ad0f8b2db65d32d74ff7e5387e438681abed",
+ "offline_snapshot": {
+  "page": "source.html",
+  "assets": "source_files/",
+  "assets_manifest": "source_files/manifest.json",
+  "asset_count": 73,
+  "removed": "all <script> elements except application/ld+json"
+ },
+ "figures": [
+  {
+   "index": 1,
+   "name": "01 Women's Civil Society Participation Index",
+   "embed": {
+    "slug": "women-civil-society-participation-index",
+    "query": {},
+    "image": null
+   },
+   "view_url": "https://ourworldindata.org/grapher/women-civil-society-participation-index",
+   "csv_url": "https://ourworldindata.org/grapher/women-civil-society-participation-index.csv?csvType=filtered",
+   "png_url": "https://ourworldindata.org/grapher/women-civil-society-participation-index.png",
+   "data_available": true,
+   "config_title": "Women's Civil Society Participation Index",
+   "config_subtitle": "Data by [V-Dem](#dod:v-dem). Expert estimates of the extent to which women can discuss political issues, participate in civil society organizations, and are represented among journalists. The index ranges from 0 to 1 (most participatory).",
+   "files": {
+    "txt": {
+     "path": "figs/01 Women's Civil Society Participation Index.txt",
+     "sha256": "93a4a3197d054bb5eebe4dd208a9a8586dd271c7620d2b6582441291af3d91fb"
+    },
+    "csv": {
+     "path": "figs/01 Women's Civil Society Participation Index.csv",
+     "sha256": "736664b3db933cfe78ffb43296f6e63d35e3727e8192a7d394080b3acaa32b68"
+    },
+    "png": {
+     "path": "figs/01 Women's Civil Society Participation Index.png",
+     "sha256": "c5d1a692b1e5d303107dc68df770bd2c9f0689f047a1c850ed3f0136673b6455"
+    }
+   },
+   "chart_slug": "women-civil-society-participation-index",
+   "column_short_names": {
+    "Entity": "entity",
+    "Code": "code",
+    "Year": "year",
+    "Women's Civil Society Participation Index": "wom_civ_soc_vdem__estimate_best",
+    "World region according to OWID": "owid_region"
+   }
+  }
+ ]
+}

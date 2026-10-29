@@ -1,0 +1,13 @@
+Figure 01: 01 Countries that are democracies and autocracies, World, 1973-2023, relative
+Article: The share of democracies has recently stagnated but remains near its historical high (2024-05-14)
+
+Title: Countries that are democracies and autocracies
+Subtitle: Political regimes based on the classification by Lührmann et al. (2018) and the estimates by V-Dem's experts.
+Note: 
+Source: V-Dem (2026)
+Units: countries
+Image description: Stacked area chart of the share of countries that are democracies and autocracies between 1973 and 2023. The share of closed autocracies decreases a lot over time, but recently increases. The share of liberal democracies decreases slightly over time, but recently decreases. The share of electoral democracies increases a lot and recently stagnates. The share of electoral autocracies increases over time.
+Underlying chart (identified): https://ourworldindata.org/grapher/countries-democracies-autocracies-row?tab=chart&stackMode=relative&time=1973..2023&country=~OWID_WRL
+
+Text before the figure: 
+Text after the figure: Over the last twenty years, the share of countries that are democracies has remained relatively stable.

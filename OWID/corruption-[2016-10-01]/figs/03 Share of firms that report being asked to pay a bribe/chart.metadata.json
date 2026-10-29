@@ -1,0 +1,50 @@
+{
+ "chart": {
+  "title": "Share of firms that report being asked to pay a bribe",
+  "subtitle": "Bribes when dealing with core public services, such as operating licenses and construction permits.",
+  "citation": "World Bank Enterprise Surveys (2024)",
+  "originalChartUrl": "https://ourworldindata.org/grapher/bribery-incidence-for-firms",
+  "selection": [
+   "Mexico",
+   "China",
+   "Spain",
+   "Kazakhstan",
+   "Ghana",
+   "Jordan"
+  ]
+ },
+ "columns": {
+  "Share of firms that were asked to pay a bribe": {
+   "titleShort": "Share of firms that were asked to pay a bribe",
+   "titleLong": "Share of firms that were asked to pay a bribe",
+   "descriptionShort": "Share of firms that were asked to pay a bribe when dealing with core public services, such as operating licenses and construction permits.",
+   "descriptionKey": "- Measures the share of firms that experienced at least one request for a gift or informal payment across six types of public transactions.\n- Covers applications for electrical connections, water connections, construction permits, meetings with tax officials, import licenses (authorization to import specific goods), and operating licenses (permit to legally conduct business activities).\n- Data are collected through structured interviews with private sector firms.\n- Refusal to answer a question is treated as an affirmative response indicating bribery occurred.\n- Corruption imposes administrative and financial burdens, reduces operational efficiency, and increases costs and risks for firms.\n- Regional and global averages are computed by taking a simple average of country-level results using only the latest available survey data per country since 2014.",
+   "shortUnit": "%",
+   "unit": "%",
+   "timespan": "2006-2025",
+   "type": "Numeric",
+   "owidVariableId": 1032401,
+   "shortName": "bribery_incidence__percent_of_firms_experiencing_at_least_one_bribe_payment_request",
+   "lastUpdated": "2025-05-12",
+   "nextUpdate": "2026-11-29",
+   "citationShort": "World Bank Enterprise Surveys (2024) – with minor processing by Our World in Data",
+   "citationLong": "World Bank Enterprise Surveys (2024) – with minor processing by Our World in Data. “Share of firms that were asked to pay a bribe” [dataset]. World Bank Enterprise Surveys, “Enterprise Surveys – Corruption” [original data].",
+   "fullMetadata": "https://api.ourworldindata.org/v1/indicators/1032401.metadata.json"
+  },
+  "World region according to OWID": {
+   "titleShort": "World region according to OWID",
+   "titleLong": "World region according to OWID",
+   "descriptionShort": "Regions defined by Our World in Data, which are used in OWID charts and maps.",
+   "unit": "",
+   "timespan": "2023-2023",
+   "type": "Continent",
+   "owidVariableId": 900801,
+   "shortName": "owid_region",
+   "lastUpdated": "2023-01-01",
+   "citationShort": "Our World in Data",
+   "citationLong": "Our World in Data. “World region according to OWID” [dataset]. Our World in Data, “Regions” [original data].",
+   "fullMetadata": "https://api.ourworldindata.org/v1/indicators/900801.metadata.json"
+  }
+ },
+ "dateDownloaded": "2026-10-29"
+}

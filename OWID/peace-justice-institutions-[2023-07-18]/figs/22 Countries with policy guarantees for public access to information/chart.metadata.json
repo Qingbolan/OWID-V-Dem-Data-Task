@@ -1,0 +1,40 @@
+{
+ "chart": {
+  "title": "Countries with policy guarantees for public access to information",
+  "subtitle": "Number of countries that have adopted and implemented constitutional, statutory and/or policy guarantees for public access to information.",
+  "citation": "UNESCO",
+  "originalChartUrl": "https://ourworldindata.org/grapher/countries-that-adopt-guarantees-for-public-access-to-information",
+  "selection": [
+   "Least Developed Countries (LDCs)",
+   "Small Island Developing States (SIDS)",
+   "World",
+   "Sub-Saharan Africa (UN SDG)",
+   "Northern Africa and Western Asia (UN SDG)",
+   "Central and Southern Asia (UN SDG)",
+   "Eastern and South-Eastern Asia (UN SDG)",
+   "Latin America and the Caribbean (UN SDG)",
+   "Europe and Northern America (UN SDG)",
+   "Australia and New Zealand (UN SDG)",
+   "Oceania (UN SDG)"
+  ]
+ },
+ "columns": {
+  "16.10.2 - Countries that adopt and implement constitutional, statutory and/or policy guarantees for public access to information - SG_INF_ACCSS": {
+   "titleShort": "Countries that adopt and implement constitutional, statutory and/or policy guarantees for public access to information",
+   "titleLong": "Countries that adopt and implement constitutional, statutory and/or policy guarantees for public access to information",
+   "descriptionShort": "Countries that adopt and implement constitutional, statutory and/or policy guarantees for public access to information.",
+   "shortUnit": "",
+   "unit": "number",
+   "timespan": "2025-2025",
+   "type": "Integer",
+   "owidVariableId": 1300882,
+   "shortName": "_16_10_2__sg_inf_accss",
+   "lastUpdated": "2026-07-31",
+   "nextUpdate": "2027-07-31",
+   "citationShort": "UNESCO – processed by Our World in Data",
+   "citationLong": "UNESCO – processed by Our World in Data. “Countries that adopt and implement constitutional, statutory and/or policy guarantees for public access to information” [dataset]. UNESCO, “UNESCO Report on Public Access to Information; Global Right to Information Rating (Access Info & Center for Law and Democracy) https://www.rti-rating.org/country-data/” [original data].",
+   "fullMetadata": "https://api.ourworldindata.org/v1/indicators/1300882.metadata.json"
+  }
+ },
+ "dateDownloaded": "2026-10-29"
+}

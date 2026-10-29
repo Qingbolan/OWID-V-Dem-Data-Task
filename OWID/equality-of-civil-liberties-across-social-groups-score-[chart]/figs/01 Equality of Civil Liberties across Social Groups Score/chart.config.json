@@ -1,0 +1,63 @@
+{
+ "id": 6389,
+ "map": {
+  "colorScale": {
+   "baseColorScheme": "RdBu",
+   "binningStrategy": "manual",
+   "customNumericColors": [
+    null
+   ],
+   "customNumericValues": [
+    0,
+    -3,
+    -2,
+    -1,
+    0,
+    1,
+    2,
+    3,
+    3
+   ]
+  },
+  "columnSlug": "1209835"
+ },
+ "tab": "map",
+ "slug": "equality-of-civil-liberties-across-social-groups-score",
+ "title": "Equality of Civil Liberties across Social Groups Score",
+ "yAxis": {
+  "max": 4,
+  "min": -4
+ },
+ "$schema": "https://files.ourworldindata.org/schemas/grapher-schema.011.json",
+ "version": 31,
+ "subtitle": "Data by [V-Dem](#dod:v-dem). Expert estimates of the extent to which social groups — defined by language, ethnicity, religion, race, region, and/or caste — are free from forced labor, have property rights and access to the justice system, and enjoy freedom of movement. Higher scores mean more equality. A score of 0 is approximately the average across all countries and years.",
+ "hasMapTab": true,
+ "originUrl": "/human-rights",
+ "chartTypes": [
+  "LineChart",
+  "SlopeChart",
+  "DiscreteBar"
+ ],
+ "dimensions": [
+  {
+   "display": {
+    "name": "Equality of civil liberties across social groups",
+    "color": "#3c4e66"
+   },
+   "property": "y",
+   "variableId": 1209835
+  }
+ ],
+ "isPublished": true,
+ "hideFacetControl": false,
+ "selectedEntityNames": [
+  "World",
+  "Argentina",
+  "Australia",
+  "Botswana",
+  "China"
+ ],
+ "hideAnnotationFieldsInTitle": {
+  "time": true
+ }
+}

@@ -1,0 +1,33 @@
+{
+ "figure": "01 Countries that are democracies and autocracies, World, 1973-2023, relative",
+ "checked_at": "2026-10-29T18:06:18.569739+00:00",
+ "status": "match",
+ "gold_rows": 51,
+ "gold_rows_missing_in_reference": 0,
+ "mismatched_cells": {
+  "Closed autocracies": 0,
+  "Electoral autocracies": 0,
+  "Electoral democracies": 0,
+  "Liberal democracies": 0
+ },
+ "tolerance": {
+  "Closed autocracies": {
+   "abs": 1e-15,
+   "rel": 1e-06
+  },
+  "Electoral autocracies": {
+   "abs": 1e-15,
+   "rel": 1e-06
+  },
+  "Electoral democracies": {
+   "abs": 1e-15,
+   "rel": 1e-06
+  },
+  "Liberal democracies": {
+   "abs": 1e-15,
+   "rel": 1e-06
+  }
+ },
+ "first_mismatches": [],
+ "program": "golden.vdem_pipeline"
+}

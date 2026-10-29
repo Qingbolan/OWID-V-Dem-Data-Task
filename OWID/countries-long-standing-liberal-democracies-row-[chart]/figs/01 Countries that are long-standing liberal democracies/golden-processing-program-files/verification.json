@@ -1,0 +1,53 @@
+{
+ "figure": "01 Countries that are long-standing liberal democracies",
+ "checked_at": "2026-10-29T18:06:15.053312+00:00",
+ "status": "match",
+ "gold_rows": 237,
+ "gold_rows_missing_in_reference": 0,
+ "mismatched_cells": {
+  "Closed autocracies": 0,
+  "Electoral autocracies": 0,
+  "Electoral democracies": 0,
+  "Liberal democracies aged 1-18": 0,
+  "aged 19-30": 0,
+  "aged 31-60": 0,
+  "aged 60-90": 0,
+  "aged 91 +": 0
+ },
+ "tolerance": {
+  "Closed autocracies": {
+   "abs": 1e-15,
+   "rel": 1e-06
+  },
+  "Electoral autocracies": {
+   "abs": 1e-16,
+   "rel": 1e-06
+  },
+  "Electoral democracies": {
+   "abs": 1e-16,
+   "rel": 1e-06
+  },
+  "Liberal democracies aged 1-18": {
+   "abs": 1e-16,
+   "rel": 1e-06
+  },
+  "aged 19-30": {
+   "abs": 1e-16,
+   "rel": 1e-06
+  },
+  "aged 31-60": {
+   "abs": 1e-16,
+   "rel": 1e-06
+  },
+  "aged 60-90": {
+   "abs": 1e-16,
+   "rel": 1e-06
+  },
+  "aged 91 +": {
+   "abs": 1e-16,
+   "rel": 1e-06
+  }
+ },
+ "first_mismatches": [],
+ "program": "golden.vdem_pipeline"
+}

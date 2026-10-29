@@ -1,0 +1,18 @@
+{
+ "figure": "01 Equality of Political Power across Social Groups Score",
+ "checked_at": "2026-10-29T18:06:16.566272+00:00",
+ "status": "match",
+ "gold_rows": 174,
+ "gold_rows_missing_in_reference": 0,
+ "mismatched_cells": {
+  "Equality of political power across social groups": 0
+ },
+ "tolerance": {
+  "Equality of political power across social groups": {
+   "abs": 0.001,
+   "rel": 1e-06
+  }
+ },
+ "first_mismatches": [],
+ "program": "golden.vdem_pipeline"
+}

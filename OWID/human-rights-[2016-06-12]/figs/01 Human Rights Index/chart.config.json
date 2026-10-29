@@ -1,0 +1,85 @@
+{
+ "id": 6233,
+ "map": {
+  "colorScale": {
+   "baseColorScheme": "YlGnBu",
+   "binningStrategy": "manual",
+   "customNumericColors": [
+    "#9f0026",
+    "#e31a1c",
+    "#fd8d3c",
+    "#fed976",
+    "#ffeda0",
+    "#edf8b1",
+    "#c7e9b4",
+    "#41b6c4",
+    "#225ea8",
+    "#172976"
+   ],
+   "customNumericValues": [
+    0,
+    0.1,
+    0.2,
+    0.3,
+    0.4,
+    0.5,
+    0.6,
+    0.7,
+    0.8,
+    0.9,
+    1
+   ]
+  },
+  "columnSlug": "1209710"
+ },
+ "tab": "map",
+ "slug": "human-rights-index-vdem",
+ "title": "Human Rights Index",
+ "yAxis": {
+  "max": 1,
+  "min": 0
+ },
+ "$schema": "https://files.ourworldindata.org/schemas/grapher-schema.011.json",
+ "version": 66,
+ "subtitle": "Data by [V-Dem](#dod:v-dem). Expert estimates of the extent to which people are free from government torture, political killings, and forced labor, have property rights, and enjoy the freedoms of movement, religion, expression, and association. The index ranges from 0 to 1 (most rights).",
+ "hasMapTab": true,
+ "originUrl": "/human-rights",
+ "chartTypes": [
+  "LineChart",
+  "SlopeChart",
+  "DiscreteBar",
+  "Marimekko"
+ ],
+ "dimensions": [
+  {
+   "display": {
+    "name": "Human Rights Index",
+    "color": "#3c4e66"
+   },
+   "property": "y",
+   "variableId": 1209710
+  },
+  {
+   "property": "color",
+   "variableId": 900801
+  }
+ ],
+ "isPublished": true,
+ "hideFacetControl": false,
+ "relatedQuestions": [
+  {
+   "url": "https://ourworldindata.org/vdem-human-rights-data",
+   "text": "The 'Varieties of Democracy' data: how do researchers measure human rights?"
+  }
+ ],
+ "selectedEntityNames": [
+  "World",
+  "Argentina",
+  "Australia",
+  "Botswana",
+  "China"
+ ],
+ "hideAnnotationFieldsInTitle": {
+  "time": true
+ }
+}

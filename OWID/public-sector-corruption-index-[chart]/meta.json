@@ -1,0 +1,56 @@
+{
+ "title": "Public Sector Corruption Index",
+ "url": "https://ourworldindata.org/grapher/public-sector-corruption-index",
+ "date_published": null,
+ "chart_page": true,
+ "authors": [],
+ "retrieved_at": "2026-10-29T17:42:46.531038+00:00",
+ "materialised_at": "2026-10-29T17:42:46.531047+00:00",
+ "source_original_sha256": "5b513c184cab74fac54f4052a641c079acdf9092c40f539584c1a6511e644183",
+ "offline_snapshot": {
+  "page": "source.html",
+  "assets": "source_files/",
+  "assets_manifest": "source_files/manifest.json",
+  "asset_count": 73,
+  "removed": "all <script> elements except application/ld+json"
+ },
+ "figures": [
+  {
+   "index": 1,
+   "name": "01 Public Sector Corruption Index",
+   "embed": {
+    "slug": "public-sector-corruption-index",
+    "query": {},
+    "image": null
+   },
+   "view_url": "https://ourworldindata.org/grapher/public-sector-corruption-index",
+   "csv_url": "https://ourworldindata.org/grapher/public-sector-corruption-index.csv?csvType=filtered",
+   "png_url": "https://ourworldindata.org/grapher/public-sector-corruption-index.png",
+   "data_available": true,
+   "config_title": "Public Sector Corruption Index",
+   "config_subtitle": "Data by [V-Dem](#dod:v-dem). Expert estimates of the extent to which public sector employees engage in bribery and theft. The index ranges from 0 to 1 (highly corrupt).",
+   "files": {
+    "txt": {
+     "path": "figs/01 Public Sector Corruption Index.txt",
+     "sha256": "f7cb712fad93f43e19127eb8acbc101d914e4a33a117fdfaedef0c09f80bedc1"
+    },
+    "csv": {
+     "path": "figs/01 Public Sector Corruption Index.csv",
+     "sha256": "58df3a1d1ae59a32329890f2180577f818d14e0131479ace6d2bf2989730e075"
+    },
+    "png": {
+     "path": "figs/01 Public Sector Corruption Index.png",
+     "sha256": "672e085bac0283f8fbef184c2c1b46142342203a8fe3f4a015dbb2a3d1213aee"
+    }
+   },
+   "chart_slug": "public-sector-corruption-index",
+   "column_short_names": {
+    "Entity": "entity",
+    "Code": "code",
+    "Year": "year",
+    "Public Sector Corruption Index": "corr_publsec_vdem__estimate_best",
+    "World region according to OWID": "owid_region"
+   }
+  }
+ ]
+}

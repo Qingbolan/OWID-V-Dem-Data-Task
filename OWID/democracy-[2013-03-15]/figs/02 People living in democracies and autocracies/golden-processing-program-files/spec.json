@@ -1,0 +1,109 @@
+{
+ "reproducible": true,
+ "program": "golden.vdem_pipeline",
+ "chart_slug": "people-living-in-democracies-autocracies",
+ "view": "https://ourworldindata.org/grapher/people-living-in-democracies-autocracies",
+ "columns": [
+  "No regime data",
+  "People living in closed autocracies",
+  "in electoral autocracies",
+  "in electoral democracies",
+  "in liberal democracies"
+ ],
+ "solution_columns": [
+  "No regime data",
+  "People living in closed autocracies",
+  "in electoral autocracies",
+  "in electoral democracies",
+  "in liberal democracies"
+ ],
+ "output_precision": {
+  "No regime data": 0,
+  "People living in closed autocracies": 0,
+  "in electoral autocracies": 0,
+  "in electoral democracies": 0,
+  "in liberal democracies": 0
+ },
+ "sources": {
+  "No regime data": {
+   "table": "vdem_population",
+   "column": "population_regime",
+   "filter": {
+    "category": "-1"
+   },
+   "short_name": "population_regime__category__1",
+   "gold_index": 3
+  },
+  "People living in closed autocracies": {
+   "table": "vdem_population",
+   "column": "population_regime",
+   "filter": {
+    "category": "closed autocracy"
+   },
+   "short_name": "population_regime__category_closed_autocracy",
+   "gold_index": 4
+  },
+  "in electoral autocracies": {
+   "table": "vdem_population",
+   "column": "population_regime",
+   "filter": {
+    "category": "electoral autocracy"
+   },
+   "short_name": "population_regime__category_electoral_autocracy",
+   "gold_index": 5
+  },
+  "in electoral democracies": {
+   "table": "vdem_population",
+   "column": "population_regime",
+   "filter": {
+    "category": "electoral democracy"
+   },
+   "short_name": "population_regime__category_electoral_democracy",
+   "gold_index": 6
+  },
+  "in liberal democracies": {
+   "table": "vdem_population",
+   "column": "population_regime",
+   "filter": {
+    "category": "liberal democracy"
+   },
+   "short_name": "population_regime__category_liberal_democracy",
+   "gold_index": 7
+  }
+ },
+ "gold_column_index": {
+  "No regime data": 3,
+  "People living in closed autocracies": 4,
+  "in electoral autocracies": 5,
+  "in electoral democracies": 6,
+  "in liberal democracies": 7
+ },
+ "entity_mapping": "data/reference/owid_etl/vdem/vdem.countries.json",
+ "compare": {
+  "No regime data": {
+   "abs": 1.0,
+   "rel": 1e-06
+  },
+  "People living in closed autocracies": {
+   "abs": 1.0,
+   "rel": 1e-06
+  },
+  "in electoral autocracies": {
+   "abs": 1.0,
+   "rel": 1e-06
+  },
+  "in electoral democracies": {
+   "abs": 1.0,
+   "rel": 1e-06
+  },
+  "in liberal democracies": {
+   "abs": 1.0,
+   "rel": 1e-06
+  }
+ },
+ "encodings": {},
+ "scale": {},
+ "stack_relative": false,
+ "time_tolerance": 0,
+ "not_compared": {}
+}

@@ -1,0 +1,5 @@
+# Golden processing program: 02 Share of women who experienced violence from an intimate partner
+
+View: https://ourworldindata.org/grapher/share-of-women-who-experienced-violence-by-an-intimate-partner-un
+
+Not reproducible: the chart is not one of the V-Dem-only charts (data/reference/charts.json): it plots grapher/regions/2023-01-01/regions, grapher/un/2026-07-31/un_sdg

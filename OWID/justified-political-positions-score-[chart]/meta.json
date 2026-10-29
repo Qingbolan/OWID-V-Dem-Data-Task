@@ -1,0 +1,55 @@
+{
+ "title": "Justified Political Positions Score",
+ "url": "https://ourworldindata.org/grapher/justified-political-positions-score",
+ "date_published": null,
+ "chart_page": true,
+ "authors": [],
+ "retrieved_at": "2026-10-29T17:23:27.103775+00:00",
+ "materialised_at": "2026-10-29T17:23:27.103788+00:00",
+ "source_original_sha256": "7a9cc42bdae43f5cda60c7b3b9c2a23ce354a0499015399b0ae7b3b42d711130",
+ "offline_snapshot": {
+  "page": "source.html",
+  "assets": "source_files/",
+  "assets_manifest": "source_files/manifest.json",
+  "asset_count": 73,
+  "removed": "all <script> elements except application/ld+json"
+ },
+ "figures": [
+  {
+   "index": 1,
+   "name": "01 Justified Political Positions Score",
+   "embed": {
+    "slug": "justified-political-positions-score",
+    "query": {},
+    "image": null
+   },
+   "view_url": "https://ourworldindata.org/grapher/justified-political-positions-score",
+   "csv_url": "https://ourworldindata.org/grapher/justified-political-positions-score.csv?csvType=filtered",
+   "png_url": "https://ourworldindata.org/grapher/justified-political-positions-score.png",
+   "data_available": true,
+   "config_title": "Justified Political Positions Score",
+   "config_subtitle": "Data by [V-Dem](#dod:v-dem). Expert estimates of the extent to which political leaders give reasons for their views. Higher scores mean more justification. A score of 0 is approximately the average across all countries and years.",
+   "files": {
+    "txt": {
+     "path": "figs/01 Justified Political Positions Score.txt",
+     "sha256": "7a04e2630e8f13658b161b9975e4d33dad5363a60221b3085649f2661b2fb3d7"
+    },
+    "csv": {
+     "path": "figs/01 Justified Political Positions Score.csv",
+     "sha256": "d72816ae1680cdcf33aa85a91ac6aef0434c21d3ddd4a4b2b3d9a4ff5258a80c"
+    },
+    "png": {
+     "path": "figs/01 Justified Political Positions Score.png",
+     "sha256": "03f0317479a3c36a7c620a43d29e4ec55a8aafacef978c5410cbe1ed489416e4"
+    }
+   },
+   "chart_slug": "justified-political-positions-score",
+   "column_short_names": {
+    "Entity": "entity",
+    "Code": "code",
+    "Year": "year",
+    "Justified political positions": "justified_polch_vdem__estimate_best"
+   }
+  }
+ ]
+}

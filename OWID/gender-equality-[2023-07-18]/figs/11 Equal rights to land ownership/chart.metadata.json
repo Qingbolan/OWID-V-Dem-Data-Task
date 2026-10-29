@@ -1,0 +1,33 @@
+{
+ "chart": {
+  "title": "Equal rights to land ownership",
+  "subtitle": "The extent to which legal frameworks protect women's land rights, measured against six proxies designed to assess the multiple dimensions of equality in land rights. The value corresponds to the number of proxies that exist. Higher values indicate more equal land rights.",
+  "citation": "Food and Agriculture Organization of the United Nations",
+  "originalChartUrl": "https://ourworldindata.org/grapher/degree-to-which-the-legal-framework-guarantees-womens-equal-rights-to-land-ownership-andor-control",
+  "selection": [
+   "Uzbekistan",
+   "Vietnam",
+   "Yemen",
+   "Zimbabwe"
+  ]
+ },
+ "columns": {
+  "5.a.2 - Degree to which the legal framework (including customary law) guarantees women’s equal rights to land ownership and/or control (1=No evidence to 6=Highest levels of guarantees) - SG_LGL_LNDFEMOD": {
+   "titleShort": "Degree to which the legal framework (including customary law) guarantees women’s equal rights to land ownership and/or control (1=No evidence to 6=Highest levels of guarantees)",
+   "titleLong": "Degree to which the legal framework (including customary law) guarantees women’s equal rights to land ownership and/or control (1=No evidence to 6=Highest levels of guarantees)",
+   "descriptionShort": "Degree to which the legal framework (including customary law) guarantees women’s equal rights to land ownership and/or control (1=No evidence to 6=Highest levels of guarantees).",
+   "shortUnit": "",
+   "unit": "score",
+   "timespan": "2019-2025",
+   "type": "Numeric",
+   "owidVariableId": 1305148,
+   "shortName": "_5_a_2__sg_lgl_lndfemod",
+   "lastUpdated": "2026-07-31",
+   "nextUpdate": "2027-07-31",
+   "citationShort": "Food and Agriculture Organization of the United Nations – processed by Our World in Data",
+   "citationLong": "Food and Agriculture Organization of the United Nations – processed by Our World in Data. “Degree to which the legal framework (including customary law) guarantees women’s equal rights to land ownership and/or control (1=No evidence to 6=Highest levels of guarantees)” [dataset]. Food and Agriculture Organization of the United Nations, “Data from multiple sources” [original data].",
+   "fullMetadata": "https://api.ourworldindata.org/v1/indicators/1305148.metadata.json"
+  }
+ },
+ "dateDownloaded": "2026-10-29"
+}

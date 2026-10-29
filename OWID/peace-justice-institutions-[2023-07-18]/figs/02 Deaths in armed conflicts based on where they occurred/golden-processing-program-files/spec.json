@@ -1,0 +1,6 @@
+{
+ "reproducible": false,
+ "reason": "the chart is not one of the V-Dem-only charts (data/reference/charts.json): it plots grapher/war/latest/ucdp_preview",
+ "view": "https://ourworldindata.org/grapher/deaths-in-armed-conflicts-by-country",
+ "chart_slug": "deaths-in-armed-conflicts-by-country"
+}

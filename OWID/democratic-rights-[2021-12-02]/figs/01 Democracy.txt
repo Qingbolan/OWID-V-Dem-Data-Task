@@ -1,0 +1,12 @@
+Figure 01: 01 Democracy
+Article: 200 years ago, everyone lacked democratic rights. Now, billions of people have them (2021-12-02)
+
+Title: Democracy
+Subtitle: Classification by [Lührmann et al. (2018)](#dod:regimes-of-the-world) based on expert estimates by [V-Dem](#dod:v-dem).
+Note: 
+Source: V-Dem (2026)
+Units: 
+Chart: https://ourworldindata.org/grapher/political-regime
+
+Text before the figure: Using the RoW classification, the interactive map shows how each country is classified at the end of each year, going back in time as far as 1789. To explore changes over time, you can drag the time-slider below the map.
+Text after the figure: # Almost everyone lacked democratic political rights in the 19th century, but many have gained them since.

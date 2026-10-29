@@ -1,0 +1,6 @@
+{
+ "reproducible": false,
+ "reason": "the chart is not one of the V-Dem-only charts (data/reference/charts.json): it plots grapher/state_capacity/2023-10-19/state_capacity_dataset",
+ "view": "https://ourworldindata.org/grapher/state-capacity-index?tab=line&time=earliest..2015",
+ "chart_slug": "state-capacity-index"
+}

@@ -1,0 +1,34 @@
+{
+ "chart": {
+  "title": "Universal right to vote",
+  "subtitle": "This does not consider elections not being held, informal restrictions, or legal restrictions based on age, criminal conviction, disability, and local residency.",
+  "note": "",
+  "citation": "Lexical Index (2026)",
+  "originalChartUrl": "https://ourworldindata.org/grapher/universal-suffrage-lexical",
+  "selection": [
+   "Argentina",
+   "Australia",
+   "Botswana",
+   "China"
+  ]
+ },
+ "columns": {
+  "Universal suffrage": {
+   "titleShort": "Universal right to vote",
+   "titleLong": "Universal right to vote",
+   "descriptionShort": "Indicates whether virtually all men and women that are citizens are allowed to vote in national elections (score 2), whether it is only men (score 1), or there is no universal rights to vote for either men or women (score 0). It neither considers informal restrictions nor legal restrictions based on age, criminal conviction, disability, and local residency.",
+   "descriptionProcessing": "It combines the indicators `male_suffrage` and `female_suffrage` in Skaaning et al. (2015).",
+   "unit": "",
+   "timespan": "1789-2025",
+   "type": "Integer",
+   "owidVariableId": 1210571,
+   "shortName": "suffrage_lied",
+   "lastUpdated": "2026-04-02",
+   "nextUpdate": "2027-04-02",
+   "citationShort": "Lexical Index (2026) – processed by Our World in Data",
+   "citationLong": "Lexical Index (2026) – processed by Our World in Data. “Universal right to vote” [dataset]. Lexical Index, “Lexical Index of Electoral Democracy (LIED) v6.9” [original data].",
+   "fullMetadata": "https://api.ourworldindata.org/v1/indicators/1210571.metadata.json"
+  }
+ },
+ "dateDownloaded": "2026-10-29"
+}

@@ -1,0 +1,17 @@
+{
+ "figure": "01 Age of electoral democracy",
+ "checked_at": "2026-10-29T18:06:15.252070+00:00",
+ "status": "match",
+ "gold_rows": 174,
+ "gold_rows_missing_in_reference": 0,
+ "mismatched_cells": {
+  "Age of electoral democracy": 0
+ },
+ "tolerance": {
+  "Age of electoral democracy": {
+   "equal": true
+  }
+ },
+ "first_mismatches": [],
+ "program": "golden.vdem_pipeline"
+}

@@ -1,0 +1,9 @@
+Figure 01: 01 Foreign Policy Free from Interference of other States Score
+Article: none; source page is the chart page https://ourworldindata.org/grapher/foreign-policy-free-from-interference-of-other-states-score
+
+Title: Foreign Policy Free from Interference of other States Score
+Subtitle: Expert estimates by [V-Dem](#dod:v-dem). International treaties, organizations, and confederations not considered if the state negotiated its entry and is free to exit. International market forces and transnational corporations not considered. Higher scores mean more freedom. A score of 0 is approximately the average across all countries and years.
+Note: 
+Source: V-Dem (2026)
+Units: 
+Chart: https://ourworldindata.org/grapher/foreign-policy-free-from-interference-of-other-states-score

@@ -1,0 +1,12 @@
+Figure 20: 20 Share of births registered
+Article: Promote just, peaceful and inclusive societies (2023-07-18)
+
+Title: Share of births registered
+Subtitle: Percentage of children under age five whose births were registered at the time of the survey. This includes children whose birth certificate was seen by the interviewer or whose mother or caretaker says the birth has been registered.
+Note: 
+Source: Household surveys (DHS, MICS), compiled by UNICEF, via World Bank (2026)
+Units: %
+Chart: https://ourworldindata.org/grapher/births-registered
+
+Text before the figure: More research: Further data and research can be found at the Our World in Data topic page on World Population Growth .
+Text after the figure: ## Target 16.10 Ensure public access to information and protect fundamental freedoms

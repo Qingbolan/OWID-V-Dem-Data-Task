@@ -1,0 +1,63 @@
+{
+ "id": 2105,
+ "map": {
+  "colorScale": {
+   "binningStrategy": "manual",
+   "customNumericColors": [
+    "#818282",
+    "#7fbf7b"
+   ],
+   "customNumericLabels": [
+    "No/No data",
+    "Yes"
+   ],
+   "customNumericValues": [
+    0,
+    0,
+    2019
+   ],
+   "customCategoryColors": {
+    "No data": "#818282"
+   },
+   "customHiddenCategories": {
+    "No data": true
+   },
+   "customNumericColorsActive": true
+  },
+  "timeTolerance": 5,
+  "tooltipUseCustomLabels": true
+ },
+ "slug": "countries-that-adopt-guarantees-for-public-access-to-information",
+ "title": "Countries with policy guarantees for public access to information",
+ "yAxis": {
+  "min": "auto"
+ },
+ "$schema": "https://files.ourworldindata.org/schemas/grapher-schema.011.json",
+ "version": 26,
+ "subtitle": "Number of countries that have adopted and implemented constitutional, statutory and/or policy guarantees for public access to information.",
+ "originUrl": "/trust",
+ "chartTypes": [
+  "DiscreteBar"
+ ],
+ "dimensions": [
+  {
+   "property": "y",
+   "variableId": 1300882
+  }
+ ],
+ "isPublished": true,
+ "addCountryMode": "disabled",
+ "selectedEntityNames": [
+  "Least Developed Countries (LDCs)",
+  "Small Island Developing States (SIDS)",
+  "World",
+  "Sub-Saharan Africa (UN SDG)",
+  "Northern Africa and Western Asia (UN SDG)",
+  "Central and Southern Asia (UN SDG)",
+  "Eastern and South-Eastern Asia (UN SDG)",
+  "Latin America and the Caribbean (UN SDG)",
+  "Europe and Northern America (UN SDG)",
+  "Australia and New Zealand (UN SDG)",
+  "Oceania (UN SDG)"
+ ]
+}

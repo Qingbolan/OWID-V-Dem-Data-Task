@@ -1,0 +1,12 @@
+Figure 01: 01 Countries that are democracies and autocracies
+Article: Democracy (2013-03-15)
+
+Title: Countries that are democracies and autocracies
+Subtitle: Classification by [Lührmann et al. (2018)](#dod:regimes-of-the-world) based on expert estimates by [V-Dem](#dod:v-dem).
+Note: The share of closed autocracies increases a lot in 1900 because V-Dem covers many more countries since then, often colonies.
+Source: V-Dem (2026)
+Units: countries
+Chart: https://ourworldindata.org/grapher/countries-democracies-autocracies-row
+
+Text before the figure: We use the RoW data here, but there are several other leading approaches to measuring democracy, which sometimes classify countries differently. You can explore them in our Democracy Data Explorer .
+Text after the figure: #### Two centuries ago, everyone lacked democratic rights. Now, billions of people have them

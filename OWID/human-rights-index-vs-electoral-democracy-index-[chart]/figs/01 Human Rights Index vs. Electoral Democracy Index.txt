@@ -1,0 +1,9 @@
+Figure 01: 01 Human Rights Index vs. Electoral Democracy Index
+Article: none; source page is the chart page https://ourworldindata.org/grapher/human-rights-index-vs-electoral-democracy-index
+
+Title: Human Rights Index vs. Electoral Democracy Index
+Subtitle: The indices are by [V-Dem](#dod:v-dem), based on expert estimates, and range from 0 to 1 (most rights/most democratic).
+Note: 
+Source: V-Dem (2026)
+Units: 
+Chart: https://ourworldindata.org/grapher/human-rights-index-vs-electoral-democracy-index

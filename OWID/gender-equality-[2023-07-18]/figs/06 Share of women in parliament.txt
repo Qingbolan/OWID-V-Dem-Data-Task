@@ -1,0 +1,12 @@
+Figure 06: 06 Share of women in parliament
+Article: Achieve gender equality and empower all women and girls (2023-07-18)
+
+Title: Share of women in parliament
+Subtitle: Percentage of seats in lower or single chamber of the legislature held by women.
+Note: Only countries with at least one legislative chamber included.
+Source: V-Dem (2026)
+Units: %
+Chart: https://ourworldindata.org/grapher/share-of-women-in-parliament
+
+Text before the figure: More research: Further data and research on this topic can be found at the Our World in Data topic page on Women’s Rights .
+Text after the figure: ### SDG Indicator 5.5.2 Women in managerial positions

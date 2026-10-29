@@ -1,0 +1,34 @@
+{
+ "chart": {
+  "title": "Human trafficking victims",
+  "subtitle": "Total number of human trafficking victims officially detected by national authorities.",
+  "note": "Trends should be interpreted with caution, as data only includes detected victims, whose number also depends on legislative criteria and law enforcement practices.",
+  "citation": "UN Office on Drugs and Crime",
+  "originalChartUrl": "https://ourworldindata.org/grapher/human-trafficking-victims",
+  "selection": [
+   "United States",
+   "United Kingdom",
+   "India",
+   "Pakistan"
+  ]
+ },
+ "columns": {
+  "16.2.2 - Detected victims of human trafficking, by age and sex (number) - VC_HTF_DETV - All age ranges or no breaks by age - Both sexes": {
+   "titleShort": "Detected victims of human trafficking, by age and sex (number) - All age ranges or no breaks by age - Both sexes",
+   "titleLong": "Detected victims of human trafficking, by age and sex (number) - All age ranges or no breaks by age - Both sexes",
+   "descriptionShort": "Detected victims of human trafficking, by age and sex (number).",
+   "shortUnit": "",
+   "unit": "number",
+   "timespan": "2007-2025",
+   "type": "Integer",
+   "owidVariableId": 1301019,
+   "shortName": "_16_2_2__vc_htf_detv__all_age_ranges_or_no_breaks_by_age__both_sexes",
+   "lastUpdated": "2026-07-31",
+   "nextUpdate": "2027-07-31",
+   "citationShort": "UN Office on Drugs and Crime – processed by Our World in Data",
+   "citationLong": "UN Office on Drugs and Crime – processed by Our World in Data. “Detected victims of human trafficking, by age and sex (number) - All age ranges or no breaks by age - Both sexes” [dataset]. UN Office on Drugs and Crime, “GLOTIP Database” [original data].",
+   "fullMetadata": "https://api.ourworldindata.org/v1/indicators/1301019.metadata.json"
+  }
+ },
+ "dateDownloaded": "2026-10-29"
+}

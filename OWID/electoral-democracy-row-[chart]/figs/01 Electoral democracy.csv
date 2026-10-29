@@ -1,0 +1,175 @@
+Entity,Code,Year,Political regime
+Afghanistan,AFG,2025,0
+Albania,ALB,2025,1
+Algeria,DZA,2025,1
+Angola,AGO,2025,1
+Argentina,ARG,2025,2
+Armenia,ARM,2025,2
+Australia,AUS,2025,2
+Austria,AUT,2025,2
+Azerbaijan,AZE,2025,1
+Bahrain,BHR,2025,0
+Bangladesh,BGD,2025,0
+Barbados,BRB,2025,2
+Belarus,BLR,2025,0
+Belgium,BEL,2025,2
+Benin,BEN,2025,1
+Bhutan,BTN,2025,2
+Bolivia,BOL,2025,2
+Bosnia and Herzegovina,BIH,2025,1
+Botswana,BWA,2025,2
+Brazil,BRA,2025,2
+Bulgaria,BGR,2025,2
+Burkina Faso,BFA,2025,0
+Burundi,BDI,2025,1
+Cambodia,KHM,2025,1
+Cameroon,CMR,2025,1
+Canada,CAN,2025,2
+Cape Verde,CPV,2025,2
+Central African Republic,CAF,2025,1
+Chad,TCD,2025,1
+Chile,CHL,2025,2
+China,CHN,2025,0
+Colombia,COL,2025,2
+Comoros,COM,2025,1
+Congo,COG,2025,1
+Costa Rica,CRI,2025,2
+Cote d'Ivoire,CIV,2025,1
+Croatia,HRV,2025,2
+Cuba,CUB,2025,0
+Cyprus,CYP,2025,2
+Czechia,CZE,2025,2
+Democratic Republic of Congo,COD,2025,1
+Denmark,DNK,2025,2
+Djibouti,DJI,2025,1
+Dominican Republic,DOM,2025,2
+East Timor,TLS,2025,2
+Ecuador,ECU,2025,2
+Egypt,EGY,2025,1
+El Salvador,SLV,2025,1
+Equatorial Guinea,GNQ,2025,1
+Eritrea,ERI,2025,0
+Estonia,EST,2025,2
+Eswatini,SWZ,2025,0
+Ethiopia,ETH,2025,1
+Fiji,FJI,2025,2
+Finland,FIN,2025,2
+France,FRA,2025,2
+Gabon,GAB,2025,1
+Gambia,GMB,2025,2
+Georgia,GEO,2025,1
+Germany,DEU,2025,2
+Ghana,GHA,2025,2
+Greece,GRC,2025,2
+Guatemala,GTM,2025,2
+Guinea,GIN,2025,0
+Guinea-Bissau,GNB,2025,0
+Guyana,GUY,2025,2
+Haiti,HTI,2025,0
+Honduras,HND,2025,2
+Hungary,HUN,2025,1
+Iceland,ISL,2025,2
+India,IND,2025,1
+Indonesia,IDN,2025,1
+Iran,IRN,2025,1
+Iraq,IRQ,2025,1
+Ireland,IRL,2025,2
+Israel,ISR,2025,2
+Italy,ITA,2025,2
+Jamaica,JAM,2025,2
+Japan,JPN,2025,2
+Jordan,JOR,2025,0
+Kazakhstan,KAZ,2025,1
+Kenya,KEN,2025,2
+Kosovo,OWID_KOS,2025,2
+Kuwait,KWT,2025,0
+Kyrgyzstan,KGZ,2025,1
+Laos,LAO,2025,0
+Latvia,LVA,2025,2
+Lebanon,LBN,2025,1
+Lesotho,LSO,2025,2
+Liberia,LBR,2025,2
+Libya,LBY,2025,0
+Lithuania,LTU,2025,2
+Luxembourg,LUX,2025,2
+Madagascar,MDG,2025,0
+Malawi,MWI,2025,2
+Malaysia,MYS,2025,2
+Maldives,MDV,2025,2
+Mali,MLI,2025,0
+Malta,MLT,2025,2
+Mauritania,MRT,2025,1
+Mauritius,MUS,2025,2
+Mexico,MEX,2025,1
+Moldova,MDA,2025,2
+Mongolia,MNG,2025,2
+Montenegro,MNE,2025,2
+Morocco,MAR,2025,0
+Mozambique,MOZ,2025,1
+Myanmar,MMR,2025,0
+Namibia,NAM,2025,2
+Nepal,NPL,2025,2
+Netherlands,NLD,2025,2
+New Zealand,NZL,2025,2
+Nicaragua,NIC,2025,1
+Niger,NER,2025,0
+Nigeria,NGA,2025,2
+North Korea,PRK,2025,0
+North Macedonia,MKD,2025,2
+Norway,NOR,2025,2
+Oman,OMN,2025,0
+Pakistan,PAK,2025,1
+Panama,PAN,2025,2
+Papua New Guinea,PNG,2025,1
+Paraguay,PRY,2025,2
+Peru,PER,2025,2
+Philippines,PHL,2025,1
+Poland,POL,2025,2
+Portugal,PRT,2025,2
+Qatar,QAT,2025,0
+Romania,ROU,2025,2
+Russia,RUS,2025,1
+Rwanda,RWA,2025,1
+Sao Tome and Principe,STP,2025,2
+Saudi Arabia,SAU,2025,0
+Senegal,SEN,2025,2
+Serbia,SRB,2025,1
+Seychelles,SYC,2025,2
+Sierra Leone,SLE,2025,1
+Singapore,SGP,2025,1
+Slovakia,SVK,2025,2
+Slovenia,SVN,2025,2
+Solomon Islands,SLB,2025,2
+Somalia,SOM,2025,0
+South Africa,ZAF,2025,2
+South Korea,KOR,2025,2
+South Sudan,SSD,2025,0
+Spain,ESP,2025,2
+Sri Lanka,LKA,2025,2
+Sudan,SDN,2025,0
+Suriname,SUR,2025,2
+Sweden,SWE,2025,2
+Switzerland,CHE,2025,2
+Syria,SYR,2025,0
+Taiwan,TWN,2025,2
+Tajikistan,TJK,2025,1
+Tanzania,TZA,2025,1
+Thailand,THA,2025,1
+Togo,TGO,2025,1
+Trinidad and Tobago,TTO,2025,2
+Tunisia,TUN,2025,1
+Turkey,TUR,2025,1
+Turkmenistan,TKM,2025,1
+Uganda,UGA,2025,1
+Ukraine,UKR,2025,1
+United Arab Emirates,ARE,2025,0
+United Kingdom,GBR,2025,2
+United States,USA,2025,2
+Uruguay,URY,2025,2
+Uzbekistan,UZB,2025,1
+Vanuatu,VUT,2025,2
+Venezuela,VEN,2025,1
+Vietnam,VNM,2025,0
+Yemen,YEM,2025,0
+Zambia,ZMB,2025,1
+Zimbabwe,ZWE,2025,1

@@ -1,0 +1,119 @@
+{
+ "chart": {
+  "title": "Number of electoral democracies by age",
+  "subtitle": "Classification by Lührmann et al. (2018) based on expert estimates by V-Dem. Electoral democracies are political systems that hold meaningful, free and fair, and multi-party elections.",
+  "citation": "V-Dem (2026)",
+  "originalChartUrl": "https://ourworldindata.org/grapher/number-electoral-democracies-age",
+  "selection": [
+   "World"
+  ]
+ },
+ "columns": {
+  "Number of closed autocracies": {
+   "titleShort": "Closed autocracies",
+   "titleLong": "Closed autocracies",
+   "descriptionProcessing": "We only count the countries that V-Dem covers in the given year. Where we impute a country's data from a historical entity it was part of, those imputed values are excluded from the count, because the country did not yet exist separately at the time.",
+   "unit": "countries",
+   "timespan": "1789-2025",
+   "type": "Integer",
+   "owidVariableId": 1209940,
+   "shortName": "num_countries_regime__category_closed_autocracy",
+   "lastUpdated": "2026-03-17",
+   "nextUpdate": "2027-03-17",
+   "citationShort": "V-Dem (2026) – processed by Our World in Data",
+   "citationLong": "V-Dem (2026) – processed by Our World in Data. “Closed autocracies” [dataset]. V-Dem, “Democracy report v16” [original data].",
+   "fullMetadata": "https://api.ourworldindata.org/v1/indicators/1209940.metadata.json"
+  },
+  "Number of electoral autocracies": {
+   "titleShort": "Electoral autocracies",
+   "titleLong": "Electoral autocracies",
+   "descriptionProcessing": "We only count the countries that V-Dem covers in the given year. Where we impute a country's data from a historical entity it was part of, those imputed values are excluded from the count, because the country did not yet exist separately at the time.",
+   "unit": "countries",
+   "timespan": "1789-2025",
+   "type": "Integer",
+   "owidVariableId": 1209938,
+   "shortName": "num_countries_regime__category_electoral_autocracy",
+   "lastUpdated": "2026-03-17",
+   "nextUpdate": "2027-03-17",
+   "citationShort": "V-Dem (2026) – processed by Our World in Data",
+   "citationLong": "V-Dem (2026) – processed by Our World in Data. “Electoral autocracies” [dataset]. V-Dem, “Democracy report v16” [original data].",
+   "fullMetadata": "https://api.ourworldindata.org/v1/indicators/1209938.metadata.json"
+  },
+  "Number of electoral democracies aged 91+ years": {
+   "titleShort": "91 years +",
+   "titleLong": "91 years +",
+   "descriptionProcessing": "We only count the countries that V-Dem covers in the given year. Where we impute a country's data from a historical entity it was part of, those imputed values are excluded from the count, because the country did not yet exist separately at the time.",
+   "unit": "countries",
+   "timespan": "1789-2025",
+   "type": "Integer",
+   "owidVariableId": 1209973,
+   "shortName": "num_countries_years_in_electdem__category_91plus_years",
+   "lastUpdated": "2026-03-17",
+   "nextUpdate": "2027-03-17",
+   "citationShort": "V-Dem (2026) – processed by Our World in Data",
+   "citationLong": "V-Dem (2026) – processed by Our World in Data. “91 years +” [dataset]. V-Dem, “Democracy report v16” [original data].",
+   "fullMetadata": "https://api.ourworldindata.org/v1/indicators/1209973.metadata.json"
+  },
+  "Number of electoral democracies aged 61-90 years": {
+   "titleShort": "61-90 years",
+   "titleLong": "61-90 years",
+   "descriptionProcessing": "We only count the countries that V-Dem covers in the given year. Where we impute a country's data from a historical entity it was part of, those imputed values are excluded from the count, because the country did not yet exist separately at the time.",
+   "unit": "countries",
+   "timespan": "1789-2025",
+   "type": "Integer",
+   "owidVariableId": 1209972,
+   "shortName": "num_countries_years_in_electdem__category_61_90_years",
+   "lastUpdated": "2026-03-17",
+   "nextUpdate": "2027-03-17",
+   "citationShort": "V-Dem (2026) – processed by Our World in Data",
+   "citationLong": "V-Dem (2026) – processed by Our World in Data. “61-90 years” [dataset]. V-Dem, “Democracy report v16” [original data].",
+   "fullMetadata": "https://api.ourworldindata.org/v1/indicators/1209972.metadata.json"
+  },
+  "Number of electoral democracies aged 31-60 years": {
+   "titleShort": "31-60 years",
+   "titleLong": "31-60 years",
+   "descriptionProcessing": "We only count the countries that V-Dem covers in the given year. Where we impute a country's data from a historical entity it was part of, those imputed values are excluded from the count, because the country did not yet exist separately at the time.",
+   "unit": "countries",
+   "timespan": "1789-2025",
+   "type": "Integer",
+   "owidVariableId": 1209971,
+   "shortName": "num_countries_years_in_electdem__category_31_60_years",
+   "lastUpdated": "2026-03-17",
+   "nextUpdate": "2027-03-17",
+   "citationShort": "V-Dem (2026) – processed by Our World in Data",
+   "citationLong": "V-Dem (2026) – processed by Our World in Data. “31-60 years” [dataset]. V-Dem, “Democracy report v16” [original data].",
+   "fullMetadata": "https://api.ourworldindata.org/v1/indicators/1209971.metadata.json"
+  },
+  "Number of electoral democracies aged 19-30 years": {
+   "titleShort": "19-30 years",
+   "titleLong": "19-30 years",
+   "descriptionProcessing": "We only count the countries that V-Dem covers in the given year. Where we impute a country's data from a historical entity it was part of, those imputed values are excluded from the count, because the country did not yet exist separately at the time.",
+   "unit": "countries",
+   "timespan": "1789-2025",
+   "type": "Integer",
+   "owidVariableId": 1209970,
+   "shortName": "num_countries_years_in_electdem__category_19_30_years",
+   "lastUpdated": "2026-03-17",
+   "nextUpdate": "2027-03-17",
+   "citationShort": "V-Dem (2026) – processed by Our World in Data",
+   "citationLong": "V-Dem (2026) – processed by Our World in Data. “19-30 years” [dataset]. V-Dem, “Democracy report v16” [original data].",
+   "fullMetadata": "https://api.ourworldindata.org/v1/indicators/1209970.metadata.json"
+  },
+  "Number of electoral democracies aged 1-18 years": {
+   "titleShort": "Electoral democracies aged 1-18 years",
+   "titleLong": "Electoral democracies aged 1-18 years",
+   "descriptionProcessing": "We only count the countries that V-Dem covers in the given year. Where we impute a country's data from a historical entity it was part of, those imputed values are excluded from the count, because the country did not yet exist separately at the time.",
+   "unit": "countries",
+   "timespan": "1789-2025",
+   "type": "Integer",
+   "owidVariableId": 1209969,
+   "shortName": "num_countries_years_in_electdem__category_1_18_years",
+   "lastUpdated": "2026-03-17",
+   "nextUpdate": "2027-03-17",
+   "citationShort": "V-Dem (2026) – processed by Our World in Data",
+   "citationLong": "V-Dem (2026) – processed by Our World in Data. “Electoral democracies aged 1-18 years” [dataset]. V-Dem, “Democracy report v16” [original data].",
+   "fullMetadata": "https://api.ourworldindata.org/v1/indicators/1209969.metadata.json"
+  }
+ },
+ "dateDownloaded": "2026-10-29"
+}

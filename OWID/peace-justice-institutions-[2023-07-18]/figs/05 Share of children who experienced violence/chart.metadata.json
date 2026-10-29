@@ -1,0 +1,34 @@
+{
+ "chart": {
+  "title": "Share of children who experienced violence",
+  "subtitle": "Children aged 1-14 years who experienced physical punishment and/or psychological aggression by caregivers in the last month.",
+  "citation": "UNICEF",
+  "originalChartUrl": "https://ourworldindata.org/grapher/share-of-children-who-experienced-violence",
+  "selection": [
+   "Democratic Republic of Congo",
+   "Mexico",
+   "Turkey",
+   "Algeria",
+   "Argentina"
+  ]
+ },
+ "columns": {
+  "16.2.1 - Proportion of children aged 1-14 years who experienced physical punishment and/or psychological aggression by caregivers in last month (% of children aged 1-14 years) - VC_VAW_PHYPYV - 1 to 14 years old": {
+   "titleShort": "Proportion of children aged 1-14 years who experienced physical punishment and/or psychological aggression by caregivers in last month (% of children aged 1-14 years) - 1 to 14 years old",
+   "titleLong": "Proportion of children aged 1-14 years who experienced physical punishment and/or psychological aggression by caregivers in last month (% of children aged 1-14 years) - 1 to 14 years old",
+   "descriptionShort": "Proportion of children aged 1-14 years who experienced physical punishment and/or psychological aggression by caregivers in last month (% of children aged 1-14 years).",
+   "shortUnit": "%",
+   "unit": "%",
+   "timespan": "2013-2025",
+   "type": "Numeric",
+   "owidVariableId": 1301012,
+   "shortName": "_16_2_1__vc_vaw_phypyv__1_to_14_years_old",
+   "lastUpdated": "2026-07-31",
+   "nextUpdate": "2027-07-31",
+   "citationShort": "UNICEF – processed by Our World in Data",
+   "citationLong": "UNICEF – processed by Our World in Data. “Proportion of children aged 1-14 years who experienced physical punishment and/or psychological aggression by caregivers in last month (% of children aged 1-14 years) - 1 to 14 years old” [dataset]. UNICEF, “Data from multiple sources” [original data].",
+   "fullMetadata": "https://api.ourworldindata.org/v1/indicators/1301012.metadata.json"
+  }
+ },
+ "dateDownloaded": "2026-10-29"
+}

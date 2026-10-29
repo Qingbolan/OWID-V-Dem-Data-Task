@@ -1,0 +1,18 @@
+{
+ "figure": "04 Share of women in parliament",
+ "checked_at": "2026-10-29T18:06:18.919010+00:00",
+ "status": "match",
+ "gold_rows": 165,
+ "gold_rows_missing_in_reference": 0,
+ "mismatched_cells": {
+  "Lower chamber female legislators": 0
+ },
+ "tolerance": {
+  "Lower chamber female legislators": {
+   "abs": 0.1,
+   "rel": 1e-06
+  }
+ },
+ "first_mismatches": [],
+ "program": "golden.vdem_pipeline"
+}

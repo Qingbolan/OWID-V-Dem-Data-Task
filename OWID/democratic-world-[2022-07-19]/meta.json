@@ -1,0 +1,452 @@
+{
+ "title": "People around the world have gained democratic rights, but some have many more rights than others",
+ "url": "https://ourworldindata.org/democratic-world",
+ "date_published": "2022-07-19",
+ "authors": [
+  "Bastian Herre"
+ ],
+ "retrieved_at": "2026-10-29T15:15:20.848541+00:00",
+ "materialised_at": "2026-10-29T16:28:37.836407+00:00",
+ "source_original_sha256": "dea96554977e254a4bbd321cd612fbafe8adc352329785d7538a9af9b7b53336",
+ "offline_snapshot": {
+  "page": "source.html",
+  "assets": "source_files/",
+  "assets_manifest": "source_files/manifest.json",
+  "asset_count": 96,
+  "removed": "all <script> elements except application/ld+json"
+ },
+ "figures": [
+  {
+   "index": 1,
+   "name": "01 Electoral Democracy Index",
+   "embed": {
+    "slug": "electoral-democracy-index",
+    "query": {},
+    "image": null
+   },
+   "files": {
+    "html": {
+     "path": "figs/01 Electoral Democracy Index.html",
+     "sha256": "2d067f7b0eb5fe572dcedc96a2853d7a10189ec287ef994caaad25566b1db16f"
+    },
+    "csv": {
+     "path": "figs/01 Electoral Democracy Index.csv",
+     "sha256": "23b673393e759da0ec5333fbdbc7f3095194b5f798a3ceebc92476225fc8f044"
+    },
+    "png": {
+     "path": "figs/01 Electoral Democracy Index.png",
+     "sha256": "cbcd4c487312d7d3b169c394ba22ae0f39b345afb9af1f0c11d243bbf76ef1a5"
+    },
+    "txt": {
+     "path": "figs/01 Electoral Democracy Index.txt",
+     "sha256": "655cf337ade9cde733033b05e6f1de58dc9d1a4521c36d392262c61d8a5b3cd3"
+    }
+   },
+   "view_url": "https://ourworldindata.org/grapher/electoral-democracy-index",
+   "csv_url": "https://ourworldindata.org/grapher/electoral-democracy-index.csv?csvType=filtered",
+   "png_url": "https://ourworldindata.org/grapher/electoral-democracy-index.png",
+   "data_available": true,
+   "config_title": "Electoral Democracy Index",
+   "config_subtitle": "Data by [V-Dem](#dod:v-dem). Expert estimates of the extent to which political leaders are elected under comprehensive voting rights in free and fair elections, and freedoms of association and expression are guaranteed. The index ranges from 0 to 1 (most democratic).",
+   "chart_slug": "electoral-democracy-index",
+   "column_short_names": {
+    "Entity": "entity",
+    "Code": "code",
+    "Year": "year",
+    "Electoral democracy index": "electdem_vdem__estimate_best",
+    "World region according to OWID": "owid_region"
+   }
+  },
+  {
+   "index": 2,
+   "name": "02 Electoral Democracy Index",
+   "embed": {
+    "slug": "electoral-democracy-index",
+    "query": {
+     "tab": "chart",
+     "time": "earliest",
+     "stackMode": "relative"
+    },
+    "image": "https://ourworldindata.org/grapher/by-uuid/01981e6c-a852-74d4-8bc3-8f8270c4c235.png"
+   },
+   "files": {
+    "html": {
+     "path": "figs/02 Electoral Democracy Index.html",
+     "sha256": "042ecfdda495d34bd935f3717fba118fff638b93c51f34dea0be28237fd1c207"
+    },
+    "csv": {
+     "path": "figs/02 Electoral Democracy Index.csv",
+     "sha256": "d896e9f4f00ac03e32c2bdc372dfbb19268ab19c499a40fa3fbfc347e8d8357c"
+    },
+    "png": {
+     "path": "figs/02 Electoral Democracy Index.png",
+     "sha256": "786fbc3feee1ec53f9bdd79ba2fc0baab51e69c26b0932e5f930df209a910389"
+    },
+    "txt": {
+     "path": "figs/02 Electoral Democracy Index.txt",
+     "sha256": "3f3ff0190313a4f83aed4c4df8a3ffe23514e58ce7fdff1601ce582621465c8e"
+    }
+   },
+   "view_url": "https://ourworldindata.org/grapher/electoral-democracy-index?tab=chart&time=earliest&stackMode=relative",
+   "csv_url": "https://ourworldindata.org/grapher/electoral-democracy-index.csv?csvType=filtered&tab=chart&time=earliest&stackMode=relative",
+   "png_url": "https://ourworldindata.org/grapher/by-uuid/01981e6c-a852-74d4-8bc3-8f8270c4c235.png",
+   "data_available": true,
+   "config_title": "Electoral Democracy Index",
+   "config_subtitle": "Data by [V-Dem](#dod:v-dem). Expert estimates of the extent to which political leaders are elected under comprehensive voting rights in free and fair elections, and freedoms of association and expression are guaranteed. The index ranges from 0 to 1 (most democratic).",
+   "chart_slug": "electoral-democracy-index",
+   "column_short_names": {
+    "Entity": "entity",
+    "Code": "code",
+    "Year": "year",
+    "Electoral democracy index": "electdem_vdem__estimate_best",
+    "World region according to OWID": "owid_region"
+   }
+  },
+  {
+   "index": 3,
+   "name": "03 Electoral Democracy Index",
+   "embed": {
+    "slug": "electoral-democracy-index",
+    "query": {
+     "tab": "chart",
+     "time": "1900",
+     "stackMode": "relative"
+    },
+    "image": "https://ourworldindata.org/grapher/by-uuid/01981e6e-3ffa-7687-8671-551821206c22.png"
+   },
+   "files": {
+    "html": {
+     "path": "figs/03 Electoral Democracy Index.html",
+     "sha256": "df57547f9de8cfcff21ea560a187ca00ac881c5081466a2356ce948dded168be"
+    },
+    "csv": {
+     "path": "figs/03 Electoral Democracy Index.csv",
+     "sha256": "42cc8c35f59525cc78aa4823a2bde9633796097ca32b7c97390c4fdcf6f3b363"
+    },
+    "png": {
+     "path": "figs/03 Electoral Democracy Index.png",
+     "sha256": "df49bffc09f74f8dbb20562d3a41b7fe03244b5de56929b71da7d20dfd5055ac"
+    },
+    "txt": {
+     "path": "figs/03 Electoral Democracy Index.txt",
+     "sha256": "2310ccd70f60c3931475e388854f45262fbb63bd9669f944403f79a173941413"
+    }
+   },
+   "view_url": "https://ourworldindata.org/grapher/electoral-democracy-index?tab=chart&time=1900&stackMode=relative",
+   "csv_url": "https://ourworldindata.org/grapher/electoral-democracy-index.csv?csvType=filtered&tab=chart&time=1900&stackMode=relative",
+   "png_url": "https://ourworldindata.org/grapher/by-uuid/01981e6e-3ffa-7687-8671-551821206c22.png",
+   "data_available": true,
+   "config_title": "Electoral Democracy Index",
+   "config_subtitle": "Data by [V-Dem](#dod:v-dem). Expert estimates of the extent to which political leaders are elected under comprehensive voting rights in free and fair elections, and freedoms of association and expression are guaranteed. The index ranges from 0 to 1 (most democratic).",
+   "chart_slug": "electoral-democracy-index",
+   "column_short_names": {
+    "Entity": "entity",
+    "Code": "code",
+    "Year": "year",
+    "Electoral democracy index": "electdem_vdem__estimate_best",
+    "World region according to OWID": "owid_region"
+   }
+  },
+  {
+   "index": 4,
+   "name": "04 Electoral Democracy Index",
+   "embed": {
+    "slug": "electoral-democracy-index",
+    "query": {
+     "tab": "chart",
+     "time": "1950",
+     "stackMode": "relative"
+    },
+    "image": "https://ourworldindata.org/grapher/by-uuid/01981e6f-7f29-7820-8f41-ee9935a44bd2.png"
+   },
+   "files": {
+    "html": {
+     "path": "figs/04 Electoral Democracy Index.html",
+     "sha256": "e42b7a4ac28ed51907fb8abfa10140c0916ef8d4bd7fbe50e81a8666077c5a17"
+    },
+    "csv": {
+     "path": "figs/04 Electoral Democracy Index.csv",
+     "sha256": "72131dc38010de0e732628d404353cca7f98bcb4865352c260898a0679cce591"
+    },
+    "png": {
+     "path": "figs/04 Electoral Democracy Index.png",
+     "sha256": "341e600450fae6c97ce3a45f1eac3aa7d18c3cb3465caec845d584331624152f"
+    },
+    "txt": {
+     "path": "figs/04 Electoral Democracy Index.txt",
+     "sha256": "7a1e7199fcc9029e68566be277805564cc15878780d7a90f4f0f4f20eccc9e3a"
+    }
+   },
+   "view_url": "https://ourworldindata.org/grapher/electoral-democracy-index?tab=chart&time=1950&stackMode=relative",
+   "csv_url": "https://ourworldindata.org/grapher/electoral-democracy-index.csv?csvType=filtered&tab=chart&time=1950&stackMode=relative",
+   "png_url": "https://ourworldindata.org/grapher/by-uuid/01981e6f-7f29-7820-8f41-ee9935a44bd2.png",
+   "data_available": true,
+   "config_title": "Electoral Democracy Index",
+   "config_subtitle": "Data by [V-Dem](#dod:v-dem). Expert estimates of the extent to which political leaders are elected under comprehensive voting rights in free and fair elections, and freedoms of association and expression are guaranteed. The index ranges from 0 to 1 (most democratic).",
+   "chart_slug": "electoral-democracy-index",
+   "column_short_names": {
+    "Entity": "entity",
+    "Code": "code",
+    "Year": "year",
+    "Electoral democracy index": "electdem_vdem__estimate_best",
+    "World region according to OWID": "owid_region"
+   }
+  },
+  {
+   "index": 5,
+   "name": "05 Electoral Democracy Index",
+   "embed": {
+    "slug": "electoral-democracy-index",
+    "query": {
+     "tab": "chart",
+     "time": "2000",
+     "stackMode": "relative"
+    },
+    "image": "https://ourworldindata.org/grapher/by-uuid/01981e70-cd99-732e-9837-8b5b939d3866.png"
+   },
+   "files": {
+    "html": {
+     "path": "figs/05 Electoral Democracy Index.html",
+     "sha256": "94a45f700a0e5437bc60a228cddae9ac0e8639d52cd3730cb907bdcca338f3da"
+    },
+    "csv": {
+     "path": "figs/05 Electoral Democracy Index.csv",
+     "sha256": "8b480e59c0d03a7b531f6e90d53a736ca82e00c1729c6ce99f8e2980a67a9dff"
+    },
+    "png": {
+     "path": "figs/05 Electoral Democracy Index.png",
+     "sha256": "7e3d19f6d19da338e544ab6f46f127d0455f83634492b76d454304c840da6951"
+    },
+    "txt": {
+     "path": "figs/05 Electoral Democracy Index.txt",
+     "sha256": "299df24325bcb88b99be14d3b76e0fe4c1c0dfcf687b503fdb15069cb6d09afd"
+    }
+   },
+   "view_url": "https://ourworldindata.org/grapher/electoral-democracy-index?tab=chart&time=2000&stackMode=relative",
+   "csv_url": "https://ourworldindata.org/grapher/electoral-democracy-index.csv?csvType=filtered&tab=chart&time=2000&stackMode=relative",
+   "png_url": "https://ourworldindata.org/grapher/by-uuid/01981e70-cd99-732e-9837-8b5b939d3866.png",
+   "data_available": true,
+   "config_title": "Electoral Democracy Index",
+   "config_subtitle": "Data by [V-Dem](#dod:v-dem). Expert estimates of the extent to which political leaders are elected under comprehensive voting rights in free and fair elections, and freedoms of association and expression are guaranteed. The index ranges from 0 to 1 (most democratic).",
+   "chart_slug": "electoral-democracy-index",
+   "column_short_names": {
+    "Entity": "entity",
+    "Code": "code",
+    "Year": "year",
+    "Electoral democracy index": "electdem_vdem__estimate_best",
+    "World region according to OWID": "owid_region"
+   }
+  },
+  {
+   "index": 6,
+   "name": "06 Electoral Democracy Index",
+   "embed": {
+    "slug": "electoral-democracy-index",
+    "query": {
+     "tab": "chart",
+     "time": "latest",
+     "stackMode": "relative"
+    },
+    "image": "https://ourworldindata.org/grapher/by-uuid/01981e70-f439-7ef2-b4fe-990bc38c4cad.png"
+   },
+   "files": {
+    "html": {
+     "path": "figs/06 Electoral Democracy Index.html",
+     "sha256": "5faf0b4016d28298628e5bdfa8bce9356b10bdbcd449ac55958b130a7a3ecf46"
+    },
+    "csv": {
+     "path": "figs/06 Electoral Democracy Index.csv",
+     "sha256": "6865816bca7e88768346974083637a1beda749436ffce56e9161fee5a43ce3d7"
+    },
+    "png": {
+     "path": "figs/06 Electoral Democracy Index.png",
+     "sha256": "1e63d84a7bc966cefdb6cffb7a15a36ce35ccdd6c2f116935579a403d3b1e5f6"
+    },
+    "txt": {
+     "path": "figs/06 Electoral Democracy Index.txt",
+     "sha256": "8541df122753041f1b82cab56fad20ea8fa3a4cf362bfbc2cdd0b912a02ee4e1"
+    }
+   },
+   "view_url": "https://ourworldindata.org/grapher/electoral-democracy-index?tab=chart&time=latest&stackMode=relative",
+   "csv_url": "https://ourworldindata.org/grapher/electoral-democracy-index.csv?csvType=filtered&tab=chart&time=latest&stackMode=relative",
+   "png_url": "https://ourworldindata.org/grapher/by-uuid/01981e70-f439-7ef2-b4fe-990bc38c4cad.png",
+   "data_available": true,
+   "config_title": "Electoral Democracy Index",
+   "config_subtitle": "Data by [V-Dem](#dod:v-dem). Expert estimates of the extent to which political leaders are elected under comprehensive voting rights in free and fair elections, and freedoms of association and expression are guaranteed. The index ranges from 0 to 1 (most democratic).",
+   "chart_slug": "electoral-democracy-index",
+   "column_short_names": {
+    "Entity": "entity",
+    "Code": "code",
+    "Year": "year",
+    "Electoral democracy index": "electdem_vdem__estimate_best",
+    "World region according to OWID": "owid_region"
+   }
+  },
+  {
+   "index": 7,
+   "name": "07 Democracy Index",
+   "embed": {
+    "slug": "democracy-index-polity",
+    "query": {},
+    "image": null
+   },
+   "files": {
+    "html": {
+     "path": "figs/07 Democracy Index.html",
+     "sha256": "72702c45ea9d97886e143bb0a407f3905852b0b6ddf1abf7c1fdd7c723cb6e00"
+    },
+    "csv": {
+     "path": "figs/07 Democracy Index.csv",
+     "sha256": "b04cab47eb8798567cf7d31b1649c5ca3b7655c75ef18e04d1d8d0fcdfaedbbf"
+    },
+    "png": {
+     "path": "figs/07 Democracy Index.png",
+     "sha256": "119ba1ca704a71d4f3855257d1643ac41e1ffdcfba4aa1c39b8f9aa1e3887ae4"
+    },
+    "txt": {
+     "path": "figs/07 Democracy Index.txt",
+     "sha256": "30b7f73e5ee5fa52c7eb5057e33e4c79a1f41364b11f5bba660497b1183e6269"
+    }
+   },
+   "view_url": "https://ourworldindata.org/grapher/democracy-index-polity",
+   "csv_url": "https://ourworldindata.org/grapher/democracy-index-polity.csv?csvType=filtered",
+   "png_url": "https://ourworldindata.org/grapher/democracy-index-polity.png",
+   "data_available": true,
+   "config_title": "Democracy Index",
+   "config_subtitle": "Data by [Polity 5](#dod:polity). Expert estimates of the extent to which open, multi-party, and competitive elections choose a chief executive who faces comprehensive institutional constraints, and political participation is competitive. The index ranges from -10 to 10 (fully democratic).",
+   "chart_slug": "democracy-index-polity",
+   "column_short_names": {
+    "Entity": "entity",
+    "Code": "code",
+    "Year": "year",
+    "Democracy": "democracy_polity",
+    "Democracy (Original Year)": "democracy_polity__original_year"
+   }
+  },
+  {
+   "index": 8,
+   "name": "08 Liberal Democracy Index",
+   "embed": {
+    "slug": "liberal-democracy-index",
+    "query": {},
+    "image": null
+   },
+   "files": {
+    "html": {
+     "path": "figs/08 Liberal Democracy Index.html",
+     "sha256": "d2262ca6e91b1be32cad7eec676292a199a736de1cea61fc7f290f3c67ebb884"
+    },
+    "csv": {
+     "path": "figs/08 Liberal Democracy Index.csv",
+     "sha256": "8f2a1b55184239dfd4db01249eef749036191a24df4c49883f368e41da53f4b2"
+    },
+    "png": {
+     "path": "figs/08 Liberal Democracy Index.png",
+     "sha256": "64d647105c372bb61cd1eda47956b3f553cfcaa6848755d694b25fe1847de4d8"
+    },
+    "txt": {
+     "path": "figs/08 Liberal Democracy Index.txt",
+     "sha256": "99ecc91a5c644e7074f2685c8fcfb99f17ea3ec02c2da67a1282c838cba61471"
+    }
+   },
+   "view_url": "https://ourworldindata.org/grapher/liberal-democracy-index",
+   "csv_url": "https://ourworldindata.org/grapher/liberal-democracy-index.csv?csvType=filtered",
+   "png_url": "https://ourworldindata.org/grapher/liberal-democracy-index.png",
+   "data_available": true,
+   "config_title": "Liberal Democracy Index",
+   "config_subtitle": "Data by [V-Dem](#dod:v-dem). Expert estimates of the extent of voting rights, the freedom and fairness of elections, freedoms of association and expression, civil liberties, and executive constraints. The index ranges from 0 to 1 (most democratic).",
+   "chart_slug": "liberal-democracy-index",
+   "column_short_names": {
+    "Entity": "entity",
+    "Code": "code",
+    "Year": "year",
+    "Liberal democracy index": "libdem_vdem__estimate_best",
+    "World region according to OWID": "owid_region"
+   }
+  },
+  {
+   "index": 9,
+   "name": "09 Distribution of Democracy Index",
+   "embed": {
+    "slug": "distribution-democracy-index-polity",
+    "query": {},
+    "image": null
+   },
+   "files": {
+    "html": {
+     "path": "figs/09 Distribution of Democracy Index.html",
+     "sha256": "d6a152e160bf29361dddcdb26fccab40de0f61528c26b0e7b7eb39db29786878"
+    },
+    "csv": {
+     "path": "figs/09 Distribution of Democracy Index.csv",
+     "sha256": "a80c8ce913bfd7dfd13e6cdfb82267f2917c189e8e46ab0f24ca54a081dff7f0"
+    },
+    "png": {
+     "path": "figs/09 Distribution of Democracy Index.png",
+     "sha256": "643621a234fb1516fa777bce72192113643a7fd43dc67bf6578b0c1c452e9c15"
+    },
+    "txt": {
+     "path": "figs/09 Distribution of Democracy Index.txt",
+     "sha256": "e7746f25ca9ad14ada4d8a39cb71b0bb6589d3a8fea7d5f0f6229f16731e867d"
+    }
+   },
+   "view_url": "https://ourworldindata.org/grapher/distribution-democracy-index-polity",
+   "csv_url": "https://ourworldindata.org/grapher/distribution-democracy-index-polity.csv?csvType=filtered",
+   "png_url": "https://ourworldindata.org/grapher/distribution-democracy-index-polity.png",
+   "data_available": true,
+   "config_title": "Distribution of Democracy Index",
+   "config_subtitle": "Data by [Polity 5](#dod:polity). Expert estimates of the extent to which open, multi-party, and competitive elections choose a chief executive who faces comprehensive institutional constraints, and political participation is competitive. The index here ranges from 0 to 20 (fully democratic).",
+   "chart_slug": "distribution-democracy-index-polity",
+   "column_short_names": {
+    "Entity": "entity",
+    "Code": "code",
+    "Year": "year",
+    "Democracy Index": "democracy_recod_polity",
+    "World region according to OWID": "owid_region"
+   }
+  },
+  {
+   "index": 10,
+   "name": "10 Liberal Democracy Index",
+   "embed": {
+    "slug": "liberal-democracy-index",
+    "query": {
+     "tab": "marimekko"
+    },
+    "image": null
+   },
+   "files": {
+    "html": {
+     "path": "figs/10 Liberal Democracy Index.html",
+     "sha256": "0d6dd45f39ce8b90a2c8667a6d686b5a275d9bf8f387747a16ac97e5239f9abd"
+    },
+    "csv": {
+     "path": "figs/10 Liberal Democracy Index.csv",
+     "sha256": "1cfa65519a1257429f871f99aa0cc0184cf80179c9d1095845691c48c80ceb66"
+    },
+    "png": {
+     "path": "figs/10 Liberal Democracy Index.png",
+     "sha256": "3a45a48a97b07bbf3f3802e6dbda169c9dcb4ef46fee9da54d2268f00788e59d"
+    },
+    "txt": {
+     "path": "figs/10 Liberal Democracy Index.txt",
+     "sha256": "482c2a5f09c75e29e105814da180eb2e976f4fbd2ec6f9d2ac24e8e50069b522"
+    }
+   },
+   "view_url": "https://ourworldindata.org/grapher/liberal-democracy-index?tab=marimekko",
+   "csv_url": "https://ourworldindata.org/grapher/liberal-democracy-index.csv?csvType=filtered&tab=marimekko",
+   "png_url": "https://ourworldindata.org/grapher/liberal-democracy-index.png?tab=marimekko",
+   "data_available": true,
+   "config_title": "Liberal Democracy Index",
+   "config_subtitle": "Data by [V-Dem](#dod:v-dem). Expert estimates of the extent of voting rights, the freedom and fairness of elections, freedoms of association and expression, civil liberties, and executive constraints. The index ranges from 0 to 1 (most democratic).",
+   "chart_slug": "liberal-democracy-index",
+   "column_short_names": {
+    "Entity": "entity",
+    "Code": "code",
+    "Year": "year",
+    "Liberal democracy index": "libdem_vdem__estimate_best",
+    "World region according to OWID": "owid_region"
+   }
+  }
+ ]
+}

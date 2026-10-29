@@ -1,0 +1,56 @@
+{
+ "id": 6390,
+ "map": {
+  "colorScale": {
+   "baseColorScheme": "RdBu",
+   "binningStrategy": "manual",
+   "customNumericValues": [
+    -2,
+    -2,
+    -1,
+    0,
+    1,
+    2,
+    3,
+    3
+   ]
+  },
+  "columnSlug": "1209836"
+ },
+ "tab": "map",
+ "slug": "equality-of-political-power-across-social-groups-score",
+ "title": "Equality of Political Power across Social Groups Score",
+ "yAxis": {
+  "max": 4,
+  "min": -3
+ },
+ "$schema": "https://files.ourworldindata.org/schemas/grapher-schema.011.json",
+ "version": 31,
+ "subtitle": "Data by [V-Dem](#dod:v-dem). Expert estimates of the extent to which social groups — defined by language, ethnicity, religion, race, region, and/or caste — are irrelevant to politics, or have similar political power. Higher scores mean more equality. A score of 0 is approximately the average across all countries and years.",
+ "hasMapTab": true,
+ "originUrl": "/human-rights",
+ "chartTypes": [
+  "LineChart",
+  "SlopeChart",
+  "DiscreteBar"
+ ],
+ "dimensions": [
+  {
+   "display": {
+    "name": "Equality of political power across social groups",
+    "color": "#3c4e66"
+   },
+   "property": "y",
+   "variableId": 1209836
+  }
+ ],
+ "isPublished": true,
+ "hideFacetControl": false,
+ "selectedEntityNames": [
+  "World",
+  "Argentina",
+  "Australia",
+  "Botswana",
+  "China"
+ ]
+}

@@ -1,0 +1,76 @@
+{
+ "id": 6378,
+ "map": {
+  "colorScale": {
+   "baseColorScheme": "BuPu",
+   "binningStrategy": "manual",
+   "customNumericColors": [
+    "#e5d2a1",
+    "#e2b99c",
+    "#dba198",
+    "#d08a94",
+    "#c37491",
+    "#b2608f",
+    "#9d4e8d",
+    "#863d8c",
+    "#69308b",
+    "#44268b"
+   ],
+   "customNumericValues": [
+    0,
+    0.099,
+    0.199,
+    0.299,
+    0.399,
+    0.499,
+    0.599,
+    0.699,
+    0.799,
+    0.899,
+    1
+   ]
+  },
+  "columnSlug": "1209889"
+ },
+ "tab": "map",
+ "slug": "women-civil-society-participation-index",
+ "title": "Women's Civil Society Participation Index",
+ "yAxis": {
+  "max": 1,
+  "min": 0
+ },
+ "$schema": "https://files.ourworldindata.org/schemas/grapher-schema.011.json",
+ "version": 39,
+ "subtitle": "Data by [V-Dem](#dod:v-dem). Expert estimates of the extent to which women can discuss political issues, participate in civil society organizations, and are represented among journalists. The index ranges from 0 to 1 (most participatory).",
+ "hasMapTab": true,
+ "originUrl": "/women-rights",
+ "chartTypes": [
+  "LineChart",
+  "SlopeChart",
+  "DiscreteBar",
+  "Marimekko"
+ ],
+ "dimensions": [
+  {
+   "display": {
+    "name": "Women's Civil Society Participation Index",
+    "color": "#863d8c"
+   },
+   "property": "y",
+   "variableId": 1209889
+  },
+  {
+   "property": "color",
+   "variableId": 900801
+  }
+ ],
+ "isPublished": true,
+ "hideFacetControl": false,
+ "selectedEntityNames": [
+  "World",
+  "Argentina",
+  "Australia",
+  "Botswana",
+  "China"
+ ]
+}

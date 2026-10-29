@@ -1,0 +1,75 @@
+{
+ "chart": {
+  "title": "Countries that are democracies and autocracies",
+  "subtitle": "Classification by Lührmann et al. (2018) based on expert estimates by V-Dem.",
+  "note": "The share of closed autocracies increases a lot in 1900 because V-Dem covers many more countries since then, often colonies.",
+  "citation": "V-Dem (2026)",
+  "originalChartUrl": "https://ourworldindata.org/grapher/countries-democracies-autocracies-row",
+  "selection": [
+   "World"
+  ]
+ },
+ "columns": {
+  "Number of closed autocracies": {
+   "titleShort": "Closed autocracies",
+   "titleLong": "Closed autocracies",
+   "descriptionProcessing": "We only count the countries that V-Dem covers in the given year. Where we impute a country's data from a historical entity it was part of, those imputed values are excluded from the count, because the country did not yet exist separately at the time.",
+   "unit": "countries",
+   "timespan": "1789-2025",
+   "type": "Integer",
+   "owidVariableId": 1209940,
+   "shortName": "num_countries_regime__category_closed_autocracy",
+   "lastUpdated": "2026-03-17",
+   "nextUpdate": "2027-03-17",
+   "citationShort": "V-Dem (2026) – processed by Our World in Data",
+   "citationLong": "V-Dem (2026) – processed by Our World in Data. “Closed autocracies” [dataset]. V-Dem, “Democracy report v16” [original data].",
+   "fullMetadata": "https://api.ourworldindata.org/v1/indicators/1209940.metadata.json"
+  },
+  "Number of electoral autocracies": {
+   "titleShort": "Electoral autocracies",
+   "titleLong": "Electoral autocracies",
+   "descriptionProcessing": "We only count the countries that V-Dem covers in the given year. Where we impute a country's data from a historical entity it was part of, those imputed values are excluded from the count, because the country did not yet exist separately at the time.",
+   "unit": "countries",
+   "timespan": "1789-2025",
+   "type": "Integer",
+   "owidVariableId": 1209938,
+   "shortName": "num_countries_regime__category_electoral_autocracy",
+   "lastUpdated": "2026-03-17",
+   "nextUpdate": "2027-03-17",
+   "citationShort": "V-Dem (2026) – processed by Our World in Data",
+   "citationLong": "V-Dem (2026) – processed by Our World in Data. “Electoral autocracies” [dataset]. V-Dem, “Democracy report v16” [original data].",
+   "fullMetadata": "https://api.ourworldindata.org/v1/indicators/1209938.metadata.json"
+  },
+  "Number of electoral democracies": {
+   "titleShort": "Electoral democracies",
+   "titleLong": "Electoral democracies",
+   "descriptionProcessing": "We only count the countries that V-Dem covers in the given year. Where we impute a country's data from a historical entity it was part of, those imputed values are excluded from the count, because the country did not yet exist separately at the time.",
+   "unit": "countries",
+   "timespan": "1789-2025",
+   "type": "Integer",
+   "owidVariableId": 1209941,
+   "shortName": "num_countries_regime__category_electoral_democracy",
+   "lastUpdated": "2026-03-17",
+   "nextUpdate": "2027-03-17",
+   "citationShort": "V-Dem (2026) – processed by Our World in Data",
+   "citationLong": "V-Dem (2026) – processed by Our World in Data. “Electoral democracies” [dataset]. V-Dem, “Democracy report v16” [original data].",
+   "fullMetadata": "https://api.ourworldindata.org/v1/indicators/1209941.metadata.json"
+  },
+  "Number of liberal democracies": {
+   "titleShort": "Liberal democracies",
+   "titleLong": "Liberal democracies",
+   "descriptionProcessing": "We only count the countries that V-Dem covers in the given year. Where we impute a country's data from a historical entity it was part of, those imputed values are excluded from the count, because the country did not yet exist separately at the time.",
+   "unit": "countries",
+   "timespan": "1789-2025",
+   "type": "Integer",
+   "owidVariableId": 1209942,
+   "shortName": "num_countries_regime__category_liberal_democracy",
+   "lastUpdated": "2026-03-17",
+   "nextUpdate": "2027-03-17",
+   "citationShort": "V-Dem (2026) – processed by Our World in Data",
+   "citationLong": "V-Dem (2026) – processed by Our World in Data. “Liberal democracies” [dataset]. V-Dem, “Democracy report v16” [original data].",
+   "fullMetadata": "https://api.ourworldindata.org/v1/indicators/1209942.metadata.json"
+  }
+ },
+ "dateDownloaded": "2026-10-29"
+}

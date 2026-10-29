@@ -1,0 +1,9 @@
+Figure 01: 01 Share of adult citizens who have the right to vote
+Article: none; source page is the chart page https://ourworldindata.org/grapher/suffrage
+
+Title: Share of adult citizens who have the right to vote
+Subtitle: Share of adult citizens who have the legal right to vote in national elections.
+Note: 
+Source: V-Dem (2026)
+Units: %
+Chart: https://ourworldindata.org/grapher/suffrage

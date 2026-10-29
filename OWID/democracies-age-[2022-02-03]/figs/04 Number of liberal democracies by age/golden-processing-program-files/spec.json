@@ -1,0 +1,160 @@
+{
+ "reproducible": true,
+ "program": "golden.vdem_pipeline",
+ "chart_slug": "number-liberal-democracies-age",
+ "view": "https://ourworldindata.org/grapher/number-liberal-democracies-age",
+ "columns": [
+  "Liberal democracies aged 1-18 years",
+  "19-30 years",
+  "31-60 years",
+  "61-90 years",
+  "91 years +",
+  "Electoral democracies",
+  "Electoral autocracies",
+  "Closed autocracies"
+ ],
+ "solution_columns": [
+  "Liberal democracies aged 1-18 years",
+  "19-30 years",
+  "31-60 years",
+  "61-90 years",
+  "91 years +",
+  "Electoral democracies",
+  "Electoral autocracies",
+  "Closed autocracies"
+ ],
+ "output_precision": {
+  "Liberal democracies aged 1-18 years": 0,
+  "19-30 years": 0,
+  "31-60 years": 0,
+  "61-90 years": 0,
+  "91 years +": 0,
+  "Electoral democracies": 0,
+  "Electoral autocracies": 0,
+  "Closed autocracies": 0
+ },
+ "sources": {
+  "Liberal democracies aged 1-18 years": {
+   "table": "vdem_num_countries",
+   "column": "num_countries_years_in_libdem",
+   "filter": {
+    "category": "1-18 years"
+   },
+   "short_name": "num_countries_years_in_libdem__category_1_18_years",
+   "gold_index": 3
+  },
+  "19-30 years": {
+   "table": "vdem_num_countries",
+   "column": "num_countries_years_in_libdem",
+   "filter": {
+    "category": "19-30 years"
+   },
+   "short_name": "num_countries_years_in_libdem__category_19_30_years",
+   "gold_index": 4
+  },
+  "31-60 years": {
+   "table": "vdem_num_countries",
+   "column": "num_countries_years_in_libdem",
+   "filter": {
+    "category": "31-60 years"
+   },
+   "short_name": "num_countries_years_in_libdem__category_31_60_years",
+   "gold_index": 5
+  },
+  "61-90 years": {
+   "table": "vdem_num_countries",
+   "column": "num_countries_years_in_libdem",
+   "filter": {
+    "category": "61-90 years"
+   },
+   "short_name": "num_countries_years_in_libdem__category_61_90_years",
+   "gold_index": 6
+  },
+  "91 years +": {
+   "table": "vdem_num_countries",
+   "column": "num_countries_years_in_libdem",
+   "filter": {
+    "category": "91+ years"
+   },
+   "short_name": "num_countries_years_in_libdem__category_91plus_years",
+   "gold_index": 7
+  },
+  "Electoral democracies": {
+   "table": "vdem_num_countries",
+   "column": "num_countries_regime",
+   "filter": {
+    "category": "electoral democracy"
+   },
+   "short_name": "num_countries_regime__category_electoral_democracy",
+   "gold_index": 8
+  },
+  "Electoral autocracies": {
+   "table": "vdem_num_countries",
+   "column": "num_countries_regime",
+   "filter": {
+    "category": "electoral autocracy"
+   },
+   "short_name": "num_countries_regime__category_electoral_autocracy",
+   "gold_index": 9
+  },
+  "Closed autocracies": {
+   "table": "vdem_num_countries",
+   "column": "num_countries_regime",
+   "filter": {
+    "category": "closed autocracy"
+   },
+   "short_name": "num_countries_regime__category_closed_autocracy",
+   "gold_index": 10
+  }
+ },
+ "gold_column_index": {
+  "Liberal democracies aged 1-18 years": 3,
+  "19-30 years": 4,
+  "31-60 years": 5,
+  "61-90 years": 6,
+  "91 years +": 7,
+  "Electoral democracies": 8,
+  "Electoral autocracies": 9,
+  "Closed autocracies": 10
+ },
+ "entity_mapping": "data/reference/owid_etl/vdem/vdem.countries.json",
+ "compare": {
+  "Liberal democracies aged 1-18 years": {
+   "abs": 1.0,
+   "rel": 1e-06
+  },
+  "19-30 years": {
+   "abs": 1.0,
+   "rel": 1e-06
+  },
+  "31-60 years": {
+   "abs": 1.0,
+   "rel": 1e-06
+  },
+  "61-90 years": {
+   "abs": 1.0,
+   "rel": 1e-06
+  },
+  "91 years +": {
+   "abs": 1.0,
+   "rel": 1e-06
+  },
+  "Electoral democracies": {
+   "abs": 1.0,
+   "rel": 1e-06
+  },
+  "Electoral autocracies": {
+   "abs": 1.0,
+   "rel": 1e-06
+  },
+  "Closed autocracies": {
+   "abs": 1.0,
+   "rel": 1e-06
+  }
+ },
+ "encodings": {},
+ "scale": {},
+ "stack_relative": false,
+ "time_tolerance": 0,
+ "not_compared": {}
+}

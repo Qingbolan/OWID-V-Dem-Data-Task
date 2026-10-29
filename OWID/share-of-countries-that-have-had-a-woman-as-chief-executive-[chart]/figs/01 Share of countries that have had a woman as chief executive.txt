@@ -1,0 +1,9 @@
+Figure 01: 01 Share of countries that have had a woman as chief executive
+Article: none; source page is the chart page https://ourworldindata.org/grapher/share-of-countries-that-have-had-a-woman-as-chief-executive
+
+Title: Share of countries that have had a woman as chief executive
+Subtitle: Share of current countries that have had a woman as chief executive since 1789.
+Note: "Chief executive" is defined here as the head of government (such as Germany's Angela Merkel) or the head of state (such as Argentina's Cristina Fernández de Kirchner), whoever has more power over the appointment and dismissal of cabinet ministers. Democracies as identified by V-Dem's "Regimes of the World" classification.
+Source: V-Dem (2026)
+Units: %
+Chart: https://ourworldindata.org/grapher/share-of-countries-that-have-had-a-woman-as-chief-executive

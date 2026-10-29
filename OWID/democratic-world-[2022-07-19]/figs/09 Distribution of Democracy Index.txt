@@ -1,0 +1,12 @@
+Figure 09: 09 Distribution of Democracy Index
+Article: People around the world have gained democratic rights, but some have many more rights than others (2022-07-19)
+
+Title: Distribution of Democracy Index
+Subtitle: Data by [Polity 5](#dod:polity). Expert estimates of the extent to which open, multi-party, and competitive elections choose a chief executive who faces comprehensive institutional constraints, and political participation is competitive. The index here ranges from 0 to 20 (fully democratic).
+Note: 
+Source: Polity 5 (2020)
+Units: 
+Chart: https://ourworldindata.org/grapher/distribution-democracy-index-polity
+
+Text before the figure: But the fact that so many countries are still highly undemocratic means that the fight for democratic political rights goes on.
+Text after the figure: ## Keep reading at Our World in Data

@@ -1,0 +1,9 @@
+Figure 01: 01 Participatory Political Institutions Index
+Article: none; source page is the chart page https://ourworldindata.org/grapher/participatory-political-institutions-index
+
+Title: Participatory Political Institutions Index
+Subtitle: Data by [V-Dem](#dod:v-dem). Expert estimates of the extent to which citizens can engage in regional and local government, civil society organizations, and direct democracy. The index ranges from 0 to 1 (most participatory).
+Note: 
+Source: V-Dem (2026)
+Units: 
+Chart: https://ourworldindata.org/grapher/participatory-political-institutions-index

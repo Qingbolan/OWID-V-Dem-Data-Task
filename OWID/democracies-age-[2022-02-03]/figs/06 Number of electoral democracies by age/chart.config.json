@@ -1,0 +1,84 @@
+{
+ "id": 5780,
+ "tab": "discrete-bar",
+ "slug": "number-electoral-democracies-age-lexical",
+ "title": "Number of electoral democracies by age",
+ "yAxis": {
+  "min": "auto"
+ },
+ "sortBy": "custom",
+ "$schema": "https://files.ourworldindata.org/schemas/grapher-schema.011.json",
+ "version": 54,
+ "subtitle": "Data by the Lexical Index of Electoral Democracy. Electoral democracies are political systems with an elected government and parliament, universal voting rights, and competitive elections.",
+ "originUrl": "/democracy",
+ "dimensions": [
+  {
+   "display": {
+    "name": "Non-democracies",
+    "color": "#97758e"
+   },
+   "property": "y",
+   "variableId": 1210582
+  },
+  {
+   "display": {
+    "name": "91 years +",
+    "color": "#172976"
+   },
+   "property": "y",
+   "variableId": 1210590
+  },
+  {
+   "display": {
+    "name": "61-90 years",
+    "color": "#225ea8"
+   },
+   "property": "y",
+   "variableId": 1210588
+  },
+  {
+   "display": {
+    "name": "31-60 years",
+    "color": "#41b6c4"
+   },
+   "property": "y",
+   "variableId": 1210589
+  },
+  {
+   "display": {
+    "name": "19-30 years",
+    "color": "#c7e9b4"
+   },
+   "property": "y",
+   "variableId": 1210587
+  },
+  {
+   "display": {
+    "name": "Electoral democracies aged 1-18 years",
+    "color": "#edf8b1",
+    "shortUnit": "countries"
+   },
+   "property": "y",
+   "variableId": 1210586
+  }
+ ],
+ "entityType": "region",
+ "isPublished": true,
+ "variantName": "Lexical Index",
+ "addCountryMode": "change-country",
+ "entityTypePlural": "regions",
+ "relatedQuestions": [
+  {
+   "url": "https://ourworldindata.org/explorers/democracy",
+   "text": "How do different approaches score democracy across the world?"
+  }
+ ],
+ "selectedEntityNames": [
+  "World"
+ ],
+ "hideAnnotationFieldsInTitle": {
+  "time": true,
+  "entity": true,
+  "changeInPrefix": true
+ }
+}

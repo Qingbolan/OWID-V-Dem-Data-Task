@@ -1,0 +1,6 @@
+{
+ "reproducible": false,
+ "reason": "the chart is not one of the V-Dem-only charts (data/reference/charts.json): it plots grapher/democracy/2024-05-13/polity",
+ "view": "https://ourworldindata.org/grapher/democracy-index-polity",
+ "chart_slug": "democracy-index-polity"
+}

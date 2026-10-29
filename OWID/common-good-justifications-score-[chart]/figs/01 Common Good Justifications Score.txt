@@ -1,0 +1,9 @@
+Figure 01: 01 Common Good Justifications Score
+Article: none; source page is the chart page https://ourworldindata.org/grapher/common-good-justifications-score
+
+Title: Common Good Justifications Score
+Subtitle: Data by [V-Dem](#dod:v-dem). Expert estimates of the extent to which political leaders justify their views with what is best for society overall. Higher scores mean more justification. A score of 0 is approximately the average across all countries and years.
+Note: 
+Source: V-Dem (2026)
+Units: 
+Chart: https://ourworldindata.org/grapher/common-good-justifications-score

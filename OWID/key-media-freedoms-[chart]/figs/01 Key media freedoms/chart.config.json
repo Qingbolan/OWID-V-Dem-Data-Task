@@ -1,0 +1,59 @@
+{
+ "id": 8621,
+ "slug": "key-media-freedoms",
+ "title": "Key media freedoms",
+ "yAxis": {
+  "max": 4,
+  "min": -3
+ },
+ "$schema": "https://files.ourworldindata.org/schemas/grapher-schema.011.json",
+ "minTime": 1970,
+ "version": 19,
+ "subtitle": "The scores are by [V-Dem](#dod:v-dem) and based on expert estimates. Higher scores indicate more freedom. A score of 0 is approximately the average across all countries and years.",
+ "originUrl": "/human-rights",
+ "chartTypes": [
+  "LineChart",
+  "SlopeChart",
+  "DiscreteBar"
+ ],
+ "dimensions": [
+  {
+   "display": {
+    "name": "No government censorship of the media"
+   },
+   "property": "y",
+   "variableId": 1209862
+  },
+  {
+   "display": {
+    "name": "No journalist harassment"
+   },
+   "property": "y",
+   "variableId": 1209869
+  },
+  {
+   "display": {
+    "name": "No self-censorship by the media"
+   },
+   "property": "y",
+   "variableId": 1209873
+  },
+  {
+   "display": {
+    "name": "No media bias"
+   },
+   "property": "y",
+   "variableId": 1209860
+  }
+ ],
+ "isPublished": true,
+ "addCountryMode": "change-country",
+ "hideFacetControl": false,
+ "selectedEntityNames": [
+  "South Africa"
+ ],
+ "selectedFacetStrategy": "metric",
+ "hideAnnotationFieldsInTitle": {
+  "time": true
+ }
+}

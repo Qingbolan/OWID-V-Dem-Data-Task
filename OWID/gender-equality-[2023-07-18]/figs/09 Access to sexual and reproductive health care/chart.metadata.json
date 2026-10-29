@@ -1,0 +1,37 @@
+{
+ "chart": {
+  "title": "Access to sexual and reproductive health care",
+  "subtitle": "Extent to which countries have regulations that guarantee full and equal access to women and men aged 15 years and older to sexual and reproductive health care. Index of specific legal enablers and barriers for 13 sexual health components. Higher values indicate greater access.",
+  "citation": "United Nations Population Fund",
+  "originalChartUrl": "https://ourworldindata.org/grapher/access-to-sexual-health-care-and-education",
+  "selection": [
+   "World",
+   "Sub-Saharan Africa (UN SDG)",
+   "Northern Africa and Western Asia (UN SDG)",
+   "Central and Southern Asia (UN SDG)",
+   "Australia and New Zealand (UN SDG)",
+   "Europe and Northern America (UN SDG)",
+   "Eastern and South-Eastern Asia (UN SDG)",
+   "Latin America and the Caribbean (UN SDG)"
+  ]
+ },
+ "columns": {
+  "5.6.2 - Extent to which countries have laws and regulations that guarantee full and equal access to women and men aged 15 years and older to sexual and reproductive health care, information and education (%) - SH_LGR_ACSRHE": {
+   "titleShort": "Extent to which countries have laws and regulations that guarantee full and equal access to women and men aged 15 years and older to sexual and reproductive health care, information and education (%)",
+   "titleLong": "Extent to which countries have laws and regulations that guarantee full and equal access to women and men aged 15 years and older to sexual and reproductive health care, information and education (%)",
+   "descriptionShort": "Extent to which countries have laws and regulations that guarantee full and equal access to women and men aged 15 years and older to sexual and reproductive health care, information and education (%).",
+   "shortUnit": "%",
+   "unit": "%",
+   "timespan": "2019-2022",
+   "type": "Integer",
+   "owidVariableId": 1305126,
+   "shortName": "_5_6_2__sh_lgr_acsrhe",
+   "lastUpdated": "2026-07-31",
+   "nextUpdate": "2027-07-31",
+   "citationShort": "United Nations Population Fund – processed by Our World in Data",
+   "citationLong": "United Nations Population Fund – processed by Our World in Data. “Extent to which countries have laws and regulations that guarantee full and equal access to women and men aged 15 years and older to sexual and reproductive health care, information and education (%)” [dataset]. United Nations Population Fund, “Data from multiple sources” [original data].",
+   "fullMetadata": "https://api.ourworldindata.org/v1/indicators/1305126.metadata.json"
+  }
+ },
+ "dateDownloaded": "2026-10-29"
+}

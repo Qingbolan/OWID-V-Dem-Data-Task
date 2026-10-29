@@ -1,0 +1,9 @@
+Figure 01: 01 Private Civil Liberties Index
+Article: none; source page is the chart page https://ourworldindata.org/grapher/private-civil-liberties-index
+
+Title: Private Civil Liberties Index
+Subtitle: Data by [V-Dem](#dod:v-dem). Expert estimates of the extent to which people are free from forced labor, have property rights, and enjoy freedom of movement and religion. The index ranges from 0 to 1 (most liberties).
+Note: 
+Source: V-Dem (2026)
+Units: 
+Chart: https://ourworldindata.org/grapher/private-civil-liberties-index

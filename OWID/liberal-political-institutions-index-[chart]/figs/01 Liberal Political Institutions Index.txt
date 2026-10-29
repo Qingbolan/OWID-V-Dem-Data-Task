@@ -1,0 +1,9 @@
+Figure 01: 01 Liberal Political Institutions Index
+Article: none; source page is the chart page https://ourworldindata.org/grapher/liberal-political-institutions-index
+
+Title: Liberal Political Institutions Index
+Subtitle: Data by [V-Dem](#dod:v-dem). Expert estimates of the extent of individual and minority rights, equality before the law, and constraints on the executive by the legislature and courts. The index ranges from 0 to 1 (most liberal).
+Note: 
+Source: V-Dem (2026)
+Units: 
+Chart: https://ourworldindata.org/grapher/liberal-political-institutions-index

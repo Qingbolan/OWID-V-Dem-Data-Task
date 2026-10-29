@@ -1,0 +1,9 @@
+Figure 01: 01 Freedom of Association Index
+Article: none; source page is the chart page https://ourworldindata.org/grapher/freedom-of-association-index
+
+Title: Freedom of Association Index
+Subtitle: Data by [V-Dem](#dod:v-dem). Expert estimates of the extent to which parties and civil society organizations can form and operate freely. The index ranges from 0 to 1 (most free).
+Note: 
+Source: V-Dem (2026)
+Units: 
+Chart: https://ourworldindata.org/grapher/freedom-of-association-index

@@ -1,0 +1,66 @@
+{
+ "id": 333,
+ "map": {
+  "colorScale": {
+   "baseColorScheme": "YlGn",
+   "binningStrategy": "manual",
+   "legendDescription": "",
+   "customNumericValues": [
+    0,
+    5,
+    10,
+    15,
+    20,
+    25,
+    30,
+    35,
+    40,
+    45,
+    1
+   ]
+  },
+  "timeTolerance": 5
+ },
+ "tab": "map",
+ "slug": "tax-revenues-as-a-share-of-gdp-unu-wider",
+ "title": "Tax revenue as share of GDP",
+ "yAxis": {
+  "max": 0,
+  "min": 0
+ },
+ "$schema": "https://files.ourworldindata.org/schemas/grapher-schema.011.json",
+ "version": 36,
+ "subtitle": "Direct and indirect taxes as well as social contributions included.",
+ "hasMapTab": true,
+ "originUrl": "/taxation/",
+ "chartTypes": [
+  "LineChart",
+  "DiscreteBar",
+  "SlopeChart",
+  "Marimekko",
+  "Dumbbell"
+ ],
+ "dimensions": [
+  {
+   "property": "y",
+   "variableId": 1210135
+  },
+  {
+   "property": "color",
+   "variableId": 900801
+  }
+ ],
+ "isPublished": true,
+ "variantName": "UNU-WIDER",
+ "selectedEntityNames": [
+  "Colombia",
+  "Ghana",
+  "Turkey",
+  "United States",
+  "France",
+  "United Kingdom"
+ ],
+ "hideAnnotationFieldsInTitle": {
+  "time": true
+ }
+}

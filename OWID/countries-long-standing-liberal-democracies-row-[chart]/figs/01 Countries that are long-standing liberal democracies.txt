@@ -1,0 +1,9 @@
+Figure 01: 01 Countries that are long-standing liberal democracies
+Article: none; source page is the chart page https://ourworldindata.org/grapher/countries-long-standing-liberal-democracies-row
+
+Title: Countries that are long-standing liberal democracies
+Subtitle: Classification by [Lührmann et al. (2018)](#dod:regimes-of-the-world) based on expert estimates by [V-Dem](#dod:v-dem). Liberal democracies are political systems that hold meaningful, free and fair, and multi-party elections, and their citizens have further individual rights, are equal before the law, and the legislative and the courts constrain the executive.
+Note: The share of closed autocracies increases a lot in 1900 because V-Dem covers many more countries since then, often colonies.
+Source: V-Dem (2026)
+Units: countries
+Chart: https://ourworldindata.org/grapher/countries-long-standing-liberal-democracies-row

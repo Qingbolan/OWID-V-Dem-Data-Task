@@ -1,0 +1,33 @@
+{
+ "figure": "01 Key features of women's political empowerment",
+ "checked_at": "2026-10-29T18:06:17.600441+00:00",
+ "status": "match",
+ "gold_rows": 237,
+ "gold_rows_missing_in_reference": 0,
+ "mismatched_cells": {
+  "Women's political empowerment overall": 0,
+  "Women's civil liberties": 0,
+  "Women's civil society participation": 0,
+  "Women's political participation": 0
+ },
+ "tolerance": {
+  "Women's political empowerment overall": {
+   "abs": 0.001,
+   "rel": 1e-06
+  },
+  "Women's civil liberties": {
+   "abs": 0.001,
+   "rel": 1e-06
+  },
+  "Women's civil society participation": {
+   "abs": 0.001,
+   "rel": 1e-06
+  },
+  "Women's political participation": {
+   "abs": 0.001,
+   "rel": 1e-06
+  }
+ },
+ "first_mismatches": [],
+ "program": "golden.vdem_pipeline"
+}

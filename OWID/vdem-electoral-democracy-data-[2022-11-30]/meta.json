@@ -1,0 +1,105 @@
+{
+ "title": "The ‘Varieties of Democracy’ data: how do researchers measure democracy?",
+ "url": "https://ourworldindata.org/vdem-electoral-democracy-data",
+ "date_published": "2022-11-30",
+ "authors": [
+  "Bastian Herre"
+ ],
+ "retrieved_at": "2026-10-29T15:15:30.251560+00:00",
+ "materialised_at": "2026-10-29T16:52:20.739170+00:00",
+ "source_original_sha256": "83198e16c96f63f2a95e4c741436dda96d79fb2d719a41c1afb1c8eeabd2c9e3",
+ "offline_snapshot": {
+  "page": "source.html",
+  "assets": "source_files/",
+  "assets_manifest": "source_files/manifest.json",
+  "asset_count": 82,
+  "removed": "all <script> elements except application/ld+json"
+ },
+ "figures": [
+  {
+   "index": 1,
+   "name": "01 Electoral Democracy Index",
+   "embed": {
+    "slug": "electoral-democracy-index",
+    "query": {},
+    "image": null
+   },
+   "files": {
+    "html": {
+     "path": "figs/01 Electoral Democracy Index.html",
+     "sha256": "2d067f7b0eb5fe572dcedc96a2853d7a10189ec287ef994caaad25566b1db16f"
+    },
+    "csv": {
+     "path": "figs/01 Electoral Democracy Index.csv",
+     "sha256": "23b673393e759da0ec5333fbdbc7f3095194b5f798a3ceebc92476225fc8f044"
+    },
+    "png": {
+     "path": "figs/01 Electoral Democracy Index.png",
+     "sha256": "cbcd4c487312d7d3b169c394ba22ae0f39b345afb9af1f0c11d243bbf76ef1a5"
+    },
+    "txt": {
+     "path": "figs/01 Electoral Democracy Index.txt",
+     "sha256": "4bdc9e798f1bb2c69a6b36291ce3d4292b17ec9aafc9104d55f3639fa24e9cdf"
+    }
+   },
+   "view_url": "https://ourworldindata.org/grapher/electoral-democracy-index",
+   "csv_url": "https://ourworldindata.org/grapher/electoral-democracy-index.csv?csvType=filtered",
+   "png_url": "https://ourworldindata.org/grapher/electoral-democracy-index.png",
+   "data_available": true,
+   "config_title": "Electoral Democracy Index",
+   "config_subtitle": "Data by [V-Dem](#dod:v-dem). Expert estimates of the extent to which political leaders are elected under comprehensive voting rights in free and fair elections, and freedoms of association and expression are guaranteed. The index ranges from 0 to 1 (most democratic).",
+   "chart_slug": "electoral-democracy-index",
+   "column_short_names": {
+    "Entity": "entity",
+    "Code": "code",
+    "Year": "year",
+    "Electoral democracy index": "electdem_vdem__estimate_best",
+    "World region according to OWID": "owid_region"
+   }
+  },
+  {
+   "index": 2,
+   "name": "02 Electoral Democracy Index",
+   "embed": {
+    "slug": "electoral-democracy-index",
+    "query": {
+     "tab": "marimekko",
+     "time": "latest"
+    },
+    "image": null
+   },
+   "files": {
+    "html": {
+     "path": "figs/02 Electoral Democracy Index.html",
+     "sha256": "6303d3ac09d7547b303dba31aba479f91e6f869f0b7f496f807ad6178f5cf5a2"
+    },
+    "csv": {
+     "path": "figs/02 Electoral Democracy Index.csv",
+     "sha256": "cf157542aead980ec60734c50325f0037c788330f1232b9844793107a8baed50"
+    },
+    "png": {
+     "path": "figs/02 Electoral Democracy Index.png",
+     "sha256": "be3f88a0a4422061d62133a3b903ca98f21bba5837cfe18f40ff28ce265b2693"
+    },
+    "txt": {
+     "path": "figs/02 Electoral Democracy Index.txt",
+     "sha256": "fd53b230915b3c28f355a98f48784f6e30e4164cb99ea6f7fac59df956c950ff"
+    }
+   },
+   "view_url": "https://ourworldindata.org/grapher/electoral-democracy-index?tab=marimekko&time=latest",
+   "csv_url": "https://ourworldindata.org/grapher/electoral-democracy-index.csv?csvType=filtered&tab=marimekko&time=latest",
+   "png_url": "https://ourworldindata.org/grapher/electoral-democracy-index.png?tab=marimekko&time=latest",
+   "data_available": true,
+   "config_title": "Electoral Democracy Index",
+   "config_subtitle": "Data by [V-Dem](#dod:v-dem). Expert estimates of the extent to which political leaders are elected under comprehensive voting rights in free and fair elections, and freedoms of association and expression are guaranteed. The index ranges from 0 to 1 (most democratic).",
+   "chart_slug": "electoral-democracy-index",
+   "column_short_names": {
+    "Entity": "entity",
+    "Code": "code",
+    "Year": "year",
+    "Electoral democracy index": "electdem_vdem__estimate_best",
+    "World region according to OWID": "owid_region"
+   }
+  }
+ ]
+}

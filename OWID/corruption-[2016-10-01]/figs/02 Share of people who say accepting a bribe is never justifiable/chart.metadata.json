@@ -1,0 +1,59 @@
+{
+ "chart": {
+  "title": "Share of people who say accepting a bribe is never justifiable",
+  "subtitle": "Share of people who said accepting a bribe is \"never justifiable\" (score of 1), when asked to rate how acceptable bribery is on a scale from 1 to 10 (\"always justifiable\").",
+  "citation": "Integrated Values Surveys (2024)",
+  "originalChartUrl": "https://ourworldindata.org/grapher/share-of-people-who-say-accepting-a-bribe-is-never-justifiable",
+  "selection": [
+   "Philippines",
+   "Morocco",
+   "Japan",
+   "Poland",
+   "Nigeria",
+   "Argentina"
+  ]
+ },
+ "columns": {
+  "Accepting a bribe in the course of their duties: Never justifiable": {
+   "titleShort": "Accepting a bribe: Never justifiable",
+   "titleLong": "Accepting a bribe: Never justifiable",
+   "descriptionShort": "% of respondents replying 1 in a scale from 1 to 10 when asked \"Please tell me for each of the following statements whether you think it can always be justified, never be justified, or something in between, using this card\", when the statement was \"Accepting a bribe in the course of their duties\". In the scale, 1 means \"never justifiable\" and 10 means \"always justifiable\".",
+   "descriptionKey": "- When available, we consider “Don’t know” and “No answer” to be valid response categories and include them in percentage calculations. “Not applicable”, “Not asked”, and “Missing” responses, however, are excluded from the set of possible answers.\n- The years in the data represent the latest year of each Integrated Values Surveys wave, which is not necessarily the year of the survey. For example, the 2022 wave (IVS wave 7) includes surveys conducted between 2017 and 2022. This is done to improve comparability across waves.",
+   "descriptionProcessing": "We collected the data by merging the World Values Survey and the European Values Study, following the methodology described in the [Integrated Values Surveys (IVS) website](https://www.worldvaluessurvey.org/WVSEVStrend.jsp).\n\nWe processed the indicators from microdata of the IVS using Stata. Weights are applied for each country.\n\nWe consider “Don’t know” and “No answer” to be valid response categories and include them in percentage calculations. “Not applicable”, “Not asked”, and “Missing” responses, however, are excluded from the set of possible answers.\n\nWe processed the years in the data to represent the latest year of each IVS wave, which is not necessarily the year of the survey. For example, the 2022 wave (IVS wave 7) includes surveys conducted between 2017 and 2022.\n",
+   "shortUnit": "%",
+   "unit": "%",
+   "timespan": "1984-2022",
+   "type": "Numeric",
+   "owidVariableId": 1076549,
+   "shortName": "never_just_accepting_a_bribe",
+   "lastUpdated": "2025-06-27",
+   "nextUpdate": "2026-11-29",
+   "citationShort": "Integrated Values Surveys (2024) – with major processing by Our World in Data",
+   "citationLong": "Integrated Values Surveys (2024) – with major processing by Our World in Data. “Accepting a bribe: Never justifiable – Integrated Values Surveys” [dataset]. Integrated Values Surveys, “Integrated Values Surveys (IVS) Version 4” [original data].",
+   "fullMetadata": "https://api.ourworldindata.org/v1/indicators/1076549.metadata.json"
+  },
+  "World region according to OWID": {
+   "titleShort": "World region according to OWID",
+   "titleLong": "World region according to OWID",
+   "descriptionShort": "Regions defined by Our World in Data, which are used in OWID charts and maps.",
+   "unit": "",
+   "timespan": "2023-2023",
+   "type": "Continent",
+   "owidVariableId": 900801,
+   "shortName": "owid_region",
+   "lastUpdated": "2023-01-01",
+   "citationShort": "Our World in Data",
+   "citationLong": "Our World in Data. “World region according to OWID” [dataset]. Our World in Data, “Regions” [original data].",
+   "fullMetadata": "https://api.ourworldindata.org/v1/indicators/900801.metadata.json"
+  },
+  "1076549-annotations": {
+   "titleShort": "1076549-annotations",
+   "titleLong": "1076549-annotations",
+   "type": "SeriesAnnotation",
+   "citationShort": " – processed by Our World in Data",
+   "citationLong": " – processed by Our World in Data. “1076549-annotations” [dataset].",
+   "fullMetadata": "https://api.ourworldindata.org/v1/indicators/undefined.metadata.json"
+  }
+ },
+ "dateDownloaded": "2026-10-29"
+}

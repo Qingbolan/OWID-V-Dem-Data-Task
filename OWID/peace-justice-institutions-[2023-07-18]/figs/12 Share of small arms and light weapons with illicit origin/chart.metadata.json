@@ -1,0 +1,46 @@
+{
+ "chart": {
+  "title": "Share of small arms and light weapons with illicit origin",
+  "subtitle": "Seized, found, or surrendered arms whose illicit origin or context has been traced or established. Small arms and light weapons include easily transportable weapons such as handguns and light machine guns.",
+  "citation": "United Nations Office on Drugs and Crime and UN Office for Disarmament Affairs",
+  "originalChartUrl": "https://ourworldindata.org/grapher/share-of-small-with-illicit-origin",
+  "selection": [
+   "Antigua and Barbuda",
+   "Argentina",
+   "Azerbaijan",
+   "Kenya",
+   "Australia",
+   "Bahamas",
+   "Brazil",
+   "Bulgaria",
+   "Colombia",
+   "Grenada",
+   "Lithuania",
+   "Moldova",
+   "Morocco",
+   "Peru",
+   "Romania",
+   "Spain",
+   "United Kingdom"
+  ]
+ },
+ "columns": {
+  "16.4.2 - Proportion of seized, found or surrendered arms whose illicit origin or context has been traced or established by a competent authority in line with international instruments - VC_ARM_SZTRACE": {
+   "titleShort": "Proportion of seized, found or surrendered arms whose illicit origin or context has been traced or established by a competent authority in line with international instruments",
+   "titleLong": "Proportion of seized, found or surrendered arms whose illicit origin or context has been traced or established by a competent authority in line with international instruments",
+   "descriptionShort": "Proportion of seized, found or surrendered arms whose illicit origin or context has been traced or established by a competent authority in line with international instruments.",
+   "shortUnit": "%",
+   "unit": "%",
+   "timespan": "2010-2024",
+   "type": "Numeric",
+   "owidVariableId": 1301144,
+   "shortName": "_16_4_2__vc_arm_sztrace",
+   "lastUpdated": "2026-07-31",
+   "nextUpdate": "2027-07-31",
+   "citationShort": "United Nations Office on Drugs and Crime and UN Office for Disarmament Affairs – processed by Our World in Data",
+   "citationLong": "United Nations Office on Drugs and Crime and UN Office for Disarmament Affairs – processed by Our World in Data. “Proportion of seized, found or surrendered arms whose illicit origin or context has been traced or established by a competent authority in line with international instruments” [dataset]. United Nations Office on Drugs and Crime and UN Office for Disarmament Affairs, “IAFQ, SDG” [original data].",
+   "fullMetadata": "https://api.ourworldindata.org/v1/indicators/1301144.metadata.json"
+  }
+ },
+ "dateDownloaded": "2026-10-29"
+}

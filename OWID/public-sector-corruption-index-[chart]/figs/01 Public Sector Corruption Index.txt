@@ -1,0 +1,9 @@
+Figure 01: 01 Public Sector Corruption Index
+Article: none; source page is the chart page https://ourworldindata.org/grapher/public-sector-corruption-index
+
+Title: Public Sector Corruption Index
+Subtitle: Data by [V-Dem](#dod:v-dem). Expert estimates of the extent to which public sector employees engage in bribery and theft. The index ranges from 0 to 1 (highly corrupt).
+Note: 
+Source: V-Dem (2026)
+Units: 
+Chart: https://ourworldindata.org/grapher/public-sector-corruption-index

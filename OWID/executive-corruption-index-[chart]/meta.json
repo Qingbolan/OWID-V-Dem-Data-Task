@@ -1,0 +1,56 @@
+{
+ "title": "Executive Corruption Index",
+ "url": "https://ourworldindata.org/grapher/executive-corruption-index",
+ "date_published": null,
+ "chart_page": true,
+ "authors": [],
+ "retrieved_at": "2026-10-29T17:15:07.752514+00:00",
+ "materialised_at": "2026-10-29T17:15:07.752523+00:00",
+ "source_original_sha256": "ab0efdcdac233aaf09fcdde6ebadc59738861d443790822ac969b151d5f51358",
+ "offline_snapshot": {
+  "page": "source.html",
+  "assets": "source_files/",
+  "assets_manifest": "source_files/manifest.json",
+  "asset_count": 73,
+  "removed": "all <script> elements except application/ld+json"
+ },
+ "figures": [
+  {
+   "index": 1,
+   "name": "01 Executive Corruption Index",
+   "embed": {
+    "slug": "executive-corruption-index",
+    "query": {},
+    "image": null
+   },
+   "view_url": "https://ourworldindata.org/grapher/executive-corruption-index",
+   "csv_url": "https://ourworldindata.org/grapher/executive-corruption-index.csv?csvType=filtered",
+   "png_url": "https://ourworldindata.org/grapher/executive-corruption-index.png",
+   "data_available": true,
+   "config_title": "Executive Corruption Index",
+   "config_subtitle": "Data by [V-Dem](#dod:v-dem). Expert estimates of the extent to which high-ranking members of the executive, such as the head of government or cabinet ministers, engage in bribery and theft. The index ranges from 0 to 1 (highly corrupt).",
+   "files": {
+    "txt": {
+     "path": "figs/01 Executive Corruption Index.txt",
+     "sha256": "7536ad81a64375bc21c934771e2cde489379c63de4f9b410545842d0149efa65"
+    },
+    "csv": {
+     "path": "figs/01 Executive Corruption Index.csv",
+     "sha256": "fd6d8ad496033089454f81da7f57ac5c9ee722885cf39a1023f51a45d64b3493"
+    },
+    "png": {
+     "path": "figs/01 Executive Corruption Index.png",
+     "sha256": "edbf3adf0f003ec323c81b49211102e451a2a43fe4b43f1d763c0d5c16756443"
+    }
+   },
+   "chart_slug": "executive-corruption-index",
+   "column_short_names": {
+    "Entity": "entity",
+    "Code": "code",
+    "Year": "year",
+    "Executive Corruption Index": "corr_exec_vdem__estimate_best",
+    "World region according to OWID": "owid_region"
+   }
+  }
+ ]
+}

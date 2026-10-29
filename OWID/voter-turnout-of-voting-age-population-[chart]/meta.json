@@ -1,0 +1,57 @@
+{
+ "title": "Voter turnout of voting-age population",
+ "url": "https://ourworldindata.org/grapher/voter-turnout-of-voting-age-population",
+ "date_published": null,
+ "chart_page": true,
+ "authors": [],
+ "retrieved_at": "2026-10-29T17:51:40.339749+00:00",
+ "materialised_at": "2026-10-29T17:51:40.339757+00:00",
+ "source_original_sha256": "e76510b19679e6af869e12d7278096cd52eb83bf1807aaaa120d8da6c6ddfdad",
+ "offline_snapshot": {
+  "page": "source.html",
+  "assets": "source_files/",
+  "assets_manifest": "source_files/manifest.json",
+  "asset_count": 73,
+  "removed": "all <script> elements except application/ld+json"
+ },
+ "figures": [
+  {
+   "index": 1,
+   "name": "01 Voter turnout of voting-age population",
+   "embed": {
+    "slug": "voter-turnout-of-voting-age-population",
+    "query": {},
+    "image": null
+   },
+   "view_url": "https://ourworldindata.org/grapher/voter-turnout-of-voting-age-population",
+   "csv_url": "https://ourworldindata.org/grapher/voter-turnout-of-voting-age-population.csv?csvType=filtered",
+   "png_url": "https://ourworldindata.org/grapher/voter-turnout-of-voting-age-population.png",
+   "data_available": true,
+   "config_title": "Voter turnout of voting-age population",
+   "config_subtitle": "Percentage of voting-age population who cast a vote in the national election, according to official results.",
+   "files": {
+    "txt": {
+     "path": "figs/01 Voter turnout of voting-age population.txt",
+     "sha256": "236595b5bb09876d0101615cd1bc47b6490322f61d8c5aa3f292063bfe71cf36"
+    },
+    "csv": {
+     "path": "figs/01 Voter turnout of voting-age population.csv",
+     "sha256": "7de61587a23a2b606842b32a5627e49732bddcde42625ca474875fe3dffa8113"
+    },
+    "png": {
+     "path": "figs/01 Voter turnout of voting-age population.png",
+     "sha256": "9923ce6a8daf384671b553977120219f06f4018384ba8df5cdb5c3f2151c1a18"
+    }
+   },
+   "chart_slug": "voter-turnout-of-voting-age-population",
+   "column_short_names": {
+    "Entity": "entity",
+    "Code": "code",
+    "Year": "year",
+    "Voter turnout of voting-age population": "turnout_total_vdem",
+    "World region according to OWID": "owid_region",
+    "Voter turnout of voting-age population (Original Year)": "turnout_total_vdem__original_year"
+   }
+  }
+ ]
+}

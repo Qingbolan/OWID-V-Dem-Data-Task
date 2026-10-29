@@ -1,0 +1,34 @@
+{
+ "chart": {
+  "title": "Unsentenced detainees as a proportion of overall prison population",
+  "subtitle": "People held in detention who have not yet been sentenced as a percentage of all people held in detention.",
+  "citation": "United Nations Office on Drugs and Crime",
+  "originalChartUrl": "https://ourworldindata.org/grapher/unsentenced-detainees-as-proportion-of-prison-population",
+  "selection": [
+   "India",
+   "Brazil",
+   "Russia",
+   "Canada",
+   "United States"
+  ]
+ },
+ "columns": {
+  "16.3.2 - Unsentenced detainees as a proportion of overall prison population (%) - VC_PRS_UNSNT - Both sexes": {
+   "titleShort": "Unsentenced detainees as a proportion of overall prison population (%) - Both sexes",
+   "titleLong": "Unsentenced detainees as a proportion of overall prison population (%) - Both sexes",
+   "descriptionShort": "Unsentenced detainees as a proportion of overall prison population (%).",
+   "shortUnit": "%",
+   "unit": "%",
+   "timespan": "2003-2024",
+   "type": "Numeric",
+   "owidVariableId": 1301128,
+   "shortName": "_16_3_2__vc_prs_unsnt__both_sexes",
+   "lastUpdated": "2026-07-31",
+   "nextUpdate": "2027-07-31",
+   "citationShort": "United Nations Office on Drugs and Crime – processed by Our World in Data",
+   "citationLong": "United Nations Office on Drugs and Crime – processed by Our World in Data. “Unsentenced detainees as a proportion of overall prison population (%) - Both sexes” [dataset]. United Nations Office on Drugs and Crime, “UNODC calculations based on national data” [original data].",
+   "fullMetadata": "https://api.ourworldindata.org/v1/indicators/1301128.metadata.json"
+  }
+ },
+ "dateDownloaded": "2026-10-29"
+}

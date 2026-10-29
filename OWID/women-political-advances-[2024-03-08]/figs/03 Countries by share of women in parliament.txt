@@ -1,0 +1,12 @@
+Figure 03: 03 Countries by share of women in parliament
+Article: Women have made major advances in politics — but the world is still far from equal (2024-03-08)
+
+Title: Countries by share of women in parliament
+Subtitle: Percentage of seats in lower or single chamber of the legislature held by women.
+Note: Only countries with at least one legislative chamber included.
+Source: V-Dem (2026)
+Units: countries
+Chart: https://ourworldindata.org/grapher/countries-by-share-of-women-in-parliament
+
+Text before the figure: The process sped up in the late 20th and early 21st centuries. In 2008, the Rwandan parliament became the first to have more than 50% women — the first women-majority parliament. That year, another handful of countries had between 40 and 50% women parliamentarians. 1
+Text after the figure: However, progress in women’s political representation has been limited and uneven. Only in a few dozen countries do women make up around half of all representatives. In many, women parliamentarians are a small minority. In a few, there are none.

@@ -1,0 +1,9 @@
+Figure 01: 01 Civil Society Participation Index
+Article: none; source page is the chart page https://ourworldindata.org/grapher/civil-society-participation-index
+
+Title: Civil Society Participation Index
+Subtitle: Data by [V-Dem](#dod:v-dem). Expert estimates of the extent to which citizens are active in diverse organizations which choose and influence policy-makers. The index ranges from 0 to 1 (most active).
+Note: 
+Source: V-Dem (2026)
+Units: 
+Chart: https://ourworldindata.org/grapher/civil-society-participation-index

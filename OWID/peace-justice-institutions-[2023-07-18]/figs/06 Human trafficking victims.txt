@@ -1,0 +1,12 @@
+Figure 06: 06 Human trafficking victims
+Article: Promote just, peaceful and inclusive societies (2023-07-18)
+
+Title: Human trafficking victims
+Subtitle: Total number of human trafficking victims officially detected by national authorities.
+Note: Trends should be interpreted with caution, as data only includes detected victims, whose number also depends on legislative criteria and law enforcement practices.
+Source: UN Office on Drugs and Crime
+Units: number
+Chart: https://ourworldindata.org/grapher/human-trafficking-victims
+
+Text before the figure: More research: Further data and research can be found at the Our World in Data topic page on Human Rights and Violence Against & Rights for Children .
+Text after the figure: ### SDG Indicator 16.2.3 Sexual violence against young men and women

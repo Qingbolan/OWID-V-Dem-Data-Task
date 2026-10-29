@@ -1,0 +1,39 @@
+{
+ "reproducible": true,
+ "program": "golden.vdem_pipeline",
+ "chart_slug": "political-regime-amb-row",
+ "view": "https://ourworldindata.org/grapher/political-regime-amb-row",
+ "columns": [
+  "Political regime"
+ ],
+ "solution_columns": [
+  "Political regime"
+ ],
+ "output_precision": {
+  "Political regime": 0
+ },
+ "sources": {
+  "Political regime": {
+   "table": "vdem_uni_without_regions",
+   "column": "regime_amb_row_owid",
+   "filter": {},
+   "short_name": "regime_amb_row_owid",
+   "gold_index": 3
+  }
+ },
+ "gold_column_index": {
+  "Political regime": 3
+ },
+ "entity_mapping": "data/reference/owid_etl/vdem/vdem.countries.json",
+ "compare": {
+  "Political regime": {
+   "abs": 1.0,
+   "rel": 1e-06
+  }
+ },
+ "encodings": {},
+ "scale": {},
+ "stack_relative": false,
+ "time_tolerance": 0,
+ "not_compared": {}
+}

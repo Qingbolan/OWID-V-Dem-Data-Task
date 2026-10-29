@@ -1,0 +1,12 @@
+Figure 07: 07 Share of young women who experienced sexual violence as children
+Article: Promote just, peaceful and inclusive societies (2023-07-18)
+
+Title: Share of young women who experienced sexual violence as children
+Subtitle: Women aged 18-29 years old who experienced any form of sexual violence before reaching the age of 18. Data is from 2005-2024.
+Note: 
+Source: UNICEF
+Units: %
+Chart: https://ourworldindata.org/grapher/women-who-experienced-sexual-violence-by-age-18
+
+Text before the figure: More research: Further data and research can be found at the Our World in Data topic page on Violence Against & Rights for Children .
+Text after the figure: ## Target 16.3 Promote the rule of law and ensure equal access to justice

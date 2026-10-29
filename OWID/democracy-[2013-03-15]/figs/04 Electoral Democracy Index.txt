@@ -1,0 +1,12 @@
+Figure 04: 04 Electoral Democracy Index
+Article: Democracy (2013-03-15)
+
+Title: Electoral Democracy Index
+Subtitle: Data by [V-Dem](#dod:v-dem). Expert estimates of the extent to which political leaders are elected under comprehensive voting rights in free and fair elections, and freedoms of association and expression are guaranteed. The index ranges from 0 to 1 (most democratic).
+Note: 
+Source: V-Dem (2026)
+Units: 
+Chart: https://ourworldindata.org/grapher/electoral-democracy-index?tab=marimekko
+
+Text before the figure: We use the V-Dem data here, but there are several other leading approaches to measuring democracy, which sometimes score countries very differently. You can explore them in our Democracy Data Explorer .
+Text after the figure: #### The world has recently become less democratic

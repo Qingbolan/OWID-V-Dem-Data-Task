@@ -1,0 +1,82 @@
+{
+ "id": 2018,
+ "map": {
+  "colorScale": {
+   "baseColorScheme": "OrRd",
+   "binningStrategy": "manual",
+   "customNumericColors": [
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "customNumericValues": [
+    0,
+    5,
+    10,
+    20,
+    30,
+    50,
+    60
+   ]
+  },
+  "timeTolerance": 10
+ },
+ "tab": "map",
+ "slug": "bribery-incidence-for-firms",
+ "title": "Share of firms that report being asked to pay a bribe",
+ "yAxis": {
+  "max": 0,
+  "min": 0,
+  "facetDomain": "independent"
+ },
+ "$schema": "https://files.ourworldindata.org/schemas/grapher-schema.011.json",
+ "maxTime": 2024,
+ "version": 30,
+ "dumbbell": {
+  "trendColorMap": {
+   "decrease": "#00875e",
+   "increase": "#d73c50"
+  }
+ },
+ "subtitle": "[Bribes](#dod:bribery) when dealing with core public services, such as operating licenses and construction permits.",
+ "hasMapTab": true,
+ "originUrl": "/corruption",
+ "chartTypes": [
+  "LineChart",
+  "DiscreteBar",
+  "Marimekko",
+  "SlopeChart",
+  "Dumbbell"
+ ],
+ "dimensions": [
+  {
+   "display": {
+    "tolerance": 5,
+    "numDecimalPlaces": 0
+   },
+   "property": "y",
+   "variableId": 1032401
+  },
+  {
+   "property": "color",
+   "variableId": 900801
+  }
+ ],
+ "isPublished": true,
+ "timelineMaxTime": 2024,
+ "hideFacetControl": false,
+ "selectedEntityNames": [
+  "Mexico",
+  "China",
+  "Spain",
+  "Kazakhstan",
+  "Ghana",
+  "Jordan"
+ ],
+ "selectedFacetStrategy": "metric",
+ "hideAnnotationFieldsInTitle": {
+  "time": true
+ }
+}

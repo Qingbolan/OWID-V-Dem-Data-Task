@@ -1,0 +1,36 @@
+{
+ "id": 3860,
+ "map": {
+  "colorScale": {
+   "baseColorScheme": "GnBu"
+  },
+  "columnSlug": "1301009",
+  "timeTolerance": 5
+ },
+ "tab": "map",
+ "slug": "safety-walking-alone",
+ "title": "Share that feel safe walking alone around the area they live at night",
+ "yAxis": {
+  "max": 0,
+  "min": 0
+ },
+ "$schema": "https://files.ourworldindata.org/schemas/grapher-schema.011.json",
+ "version": 14,
+ "subtitle": "",
+ "hasMapTab": true,
+ "originUrl": "/trust",
+ "dimensions": [
+  {
+   "property": "y",
+   "variableId": 1301009
+  }
+ ],
+ "isPublished": true,
+ "selectedEntityNames": [
+  "Germany",
+  "United Kingdom (England and Wales)",
+  "Turkey",
+  "United States",
+  "Peru"
+ ]
+}

@@ -1,0 +1,77 @@
+{
+ "id": 6379,
+ "map": {
+  "colorScale": {
+   "baseColorScheme": "PuBu",
+   "binningStrategy": "manual",
+   "customNumericColors": [
+    "#e5d2a1",
+    "#e2b99c",
+    "#dba198",
+    "#d08a94",
+    "#c37491",
+    "#b2608f",
+    "#9d4e8d",
+    "#863d8c",
+    "#69308b",
+    "#44268b"
+   ],
+   "customNumericValues": [
+    0,
+    0.099,
+    0.199,
+    0.299,
+    0.399,
+    0.499,
+    0.599,
+    0.699,
+    0.799,
+    0.899,
+    1
+   ]
+  },
+  "columnSlug": "1209897"
+ },
+ "tab": "map",
+ "note": "Many countries in recent years receive high scores even though they are far from equal participation because the index scores them relative to the historical average across countries.",
+ "slug": "women-political-participation-index",
+ "title": "Women's Political Participation Index",
+ "yAxis": {
+  "max": 1,
+  "min": 0
+ },
+ "$schema": "https://files.ourworldindata.org/schemas/grapher-schema.011.json",
+ "version": 46,
+ "subtitle": "Data by [V-Dem](#dod:v-dem). Expert estimates of the extent to which women are represented in the legislature and have an equal share of political power. The index ranges from 0 to 1 (most equal).",
+ "hasMapTab": true,
+ "originUrl": "/women-rights",
+ "chartTypes": [
+  "LineChart",
+  "SlopeChart",
+  "DiscreteBar",
+  "Marimekko"
+ ],
+ "dimensions": [
+  {
+   "display": {
+    "name": "Women's Political Participation Index",
+    "color": "#863d8c"
+   },
+   "property": "y",
+   "variableId": 1209897
+  },
+  {
+   "property": "color",
+   "variableId": 900801
+  }
+ ],
+ "isPublished": true,
+ "hideFacetControl": false,
+ "selectedEntityNames": [
+  "World",
+  "Argentina",
+  "Australia",
+  "Botswana",
+  "China"
+ ]
+}

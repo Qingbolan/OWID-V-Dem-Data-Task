@@ -1,0 +1,41 @@
+{
+ "reproducible": true,
+ "program": "golden.vdem_pipeline",
+ "chart_slug": "multi-party-elections-row",
+ "view": "https://ourworldindata.org/grapher/multi-party-elections-row",
+ "columns": [
+  "Multiparty elections"
+ ],
+ "solution_columns": [
+  "Multiparty elections"
+ ],
+ "output_precision": {
+  "Multiparty elections": 0
+ },
+ "sources": {
+  "Multiparty elections": {
+   "table": "vdem_multi_without_regions",
+   "column": "electmulpar_row",
+   "filter": {
+    "estimate": "best"
+   },
+   "short_name": "electmulpar_row__estimate_best",
+   "gold_index": 3
+  }
+ },
+ "gold_column_index": {
+  "Multiparty elections": 3
+ },
+ "entity_mapping": "data/reference/owid_etl/vdem/vdem.countries.json",
+ "compare": {
+  "Multiparty elections": {
+   "abs": 1.0,
+   "rel": 1e-06
+  }
+ },
+ "encodings": {},
+ "scale": {},
+ "stack_relative": false,
+ "time_tolerance": 0,
+ "not_compared": {}
+}

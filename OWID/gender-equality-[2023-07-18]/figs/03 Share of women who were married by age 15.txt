@@ -1,0 +1,12 @@
+Figure 03: 03 Share of women who were married by age 15
+Article: Achieve gender equality and empower all women and girls (2023-07-18)
+
+Title: Share of women who were married by age 15
+Subtitle: Women aged 20-24, who were married or in a union before they reached the age of 15.
+Note: 
+Source: UNICEF
+Units: %
+Chart: https://ourworldindata.org/grapher/women-married-by-age-15
+
+Text before the figure: More research: Further data and research on this topic can be found at the Our World in Data topic pages on Women’s Rights and Violence Against Children and Children’s Rights .
+Text after the figure: ### SDG Indicator 5.3.2 Female genital mutilation/cutting

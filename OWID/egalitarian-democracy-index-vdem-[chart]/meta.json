@@ -1,0 +1,56 @@
+{
+ "title": "Egalitarian Democracy Index",
+ "url": "https://ourworldindata.org/grapher/egalitarian-democracy-index-vdem",
+ "date_published": null,
+ "chart_page": true,
+ "authors": [],
+ "retrieved_at": "2026-10-29T17:07:05.711462+00:00",
+ "materialised_at": "2026-10-29T17:07:05.711481+00:00",
+ "source_original_sha256": "8a0c1ba5fa058e9ea09a1c3314548f3692c7194545075a70bb735cbba471d39a",
+ "offline_snapshot": {
+  "page": "source.html",
+  "assets": "source_files/",
+  "assets_manifest": "source_files/manifest.json",
+  "asset_count": 73,
+  "removed": "all <script> elements except application/ld+json"
+ },
+ "figures": [
+  {
+   "index": 1,
+   "name": "01 Egalitarian Democracy Index",
+   "embed": {
+    "slug": "egalitarian-democracy-index-vdem",
+    "query": {},
+    "image": null
+   },
+   "view_url": "https://ourworldindata.org/grapher/egalitarian-democracy-index-vdem",
+   "csv_url": "https://ourworldindata.org/grapher/egalitarian-democracy-index-vdem.csv?csvType=filtered",
+   "png_url": "https://ourworldindata.org/grapher/egalitarian-democracy-index-vdem.png",
+   "data_available": true,
+   "config_title": "Egalitarian Democracy Index",
+   "config_subtitle": "Data by [V-Dem](#dod:v-dem). Expert estimates of the extent of voting rights, the freedom and fairness of elections, freedoms of association and expression, and the protection of rights, access to power, and distribution of resources being equal. The index ranges from 0 to 1 (most democratic).",
+   "files": {
+    "txt": {
+     "path": "figs/01 Egalitarian Democracy Index.txt",
+     "sha256": "ecbc9ff0028b49b5ff9fa101cad250553e8c5c21f56e20d55fb5bdda2a2aee38"
+    },
+    "csv": {
+     "path": "figs/01 Egalitarian Democracy Index.csv",
+     "sha256": "752d4b99b279d7afc4e40edbbd1c03539ed2f02e692c297181209966d92e5ee1"
+    },
+    "png": {
+     "path": "figs/01 Egalitarian Democracy Index.png",
+     "sha256": "619a0b43537624e272408ae992404c8bb5015d9ea2b92e5e48f462fc6766b5c3"
+    }
+   },
+   "chart_slug": "egalitarian-democracy-index-vdem",
+   "column_short_names": {
+    "Entity": "entity",
+    "Code": "code",
+    "Year": "year",
+    "Egalitarian democracy index": "egaldem_vdem__estimate_best",
+    "World region according to OWID": "owid_region"
+   }
+  }
+ ]
+}

@@ -1,0 +1,9 @@
+Figure 01: 01 Deliberative Democracy Index
+Article: none; source page is the chart page https://ourworldindata.org/grapher/deliberative-democracy-index-vdem
+
+Title: Deliberative Democracy Index
+Subtitle: Data by [V-Dem](#dod:v-dem). Expert estimates of the extent of voting rights, the freedom and fairness of elections, freedoms of association and expression, and citizens and leaders discussing different views and seeking the public good. The index ranges from 0 to 1 (most democratic).
+Note: 
+Source: V-Dem (2026)
+Units: 
+Chart: https://ourworldindata.org/grapher/deliberative-democracy-index-vdem

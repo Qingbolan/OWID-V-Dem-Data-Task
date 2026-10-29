@@ -1,0 +1,38 @@
+{
+ "chart": {
+  "title": "Women who make informed decisions regarding their sexual relations, contraceptive use and reproductive health care",
+  "subtitle": "Women aged 15-49 (married or in union) who can say no to sexual intercourse with their husband or partner if they do not want, decide on use of contraception, and decide on their own health care.",
+  "note": "Based on the Demographic and Health Surveys, Multiple Indicator Cluster Surveys and other national surveys.",
+  "citation": "United Nations Population Fund",
+  "originalChartUrl": "https://ourworldindata.org/grapher/women-informed-decisions-health-sexual-relations",
+  "selection": [
+   "World",
+   "Sub-Saharan Africa (UN SDG)",
+   "Northern Africa and Western Asia (UN SDG)",
+   "Central and Southern Asia (UN SDG)",
+   "Eastern and South-Eastern Asia (UN SDG)",
+   "Latin America and the Caribbean (UN SDG)",
+   "Europe and Northern America (UN SDG)",
+   "Oceania (UN)"
+  ]
+ },
+ "columns": {
+  "5.6.1 - Proportion of women who make their own informed decisions regarding sexual relations, contraceptive use and reproductive health care (% of women aged 15-49 years) - SH_FPL_INFM": {
+   "titleShort": "Proportion of women who make their own informed decisions regarding sexual relations, contraceptive use and reproductive health care (% of women aged 15-49 years)",
+   "titleLong": "Proportion of women who make their own informed decisions regarding sexual relations, contraceptive use and reproductive health care (% of women aged 15-49 years)",
+   "descriptionShort": "Proportion of women who make their own informed decisions regarding sexual relations, contraceptive use and reproductive health care (% of women aged 15-49 years).",
+   "shortUnit": "%",
+   "unit": "%",
+   "timespan": "2006-2025",
+   "type": "Numeric",
+   "owidVariableId": 1305122,
+   "shortName": "_5_6_1__sh_fpl_infm",
+   "lastUpdated": "2026-07-31",
+   "nextUpdate": "2027-07-31",
+   "citationShort": "United Nations Population Fund – processed by Our World in Data",
+   "citationLong": "United Nations Population Fund – processed by Our World in Data. “Proportion of women who make their own informed decisions regarding sexual relations, contraceptive use and reproductive health care (% of women aged 15-49 years)” [dataset]. United Nations Population Fund, “Data from multiple sources” [original data].",
+   "fullMetadata": "https://api.ourworldindata.org/v1/indicators/1305122.metadata.json"
+  }
+ },
+ "dateDownloaded": "2026-10-29"
+}

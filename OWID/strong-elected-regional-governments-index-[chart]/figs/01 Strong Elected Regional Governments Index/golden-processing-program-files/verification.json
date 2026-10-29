@@ -1,0 +1,18 @@
+{
+ "figure": "01 Strong Elected Regional Governments Index",
+ "checked_at": "2026-10-29T18:06:18.527865+00:00",
+ "status": "match",
+ "gold_rows": 174,
+ "gold_rows_missing_in_reference": 0,
+ "mismatched_cells": {
+  "Strong Elected Regional Governments Index": 0
+ },
+ "tolerance": {
+  "Strong Elected Regional Governments Index": {
+   "abs": 0.001,
+   "rel": 1e-06
+  }
+ },
+ "first_mismatches": [],
+ "program": "golden.vdem_pipeline"
+}

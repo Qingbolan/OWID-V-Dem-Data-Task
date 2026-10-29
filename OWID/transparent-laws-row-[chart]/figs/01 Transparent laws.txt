@@ -1,0 +1,9 @@
+Figure 01: 01 Transparent laws
+Article: none; source page is the chart page https://ourworldindata.org/grapher/transparent-laws-row
+
+Title: Transparent laws
+Subtitle: Data by Lührmann et al. (2018) and [V-Dem](#dod:v-dem). Expert estimates of whether laws are transparent, coherent, and relatively stable, and their enforcement predictable.
+Note: 
+Source: V-Dem (2026)
+Units: 
+Chart: https://ourworldindata.org/grapher/transparent-laws-row

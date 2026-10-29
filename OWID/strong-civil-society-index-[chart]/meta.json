@@ -1,0 +1,56 @@
+{
+ "title": "Strong Civil Society Index",
+ "url": "https://ourworldindata.org/grapher/strong-civil-society-index",
+ "date_published": null,
+ "chart_page": true,
+ "authors": [],
+ "retrieved_at": "2026-10-29T17:46:46.762678+00:00",
+ "materialised_at": "2026-10-29T17:46:46.762687+00:00",
+ "source_original_sha256": "1a62ab37208d4996186c34a0e28e70a9df74e602971c39375f975d6b303369d9",
+ "offline_snapshot": {
+  "page": "source.html",
+  "assets": "source_files/",
+  "assets_manifest": "source_files/manifest.json",
+  "asset_count": 73,
+  "removed": "all <script> elements except application/ld+json"
+ },
+ "figures": [
+  {
+   "index": 1,
+   "name": "01 Strong Civil Society Index",
+   "embed": {
+    "slug": "strong-civil-society-index",
+    "query": {},
+    "image": null
+   },
+   "view_url": "https://ourworldindata.org/grapher/strong-civil-society-index",
+   "csv_url": "https://ourworldindata.org/grapher/strong-civil-society-index.csv?csvType=filtered",
+   "png_url": "https://ourworldindata.org/grapher/strong-civil-society-index.png",
+   "data_available": true,
+   "config_title": "Strong Civil Society Index",
+   "config_subtitle": "Data by [V-Dem](#dod:v-dem). Expert estimates of the extent to which interest groups, labor unions, charities, and other civil society organizations are autonomous from the state and can freely pursue their goals. The index ranges from 0 to 1 (strongest).",
+   "files": {
+    "txt": {
+     "path": "figs/01 Strong Civil Society Index.txt",
+     "sha256": "563771f7e76f3132062a3e449a5e156205f931593f05a75f7ad1cacbe3425c36"
+    },
+    "csv": {
+     "path": "figs/01 Strong Civil Society Index.csv",
+     "sha256": "1d7b89c774cc006311c4e285e973e791992656947feae6865abf5e88b44a71ca"
+    },
+    "png": {
+     "path": "figs/01 Strong Civil Society Index.png",
+     "sha256": "63d82c37827eaf480312874e5ec584101929279593c4ed75d0833a2c45d8d4f4"
+    }
+   },
+   "chart_slug": "strong-civil-society-index",
+   "column_short_names": {
+    "Entity": "entity",
+    "Code": "code",
+    "Year": "year",
+    "Strong Civil Society Index": "civ_soc_str_vdem__estimate_best",
+    "World region according to OWID": "owid_region"
+   }
+  }
+ ]
+}

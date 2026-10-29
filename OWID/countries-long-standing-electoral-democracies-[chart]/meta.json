@@ -1,0 +1,61 @@
+{
+ "title": "Countries that are long-standing electoral democracies",
+ "url": "https://ourworldindata.org/grapher/countries-long-standing-electoral-democracies",
+ "date_published": null,
+ "chart_page": true,
+ "authors": [],
+ "retrieved_at": "2026-10-29T17:01:17.788463+00:00",
+ "materialised_at": "2026-10-29T17:01:17.788472+00:00",
+ "source_original_sha256": "51ad9b9a3c48d679ede4085b5c06ad8231621576d96b487c35e0bd78f937cf99",
+ "offline_snapshot": {
+  "page": "source.html",
+  "assets": "source_files/",
+  "assets_manifest": "source_files/manifest.json",
+  "asset_count": 73,
+  "removed": "all <script> elements except application/ld+json"
+ },
+ "figures": [
+  {
+   "index": 1,
+   "name": "01 Countries that are long-standing electoral democracies",
+   "embed": {
+    "slug": "countries-long-standing-electoral-democracies",
+    "query": {},
+    "image": null
+   },
+   "view_url": "https://ourworldindata.org/grapher/countries-long-standing-electoral-democracies",
+   "csv_url": "https://ourworldindata.org/grapher/countries-long-standing-electoral-democracies.csv?csvType=filtered",
+   "png_url": "https://ourworldindata.org/grapher/countries-long-standing-electoral-democracies.png",
+   "data_available": true,
+   "config_title": "Countries that are long-standing electoral democracies",
+   "config_subtitle": "Classification by [Lührmann et al. (2018)](#dod:regimes-of-the-world-simplified) based on expert estimates by [V-Dem](#dod:v-dem). Electoral democracies are political systems that hold meaningful, free and fair, and multi-party elections.",
+   "files": {
+    "txt": {
+     "path": "figs/01 Countries that are long-standing electoral democracies.txt",
+     "sha256": "d9d392560032158cde3d4469e690a62d1a3b511f43b1db258107d540c1366119"
+    },
+    "csv": {
+     "path": "figs/01 Countries that are long-standing electoral democracies.csv",
+     "sha256": "d447fed6d8a1e48062a26b7fc7b480c0b287d92ff8d663775380face55acb9a7"
+    },
+    "png": {
+     "path": "figs/01 Countries that are long-standing electoral democracies.png",
+     "sha256": "72cec1fc9792122e177ecb58118a2b0ced9e1e12bf112394e2d9d9a68a4a87e8"
+    }
+   },
+   "chart_slug": "countries-long-standing-electoral-democracies",
+   "column_short_names": {
+    "Entity": "entity",
+    "Code": "code",
+    "Year": "year",
+    "Closed autocracies": "num_countries_regime__category_closed_autocracy",
+    "Electoral autocracies": "num_countries_regime__category_electoral_autocracy",
+    "Electoral democracies aged 1-18": "num_countries_years_in_electdem__category_1_18_years",
+    "aged 19-30": "num_countries_years_in_electdem__category_19_30_years",
+    "aged 31-60": "num_countries_years_in_electdem__category_31_60_years",
+    "aged 61-90": "num_countries_years_in_electdem__category_61_90_years",
+    "aged 91 +": "num_countries_years_in_electdem__category_91plus_years"
+   }
+  }
+ ]
+}

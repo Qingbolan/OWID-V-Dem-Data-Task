@@ -1,0 +1,59 @@
+{
+ "chart": {
+  "title": "Time women and men spend on unpaid care and domestic work",
+  "subtitle": "Average hours per day that women and men aged 15 and older spend on unpaid care and domestic work.",
+  "note": "Unpaid care and domestic work includes: food preparation, dishwashing, upkeep of a dwelling, laundry, ironing, gardening, caring for pets, shopping, servicing and repair of personal and household goods, childcare, and care of the sick, elderly or disabled household members, among others.",
+  "citation": "United Nations Statistics Division and UN Women",
+  "originalChartUrl": "https://ourworldindata.org/grapher/time-spend-in-domestic-work-female-vs-male",
+  "selection": [
+   "India",
+   "Brazil",
+   "Austria",
+   "Argentina",
+   "Guatemala",
+   "Greece",
+   "Germany",
+   "Costa Rica",
+   "Finland",
+   "United States",
+   "Cameroon"
+  ]
+ },
+ "columns": {
+  "5.4.1 - Hours per day spent on unpaid domestic labor, by sex, age and location (hrs per day) - SL_DOM_TSPD - 15 years old and over - All areas - Female": {
+   "titleShort": "Women",
+   "titleLong": "Women",
+   "descriptionShort": "Hours per day spent on unpaid domestic labor, by sex, age and location (hrs per day).",
+   "descriptionProcessing": "Originally reported as a share of the day (%). Converted to hours per day by multiplying by 24.",
+   "shortUnit": "h/day",
+   "unit": "hours per day",
+   "timespan": "2000-2025",
+   "type": "Numeric",
+   "owidVariableId": 1304682,
+   "shortName": "_5_4_1__sl_dom_tspd__15_years_old_and_over__all_areas__female",
+   "lastUpdated": "2026-07-31",
+   "nextUpdate": "2027-07-31",
+   "citationShort": "United Nations Statistics Division and UN Women – processed by Our World in Data",
+   "citationLong": "United Nations Statistics Division and UN Women – processed by Our World in Data. “Women” [dataset]. United Nations Statistics Division and UN Women, “Data from multiple sources” [original data].",
+   "fullMetadata": "https://api.ourworldindata.org/v1/indicators/1304682.metadata.json"
+  },
+  "5.4.1 - Hours per day spent on unpaid domestic labor, by sex, age and location (hrs per day) - SL_DOM_TSPD - 15 years old and over - All areas - Male": {
+   "titleShort": "Men",
+   "titleLong": "Men",
+   "descriptionShort": "Hours per day spent on unpaid domestic labor, by sex, age and location (hrs per day).",
+   "descriptionProcessing": "Originally reported as a share of the day (%). Converted to hours per day by multiplying by 24.",
+   "shortUnit": "h/day",
+   "unit": "hours per day",
+   "timespan": "2000-2025",
+   "type": "Numeric",
+   "owidVariableId": 1304683,
+   "shortName": "_5_4_1__sl_dom_tspd__15_years_old_and_over__all_areas__male",
+   "lastUpdated": "2026-07-31",
+   "nextUpdate": "2027-07-31",
+   "citationShort": "United Nations Statistics Division and UN Women – processed by Our World in Data",
+   "citationLong": "United Nations Statistics Division and UN Women – processed by Our World in Data. “Men” [dataset]. United Nations Statistics Division and UN Women, “Data from multiple sources” [original data].",
+   "fullMetadata": "https://api.ourworldindata.org/v1/indicators/1304683.metadata.json"
+  }
+ },
+ "dateDownloaded": "2026-10-29"
+}

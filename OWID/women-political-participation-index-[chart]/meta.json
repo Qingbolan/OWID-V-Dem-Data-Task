@@ -1,0 +1,56 @@
+{
+ "title": "Women's Political Participation Index",
+ "url": "https://ourworldindata.org/grapher/women-political-participation-index",
+ "date_published": null,
+ "chart_page": true,
+ "authors": [],
+ "retrieved_at": "2026-10-29T17:54:32.096201+00:00",
+ "materialised_at": "2026-10-29T17:54:32.096211+00:00",
+ "source_original_sha256": "6d6ab296d5c8da738fd172baac1b317405a7c7cae7d07f9ecf5f02e483754b86",
+ "offline_snapshot": {
+  "page": "source.html",
+  "assets": "source_files/",
+  "assets_manifest": "source_files/manifest.json",
+  "asset_count": 73,
+  "removed": "all <script> elements except application/ld+json"
+ },
+ "figures": [
+  {
+   "index": 1,
+   "name": "01 Women's Political Participation Index",
+   "embed": {
+    "slug": "women-political-participation-index",
+    "query": {},
+    "image": null
+   },
+   "view_url": "https://ourworldindata.org/grapher/women-political-participation-index",
+   "csv_url": "https://ourworldindata.org/grapher/women-political-participation-index.csv?csvType=filtered",
+   "png_url": "https://ourworldindata.org/grapher/women-political-participation-index.png",
+   "data_available": true,
+   "config_title": "Women's Political Participation Index",
+   "config_subtitle": "Data by [V-Dem](#dod:v-dem). Expert estimates of the extent to which women are represented in the legislature and have an equal share of political power. The index ranges from 0 to 1 (most equal).",
+   "files": {
+    "txt": {
+     "path": "figs/01 Women's Political Participation Index.txt",
+     "sha256": "777d9c3e1bb20f78b33f2ee5bea528e2a6c41a510137685fc5cdb06c656849d2"
+    },
+    "csv": {
+     "path": "figs/01 Women's Political Participation Index.csv",
+     "sha256": "8acdf9314940e3490179e7a5f77454d5d06cd1254b5b794e8b2204785be216e9"
+    },
+    "png": {
+     "path": "figs/01 Women's Political Participation Index.png",
+     "sha256": "fb22c694ddfece8494f66cc3efb2570ca29f1130f7a6c5024a37e1b837cd62b7"
+    }
+   },
+   "chart_slug": "women-political-participation-index",
+   "column_short_names": {
+    "Entity": "entity",
+    "Code": "code",
+    "Year": "year",
+    "Women's Political Participation Index": "wom_pol_par_vdem__estimate_best",
+    "World region according to OWID": "owid_region"
+   }
+  }
+ ]
+}

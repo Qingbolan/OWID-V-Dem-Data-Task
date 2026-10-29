@@ -1,0 +1,6 @@
+{
+ "figure": "01 Tax revenue as share of GDP",
+ "checked_at": "2026-10-29T18:06:18.425428+00:00",
+ "status": "not_reproducible",
+ "reason": "the chart is not one of the V-Dem-only charts (data/reference/charts.json): it plots grapher/regions/2023-01-01/regions, grapher/unu_wider/2026-03-24/government_revenue_dataset"
+}

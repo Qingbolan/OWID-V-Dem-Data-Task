@@ -1,0 +1,12 @@
+Figure 05: 05 Countries that are democratizing and autocratizing
+Article: Democracy (2013-03-15)
+
+Title: Countries that are democratizing and autocratizing
+Subtitle: Data by [Episodes of Regime Transformation](#dod:regimes-episodes-regime-transformation) and [V-Dem](#dod:v-dem).
+Note: 
+Source: Episodes of Regime Transformation (2026)
+Units: countries
+Chart: https://ourworldindata.org/grapher/countries-that-are-democratizing-and-autocratizing?stackMode=absolute
+
+Text before the figure: We use the ERT data here, but there are several other leading approaches to measuring democracy, which sometimes classify or score countries differently. You can explore them in our Democracy Data Explorer .
+Text after the figure: # Explore Data on Democracy

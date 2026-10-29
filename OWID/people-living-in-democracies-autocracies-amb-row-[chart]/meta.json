@@ -1,0 +1,65 @@
+{
+ "title": "People living in democracies and autocracies",
+ "url": "https://ourworldindata.org/grapher/people-living-in-democracies-autocracies-amb-row",
+ "date_published": null,
+ "chart_page": true,
+ "authors": [],
+ "retrieved_at": "2026-10-29T17:36:36.965543+00:00",
+ "materialised_at": "2026-10-29T17:36:36.965551+00:00",
+ "source_original_sha256": "c0974df64da22c394087bedc820034b18a4a935dcab011361a26a9d15f1e6492",
+ "offline_snapshot": {
+  "page": "source.html",
+  "assets": "source_files/",
+  "assets_manifest": "source_files/manifest.json",
+  "asset_count": 73,
+  "removed": "all <script> elements except application/ld+json"
+ },
+ "figures": [
+  {
+   "index": 1,
+   "name": "01 People living in democracies and autocracies",
+   "embed": {
+    "slug": "people-living-in-democracies-autocracies-amb-row",
+    "query": {},
+    "image": null
+   },
+   "view_url": "https://ourworldindata.org/grapher/people-living-in-democracies-autocracies-amb-row",
+   "csv_url": "https://ourworldindata.org/grapher/people-living-in-democracies-autocracies-amb-row.csv?csvType=filtered",
+   "png_url": "https://ourworldindata.org/grapher/people-living-in-democracies-autocracies-amb-row.png",
+   "data_available": true,
+   "config_title": "People living in democracies and autocracies",
+   "config_subtitle": "Classification by [Lührmann et al. (2018)](#dod:regimes-of-the-world) based on expert estimates by [V-Dem](#dod:v-dem).",
+   "files": {
+    "txt": {
+     "path": "figs/01 People living in democracies and autocracies.txt",
+     "sha256": "ec604f68367830bb5f8f4844c8c6ca9ab19809bf13346efa76dddba22ada1097"
+    },
+    "csv": {
+     "path": "figs/01 People living in democracies and autocracies.csv",
+     "sha256": "18e5ade20959b4d0c4b4904a1b761898e40b2ffd064a91403bcb4a5242329fd0"
+    },
+    "png": {
+     "path": "figs/01 People living in democracies and autocracies.png",
+     "sha256": "bbded8cc9083409ff86cf189d73fc0b466d38ece7c6f60d5f7d9f7f5350eef26"
+    }
+   },
+   "chart_slug": "people-living-in-democracies-autocracies-amb-row",
+   "column_short_names": {
+    "Entity": "entity",
+    "Code": "code",
+    "Year": "year",
+    "No regime data": "population_regime_amb__category__1",
+    "People living in closed autocracies": "population_regime_amb__category_closed_autocracy",
+    "in probably closed aut.": "population_regime_amb__category_closed__maybe_electoral__autocracy",
+    "in probably elect. aut.": "population_regime_amb__category_electoral__maybe_closed__autocracy",
+    "in electoral autocracies": "population_regime_amb__category_electoral_autocracy",
+    " in probably elect. aut.": "population_regime_amb__category_electoral_autocracy__maybe_electoral_democracy",
+    "in probably elect. dem.": "population_regime_amb__category_electoral_democracy__maybe_electoral_autocracy",
+    "in electoral democracies": "population_regime_amb__category_electoral_democracy",
+    " in probably elect. dem.": "population_regime_amb__category_electoral_democracy__maybe_liberal_democracy",
+    "in probably lib. dem.": "population_regime_amb__category_liberal_democracy__maybe_electoral_democracy",
+    "in liberal democracies": "population_regime_amb__category_liberal_democracy"
+   }
+  }
+ ]
+}

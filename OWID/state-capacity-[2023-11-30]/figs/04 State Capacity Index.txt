@@ -1,0 +1,12 @@
+Figure 04: 04 State Capacity Index
+Article: State Capacity (2023-11-30)
+
+Title: State Capacity Index
+Subtitle: The index captures the extent to which the state controls its territory, sustainably raises sufficient resources, and has skilled and impartial security forces and public servants. Higher scores mean more capacity.
+Note: 
+Source: Jonathan Hanson and Rachel Sigman (2021); Population based on various sources (2023)
+Units: 
+Chart: https://ourworldindata.org/grapher/state-capacity-index?tab=line&time=earliest..2015
+
+Text before the figure: Higher values indicate more capacity. Specific values, including zero, do not have an intuitive meaning.
+Text after the figure: #### For centuries, many territories and people were ruled from elsewhere

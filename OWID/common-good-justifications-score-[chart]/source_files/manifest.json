@@ -1,0 +1,374 @@
+{
+ "page_url": "https://ourworldindata.org/grapher/common-good-justifications-score",
+ "original": "source.original.html",
+ "original_sha256": "aeca6d733542b09bc28edca842d582e947ab81ab26efc3cc8514ab5805d41b47",
+ "removed": "all <script> elements except application/ld+json",
+ "assets": {
+  "https://ourworldindata.org/favicon.ico": {
+   "path": "favicon-d1f144579b.ico",
+   "bytes": 1971,
+   "sha256": "1d6702f47aca42322a0d13241c493dd7ff9e1d4c2c7ca5a3a2cc9018edee65f7"
+  },
+  "https://ourworldindata.org/icon.svg": {
+   "path": "icon-ff8267052e.svg",
+   "bytes": 2465,
+   "sha256": "4dfa290441df2649ac44b4c16f1ab15074cf0b33ae6ca46e22777f6d8bb04bbd"
+  },
+  "https://ourworldindata.org/apple-touch-icon.png": {
+   "path": "apple-touch-icon-29e363e042.png",
+   "bytes": 1048,
+   "sha256": "38822130106bc15e007395d92b78cc45ae74bea1a7335cf59e8d3c95aa971b33"
+  },
+  "https://ourworldindata.org/fonts/LatoLatin-Hairline.woff2": {
+   "path": "LatoLatin-Hairline-c4baf4924f.woff2",
+   "bytes": 31412,
+   "sha256": "baa66cc06a42e66bdf85b2c4801e58038d02c04954e0cdde185619f42575bb40"
+  },
+  "https://ourworldindata.org/fonts/LatoLatin-HairlineItalic.woff2": {
+   "path": "LatoLatin-HairlineItalic-da452b3ce6.woff2",
+   "bytes": 33188,
+   "sha256": "ba6eaf35d1b2a93c046d265a60e3faba1fe65caf9bd1ebd83ea057667674eba1"
+  },
+  "https://ourworldindata.org/fonts/LatoLatin-Thin.woff2": {
+   "path": "LatoLatin-Thin-2d5915c98d.woff2",
+   "bytes": 33932,
+   "sha256": "27d31d611277f2ddf4888cbb8143891597b947a9d9957611fb72a6c12dc2ae21"
+  },
+  "https://ourworldindata.org/fonts/LatoLatin-ThinItalic.woff2": {
+   "path": "LatoLatin-ThinItalic-60d22844a8.woff2",
+   "bytes": 35232,
+   "sha256": "13814d52ed8d508655f3b083b37d672a72e8466a7da178d39fc61b85ac2c813d"
+  },
+  "https://ourworldindata.org/fonts/LatoLatin-Light.woff2": {
+   "path": "LatoLatin-Light-a7f42dba17.woff2",
+   "bytes": 34120,
+   "sha256": "73f4681ebfa49fe23607f49a93a7df2213e84babe1082d86c6539eaf61f50293"
+  },
+  "https://ourworldindata.org/fonts/LatoLatin-LightItalic.woff2": {
+   "path": "LatoLatin-LightItalic-704eb84778.woff2",
+   "bytes": 35420,
+   "sha256": "ce8e431fe6986f95d3761f30aa03b9435d6d80cfc2d5f942eff0f98954e4590f"
+  },
+  "https://ourworldindata.org/fonts/LatoLatin-Regular.woff2": {
+   "path": "LatoLatin-Regular-2c8cb731f3.woff2",
+   "bytes": 34336,
+   "sha256": "88c5b9c05d1693e4bb70f298ea5ed6ab8158d0565bea08b419d8fa5ede4aacaa"
+  },
+  "https://ourworldindata.org/fonts/LatoLatin-Italic.woff2": {
+   "path": "LatoLatin-Italic-62f9522790.woff2",
+   "bytes": 35840,
+   "sha256": "eb3b3d7b0738adc0fc207067033d296aa4a2a1674cddc9cc9c7d5ac156e957c6"
+  },
+  "https://ourworldindata.org/fonts/LatoLatin-Medium.woff2": {
+   "path": "LatoLatin-Medium-c7af9a4db8.woff2",
+   "bytes": 34664,
+   "sha256": "e37e2eb79686e64dfaf0b158b5ad5ca0c72fcf8cff66ecc2a9dc3171edbf9451"
+  },
+  "https://ourworldindata.org/fonts/LatoLatin-MediumItalic.woff2": {
+   "path": "LatoLatin-MediumItalic-d72c88886b.woff2",
+   "bytes": 35748,
+   "sha256": "2f06c1cb5064e8dc237339f5b692519cf46b5fcba173466c24a05f5105ba9fae"
+  },
+  "https://ourworldindata.org/fonts/LatoLatin-Semibold.woff2": {
+   "path": "LatoLatin-Semibold-7c538e8fea.woff2",
+   "bytes": 34388,
+   "sha256": "338e0ee08b65117c4b6d577cab60ceccf611604c47e049fb31f42477e0d0edfb"
+  },
+  "https://ourworldindata.org/fonts/LatoLatin-SemiboldItalic.woff2": {
+   "path": "LatoLatin-SemiboldItalic-1903a89e31.woff2",
+   "bytes": 36008,
+   "sha256": "a9c0e22f651b2200fad5529defbf6ca9c89d1c2bcf04d0ce15388ede898163ef"
+  },
+  "https://ourworldindata.org/fonts/LatoLatin-Bold.woff2": {
+   "path": "LatoLatin-Bold-ad08ab5d1b.woff2",
+   "bytes": 34312,
+   "sha256": "ee483c8339e3e7d00219e9f8ad10ab0219643956e80e8c7fe9d81024a264eb81"
+  },
+  "https://ourworldindata.org/fonts/LatoLatin-BoldItalic.woff2": {
+   "path": "LatoLatin-BoldItalic-a3feca4431.woff2",
+   "bytes": 35784,
+   "sha256": "2e173706738df9e485c2535f101de4adab5cec687b4b05da8967e10a60491bd7"
+  },
+  "https://ourworldindata.org/fonts/LatoLatin-Heavy.woff2": {
+   "path": "LatoLatin-Heavy-bd5c574369.woff2",
+   "bytes": 34504,
+   "sha256": "bc9bcde8479403ceadfc3ab424f33859443f40a4de8d505619c199f864940c6f"
+  },
+  "https://ourworldindata.org/fonts/LatoLatin-HeavyItalic.woff2": {
+   "path": "LatoLatin-HeavyItalic-39082cb158.woff2",
+   "bytes": 35964,
+   "sha256": "3feda293cee771cf5d6a542f448f3be53147eeae9a10bb5c2c388cf188ea2e00"
+  },
+  "https://ourworldindata.org/fonts/LatoLatin-Black.woff2": {
+   "path": "LatoLatin-Black-606db3cde7.woff2",
+   "bytes": 33456,
+   "sha256": "29bb0497beb16c967e33486fc5e7e4554a51d09407678cdfe36a06fa910d0006"
+  },
+  "https://ourworldindata.org/fonts/LatoLatin-BlackItalic.woff2": {
+   "path": "LatoLatin-BlackItalic-e6c53b1d30.woff2",
+   "bytes": 34756,
+   "sha256": "3c92ce6495904b07144dfa735602b13458aa74e6748163e369e292fd3bbefef0"
+  },
+  "https://ourworldindata.org/fonts/Lato-Hairline.woff2": {
+   "path": "Lato-Hairline-3d5469ffdd.woff2",
+   "bytes": 161672,
+   "sha256": "d9d9b406b5ddaad1ab4f9a5657bf42c84502bec768df78091924da824481757f"
+  },
+  "https://ourworldindata.org/fonts/Lato-HairlineItalic.woff2": {
+   "path": "Lato-HairlineItalic-fbe59124a4.woff2",
+   "bytes": 173948,
+   "sha256": "a484035048d45975f63b8352e5466920507602aad54b1e67315973329639c5a5"
+  },
+  "https://ourworldindata.org/fonts/Lato-Thin.woff2": {
+   "path": "Lato-Thin-8df2387730.woff2",
+   "bytes": 180576,
+   "sha256": "46a8722d9bf3c2441ddc81898e2b29f5fa7685765edf43b1003d50eb272076ef"
+  },
+  "https://ourworldindata.org/fonts/Lato-ThinItalic.woff2": {
+   "path": "Lato-ThinItalic-69070af7a1.woff2",
+   "bytes": 191804,
+   "sha256": "747f88b0cfeb061172fb4da48c3fd59e6ee45a0b9ca6ee556fc79c7e9bc8d683"
+  },
+  "https://ourworldindata.org/fonts/Lato-Light.woff2": {
+   "path": "Lato-Light-4bf7eeaa35.woff2",
+   "bytes": 181500,
+   "sha256": "f308e8c0de302ee57cd35b5365a028466300cebdc805c3a0b80c92fff3adbf44"
+  },
+  "https://ourworldindata.org/fonts/Lato-LightItalic.woff2": {
+   "path": "Lato-LightItalic-35604e6523.woff2",
+   "bytes": 192916,
+   "sha256": "4ecc8765454b071973cb44437e4d94b76f0842457175e0d443493c3ab38befd8"
+  },
+  "https://ourworldindata.org/fonts/Lato-Regular.woff2": {
+   "path": "Lato-Regular-d5f5de4db0.woff2",
+   "bytes": 182708,
+   "sha256": "983b0caf336e8542214fc17019a4fc5e0360864b92806ca14d55c1fc1c2c5a0f"
+  },
+  "https://ourworldindata.org/fonts/Lato-Italic.woff2": {
+   "path": "Lato-Italic-49ca3778af.woff2",
+   "bytes": 195704,
+   "sha256": "4465765f2f6eddcdad34ffd7cab559e56bc0e75e45e192f85e9562b0771481dc"
+  },
+  "https://ourworldindata.org/fonts/Lato-Medium.woff2": {
+   "path": "Lato-Medium-d5ba1eaeef.woff2",
+   "bytes": 182144,
+   "sha256": "537a85fb47f6a43a7654bb015c2109d579e098c635a8f713711185abdc7f8f4c"
+  },
+  "https://ourworldindata.org/fonts/Lato-MediumItalic.woff2": {
+   "path": "Lato-MediumItalic-cfe1ba5c90.woff2",
+   "bytes": 194608,
+   "sha256": "e4494fc9b671272a1debd1ec0aa41a5edeba26c536ec041b686efef073e92a52"
+  },
+  "https://ourworldindata.org/fonts/Lato-Semibold.woff2": {
+   "path": "Lato-Semibold-ddd5865dc8.woff2",
+   "bytes": 184076,
+   "sha256": "30f77a5ff0bcba46d4e760b0c939a5ff112da0d3ddd13a261834134e00cc21c7"
+  },
+  "https://ourworldindata.org/fonts/Lato-SemiboldItalic.woff2": {
+   "path": "Lato-SemiboldItalic-aa1e20e6b9.woff2",
+   "bytes": 195128,
+   "sha256": "207963887e9b2f49261fcf675fe2ba261a2968079e7fe83dbc9ae24dce647e03"
+  },
+  "https://ourworldindata.org/fonts/Lato-Bold.woff2": {
+   "path": "Lato-Bold-510539c745.woff2",
+   "bytes": 184912,
+   "sha256": "ae88fc0d7a961832f809527d30bd3983a6866d42f66a56ade23f543681594db6"
+  },
+  "https://ourworldindata.org/fonts/Lato-BoldItalic.woff2": {
+   "path": "Lato-BoldItalic-e06b3461cb.woff2",
+   "bytes": 193308,
+   "sha256": "c0916a33340d063f7b05679e08031e729d1888444706f04804705da5966d895d"
+  },
+  "https://ourworldindata.org/fonts/Lato-Heavy.woff2": {
+   "path": "Lato-Heavy-1981fb4dd1.woff2",
+   "bytes": 184520,
+   "sha256": "ceec41468f0cc73c37dcb60899bc324965bd9bedb9bab20685507c21b6262d67"
+  },
+  "https://ourworldindata.org/fonts/Lato-HeavyItalic.woff2": {
+   "path": "Lato-HeavyItalic-81ab6376ce.woff2",
+   "bytes": 194272,
+   "sha256": "f778270145fd838bd2cea5b9a3718bb4efba91e521d12761db6a453cc8b4f9b3"
+  },
+  "https://ourworldindata.org/fonts/Lato-Black.woff2": {
+   "path": "Lato-Black-f0af31ba9f.woff2",
+   "bytes": 176748,
+   "sha256": "34bb46634d07ac579411823eb39fac1376b012257460066a98b95075d086ccdd"
+  },
+  "https://ourworldindata.org/fonts/Lato-BlackItalic.woff2": {
+   "path": "Lato-BlackItalic-e555c110ed.woff2",
+   "bytes": 185544,
+   "sha256": "4b470f4680bcdea48db9e2e3df6a948ce7f4d96b8944c2de7ad97521899ddf19"
+  },
+  "https://ourworldindata.org/fonts/PlayfairDisplayLatin-Regular.woff2": {
+   "path": "PlayfairDisplayLatin-Regular-5d6a2375ba.woff2",
+   "bytes": 29252,
+   "sha256": "7c387a74e20e1c3f117cbc6992f1b11b526a24be4ac1db3db9cf53d4a48eed80"
+  },
+  "https://ourworldindata.org/fonts/PlayfairDisplayLatin-Italic.woff2": {
+   "path": "PlayfairDisplayLatin-Italic-4fdd06f089.woff2",
+   "bytes": 28752,
+   "sha256": "d0a18b183722356e4ebfb0d962526adb8e615176cbb2391bfab213f0ffbc7bf3"
+  },
+  "https://ourworldindata.org/fonts/PlayfairDisplayLatin-Medium.woff2": {
+   "path": "PlayfairDisplayLatin-Medium-42d803b064.woff2",
+   "bytes": 31352,
+   "sha256": "9577b52bc782c88b659f511ee4391dd508ab3c981aab304926d4dab151d0fe46"
+  },
+  "https://ourworldindata.org/fonts/PlayfairDisplayLatin-MediumItalic.woff2": {
+   "path": "PlayfairDisplayLatin-MediumItalic-27a87b99e1.woff2",
+   "bytes": 30888,
+   "sha256": "3a879ba9272f1184d061c53ddeccf95c35d0ec6601879b2fe430619cbb1e55d0"
+  },
+  "https://ourworldindata.org/fonts/PlayfairDisplayLatin-SemiBold.woff2": {
+   "path": "PlayfairDisplayLatin-SemiBold-9f3197576d.woff2",
+   "bytes": 31564,
+   "sha256": "0786dddc7a3935b20b18b91936f04dcebbff9b248a8e7c4067193913c8d6db29"
+  },
+  "https://ourworldindata.org/fonts/PlayfairDisplayLatin-SemiBoldItalic.woff2": {
+   "path": "PlayfairDisplayLatin-SemiBoldItalic-39cc2cc595.woff2",
+   "bytes": 31036,
+   "sha256": "b04de23414a9f696105ba27193860a08ebde9bd2b774651f3c164cce435ec2c1"
+  },
+  "https://ourworldindata.org/fonts/PlayfairDisplayLatin-Bold.woff2": {
+   "path": "PlayfairDisplayLatin-Bold-6b2e6d3fdf.woff2",
+   "bytes": 31624,
+   "sha256": "1ede897b597a5ff8840f4e2bc471b5b97ebf729efe97a1b364bd065cc49f3717"
+  },
+  "https://ourworldindata.org/fonts/PlayfairDisplayLatin-BoldItalic.woff2": {
+   "path": "PlayfairDisplayLatin-BoldItalic-a9a2c7d0f9.woff2",
+   "bytes": 31176,
+   "sha256": "d3e96183b32b02818fdc72e32c2b1d585e278f74abebaacabbf96b9a0ed509ae"
+  },
+  "https://ourworldindata.org/fonts/PlayfairDisplayLatin-ExtraBold.woff2": {
+   "path": "PlayfairDisplayLatin-ExtraBold-243db6d975.woff2",
+   "bytes": 31516,
+   "sha256": "380b5bd9361dd7816c5c6c75282339cd570a5fc86bf97b58c2582b992c88b981"
+  },
+  "https://ourworldindata.org/fonts/PlayfairDisplayLatin-ExtraBoldItalic.woff2": {
+   "path": "PlayfairDisplayLatin-ExtraBoldItalic-75b91fa88d.woff2",
+   "bytes": 31144,
+   "sha256": "f0799d8d2ad82a9da8db9a3452044d10dfa979ffe4df43bffbe6f50127c08315"
+  },
+  "https://ourworldindata.org/fonts/PlayfairDisplayLatin-Black.woff2": {
+   "path": "PlayfairDisplayLatin-Black-0d909aaaea.woff2",
+   "bytes": 30308,
+   "sha256": "8bc37404ff8d26f4976b80db5890083db7d28dffa566dbcc5b40a3ac0578a141"
+  },
+  "https://ourworldindata.org/fonts/PlayfairDisplayLatin-BlackItalic.woff2": {
+   "path": "PlayfairDisplayLatin-BlackItalic-1194a61996.woff2",
+   "bytes": 29004,
+   "sha256": "8c6c442b96700f6bbe80d1c992c876b1b3230e63bbe9de55ca92ba32aeefd81a"
+  },
+  "https://ourworldindata.org/fonts/PlayfairDisplay-Regular.woff2": {
+   "path": "PlayfairDisplay-Regular-37a0685155.woff2",
+   "bytes": 55260,
+   "sha256": "d4a0ca6ebf9d3f4418f4c87f89e86a755f9174d3323b6c2b16b3acea74b53952"
+  },
+  "https://ourworldindata.org/fonts/PlayfairDisplay-Italic.woff2": {
+   "path": "PlayfairDisplay-Italic-c55e7cb09e.woff2",
+   "bytes": 53756,
+   "sha256": "8f85f2b1fd7f5a5feb232ee08e50f47e8874ebce80d376bedb730873fe68cc94"
+  },
+  "https://ourworldindata.org/fonts/PlayfairDisplay-Medium.woff2": {
+   "path": "PlayfairDisplay-Medium-d7427676e2.woff2",
+   "bytes": 59828,
+   "sha256": "269ff0361934f2008b4f9c83be3c075a2166ecc568c255297ec5ba2c8d83c205"
+  },
+  "https://ourworldindata.org/fonts/PlayfairDisplay-MediumItalic.woff2": {
+   "path": "PlayfairDisplay-MediumItalic-8159f42a41.woff2",
+   "bytes": 57420,
+   "sha256": "855a934af5c49c2fcba06858704be5097448d5c8d5f4aa752857a3eb5d60a9a6"
+  },
+  "https://ourworldindata.org/fonts/PlayfairDisplay-SemiBold.woff2": {
+   "path": "PlayfairDisplay-SemiBold-56a6d7da70.woff2",
+   "bytes": 60024,
+   "sha256": "31dec59bab529c0bd52a373c9a8698f22395d183199aaae0cea3212e4bb1a44b"
+  },
+  "https://ourworldindata.org/fonts/PlayfairDisplay-SemiBoldItalic.woff2": {
+   "path": "PlayfairDisplay-SemiBoldItalic-fcfb989a95.woff2",
+   "bytes": 57848,
+   "sha256": "e98dd189a2d9d90238064ea8054d83451ad97d8d255a27220ba18344647ba7bf"
+  },
+  "https://ourworldindata.org/fonts/PlayfairDisplay-Bold.woff2": {
+   "path": "PlayfairDisplay-Bold-3a019351f4.woff2",
+   "bytes": 60056,
+   "sha256": "80eadae42589636e2421786500b8487b4e8d3b441df11e46269e3ed93fd400f7"
+  },
+  "https://ourworldindata.org/fonts/PlayfairDisplay-BoldItalic.woff2": {
+   "path": "PlayfairDisplay-BoldItalic-390b1ff4a8.woff2",
+   "bytes": 57912,
+   "sha256": "b9efa59573534c3f056b228352973b4a64b9cb6dd492ae6bc28c1ccfa5d42fe9"
+  },
+  "https://ourworldindata.org/fonts/PlayfairDisplay-ExtraBold.woff2": {
+   "path": "PlayfairDisplay-ExtraBold-7a20c6ed6f.woff2",
+   "bytes": 60112,
+   "sha256": "7e8c7f228d380656a097c38844f43c5f066b6653d8b098e12a9b49205fad605b"
+  },
+  "https://ourworldindata.org/fonts/PlayfairDisplay-ExtraBoldItalic.woff2": {
+   "path": "PlayfairDisplay-ExtraBoldItalic-ae8159fb8e.woff2",
+   "bytes": 57820,
+   "sha256": "20e727009d970261b49f9933a9c3d467266cf7dcd45165fc72261d92b7cecd77"
+  },
+  "https://ourworldindata.org/fonts/PlayfairDisplay-Black.woff2": {
+   "path": "PlayfairDisplay-Black-e032269e10.woff2",
+   "bytes": 57248,
+   "sha256": "0005e2c73efe4e2fa400c0c3118016d122e7ce5e1b22040a66b796c9bbd785e0"
+  },
+  "https://ourworldindata.org/fonts/PlayfairDisplay-BlackItalic.woff2": {
+   "path": "PlayfairDisplay-BlackItalic-ffabce7b3b.woff2",
+   "bytes": 54176,
+   "sha256": "1326ad0883e600e3884b46ee525e4eb9f1d9a423d5212c57882690a0d5c827e5"
+  },
+  "https://ourworldindata.org/images/world.svg": {
+   "path": "world-7cf88a76d6.svg",
+   "bytes": 40769,
+   "sha256": "219d74b478290bc7d424642f1fa517585bd88abc1483f170b8e339472fed17ca"
+  },
+  "https://ourworldindata.org/explorer-thumbnail.webp": {
+   "path": "explorer-thumbnail-4b4a56d763.webp",
+   "bytes": 23468,
+   "sha256": "570febe545f7915cfaf6d0e6bfb1400885a39c3fe0e4316eef762f808921b244"
+  },
+  "https://ourworldindata.org/assets/owid.css": {
+   "path": "owid-7b5b06cac8.css",
+   "bytes": 627263,
+   "sha256": "a248ab4c9e7c095b47476bb7ab6e08ed47a22d274d48fb3ca4b33aadd79d1f96",
+   "note": "url() references rewritten to local files"
+  },
+  "https://ourworldindata.org/oms-logo.svg": {
+   "path": "oms-logo-d019f29aa8.svg",
+   "bytes": 4774,
+   "sha256": "1688a00f1a2ff982d565805ad767cbf679d97d6fa0a15f68293ebd2e17353e26"
+  },
+  "https://ourworldindata.org/oxford-logo.svg": {
+   "path": "oxford-logo-1441512a51.svg",
+   "bytes": 12418,
+   "sha256": "7029779469eeb7cc775e3e418cdefd47e48ac6944e24e3f82abd57ed955a9155"
+  },
+  "https://ourworldindata.org/gcdl-logo.svg": {
+   "path": "gcdl-logo-33fb19deca.svg",
+   "bytes": 3324,
+   "sha256": "6a7a19b4772235589e89d1b24d2499a491eda58641a3ac1624531eb4c4b27f71"
+  },
+  "https://ourworldindata.org/grapher/common-good-justifications-score.png?imWidth=850": {
+   "path": "common-good-justifications-score-51952fc4c8.png",
+   "bytes": 140067,
+   "sha256": "f02b99827f15e545cda2e7a627c96df1bfd32f9e635781a66718efc3238aaaba"
+  },
+  "https://ourworldindata.org/grapher/common-good-justifications-score.png?imWidth=1700": {
+   "path": "common-good-justifications-score-5e229083be.png",
+   "bytes": 318963,
+   "sha256": "4f4689c5242325d5ec45092c0d2c0b74b4d441a82349fe5450a03218b517190b"
+  },
+  "https://ourworldindata.org/grapher/common-good-justifications-score.png": {
+   "path": "common-good-justifications-score-910a6e50f5.png",
+   "bytes": 140067,
+   "sha256": "f02b99827f15e545cda2e7a627c96df1bfd32f9e635781a66718efc3238aaaba"
+  },
+  "https://ourworldindata.org/yc-logo.svg": {
+   "path": "yc-logo-b653d9bbce.svg",
+   "bytes": 5929,
+   "sha256": "0adc0b248f89d95ebd4ed732d313a7ae2149f45b92cfe6b5ca3644c0495acde1"
+  }
+ }
+}

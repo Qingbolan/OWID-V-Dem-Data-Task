@@ -1,0 +1,166 @@
+Entity,Code,Year,Legislative Corruption Score
+Albania,ALB,2025,-0.998
+Algeria,DZA,2025,-0.565
+Angola,AGO,2025,-0.49
+Argentina,ARG,2025,0.622
+Armenia,ARM,2025,-0.099
+Australia,AUS,2025,1.717
+Austria,AUT,2025,1.465
+Azerbaijan,AZE,2025,-2.287
+Bahrain,BHR,2025,-0.654
+Barbados,BRB,2025,1.667
+Belarus,BLR,2025,0.016
+Belgium,BEL,2025,1.922
+Benin,BEN,2025,0.672
+Bhutan,BTN,2025,1.664
+Bolivia,BOL,2025,-0.553
+Bosnia and Herzegovina,BIH,2025,-0.903
+Botswana,BWA,2025,0.787
+Brazil,BRA,2025,-1.33
+Bulgaria,BGR,2025,-1.025
+Burkina Faso,BFA,2025,1.726
+Burundi,BDI,2025,-0.719
+Cambodia,KHM,2025,-1.414
+Cameroon,CMR,2025,-1.932
+Canada,CAN,2025,1.679
+Cape Verde,CPV,2025,0.15
+Central African Republic,CAF,2025,-2.481
+Chad,TCD,2025,-2.246
+Chile,CHL,2025,1.43
+China,CHN,2025,0.417
+Colombia,COL,2025,-0.6
+Comoros,COM,2025,-0.476
+Congo,COG,2025,-1.456
+Costa Rica,CRI,2025,0.506
+Cote d'Ivoire,CIV,2025,0.294
+Croatia,HRV,2025,0.285
+Cuba,CUB,2025,-0.837
+Cyprus,CYP,2025,1.101
+Czechia,CZE,2025,0.919
+Democratic Republic of Congo,COD,2025,-1.782
+Denmark,DNK,2025,2.977
+Djibouti,DJI,2025,-0.148
+Dominican Republic,DOM,2025,-1.116
+East Timor,TLS,2025,0.938
+Ecuador,ECU,2025,-0.776
+Egypt,EGY,2025,-0.528
+El Salvador,SLV,2025,-0.637
+Equatorial Guinea,GNQ,2025,-0.712
+Estonia,EST,2025,2.194
+Eswatini,SWZ,2025,-0.371
+Ethiopia,ETH,2025,0.641
+Fiji,FJI,2025,0.308
+Finland,FIN,2025,1.816
+France,FRA,2025,1.311
+Gabon,GAB,2025,-1.029
+Gambia,GMB,2025,0.948
+Georgia,GEO,2025,0.322
+Germany,DEU,2025,1.711
+Ghana,GHA,2025,1.204
+Greece,GRC,2025,0.391
+Guatemala,GTM,2025,-2.17
+Guinea,GIN,2025,0.015
+Guyana,GUY,2025,0.851
+Honduras,HND,2025,-1.13
+Hungary,HUN,2025,-1.18
+Iceland,ISL,2025,2.312
+India,IND,2025,-1.059
+Indonesia,IDN,2025,-2.194
+Iran,IRN,2025,-1.51
+Iraq,IRQ,2025,-1.844
+Ireland,IRL,2025,1.659
+Israel,ISR,2025,1.372
+Italy,ITA,2025,0.999
+Jamaica,JAM,2025,1.068
+Japan,JPN,2025,1.595
+Jordan,JOR,2025,-1.087
+Kazakhstan,KAZ,2025,-0.556
+Kenya,KEN,2025,-1.881
+Kosovo,OWID_KOS,2025,-0.192
+Kyrgyzstan,KGZ,2025,-1.723
+Laos,LAO,2025,-1.388
+Latvia,LVA,2025,1.43
+Lebanon,LBN,2025,-1.246
+Lesotho,LSO,2025,-0.801
+Liberia,LBR,2025,-1.93
+Libya,LBY,2025,-0.866
+Lithuania,LTU,2025,1.205
+Luxembourg,LUX,2025,3.5
+Madagascar,MDG,2025,-2.572
+Malawi,MWI,2025,-0.092
+Malaysia,MYS,2025,-0.015
+Maldives,MDV,2025,-0.122
+Mali,MLI,2025,-0.702
+Malta,MLT,2025,0.936
+Mauritania,MRT,2025,-0.962
+Mauritius,MUS,2025,0.005
+Mexico,MEX,2025,-1.461
+Moldova,MDA,2025,0.995
+Mongolia,MNG,2025,-1.372
+Montenegro,MNE,2025,-1.276
+Morocco,MAR,2025,-0.747
+Mozambique,MOZ,2025,-0.015
+Namibia,NAM,2025,0.886
+Nepal,NPL,2025,-0.127
+Netherlands,NLD,2025,2.053
+New Zealand,NZL,2025,1.894
+Nicaragua,NIC,2025,-2.348
+Niger,NER,2025,0.082
+Nigeria,NGA,2025,-1.317
+North Korea,PRK,2025,0.86
+North Macedonia,MKD,2025,-1.229
+Norway,NOR,2025,3.223
+Oman,OMN,2025,0.683
+Pakistan,PAK,2025,-1.601
+Panama,PAN,2025,-0.772
+Papua New Guinea,PNG,2025,-1.916
+Paraguay,PRY,2025,-1.7
+Peru,PER,2025,-2.106
+Philippines,PHL,2025,-2.142
+Poland,POL,2025,0.951
+Portugal,PRT,2025,0.838
+Qatar,QAT,2025,0.416
+Romania,ROU,2025,-0.187
+Russia,RUS,2025,-1.379
+Rwanda,RWA,2025,-0.226
+Sao Tome and Principe,STP,2025,1.102
+Saudi Arabia,SAU,2025,1.012
+Senegal,SEN,2025,0.367
+Serbia,SRB,2025,-0.61
+Seychelles,SYC,2025,1.992
+Sierra Leone,SLE,2025,0.539
+Singapore,SGP,2025,2.859
+Slovakia,SVK,2025,0.462
+Slovenia,SVN,2025,1.215
+Solomon Islands,SLB,2025,-1.795
+Somalia,SOM,2025,-1.333
+South Africa,ZAF,2025,0.011
+South Korea,KOR,2025,0.509
+South Sudan,SSD,2025,-1.104
+Spain,ESP,2025,0.81
+Sri Lanka,LKA,2025,0.319
+Suriname,SUR,2025,1.187
+Sweden,SWE,2025,2.977
+Switzerland,CHE,2025,1.661
+Taiwan,TWN,2025,0.056
+Tajikistan,TJK,2025,-1.13
+Tanzania,TZA,2025,0.745
+Thailand,THA,2025,-0.478
+Togo,TGO,2025,-0.379
+Trinidad and Tobago,TTO,2025,1.197
+Tunisia,TUN,2025,0.995
+Turkey,TUR,2025,-1.422
+Turkmenistan,TKM,2025,-2.062
+Uganda,UGA,2025,-1.42
+Ukraine,UKR,2025,-0.654
+United Arab Emirates,ARE,2025,2.365
+United Kingdom,GBR,2025,1.702
+United States,USA,2025,1.05
+Uruguay,URY,2025,2.127
+Uzbekistan,UZB,2025,-0.995
+Vanuatu,VUT,2025,-0.074
+Venezuela,VEN,2025,-2.188
+Vietnam,VNM,2025,0.481
+Yemen,YEM,2025,-2.1
+Zambia,ZMB,2025,0.351
+Zimbabwe,ZWE,2025,-1.573

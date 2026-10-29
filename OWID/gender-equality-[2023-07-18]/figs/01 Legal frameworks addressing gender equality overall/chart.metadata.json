@@ -1,0 +1,38 @@
+{
+ "chart": {
+  "title": "Legal frameworks addressing gender equality overall",
+  "subtitle": "A higher percentage indicates stronger legislation.",
+  "citation": "UN Women",
+  "originalChartUrl": "https://ourworldindata.org/grapher/overarching-legal-frameworks-regarding-gender-equality",
+  "selection": [
+   "World",
+   "Sub-Saharan Africa (UN SDG)",
+   "Northern Africa and Western Asia (UN SDG)",
+   "Central and Southern Asia (UN SDG)",
+   "Eastern and South-Eastern Asia (UN SDG)",
+   "Latin America and the Caribbean (UN SDG)",
+   "Europe and Northern America (UN SDG)",
+   "Australia and New Zealand (UN SDG)",
+   "Oceania (UN SDG)"
+  ]
+ },
+ "columns": {
+  "5.1.1 - Legal frameworks that promote, enforce and monitor gender equality (percentage of achievement, 0 - 100) -- Area 1: overarching legal frameworks and public life - SG_LGL_GENEQLFP": {
+   "titleShort": "Legal frameworks that promote, enforce and monitor gender equality (percentage of achievement, 0 - 100) -- Area 1: overarching legal frameworks and public life",
+   "titleLong": "Legal frameworks that promote, enforce and monitor gender equality (percentage of achievement, 0 - 100) -- Area 1: overarching legal frameworks and public life",
+   "descriptionShort": "Legal frameworks that promote, enforce and monitor gender equality (percentage of achievement, 0 - 100) -- Area 1: overarching legal frameworks and public life.",
+   "shortUnit": "%",
+   "unit": "%",
+   "timespan": "2018-2024",
+   "type": "Numeric",
+   "owidVariableId": 1304619,
+   "shortName": "_5_1_1__sg_lgl_geneqlfp",
+   "lastUpdated": "2026-07-31",
+   "nextUpdate": "2027-07-31",
+   "citationShort": "UN Women – processed by Our World in Data",
+   "citationLong": "UN Women – processed by Our World in Data. “Legal frameworks that promote, enforce and monitor gender equality (percentage of achievement, 0 - 100) -- Area 1: overarching legal frameworks and public life” [dataset]. UN Women, “UN Women” [original data].",
+   "fullMetadata": "https://api.ourworldindata.org/v1/indicators/1304619.metadata.json"
+  }
+ },
+ "dateDownloaded": "2026-10-29"
+}

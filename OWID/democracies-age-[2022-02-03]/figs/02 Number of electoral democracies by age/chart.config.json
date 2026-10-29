@@ -1,0 +1,92 @@
+{
+ "id": 5521,
+ "tab": "discrete-bar",
+ "slug": "number-electoral-democracies-age",
+ "title": "Number of electoral democracies by age",
+ "yAxis": {
+  "min": "auto"
+ },
+ "sortBy": "custom",
+ "$schema": "https://files.ourworldindata.org/schemas/grapher-schema.011.json",
+ "version": 51,
+ "subtitle": "Classification by [Lührmann et al. (2018)](#dod:regimes-of-the-world-simplified) based on expert estimates by [V-Dem](#dod:v-dem). Electoral democracies are political systems that hold meaningful, free and fair, and multi-party elections.",
+ "originUrl": "/democracy",
+ "dimensions": [
+  {
+   "display": {
+    "name": "Closed autocracies",
+    "color": "#8d6e71"
+   },
+   "property": "y",
+   "variableId": 1209940
+  },
+  {
+   "display": {
+    "name": "Electoral autocracies",
+    "color": "#c6a1a5"
+   },
+   "property": "y",
+   "variableId": 1209938
+  },
+  {
+   "display": {
+    "name": "91 years +",
+    "color": "#172976"
+   },
+   "property": "y",
+   "variableId": 1209973
+  },
+  {
+   "display": {
+    "name": "61-90 years",
+    "color": "#225ea8"
+   },
+   "property": "y",
+   "variableId": 1209972
+  },
+  {
+   "display": {
+    "name": "31-60 years",
+    "color": "#41b6c4"
+   },
+   "property": "y",
+   "variableId": 1209971
+  },
+  {
+   "display": {
+    "name": "19-30 years",
+    "color": "#c7e9b4"
+   },
+   "property": "y",
+   "variableId": 1209970
+  },
+  {
+   "display": {
+    "name": "Electoral democracies aged 1-18 years",
+    "color": "#edf8b1",
+    "shortUnit": "countries"
+   },
+   "property": "y",
+   "variableId": 1209969
+  }
+ ],
+ "entityType": "region",
+ "isPublished": true,
+ "variantName": "Regimes of the World",
+ "addCountryMode": "change-country",
+ "entityTypePlural": "regions",
+ "relatedQuestions": [
+  {
+   "url": "https://ourworldindata.org/explorers/democracy",
+   "text": "How do different approaches score democracy across the world?"
+  }
+ ],
+ "selectedEntityNames": [
+  "World"
+ ],
+ "hideAnnotationFieldsInTitle": {
+  "time": true,
+  "entity": true,
+  "changeInPrefix": true
+ }
+}

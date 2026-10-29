@@ -1,0 +1,78 @@
+{
+ "id": 1625,
+ "map": {
+  "colorScale": {
+   "baseColorScheme": "YlOrRd",
+   "binningStrategy": "manual",
+   "customNumericColors": [
+    null,
+    null,
+    null,
+    null
+   ],
+   "customNumericValues": [
+    0,
+    1,
+    2,
+    5,
+    10,
+    20,
+    50,
+    100
+   ]
+  },
+  "columnSlug": "1270942",
+  "timeTolerance": 5
+ },
+ "tab": "map",
+ "slug": "homicide-rate-unodc",
+ "title": "Homicide rate",
+ "yAxis": {
+  "max": 0,
+  "min": 0
+ },
+ "$schema": "https://files.ourworldindata.org/schemas/grapher-schema.011.json",
+ "version": 50,
+ "subtitle": "Annual number of deaths from [homicide](#dod:homicide) per 100,000 people.",
+ "hasMapTab": true,
+ "originUrl": "/homicides",
+ "chartTypes": [
+  "LineChart",
+  "SlopeChart",
+  "DiscreteBar",
+  "Marimekko"
+ ],
+ "dimensions": [
+  {
+   "display": {
+    "tolerance": 3
+   },
+   "property": "y",
+   "variableId": 1270942
+  },
+  {
+   "property": "color",
+   "variableId": 900801
+  }
+ ],
+ "sourceDesc": "United Nations Office on Drugs and Crime (2025)",
+ "isPublished": true,
+ "variantName": "UNODC",
+ "internalNotes": "UNODC",
+ "relatedQuestions": [
+  {
+   "url": "https://ourworldindata.org/homicide-data-how-sources-differ-and-when-to-use-which-one",
+   "text": "Homicide data: how sources differ and when to use which one"
+  }
+ ],
+ "selectedEntityNames": [
+  "Ecuador",
+  "Jamaica",
+  "Colombia",
+  "Russia",
+  "United States"
+ ],
+ "hideAnnotationFieldsInTitle": {
+  "time": true
+ }
+}

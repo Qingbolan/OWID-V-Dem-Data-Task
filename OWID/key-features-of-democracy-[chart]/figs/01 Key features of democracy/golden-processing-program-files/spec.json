@@ -1,0 +1,109 @@
+{
+ "reproducible": true,
+ "program": "golden.vdem_pipeline",
+ "chart_slug": "key-features-of-democracy",
+ "view": "https://ourworldindata.org/grapher/key-features-of-democracy",
+ "columns": [
+  "Electoral political institutions",
+  "Liberal political institutions",
+  "Participatory political institutions",
+  "Egalitarian political institutions",
+  "Deliberative political institutions"
+ ],
+ "solution_columns": [
+  "Electoral political institutions",
+  "Liberal political institutions",
+  "Participatory political institutions",
+  "Egalitarian political institutions",
+  "Deliberative political institutions"
+ ],
+ "output_precision": {
+  "Electoral political institutions": 3,
+  "Liberal political institutions": 3,
+  "Participatory political institutions": 3,
+  "Egalitarian political institutions": 3,
+  "Deliberative political institutions": 3
+ },
+ "sources": {
+  "Electoral political institutions": {
+   "table": "vdem_multi_with_regions",
+   "column": "electdem_vdem",
+   "filter": {
+    "estimate": "best"
+   },
+   "short_name": "electdem_vdem__estimate_best",
+   "gold_index": 3
+  },
+  "Liberal political institutions": {
+   "table": "vdem_multi_with_regions",
+   "column": "lib_vdem",
+   "filter": {
+    "estimate": "best"
+   },
+   "short_name": "lib_vdem__estimate_best",
+   "gold_index": 4
+  },
+  "Participatory political institutions": {
+   "table": "vdem_multi_with_regions",
+   "column": "particip_vdem",
+   "filter": {
+    "estimate": "best"
+   },
+   "short_name": "particip_vdem__estimate_best",
+   "gold_index": 5
+  },
+  "Egalitarian political institutions": {
+   "table": "vdem_multi_with_regions",
+   "column": "egal_vdem",
+   "filter": {
+    "estimate": "best"
+   },
+   "short_name": "egal_vdem__estimate_best",
+   "gold_index": 6
+  },
+  "Deliberative political institutions": {
+   "table": "vdem_multi_with_regions",
+   "column": "delib_vdem",
+   "filter": {
+    "estimate": "best"
+   },
+   "short_name": "delib_vdem__estimate_best",
+   "gold_index": 7
+  }
+ },
+ "gold_column_index": {
+  "Electoral political institutions": 3,
+  "Liberal political institutions": 4,
+  "Participatory political institutions": 5,
+  "Egalitarian political institutions": 6,
+  "Deliberative political institutions": 7
+ },
+ "entity_mapping": "data/reference/owid_etl/vdem/vdem.countries.json",
+ "compare": {
+  "Electoral political institutions": {
+   "abs": 0.001,
+   "rel": 1e-06
+  },
+  "Liberal political institutions": {
+   "abs": 0.001,
+   "rel": 1e-06
+  },
+  "Participatory political institutions": {
+   "abs": 0.001,
+   "rel": 1e-06
+  },
+  "Egalitarian political institutions": {
+   "abs": 0.001,
+   "rel": 1e-06
+  },
+  "Deliberative political institutions": {
+   "abs": 0.001,
+   "rel": 1e-06
+  }
+ },
+ "encodings": {},
+ "scale": {},
+ "stack_relative": false,
+ "time_tolerance": 0,
+ "not_compared": {}
+}

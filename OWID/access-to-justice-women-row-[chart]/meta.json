@@ -1,0 +1,55 @@
+{
+ "title": "Access to justice for women",
+ "url": "https://ourworldindata.org/grapher/access-to-justice-women-row",
+ "date_published": null,
+ "chart_page": true,
+ "authors": [],
+ "retrieved_at": "2026-10-29T16:58:22.355924+00:00",
+ "materialised_at": "2026-10-29T16:58:22.355932+00:00",
+ "source_original_sha256": "0dcb5f7ed098127c251e514b8d7511aedd61740706eb2ed2b931b7de09b9ecf5",
+ "offline_snapshot": {
+  "page": "source.html",
+  "assets": "source_files/",
+  "assets_manifest": "source_files/manifest.json",
+  "asset_count": 73,
+  "removed": "all <script> elements except application/ld+json"
+ },
+ "figures": [
+  {
+   "index": 1,
+   "name": "01 Access to justice for women",
+   "embed": {
+    "slug": "access-to-justice-women-row",
+    "query": {},
+    "image": null
+   },
+   "view_url": "https://ourworldindata.org/grapher/access-to-justice-women-row",
+   "csv_url": "https://ourworldindata.org/grapher/access-to-justice-women-row.csv?csvType=filtered",
+   "png_url": "https://ourworldindata.org/grapher/access-to-justice-women-row.png",
+   "data_available": true,
+   "config_title": "Access to justice for women",
+   "config_subtitle": "Data by Lührmann et al. (2018) and [V-Dem](#dod:v-dem). Expert estimates of whether women can safely bring cases before courts, are able to seek redress if public authorities violate their rights, and trials are fair.",
+   "files": {
+    "txt": {
+     "path": "figs/01 Access to justice for women.txt",
+     "sha256": "d86c3e2f48a452dc55df6ac9429cbc0848cb89db128f00d5c00415d14898bb4b"
+    },
+    "csv": {
+     "path": "figs/01 Access to justice for women.csv",
+     "sha256": "3ff9aeddd1678a51800ef07dfbe60872172aaba9d84940b35ee84f9144dce7f1"
+    },
+    "png": {
+     "path": "figs/01 Access to justice for women.png",
+     "sha256": "f808e8f52c112c3317cb1fec08f0d3a365d0e24197cef264a5319a3e45e706a6"
+    }
+   },
+   "chart_slug": "access-to-justice-women-row",
+   "column_short_names": {
+    "Entity": "entity",
+    "Code": "code",
+    "Year": "year",
+    "Access to justice for women": "accessjust_w_row__estimate_best"
+   }
+  }
+ ]
+}

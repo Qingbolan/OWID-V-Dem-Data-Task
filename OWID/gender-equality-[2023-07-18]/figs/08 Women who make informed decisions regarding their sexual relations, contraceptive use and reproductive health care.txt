@@ -1,0 +1,12 @@
+Figure 08: 08 Women who make informed decisions regarding their sexual relations, contraceptive use and reproductive health care
+Article: Achieve gender equality and empower all women and girls (2023-07-18)
+
+Title: Women who make informed decisions regarding their sexual relations, contraceptive use and reproductive health care
+Subtitle: Women aged 15-49 (married or in union) who can say no to sexual intercourse with their husband or partner if they do not want, decide on use of contraception, and decide on their own health care.
+Note: Based on the [Demographic and Health Surveys](#dod:dhs-survey), [Multiple Indicator Cluster Surveys](#dod:mics-survey) and other national surveys.
+Source: United Nations Population Fund
+Units: %
+Chart: https://ourworldindata.org/grapher/women-informed-decisions-health-sexual-relations
+
+Text before the figure: Unmet need for contraception among married women of reproductive age
+Text after the figure: ### SDG Indicator 5.6.2 Guarantee of equal access to sexual and reproductive health care

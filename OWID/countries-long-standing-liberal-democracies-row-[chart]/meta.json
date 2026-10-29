@@ -1,0 +1,62 @@
+{
+ "title": "Countries that are long-standing liberal democracies",
+ "url": "https://ourworldindata.org/grapher/countries-long-standing-liberal-democracies-row",
+ "date_published": null,
+ "chart_page": true,
+ "authors": [],
+ "retrieved_at": "2026-10-29T17:02:03.015658+00:00",
+ "materialised_at": "2026-10-29T17:02:03.015666+00:00",
+ "source_original_sha256": "3c3d20583d35200d965ffd8ed79771efbd2eab6fe6c6b2834aa59a4362e3c468",
+ "offline_snapshot": {
+  "page": "source.html",
+  "assets": "source_files/",
+  "assets_manifest": "source_files/manifest.json",
+  "asset_count": 73,
+  "removed": "all <script> elements except application/ld+json"
+ },
+ "figures": [
+  {
+   "index": 1,
+   "name": "01 Countries that are long-standing liberal democracies",
+   "embed": {
+    "slug": "countries-long-standing-liberal-democracies-row",
+    "query": {},
+    "image": null
+   },
+   "view_url": "https://ourworldindata.org/grapher/countries-long-standing-liberal-democracies-row",
+   "csv_url": "https://ourworldindata.org/grapher/countries-long-standing-liberal-democracies-row.csv?csvType=filtered",
+   "png_url": "https://ourworldindata.org/grapher/countries-long-standing-liberal-democracies-row.png",
+   "data_available": true,
+   "config_title": "Countries that are long-standing liberal democracies",
+   "config_subtitle": "Classification by [Lührmann et al. (2018)](#dod:regimes-of-the-world) based on expert estimates by [V-Dem](#dod:v-dem). Liberal democracies are political systems that hold meaningful, free and fair, and multi-party elections, and their citizens have further individual rights, are equal before the law, and the legislative and the courts constrain the executive.",
+   "files": {
+    "txt": {
+     "path": "figs/01 Countries that are long-standing liberal democracies.txt",
+     "sha256": "cf10b8b04fc29e3137efe57067d5817a3f2e1e849978ee45a25e114f1833f6bd"
+    },
+    "csv": {
+     "path": "figs/01 Countries that are long-standing liberal democracies.csv",
+     "sha256": "be6f330c0edaad6499bdfab55eba608ed2b9196a9e3c4dbd6fc54d11b99069ec"
+    },
+    "png": {
+     "path": "figs/01 Countries that are long-standing liberal democracies.png",
+     "sha256": "03711ce92126955ec72ada945594466fbd7e9fb7722f8cc0aad43f921c9ab937"
+    }
+   },
+   "chart_slug": "countries-long-standing-liberal-democracies-row",
+   "column_short_names": {
+    "Entity": "entity",
+    "Code": "code",
+    "Year": "year",
+    "Closed autocracies": "num_countries_regime__category_closed_autocracy",
+    "Electoral autocracies": "num_countries_regime__category_electoral_autocracy",
+    "Electoral democracies": "num_countries_regime__category_electoral_democracy",
+    "Liberal democracies aged 1-18": "num_countries_years_in_libdem__category_1_18_years",
+    "aged 19-30": "num_countries_years_in_libdem__category_19_30_years",
+    "aged 31-60": "num_countries_years_in_libdem__category_31_60_years",
+    "aged 60-90": "num_countries_years_in_libdem__category_61_90_years",
+    "aged 91 +": "num_countries_years_in_libdem__category_91plus_years"
+   }
+  }
+ ]
+}

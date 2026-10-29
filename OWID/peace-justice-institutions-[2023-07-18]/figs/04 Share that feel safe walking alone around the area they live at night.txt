@@ -1,0 +1,12 @@
+Figure 04: 04 Share that feel safe walking alone around the area they live at night
+Article: Promote just, peaceful and inclusive societies (2023-07-18)
+
+Title: Share that feel safe walking alone around the area they live at night
+Subtitle: 
+Note: 
+Source: United Nations Office on Drugs and Crime
+Units: %
+Chart: https://ourworldindata.org/grapher/safety-walking-alone
+
+Text before the figure: Target: “Significantly reduce all forms of violence and related death rates” across all countries by 2030.
+Text after the figure: ## Target 16.2 Protect children from abuse, exploitation, trafficking and violence

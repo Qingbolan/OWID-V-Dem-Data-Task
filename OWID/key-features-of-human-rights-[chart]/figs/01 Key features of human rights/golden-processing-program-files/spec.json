@@ -1,0 +1,92 @@
+{
+ "reproducible": true,
+ "program": "golden.vdem_pipeline",
+ "chart_slug": "key-features-of-human-rights",
+ "view": "https://ourworldindata.org/grapher/key-features-of-human-rights",
+ "columns": [
+  "Human rights overall",
+  "Physical integrity",
+  "Private civil liberties",
+  "Political civil liberties"
+ ],
+ "solution_columns": [
+  "Human rights overall",
+  "Physical integrity",
+  "Private civil liberties",
+  "Political civil liberties"
+ ],
+ "output_precision": {
+  "Human rights overall": 3,
+  "Physical integrity": 3,
+  "Private civil liberties": 3,
+  "Political civil liberties": 3
+ },
+ "sources": {
+  "Human rights overall": {
+   "table": "vdem_multi_with_regions",
+   "column": "civ_libs_vdem",
+   "filter": {
+    "estimate": "best"
+   },
+   "short_name": "civ_libs_vdem__estimate_best",
+   "gold_index": 3
+  },
+  "Physical integrity": {
+   "table": "vdem_multi_with_regions",
+   "column": "phys_integr_libs_vdem",
+   "filter": {
+    "estimate": "best"
+   },
+   "short_name": "phys_integr_libs_vdem__estimate_best",
+   "gold_index": 4
+  },
+  "Private civil liberties": {
+   "table": "vdem_multi_with_regions",
+   "column": "priv_libs_vdem",
+   "filter": {
+    "estimate": "best"
+   },
+   "short_name": "priv_libs_vdem__estimate_best",
+   "gold_index": 5
+  },
+  "Political civil liberties": {
+   "table": "vdem_multi_with_regions",
+   "column": "pol_libs_vdem",
+   "filter": {
+    "estimate": "best"
+   },
+   "short_name": "pol_libs_vdem__estimate_best",
+   "gold_index": 6
+  }
+ },
+ "gold_column_index": {
+  "Human rights overall": 3,
+  "Physical integrity": 4,
+  "Private civil liberties": 5,
+  "Political civil liberties": 6
+ },
+ "entity_mapping": "data/reference/owid_etl/vdem/vdem.countries.json",
+ "compare": {
+  "Human rights overall": {
+   "abs": 0.001,
+   "rel": 1e-06
+  },
+  "Physical integrity": {
+   "abs": 0.001,
+   "rel": 1e-06
+  },
+  "Private civil liberties": {
+   "abs": 0.001,
+   "rel": 1e-06
+  },
+  "Political civil liberties": {
+   "abs": 0.001,
+   "rel": 1e-06
+  }
+ },
+ "encodings": {},
+ "scale": {},
+ "stack_relative": false,
+ "time_tolerance": 0,
+ "not_compared": {}
+}

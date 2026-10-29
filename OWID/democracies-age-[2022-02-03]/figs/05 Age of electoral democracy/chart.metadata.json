@@ -1,0 +1,34 @@
+{
+ "chart": {
+  "title": "Age of electoral democracy",
+  "subtitle": "Data by the Lexical Index of Electoral Democracy. Electoral democracies are political systems with an elected government and parliament, universal voting rights, and competitive elections.",
+  "citation": "Lexical Index (2026)",
+  "originalChartUrl": "https://ourworldindata.org/grapher/age-of-electoral-democracy-lexical",
+  "selection": [
+   "Jordan",
+   "United Kingdom",
+   "Lithuania"
+  ]
+ },
+ "columns": {
+  "Age of electoral democracy": {
+   "titleShort": "Age of electoral democracy",
+   "titleLong": "Age of electoral democracy",
+   "descriptionShort": "Number of consecutive years in electoral democracy.",
+   "descriptionKey": "Electoral democracies are understood here as political systems in which citizens have the right to choose the chief executive and the legislature in multi-party, uncertain elections.",
+   "descriptionProcessing": "Data for former USSR member states has been obtained by imputing the values of the USSR. This includes: Russia, Ukraine, Belarus, Latvia, Lithuania, Estonia, Armenia, Azerbaijan, Georgia, Kazakhstan, Kyrgyzstan, Tajikistan, Turkmenistan, Uzbekistan, and Moldova.\n\nData for former Czechoslovakia member states has been obtained by imputing the values of Czechoslovakia. This includes: Czech Republic and Slovakia.\n\nData for former Yugoslavia member states has been obtained by imputing the values of Yugoslavia. This includes: Slovenia, Croatia, Bosnia and Herzegovina, Serbia, Montenegro, Kosovo, and North Macedonia.",
+   "shortUnit": "years",
+   "unit": "years",
+   "timespan": "1789-2025",
+   "type": "NumberOrString",
+   "owidVariableId": 1210565,
+   "shortName": "age_electdem_lied",
+   "lastUpdated": "2026-04-02",
+   "nextUpdate": "2027-04-02",
+   "citationShort": "Lexical Index (2026) – processed by Our World in Data",
+   "citationLong": "Lexical Index (2026) – processed by Our World in Data. “Age of electoral democracy” [dataset]. Lexical Index, “Lexical Index of Electoral Democracy (LIED) v6.9” [original data].",
+   "fullMetadata": "https://api.ourworldindata.org/v1/indicators/1210565.metadata.json"
+  }
+ },
+ "dateDownloaded": "2026-10-29"
+}

@@ -1,0 +1,9 @@
+Figure 01: 01 Liberal democracy
+Article: none; source page is the chart page https://ourworldindata.org/grapher/liberal-democracy-row
+
+Title: Liberal democracy
+Subtitle: Classification by [Lührmann et al. (2018)](#dod:regimes-of-the-world) based on expert estimates by [V-Dem](#dod:v-dem). Liberal democracies are political systems that hold meaningful, free and fair, and multi-party elections, and their citizens have further individual rights, are equal before the law, and the legislative and the courts constrain the executive.
+Note: 
+Source: V-Dem (2026)
+Units: 
+Chart: https://ourworldindata.org/grapher/liberal-democracy-row

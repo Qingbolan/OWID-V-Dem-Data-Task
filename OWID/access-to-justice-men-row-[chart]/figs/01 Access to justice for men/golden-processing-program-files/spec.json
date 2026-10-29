@@ -1,0 +1,41 @@
+{
+ "reproducible": true,
+ "program": "golden.vdem_pipeline",
+ "chart_slug": "access-to-justice-men-row",
+ "view": "https://ourworldindata.org/grapher/access-to-justice-men-row",
+ "columns": [
+  "Access to justice for men"
+ ],
+ "solution_columns": [
+  "Access to justice for men"
+ ],
+ "output_precision": {
+  "Access to justice for men": 0
+ },
+ "sources": {
+  "Access to justice for men": {
+   "table": "vdem_multi_without_regions",
+   "column": "accessjust_m_row",
+   "filter": {
+    "estimate": "best"
+   },
+   "short_name": "accessjust_m_row__estimate_best",
+   "gold_index": 3
+  }
+ },
+ "gold_column_index": {
+  "Access to justice for men": 3
+ },
+ "entity_mapping": "data/reference/owid_etl/vdem/vdem.countries.json",
+ "compare": {
+  "Access to justice for men": {
+   "abs": 1.0,
+   "rel": 1e-06
+  }
+ },
+ "encodings": {},
+ "scale": {},
+ "stack_relative": false,
+ "time_tolerance": 0,
+ "not_compared": {}
+}

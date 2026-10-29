@@ -1,0 +1,43 @@
+{
+ "figure": "01 Key features of liberal democracy",
+ "checked_at": "2026-10-29T18:06:17.471213+00:00",
+ "status": "match",
+ "gold_rows": 26,
+ "gold_rows_missing_in_reference": 0,
+ "mismatched_cells": {
+  "Liberal democracy overall": 0,
+  "Democratic elections": 0,
+  "Legislative checks on government": 0,
+  "Judicial checks on government": 0,
+  "Rule of Law": 0,
+  "Private civil liberties": 0
+ },
+ "tolerance": {
+  "Liberal democracy overall": {
+   "abs": 0.001,
+   "rel": 1e-06
+  },
+  "Democratic elections": {
+   "abs": 0.001,
+   "rel": 1e-06
+  },
+  "Legislative checks on government": {
+   "abs": 0.001,
+   "rel": 1e-06
+  },
+  "Judicial checks on government": {
+   "abs": 0.001,
+   "rel": 1e-06
+  },
+  "Rule of Law": {
+   "abs": 0.001,
+   "rel": 1e-06
+  },
+  "Private civil liberties": {
+   "abs": 0.001,
+   "rel": 1e-06
+  }
+ },
+ "first_mismatches": [],
+ "program": "golden.vdem_pipeline"
+}

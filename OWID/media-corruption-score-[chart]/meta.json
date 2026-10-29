@@ -1,0 +1,55 @@
+{
+ "title": "Media Corruption Score",
+ "url": "https://ourworldindata.org/grapher/media-corruption-score",
+ "date_published": null,
+ "chart_page": true,
+ "authors": [],
+ "retrieved_at": "2026-10-29T17:32:21.845828+00:00",
+ "materialised_at": "2026-10-29T17:32:21.845836+00:00",
+ "source_original_sha256": "5a9efa9fe961934a72816f5dec4150b610a0fedc4850e3237e44d7c8338fd295",
+ "offline_snapshot": {
+  "page": "source.html",
+  "assets": "source_files/",
+  "assets_manifest": "source_files/manifest.json",
+  "asset_count": 73,
+  "removed": "all <script> elements except application/ld+json"
+ },
+ "figures": [
+  {
+   "index": 1,
+   "name": "01 Media Corruption Score",
+   "embed": {
+    "slug": "media-corruption-score",
+    "query": {},
+    "image": null
+   },
+   "view_url": "https://ourworldindata.org/grapher/media-corruption-score",
+   "csv_url": "https://ourworldindata.org/grapher/media-corruption-score.csv?csvType=filtered",
+   "png_url": "https://ourworldindata.org/grapher/media-corruption-score.png",
+   "data_available": true,
+   "config_title": "Media Corruption Score",
+   "config_subtitle": "Data by [V-Dem](#dod:v-dem). Expert estimates of the extent to which journalists, publishers, and broadcasters accept payments to modify news content and go unpunished. Higher scores mean less corruption. A score of 0 is approximately the average across all countries and years.",
+   "files": {
+    "txt": {
+     "path": "figs/01 Media Corruption Score.txt",
+     "sha256": "ba8027d33d5648efca633b27731291cbf2b617a169ddaf20f730bbfcc973e7a3"
+    },
+    "csv": {
+     "path": "figs/01 Media Corruption Score.csv",
+     "sha256": "226a9f0af404218ef7796ac9f67371694bf845e669d50766f4588f8f17a1aad1"
+    },
+    "png": {
+     "path": "figs/01 Media Corruption Score.png",
+     "sha256": "30ec65e3d7c18b8a53814890700153f92cf85977d9d5bdd222d53d8b6b4be08b"
+    }
+   },
+   "chart_slug": "media-corruption-score",
+   "column_short_names": {
+    "Entity": "entity",
+    "Code": "code",
+    "Year": "year",
+    "Media Corruption Score": "v2mecorrpt__estimate_best"
+   }
+  }
+ ]
+}

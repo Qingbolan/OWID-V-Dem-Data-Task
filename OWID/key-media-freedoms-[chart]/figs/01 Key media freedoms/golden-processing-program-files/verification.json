@@ -1,0 +1,33 @@
+{
+ "figure": "01 Key media freedoms",
+ "checked_at": "2026-10-29T18:06:17.682756+00:00",
+ "status": "match",
+ "gold_rows": 56,
+ "gold_rows_missing_in_reference": 0,
+ "mismatched_cells": {
+  "No government censorship of the media": 0,
+  "No journalist harassment": 0,
+  "No self-censorship by the media": 0,
+  "No media bias": 0
+ },
+ "tolerance": {
+  "No government censorship of the media": {
+   "abs": 0.001,
+   "rel": 1e-06
+  },
+  "No journalist harassment": {
+   "abs": 0.001,
+   "rel": 1e-06
+  },
+  "No self-censorship by the media": {
+   "abs": 0.001,
+   "rel": 1e-06
+  },
+  "No media bias": {
+   "abs": 0.001,
+   "rel": 1e-06
+  }
+ },
+ "first_mismatches": [],
+ "program": "golden.vdem_pipeline"
+}

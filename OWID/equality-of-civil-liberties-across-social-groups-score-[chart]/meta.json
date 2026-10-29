@@ -1,0 +1,55 @@
+{
+ "title": "Equality of Civil Liberties across Social Groups Score",
+ "url": "https://ourworldindata.org/grapher/equality-of-civil-liberties-across-social-groups-score",
+ "date_published": null,
+ "chart_page": true,
+ "authors": [],
+ "retrieved_at": "2026-10-29T17:13:40.219640+00:00",
+ "materialised_at": "2026-10-29T17:13:40.219648+00:00",
+ "source_original_sha256": "059aae613893367a3570f3a36a9f8a760b442992054d741a2a8eb956201019b2",
+ "offline_snapshot": {
+  "page": "source.html",
+  "assets": "source_files/",
+  "assets_manifest": "source_files/manifest.json",
+  "asset_count": 73,
+  "removed": "all <script> elements except application/ld+json"
+ },
+ "figures": [
+  {
+   "index": 1,
+   "name": "01 Equality of Civil Liberties across Social Groups Score",
+   "embed": {
+    "slug": "equality-of-civil-liberties-across-social-groups-score",
+    "query": {},
+    "image": null
+   },
+   "view_url": "https://ourworldindata.org/grapher/equality-of-civil-liberties-across-social-groups-score",
+   "csv_url": "https://ourworldindata.org/grapher/equality-of-civil-liberties-across-social-groups-score.csv?csvType=filtered",
+   "png_url": "https://ourworldindata.org/grapher/equality-of-civil-liberties-across-social-groups-score.png",
+   "data_available": true,
+   "config_title": "Equality of Civil Liberties across Social Groups Score",
+   "config_subtitle": "Data by [V-Dem](#dod:v-dem). Expert estimates of the extent to which social groups — defined by language, ethnicity, religion, race, region, and/or caste — are free from forced labor, have property rights and access to the justice system, and enjoy freedom of movement. Higher scores mean more equality. A score of 0 is approximately the average across all countries and years.",
+   "files": {
+    "txt": {
+     "path": "figs/01 Equality of Civil Liberties across Social Groups Score.txt",
+     "sha256": "c56cda36854ec44672aee279caff1f5eb5abdbfdfadaceebf42013c1eac656f3"
+    },
+    "csv": {
+     "path": "figs/01 Equality of Civil Liberties across Social Groups Score.csv",
+     "sha256": "b1a57d05c6dc2e8ccd9f9cdee9daef88e8787c10c7a45486dc4e4b3feb935020"
+    },
+    "png": {
+     "path": "figs/01 Equality of Civil Liberties across Social Groups Score.png",
+     "sha256": "a5a344645f17d2d7a5c9f57e3f248787557ead076829e4182416ca889b9e3767"
+    }
+   },
+   "chart_slug": "equality-of-civil-liberties-across-social-groups-score",
+   "column_short_names": {
+    "Entity": "entity",
+    "Code": "code",
+    "Year": "year",
+    "Equality of civil liberties across social groups": "socgr_civ_libs_vdem__estimate_best"
+   }
+  }
+ ]
+}

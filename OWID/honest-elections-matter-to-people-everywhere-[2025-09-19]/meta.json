@@ -1,0 +1,42 @@
+{
+ "title": "Honest elections matter to people everywhere",
+ "url": "https://ourworldindata.org/data-insights/honest-elections-matter-to-people-everywhere",
+ "date_published": "2025-09-19",
+ "authors": [
+  "Simon van Teutem",
+  "Bastian Herre",
+  "Edouard Mathieu"
+ ],
+ "retrieved_at": "2026-10-29T15:15:11.581378+00:00",
+ "materialised_at": "2026-10-29T16:35:19.370352+00:00",
+ "source_original_sha256": "be5e9fffe2866a6af568cf6a0c337c0ff8703bc5d3c33ec4ec2adf81b0fc6316",
+ "offline_snapshot": {
+  "page": "source.html",
+  "assets": "source_files/",
+  "assets_manifest": "source_files/manifest.json",
+  "asset_count": 134,
+  "removed": "all <script> elements except application/ld+json"
+ },
+ "figures": [
+  {
+   "index": 1,
+   "name": "01 How important are honest elections to people across the world",
+   "embed": {
+    "slug": null,
+    "query": {},
+    "image": "https://ourworldindata.org/cdn-cgi/imagedelivery/qLq-8BTgXU8yG0N6HnOy8g/e6ae5735-dbff-4a29-c7fe-b3845369fe00/w=1620"
+   },
+   "files": {
+    "html": {
+     "path": "figs/01 How important are honest elections to people across the world.html",
+     "sha256": "9f32bce7010743c3f65b796afbf20873e4d845522980243ab79dd7c2435679f6"
+    },
+    "txt": {
+     "path": "figs/01 How important are honest elections to people across the world.txt",
+     "sha256": "3046ac9307a45ab6a1540b6d444b052f9ea983ce487412d5f299f67671772e5a"
+    }
+   },
+   "data_available": false
+  }
+ ]
+}

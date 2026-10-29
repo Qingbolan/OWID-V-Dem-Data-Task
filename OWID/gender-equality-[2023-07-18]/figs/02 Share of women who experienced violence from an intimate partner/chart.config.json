@@ -1,0 +1,64 @@
+{
+ "id": 5363,
+ "map": {
+  "colorScale": {
+   "baseColorScheme": "OrRd",
+   "binningStrategy": "manual",
+   "customNumericValues": [
+    0,
+    5,
+    10,
+    15,
+    20,
+    25,
+    30,
+    0
+   ]
+  },
+  "columnSlug": "1304623",
+  "timeTolerance": 5
+ },
+ "tab": "map",
+ "slug": "share-of-women-who-experienced-violence-by-an-intimate-partner-un",
+ "title": "Share of women who experienced violence from an intimate partner",
+ "yAxis": {
+  "max": 0,
+  "min": 0
+ },
+ "$schema": "https://files.ourworldindata.org/schemas/grapher-schema.011.json",
+ "minTime": "latest",
+ "version": 25,
+ "subtitle": "Ever-partnered women aged over 15 years who have been subject to physical or sexual violence by a current or former intimate partner in the last 12 months. An ever-partnered woman is a woman who has had an intimate partner at any time in their life.",
+ "hasMapTab": true,
+ "originUrl": "/women-rights",
+ "chartTypes": [
+  "DiscreteBar",
+  "Marimekko"
+ ],
+ "dimensions": [
+  {
+   "display": {
+    "numDecimalPlaces": 1
+   },
+   "property": "y",
+   "variableId": 1304623
+  },
+  {
+   "property": "color",
+   "variableId": 900801
+  }
+ ],
+ "isPublished": true,
+ "variantName": "United Nations",
+ "selectedEntityNames": [
+  "World",
+  "Sub-Saharan Africa (UN SDG)",
+  "Northern Africa and Western Asia (UN SDG)",
+  "Central and Southern Asia (UN SDG)",
+  "Eastern and South-Eastern Asia (UN SDG)",
+  "Latin America and the Caribbean (UN SDG)",
+  "Europe and Northern America (UN SDG)",
+  "Australia and New Zealand (UN SDG)",
+  "Oceania (UN SDG)"
+ ]
+}

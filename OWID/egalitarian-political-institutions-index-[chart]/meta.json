@@ -1,0 +1,56 @@
+{
+ "title": "Egalitarian Political Institutions Index",
+ "url": "https://ourworldindata.org/grapher/egalitarian-political-institutions-index",
+ "date_published": null,
+ "chart_page": true,
+ "authors": [],
+ "retrieved_at": "2026-10-29T17:07:49.768316+00:00",
+ "materialised_at": "2026-10-29T17:07:49.768338+00:00",
+ "source_original_sha256": "e8c1317ba92d831ae44bcdacd30251a4f081b52aadf2e718f5a5cbae56dea4c1",
+ "offline_snapshot": {
+  "page": "source.html",
+  "assets": "source_files/",
+  "assets_manifest": "source_files/manifest.json",
+  "asset_count": 73,
+  "removed": "all <script> elements except application/ld+json"
+ },
+ "figures": [
+  {
+   "index": 1,
+   "name": "01 Egalitarian Political Institutions Index",
+   "embed": {
+    "slug": "egalitarian-political-institutions-index",
+    "query": {},
+    "image": null
+   },
+   "view_url": "https://ourworldindata.org/grapher/egalitarian-political-institutions-index",
+   "csv_url": "https://ourworldindata.org/grapher/egalitarian-political-institutions-index.csv?csvType=filtered",
+   "png_url": "https://ourworldindata.org/grapher/egalitarian-political-institutions-index.png",
+   "data_available": true,
+   "config_title": "Egalitarian Political Institutions Index",
+   "config_subtitle": "Data by [V-Dem](#dod:v-dem). Expert estimates of the extent to which the protection of rights, access to power, and distribution of resources are equal. The index ranges from 0 to 1 (most egalitarian).",
+   "files": {
+    "txt": {
+     "path": "figs/01 Egalitarian Political Institutions Index.txt",
+     "sha256": "ef45c4fe902482ed7606d685eeaf457744528deb1ca45cba6e99fb84c879a53e"
+    },
+    "csv": {
+     "path": "figs/01 Egalitarian Political Institutions Index.csv",
+     "sha256": "b73ed015eea4e1bf145c0e3cbb01ae38e5c963fb5468c0b443f36803f3984962"
+    },
+    "png": {
+     "path": "figs/01 Egalitarian Political Institutions Index.png",
+     "sha256": "407da626d2d404c631e0fdaf943c1364053157f2d94963a52db80188cfc2336e"
+    }
+   },
+   "chart_slug": "egalitarian-political-institutions-index",
+   "column_short_names": {
+    "Entity": "entity",
+    "Code": "code",
+    "Year": "year",
+    "Egalitarian political institutions index": "egal_vdem__estimate_best",
+    "World region according to OWID": "owid_region"
+   }
+  }
+ ]
+}

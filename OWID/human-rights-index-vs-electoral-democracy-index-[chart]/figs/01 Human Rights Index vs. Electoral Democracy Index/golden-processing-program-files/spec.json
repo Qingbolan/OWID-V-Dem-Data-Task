@@ -1,0 +1,60 @@
+{
+ "reproducible": true,
+ "program": "golden.vdem_pipeline",
+ "chart_slug": "human-rights-index-vs-electoral-democracy-index",
+ "view": "https://ourworldindata.org/grapher/human-rights-index-vs-electoral-democracy-index",
+ "columns": [
+  "Human Rights Index",
+  "Electoral Democracy Index"
+ ],
+ "solution_columns": [
+  "Human Rights Index",
+  "Electoral Democracy Index"
+ ],
+ "output_precision": {
+  "Human Rights Index": 3,
+  "Electoral Democracy Index": 3
+ },
+ "sources": {
+  "Human Rights Index": {
+   "table": "vdem_multi_with_regions",
+   "column": "civ_libs_vdem",
+   "filter": {
+    "estimate": "best"
+   },
+   "short_name": "civ_libs_vdem__estimate_best",
+   "gold_index": 3
+  },
+  "Electoral Democracy Index": {
+   "table": "vdem_multi_with_regions",
+   "column": "electdem_vdem",
+   "filter": {
+    "estimate": "best"
+   },
+   "short_name": "electdem_vdem__estimate_best",
+   "gold_index": 4
+  }
+ },
+ "gold_column_index": {
+  "Human Rights Index": 3,
+  "Electoral Democracy Index": 4
+ },
+ "entity_mapping": "data/reference/owid_etl/vdem/vdem.countries.json",
+ "compare": {
+  "Human Rights Index": {
+   "abs": 0.001,
+   "rel": 1e-06
+  },
+  "Electoral Democracy Index": {
+   "abs": 0.001,
+   "rel": 1e-06
+  }
+ },
+ "encodings": {},
+ "scale": {},
+ "stack_relative": false,
+ "time_tolerance": 0,
+ "not_compared": {
+  "World region according to OWID": "OWID's world region (map and scatter colour), not a V-Dem indicator"
+ }
+}

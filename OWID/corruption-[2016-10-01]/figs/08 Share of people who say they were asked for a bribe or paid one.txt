@@ -1,0 +1,12 @@
+Figure 08: 08 Share of people who say they were asked for a bribe or paid one
+Article: Corruption (2016-10-01)
+
+Title: Share of people who say they were asked for a bribe or paid one
+Subtitle: Share of respondents who report having contact with a public official in the past 12 months and paying or being asked to pay a [bribe](#dod:bribery).
+Note: 
+Source: United Nations Office on Drugs and Crime
+Units: %
+Chart: https://ourworldindata.org/grapher/bribery-prevalence-un
+
+Text before the figure: Rigorous and Impartial Public Administration Score
+Text after the figure: # Featured data on corruption

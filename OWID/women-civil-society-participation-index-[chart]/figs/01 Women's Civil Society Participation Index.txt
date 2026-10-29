@@ -1,0 +1,9 @@
+Figure 01: 01 Women's Civil Society Participation Index
+Article: none; source page is the chart page https://ourworldindata.org/grapher/women-civil-society-participation-index
+
+Title: Women's Civil Society Participation Index
+Subtitle: Data by [V-Dem](#dod:v-dem). Expert estimates of the extent to which women can discuss political issues, participate in civil society organizations, and are represented among journalists. The index ranges from 0 to 1 (most participatory).
+Note: 
+Source: V-Dem (2026)
+Units: 
+Chart: https://ourworldindata.org/grapher/women-civil-society-participation-index

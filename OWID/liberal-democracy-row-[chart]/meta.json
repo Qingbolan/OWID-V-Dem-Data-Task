@@ -1,0 +1,55 @@
+{
+ "title": "Liberal democracy",
+ "url": "https://ourworldindata.org/grapher/liberal-democracy-row",
+ "date_published": null,
+ "chart_page": true,
+ "authors": [],
+ "retrieved_at": "2026-10-29T17:30:14.029688+00:00",
+ "materialised_at": "2026-10-29T17:30:14.029696+00:00",
+ "source_original_sha256": "e8e91ca432c3e437b21b8ec8bc3c3eb8e6923aee854edaa594d5412f383a284f",
+ "offline_snapshot": {
+  "page": "source.html",
+  "assets": "source_files/",
+  "assets_manifest": "source_files/manifest.json",
+  "asset_count": 97,
+  "removed": "all <script> elements except application/ld+json"
+ },
+ "figures": [
+  {
+   "index": 1,
+   "name": "01 Liberal democracy",
+   "embed": {
+    "slug": "liberal-democracy-row",
+    "query": {},
+    "image": null
+   },
+   "view_url": "https://ourworldindata.org/grapher/liberal-democracy-row",
+   "csv_url": "https://ourworldindata.org/grapher/liberal-democracy-row.csv?csvType=filtered",
+   "png_url": "https://ourworldindata.org/grapher/liberal-democracy-row.png",
+   "data_available": true,
+   "config_title": "Liberal democracy",
+   "config_subtitle": "Classification by [Lührmann et al. (2018)](#dod:regimes-of-the-world) based on expert estimates by [V-Dem](#dod:v-dem). Liberal democracies are political systems that hold meaningful, free and fair, and multi-party elections, and their citizens have further individual rights, are equal before the law, and the legislative and the courts constrain the executive.",
+   "files": {
+    "txt": {
+     "path": "figs/01 Liberal democracy.txt",
+     "sha256": "8506e78ebf7cafe5de4d9e9e5825952d32eaaa3d875130fe984788b8c35ef86a"
+    },
+    "csv": {
+     "path": "figs/01 Liberal democracy.csv",
+     "sha256": "e1545dc8dfd1f0bcb911c38e67fdbcae26a50f28556185e0082da775369083c7"
+    },
+    "png": {
+     "path": "figs/01 Liberal democracy.png",
+     "sha256": "f3595b3922de5fcbbd9d871edad0b1e95472632b77e6d09414742a2cd0bf2c40"
+    }
+   },
+   "chart_slug": "liberal-democracy-row",
+   "column_short_names": {
+    "Entity": "entity",
+    "Code": "code",
+    "Year": "year",
+    "Political regime": "regime_row_owid"
+   }
+  }
+ ]
+}

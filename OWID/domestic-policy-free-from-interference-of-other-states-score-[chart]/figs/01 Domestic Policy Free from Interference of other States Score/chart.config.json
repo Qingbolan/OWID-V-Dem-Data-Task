@@ -1,0 +1,56 @@
+{
+ "id": 7141,
+ "map": {
+  "colorScale": {
+   "baseColorScheme": "RdBu",
+   "binningStrategy": "manual",
+   "customNumericColors": [
+    null,
+    null
+   ],
+   "customNumericValues": [
+    0,
+    -2,
+    -1,
+    0,
+    1,
+    2,
+    1
+   ]
+  },
+  "columnSlug": "1209743"
+ },
+ "tab": "map",
+ "slug": "domestic-policy-free-from-interference-of-other-states-score",
+ "title": "Domestic Policy Free from Interference of other States Score",
+ "yAxis": {
+  "max": 2.5,
+  "min": -2.5
+ },
+ "$schema": "https://files.ourworldindata.org/schemas/grapher-schema.011.json",
+ "version": 36,
+ "subtitle": "Expert estimates by [V-Dem](#dod:v-dem). International treaties, organizations, and confederations not considered if the state negotiated its entry and is free to exit. International market forces and transnational corporations not considered. Higher scores mean more freedom. A score of 0 is approximately the average across all countries and years.",
+ "hasMapTab": true,
+ "originUrl": "/state-capacity",
+ "chartTypes": [
+  "LineChart",
+  "SlopeChart",
+  "DiscreteBar",
+  "Dumbbell"
+ ],
+ "dimensions": [
+  {
+   "property": "y",
+   "variableId": 1209743
+  }
+ ],
+ "isPublished": true,
+ "hideFacetControl": false,
+ "selectedEntityNames": [
+  "World",
+  "Argentina",
+  "Australia",
+  "Botswana",
+  "China"
+ ]
+}

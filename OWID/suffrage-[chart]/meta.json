@@ -1,0 +1,56 @@
+{
+ "title": "Share of adult citizens who have the right to vote",
+ "url": "https://ourworldindata.org/grapher/suffrage",
+ "date_published": null,
+ "chart_page": true,
+ "authors": [],
+ "retrieved_at": "2026-10-29T17:48:53.204559+00:00",
+ "materialised_at": "2026-10-29T17:48:53.204564+00:00",
+ "source_original_sha256": "9c2fac4f0145dafef74c677bc69ecc7825377f5cde6462b58c0e5507d29e5bb9",
+ "offline_snapshot": {
+  "page": "source.html",
+  "assets": "source_files/",
+  "assets_manifest": "source_files/manifest.json",
+  "asset_count": 73,
+  "removed": "all <script> elements except application/ld+json"
+ },
+ "figures": [
+  {
+   "index": 1,
+   "name": "01 Share of adult citizens who have the right to vote",
+   "embed": {
+    "slug": "suffrage",
+    "query": {},
+    "image": null
+   },
+   "view_url": "https://ourworldindata.org/grapher/suffrage",
+   "csv_url": "https://ourworldindata.org/grapher/suffrage.csv?csvType=filtered",
+   "png_url": "https://ourworldindata.org/grapher/suffrage.png",
+   "data_available": true,
+   "config_title": "Share of adult citizens who have the right to vote",
+   "config_subtitle": "Share of adult citizens who have the legal right to vote in national elections.",
+   "files": {
+    "txt": {
+     "path": "figs/01 Share of adult citizens who have the right to vote.txt",
+     "sha256": "a23a3ac8f834a82b75c28312a25f16fdcbb165d97d550cc0ed920260952d518f"
+    },
+    "csv": {
+     "path": "figs/01 Share of adult citizens who have the right to vote.csv",
+     "sha256": "fb8a9175a28ed8db9d06d052622ca0a691a42b2cb841f6be05db207bccd0aa85"
+    },
+    "png": {
+     "path": "figs/01 Share of adult citizens who have the right to vote.png",
+     "sha256": "f49fc774e41141326d24d70354504322e4e96d68140d29080fa823a98b946fa0"
+    }
+   },
+   "chart_slug": "suffrage",
+   "column_short_names": {
+    "Entity": "entity",
+    "Code": "code",
+    "Year": "year",
+    "Share of population with suffrage": "suffr_vdem",
+    "World region according to OWID": "owid_region"
+   }
+  }
+ ]
+}

@@ -1,0 +1,75 @@
+{
+ "title": "Human rights have improved in all world regions over the last century",
+ "url": "https://ourworldindata.org/data-insights/human-rights-have-improved-in-all-world-regions-over-the-last-century",
+ "date_published": "2024-06-14",
+ "authors": [
+  "Bastian Herre"
+ ],
+ "retrieved_at": "2026-10-29T15:15:12.769076+00:00",
+ "materialised_at": "2026-10-29T16:36:37.876739+00:00",
+ "source_original_sha256": "cc122a8d757b5e63fa639886d38953cb1468fa90049a76b0fe6b6962288c4be2",
+ "offline_snapshot": {
+  "page": "source.html",
+  "assets": "source_files/",
+  "assets_manifest": "source_files/manifest.json",
+  "asset_count": 123,
+  "removed": "all <script> elements except application/ld+json"
+ },
+ "figures": [
+  {
+   "index": 1,
+   "name": "01 Human rights index, world regions, 1923-2023",
+   "embed": {
+    "slug": null,
+    "query": {},
+    "image": "https://ourworldindata.org/cdn-cgi/imagedelivery/qLq-8BTgXU8yG0N6HnOy8g/3203861f-525f-4f51-25a4-b4f8a03dc800/w=2160"
+   },
+   "files": {
+    "html": {
+     "path": "figs/01 Human rights index, world regions, 1923-2023.html",
+     "sha256": "0b0493ee88e5f6ae18fa484a1452779660e2727dac078127a19088d74a907293"
+    },
+    "csv": {
+     "path": "figs/01 Human rights index, world regions, 1923-2023.csv",
+     "sha256": "ad94ed4806c06cf191fab5c7f73b22976c6e404db7a782b71a32076616e9631d"
+    },
+    "png": {
+     "path": "figs/01 Human rights index, world regions, 1923-2023.png",
+     "sha256": "8a8d15d4938195fa594fbda55378c9a9c5cb9c39a73cc6f90b447b0a43a85370"
+    },
+    "txt": {
+     "path": "figs/01 Human rights index, world regions, 1923-2023.txt",
+     "sha256": "b025e45a73a4a5f4ee31da6a7d63c3125469cefaa71a24a3fe19288f4ef9f7d9"
+    }
+   },
+   "scope": {
+    "entities": [
+     "Africa",
+     "Asia",
+     "Europe",
+     "North America",
+     "Oceania",
+     "South America"
+    ]
+   },
+   "view_url": "https://ourworldindata.org/grapher/human-rights-index-vdem?tab=chart&time=1923..2023&country=Africa~Asia~Europe~North+America~Oceania~South+America",
+   "csv_url": "https://ourworldindata.org/grapher/human-rights-index-vdem.csv?csvType=filtered&tab=chart&time=1923..2023&country=Africa~Asia~Europe~North+America~Oceania~South+America",
+   "png_url": "https://ourworldindata.org/cdn-cgi/imagedelivery/qLq-8BTgXU8yG0N6HnOy8g/3203861f-525f-4f51-25a4-b4f8a03dc800/w=2160",
+   "data_available": true,
+   "static_image": true,
+   "identification": "The image is a line chart of the six continents from 1923 to 2023, source V-Dem (2024); the page links the chart human-rights-index-vdem, whose regional series (Africa, Asia, Europe, North America, Oceania, South America) it shows. The ground truth is the chart's current data (decision 0003).",
+   "image_title": "Human rights index",
+   "image_subtitle": "Expert estimates of government torture, political killings, and forced labor; property rights; and freedoms of movement, religion, expression, and association. The index ranges from 0 to 1 (most rights).",
+   "config_title": "Human Rights Index",
+   "config_subtitle": "Data by [V-Dem](#dod:v-dem). Expert estimates of the extent to which people are free from government torture, political killings, and forced labor, have property rights, and enjoy the freedoms of movement, religion, expression, and association. The index ranges from 0 to 1 (most rights).",
+   "chart_slug": "human-rights-index-vdem",
+   "column_short_names": {
+    "Entity": "entity",
+    "Code": "code",
+    "Year": "year",
+    "Human Rights Index": "civ_libs_vdem__estimate_best",
+    "World region according to OWID": "owid_region"
+   }
+  }
+ ]
+}

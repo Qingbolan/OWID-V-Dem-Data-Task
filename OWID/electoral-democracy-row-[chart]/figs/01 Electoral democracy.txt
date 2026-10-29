@@ -1,0 +1,9 @@
+Figure 01: 01 Electoral democracy
+Article: none; source page is the chart page https://ourworldindata.org/grapher/electoral-democracy-row
+
+Title: Electoral democracy
+Subtitle: Classification by [Lührmann et al. (2018)](#dod:regimes-of-the-world-simplified) based on expert estimates by [V-Dem](#dod:v-dem). Electoral democracies are political systems that hold meaningful, free and fair, and multi-party elections.
+Note: 
+Source: V-Dem (2026)
+Units: 
+Chart: https://ourworldindata.org/grapher/electoral-democracy-row

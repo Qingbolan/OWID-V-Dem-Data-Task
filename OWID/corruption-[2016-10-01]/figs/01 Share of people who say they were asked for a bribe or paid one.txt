@@ -1,0 +1,12 @@
+Figure 01: 01 Share of people who say they were asked for a bribe or paid one
+Article: Corruption (2016-10-01)
+
+Title: Share of people who say they were asked for a bribe or paid one
+Subtitle: Share of respondents who report having contact with a public official in the past 12 months and paying or being asked to pay a [bribe](#dod:bribery).
+Note: 
+Source: United Nations Office on Drugs and Crime
+Units: %
+Chart: https://ourworldindata.org/grapher/bribery-prevalence-un
+
+Text before the figure: In many other places, however, bribery is far more common. In some countries, more than half of those interacting with public officials report being asked for a bribe or paying one.
+Text after the figure: While these surveys offer a helpful perspective — and are the official source used to track progress on the UN Sustainable Development Goals — they also have important limitations. For instance, as we explain below in more detail, people may hesitate to admit to paying a bribe and may interpret the questions differently across countries. The national surveys can also differ in their methods and coverage, which limits their comparability between countries.

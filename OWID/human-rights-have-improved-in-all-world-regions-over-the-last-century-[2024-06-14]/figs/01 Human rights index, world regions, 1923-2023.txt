@@ -1,0 +1,13 @@
+Figure 01: 01 Human rights index, world regions, 1923-2023
+Article: Human rights have improved in all world regions over the last century (2024-06-14)
+
+Title: Human rights index
+Subtitle: Expert estimates of government torture, political killings, and forced labor; property rights; and freedoms of movement, religion, expression, and association. The index ranges from 0 to 1 (most rights).
+Note: 
+Source: V-Dem (2026)
+Units: 
+Image description: Line chart showing that human rights have improved in all world regions. The progress has not been steady, there have been setbacks, and big differences between regions have continued. Human rights are less protected in Africa and Asia than other parts of the world.
+Underlying chart (identified): https://ourworldindata.org/grapher/human-rights-index-vdem?tab=chart&time=1923..2023&country=Africa~Asia~Europe~North+America~Oceania~South+America
+
+Text before the figure: 
+Text after the figure: Human rights are much better protected in all world regions than a century ago, according to data by Varieties of Democracy .

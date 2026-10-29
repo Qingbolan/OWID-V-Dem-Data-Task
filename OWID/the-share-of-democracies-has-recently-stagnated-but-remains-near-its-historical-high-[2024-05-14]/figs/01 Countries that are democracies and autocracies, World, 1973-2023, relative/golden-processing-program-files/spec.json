@@ -1,0 +1,92 @@
+{
+ "reproducible": true,
+ "program": "golden.vdem_pipeline",
+ "chart_slug": "countries-democracies-autocracies-row",
+ "view": "https://ourworldindata.org/grapher/countries-democracies-autocracies-row?tab=chart&stackMode=relative&time=1973..2023&country=~OWID_WRL",
+ "columns": [
+  "Closed autocracies",
+  "Electoral autocracies",
+  "Electoral democracies",
+  "Liberal democracies"
+ ],
+ "solution_columns": [
+  "Closed autocracies",
+  "Electoral autocracies",
+  "Electoral democracies",
+  "Liberal democracies"
+ ],
+ "output_precision": {
+  "Closed autocracies": 15,
+  "Electoral autocracies": 15,
+  "Electoral democracies": 15,
+  "Liberal democracies": 15
+ },
+ "sources": {
+  "Closed autocracies": {
+   "table": "vdem_num_countries",
+   "column": "num_countries_regime",
+   "filter": {
+    "category": "closed autocracy"
+   },
+   "short_name": "num_countries_regime__category_closed_autocracy",
+   "gold_index": 3
+  },
+  "Electoral autocracies": {
+   "table": "vdem_num_countries",
+   "column": "num_countries_regime",
+   "filter": {
+    "category": "electoral autocracy"
+   },
+   "short_name": "num_countries_regime__category_electoral_autocracy",
+   "gold_index": 4
+  },
+  "Electoral democracies": {
+   "table": "vdem_num_countries",
+   "column": "num_countries_regime",
+   "filter": {
+    "category": "electoral democracy"
+   },
+   "short_name": "num_countries_regime__category_electoral_democracy",
+   "gold_index": 5
+  },
+  "Liberal democracies": {
+   "table": "vdem_num_countries",
+   "column": "num_countries_regime",
+   "filter": {
+    "category": "liberal democracy"
+   },
+   "short_name": "num_countries_regime__category_liberal_democracy",
+   "gold_index": 6
+  }
+ },
+ "gold_column_index": {
+  "Closed autocracies": 3,
+  "Electoral autocracies": 4,
+  "Electoral democracies": 5,
+  "Liberal democracies": 6
+ },
+ "entity_mapping": "data/reference/owid_etl/vdem/vdem.countries.json",
+ "compare": {
+  "Closed autocracies": {
+   "abs": 1e-15,
+   "rel": 1e-06
+  },
+  "Electoral autocracies": {
+   "abs": 1e-15,
+   "rel": 1e-06
+  },
+  "Electoral democracies": {
+   "abs": 1e-15,
+   "rel": 1e-06
+  },
+  "Liberal democracies": {
+   "abs": 1e-15,
+   "rel": 1e-06
+  }
+ },
+ "encodings": {},
+ "scale": {},
+ "stack_relative": true,
+ "time_tolerance": 0,
+ "not_compared": {}
+}

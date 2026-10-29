@@ -1,0 +1,18 @@
+{
+ "figure": "01 Physical Integrity Rights Index",
+ "checked_at": "2026-10-29T18:06:18.100140+00:00",
+ "status": "match",
+ "gold_rows": 174,
+ "gold_rows_missing_in_reference": 0,
+ "mismatched_cells": {
+  "Physical Integrity Rights Index": 0
+ },
+ "tolerance": {
+  "Physical Integrity Rights Index": {
+   "abs": 0.001,
+   "rel": 1e-06
+  }
+ },
+ "first_mismatches": [],
+ "program": "golden.vdem_pipeline"
+}

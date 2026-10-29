@@ -1,0 +1,18 @@
+{
+ "figure": "01 Access to justice for women",
+ "checked_at": "2026-10-29T18:06:14.548276+00:00",
+ "status": "match",
+ "gold_rows": 174,
+ "gold_rows_missing_in_reference": 0,
+ "mismatched_cells": {
+  "Access to justice for women": 0
+ },
+ "tolerance": {
+  "Access to justice for women": {
+   "abs": 1.0,
+   "rel": 1e-06
+  }
+ },
+ "first_mismatches": [],
+ "program": "golden.vdem_pipeline"
+}

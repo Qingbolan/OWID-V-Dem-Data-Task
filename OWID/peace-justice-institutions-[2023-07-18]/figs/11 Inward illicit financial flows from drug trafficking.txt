@@ -1,0 +1,12 @@
+Figure 11: 11 Inward illicit financial flows from drug trafficking
+Article: Promote just, peaceful and inclusive societies (2023-07-18)
+
+Title: Inward illicit financial flows from drug trafficking
+Subtitle: A financial flow is considered illicit if it is illicitly generated (e.g., from criminal activities or tax evasion), illicitly transferred (e.g., violating currency controls), or illicitly used (e.g., for financing terrorism). This data is expressed in US dollars. It is not adjusted for inflation or differences in living costs between countries.
+Note: 
+Source: United Nations Office on Drugs and Crime and United Nations Conference on Trade and Development
+Units: millions of current united states dollars
+Chart: https://ourworldindata.org/grapher/total-inward-financial-flows-from-drug-trafficking
+
+Text before the figure: Target: “Significantly reduce illicit financial and arms flows, strengthen the recovery and return of stolen assets and combat all forms of organized crime” across all countries by 2030.
+Text after the figure: ### SDG Indicator 16.4.2 Seized or surrendered arms

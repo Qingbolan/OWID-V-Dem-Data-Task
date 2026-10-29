@@ -1,0 +1,18 @@
+{
+ "figure": "01 Legislative Checks on Government Index",
+ "checked_at": "2026-10-29T18:06:17.762275+00:00",
+ "status": "match",
+ "gold_rows": 168,
+ "gold_rows_missing_in_reference": 0,
+ "mismatched_cells": {
+  "Legislative constraints on the executive index": 0
+ },
+ "tolerance": {
+  "Legislative constraints on the executive index": {
+   "abs": 0.001,
+   "rel": 1e-06
+  }
+ },
+ "first_mismatches": [],
+ "program": "golden.vdem_pipeline"
+}

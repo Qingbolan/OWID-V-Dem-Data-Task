@@ -1,0 +1,9 @@
+Figure 01: 01 Free and fair elections
+Article: none; source page is the chart page https://ourworldindata.org/grapher/free-and-fair-elections-row
+
+Title: Free and fair elections
+Subtitle: Data by Lührmann et al. (2018) and [V-Dem](#dod:v-dem). Expert estimates of whether election violence, government intimidation, fraud, large irregularities, and vote buying are broadly absent.
+Note: 
+Source: V-Dem (2026)
+Units: 
+Chart: https://ourworldindata.org/grapher/free-and-fair-elections-row

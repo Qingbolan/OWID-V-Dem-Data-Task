@@ -1,0 +1,12 @@
+Figure 05: 05 Time women and men spend on unpaid care and domestic work
+Article: Achieve gender equality and empower all women and girls (2023-07-18)
+
+Title: Time women and men spend on unpaid care and domestic work
+Subtitle: Average hours per day that women and men aged 15 and older spend on unpaid care and domestic work.
+Note: Unpaid care and domestic work includes: food preparation, dishwashing, upkeep of a dwelling, laundry, ironing, gardening, caring for pets, shopping, servicing and repair of personal and household goods, childcare, and care of the sick, elderly or disabled household members, among others.
+Source: United Nations Statistics Division and UN Women
+Units: hours per day
+Chart: https://ourworldindata.org/grapher/time-spend-in-domestic-work-female-vs-male
+
+Text before the figure: More research: Further data and research on this topic can be found at the Our World in Data topic pages on Women’s Rights , Women's Employment and Working Hours .
+Text after the figure: ## Target 5.5 Ensure full participation in leadership and decision-making

@@ -1,0 +1,363 @@
+{
+ "title": "Corruption",
+ "url": "https://ourworldindata.org/corruption",
+ "date_published": "2016-10-01",
+ "authors": [
+  "Bastian Herre",
+  "Veronika Samborska",
+  "Esteban Ortiz-Ospina"
+ ],
+ "retrieved_at": "2026-10-29T15:15:05.292110+00:00",
+ "materialised_at": "2026-10-29T16:14:38.979290+00:00",
+ "source_original_sha256": "1921cf56096500990cec1fd437b8fd6cd3edca40f422203251e6c87352abc60c",
+ "offline_snapshot": {
+  "page": "source.html",
+  "assets": "source_files/",
+  "assets_manifest": "source_files/manifest.json",
+  "asset_count": 144,
+  "removed": "all <script> elements except application/ld+json"
+ },
+ "figures": [
+  {
+   "index": 1,
+   "name": "01 Share of people who say they were asked for a bribe or paid one",
+   "embed": {
+    "slug": "bribery-prevalence-un",
+    "query": {},
+    "image": null
+   },
+   "files": {
+    "html": {
+     "path": "figs/01 Share of people who say they were asked for a bribe or paid one.html",
+     "sha256": "aaee016edaba09c5d02d49c9685be4949f1765bd0866f57307740321366ab8ef"
+    },
+    "csv": {
+     "path": "figs/01 Share of people who say they were asked for a bribe or paid one.csv",
+     "sha256": "e375c83eaa37e55b47b64dc20d7707adbf5710bf43086e15c9560dba4a82c8d8"
+    },
+    "png": {
+     "path": "figs/01 Share of people who say they were asked for a bribe or paid one.png",
+     "sha256": "2fd14019f4abf411afac483d196fe7a37564aa169c212483eca41ee68c5a557d"
+    },
+    "txt": {
+     "path": "figs/01 Share of people who say they were asked for a bribe or paid one.txt",
+     "sha256": "38f3b3a285952c205ec0438d74eaf0e373d56dbcd3461d353db24c69141b2e6e"
+    }
+   },
+   "view_url": "https://ourworldindata.org/grapher/bribery-prevalence-un",
+   "csv_url": "https://ourworldindata.org/grapher/bribery-prevalence-un.csv?csvType=filtered",
+   "png_url": "https://ourworldindata.org/grapher/bribery-prevalence-un.png",
+   "data_available": true,
+   "config_title": "Share of people who say they were asked for a bribe or paid one",
+   "config_subtitle": "Share of respondents who report having contact with a public official in the past 12 months and paying or being asked to pay a [bribe](#dod:bribery).",
+   "chart_slug": "bribery-prevalence-un",
+   "column_short_names": {
+    "Entity": "entity",
+    "Code": "code",
+    "Year": "year",
+    "Share of people who recently paid a bribe or were asked for one": "_16_5_1__iu_cor_brib__both_sexes",
+    "World region according to OWID": "owid_region",
+    "Share of people who recently paid a bribe or were asked for one (Original Year)": "_16_5_1__iu_cor_brib__both_sexes__original_year"
+   }
+  },
+  {
+   "index": 2,
+   "name": "02 Share of people who say accepting a bribe is never justifiable",
+   "embed": {
+    "slug": "share-of-people-who-say-accepting-a-bribe-is-never-justifiable",
+    "query": {},
+    "image": null
+   },
+   "files": {
+    "html": {
+     "path": "figs/02 Share of people who say accepting a bribe is never justifiable.html",
+     "sha256": "a2bb4df060508879ce1be522b6c5e1537bc03fb588aa371f3faa531f66e733ec"
+    },
+    "csv": {
+     "path": "figs/02 Share of people who say accepting a bribe is never justifiable.csv",
+     "sha256": "5e11476eadb3fc0a36f4f147e9909021db2c02837dbd0958f465cbab0a56f3fe"
+    },
+    "png": {
+     "path": "figs/02 Share of people who say accepting a bribe is never justifiable.png",
+     "sha256": "39cbdfccc452b4aa9c9a9a63871061e61d5d8b6f08abaf9f5cde68ed0666989b"
+    },
+    "txt": {
+     "path": "figs/02 Share of people who say accepting a bribe is never justifiable.txt",
+     "sha256": "a2fe13e88faa0f94678cb4d1f87edc845326f42adf4d9982cee717a90adcf092"
+    }
+   },
+   "view_url": "https://ourworldindata.org/grapher/share-of-people-who-say-accepting-a-bribe-is-never-justifiable",
+   "csv_url": "https://ourworldindata.org/grapher/share-of-people-who-say-accepting-a-bribe-is-never-justifiable.csv?csvType=filtered",
+   "png_url": "https://ourworldindata.org/grapher/share-of-people-who-say-accepting-a-bribe-is-never-justifiable.png",
+   "data_available": true,
+   "config_title": "Share of people who say accepting a bribe is never justifiable",
+   "config_subtitle": "Share of people who said accepting a bribe is \"never justifiable\" (score of 1), when asked to rate how acceptable bribery is on a scale from 1 to 10 (\"always justifiable\").",
+   "chart_slug": "share-of-people-who-say-accepting-a-bribe-is-never-justifiable",
+   "column_short_names": {
+    "Entity": "entity",
+    "Code": "code",
+    "Year": "year",
+    "Accepting a bribe: Never justifiable": "never_just_accepting_a_bribe",
+    "World region according to OWID": "owid_region",
+    "Accepting a bribe: Never justifiable (Original Year)": "never_just_accepting_a_bribe__original_year",
+    "Accepting a bribe: Never justifiable (Annotations)": "never_just_accepting_a_bribe__annotations"
+   }
+  },
+  {
+   "index": 3,
+   "name": "03 Share of firms that report being asked to pay a bribe",
+   "embed": {
+    "slug": "bribery-incidence-for-firms",
+    "query": {},
+    "image": null
+   },
+   "files": {
+    "html": {
+     "path": "figs/03 Share of firms that report being asked to pay a bribe.html",
+     "sha256": "29b64b18055802dea9d3a813bdadbcb1229d6cb3f9f9b06d91914f98b131039a"
+    },
+    "csv": {
+     "path": "figs/03 Share of firms that report being asked to pay a bribe.csv",
+     "sha256": "0aecfd3afe54902320a3785b11ca82f576e60bf51115ae7d2ae3b30b67b67df8"
+    },
+    "png": {
+     "path": "figs/03 Share of firms that report being asked to pay a bribe.png",
+     "sha256": "22f958836e8be31dabcbed3cbff7608fa57753c274b99641c5f163be785ccee5"
+    },
+    "txt": {
+     "path": "figs/03 Share of firms that report being asked to pay a bribe.txt",
+     "sha256": "02f1aca7d142b0610673ac4dc77c6eec4aa33d63160d4afe7db57d839086250c"
+    }
+   },
+   "view_url": "https://ourworldindata.org/grapher/bribery-incidence-for-firms",
+   "csv_url": "https://ourworldindata.org/grapher/bribery-incidence-for-firms.csv?csvType=filtered",
+   "png_url": "https://ourworldindata.org/grapher/bribery-incidence-for-firms.png",
+   "data_available": true,
+   "config_title": "Share of firms that report being asked to pay a bribe",
+   "config_subtitle": "[Bribes](#dod:bribery) when dealing with core public services, such as operating licenses and construction permits.",
+   "chart_slug": "bribery-incidence-for-firms",
+   "column_short_names": {
+    "Entity": "entity",
+    "Code": "code",
+    "Year": "year",
+    "At least one bribe request": "bribery_incidence__percent_of_firms_experiencing_at_least_one_bribe_payment_request",
+    "World region according to OWID": "owid_region",
+    "At least one bribe request (Original Year)": "bribery_incidence__percent_of_firms_experiencing_at_least_one_bribe_payment_request__original_year"
+   }
+  },
+  {
+   "index": 4,
+   "name": "04 Political Corruption Index",
+   "embed": {
+    "slug": "political-corruption-index",
+    "query": {},
+    "image": null
+   },
+   "files": {
+    "html": {
+     "path": "figs/04 Political Corruption Index.html",
+     "sha256": "e9b9a4285b191af45b41a4c6a25ad8678eeaa3c293d6f74040bdc74794e9f902"
+    },
+    "csv": {
+     "path": "figs/04 Political Corruption Index.csv",
+     "sha256": "d3b3957112de17d0adc1646bf19b579717c2700c7aefc572c09b03cf1d0b0e31"
+    },
+    "png": {
+     "path": "figs/04 Political Corruption Index.png",
+     "sha256": "ceca623081396ce788070ffcf99cdb67fabe10dedfcf39231fcf65046104fa71"
+    },
+    "txt": {
+     "path": "figs/04 Political Corruption Index.txt",
+     "sha256": "d8e4e65de129062b0522fc2a2b356af0adfdb4cfc1e9ab07fde3730f5dd2f6ef"
+    }
+   },
+   "view_url": "https://ourworldindata.org/grapher/political-corruption-index",
+   "csv_url": "https://ourworldindata.org/grapher/political-corruption-index.csv?csvType=filtered",
+   "png_url": "https://ourworldindata.org/grapher/political-corruption-index.png",
+   "data_available": true,
+   "config_title": "Political Corruption Index",
+   "config_subtitle": "Data by [V-Dem](#dod:v-dem). Expert estimates of the extent to which the executive, legislative, judiciary, and bureaucracy engage in bribery and theft, and the making and implementation of laws are susceptible to corruption. The index ranges from 0 to 1 (highly corrupt).",
+   "chart_slug": "political-corruption-index",
+   "column_short_names": {
+    "Entity": "entity",
+    "Code": "code",
+    "Year": "year",
+    "Political Corruption Index": "corruption_vdem__estimate_best",
+    "World region according to OWID": "owid_region"
+   }
+  },
+  {
+   "index": 5,
+   "name": "05 Political Corruption Index",
+   "embed": {
+    "slug": "political-corruption-index",
+    "query": {
+     "time": "1970..latest"
+    },
+    "image": null
+   },
+   "files": {
+    "html": {
+     "path": "figs/05 Political Corruption Index.html",
+     "sha256": "fddf030c98a9e143761a38ebc83565d5a00241a370bb0518d1f9380650ff1411"
+    },
+    "csv": {
+     "path": "figs/05 Political Corruption Index.csv",
+     "sha256": "92c3303c572bfbb16cef6711a1d79e8f57abf99dedff089e0e58a085c669a62d"
+    },
+    "png": {
+     "path": "figs/05 Political Corruption Index.png",
+     "sha256": "2073bd511002953c6dd9ae1f5f9ba2667a925bb15bc0aabba9bfb817626a9900"
+    },
+    "txt": {
+     "path": "figs/05 Political Corruption Index.txt",
+     "sha256": "513fa55aa4c6f41a77c79be00325c85b5badc6d3bfa4f71ebbffb53e3ac39e4e"
+    }
+   },
+   "view_url": "https://ourworldindata.org/grapher/political-corruption-index?time=1970..latest",
+   "csv_url": "https://ourworldindata.org/grapher/political-corruption-index.csv?csvType=filtered&time=1970..latest",
+   "png_url": "https://ourworldindata.org/grapher/political-corruption-index.png?time=1970..latest",
+   "data_available": true,
+   "config_title": "Political Corruption Index",
+   "config_subtitle": "Data by [V-Dem](#dod:v-dem). Expert estimates of the extent to which the executive, legislative, judiciary, and bureaucracy engage in bribery and theft, and the making and implementation of laws are susceptible to corruption. The index ranges from 0 to 1 (highly corrupt).",
+   "chart_slug": "political-corruption-index",
+   "column_short_names": {
+    "Entity": "entity",
+    "Code": "code",
+    "Year": "year",
+    "Political Corruption Index": "corruption_vdem__estimate_best",
+    "World region according to OWID": "owid_region"
+   }
+  },
+  {
+   "index": 6,
+   "name": "06 People asked for a bribe vs. firms asked for a bribe",
+   "embed": {
+    "slug": "people-asked-for-a-bribe-vs-firms-asked-for-a-bribe",
+    "query": {},
+    "image": null
+   },
+   "files": {
+    "html": {
+     "path": "figs/06 People asked for a bribe vs. firms asked for a bribe.html",
+     "sha256": "30cfedf3e80cf38feb676e807c72f74dba363ee03e2bf91db57e6d783856ac7d"
+    },
+    "csv": {
+     "path": "figs/06 People asked for a bribe vs. firms asked for a bribe.csv",
+     "sha256": "050ffed2c84b1f859dcb1139e34774755a19561207e29a798136fff7f601eefd"
+    },
+    "png": {
+     "path": "figs/06 People asked for a bribe vs. firms asked for a bribe.png",
+     "sha256": "623eafc2ed3203d940f3aee0abd85796a3fd718d08a60c8afc8b0b07e8f0f9a9"
+    },
+    "txt": {
+     "path": "figs/06 People asked for a bribe vs. firms asked for a bribe.txt",
+     "sha256": "ec62620efee35697fbbaab3e77e76a646e1df47718ef08881b3cbf432835470c"
+    }
+   },
+   "view_url": "https://ourworldindata.org/grapher/people-asked-for-a-bribe-vs-firms-asked-for-a-bribe",
+   "csv_url": "https://ourworldindata.org/grapher/people-asked-for-a-bribe-vs-firms-asked-for-a-bribe.csv?csvType=filtered",
+   "png_url": "https://ourworldindata.org/grapher/people-asked-for-a-bribe-vs-firms-asked-for-a-bribe.png",
+   "data_available": true,
+   "config_title": "People asked for a bribe vs. firms asked for a bribe",
+   "config_subtitle": "Share of respondents who report having contact with a public official in the past 12 months and paying or being asked to pay a [bribe](#dod:bribery), vs. share of firms that report being asked to pay a bribe when dealing with core public services.",
+   "chart_slug": "people-asked-for-a-bribe-vs-firms-asked-for-a-bribe",
+   "column_short_names": {
+    "Entity": "entity",
+    "Code": "code",
+    "Year": "year",
+    "Share of people who said they were recently asked for a bribe or paid one": "_16_5_1__iu_cor_brib__both_sexes",
+    "Share of firms that report being asked to pay a bribe": "bribery_incidence__percent_of_firms_experiencing_at_least_one_bribe_payment_request",
+    "World region according to OWID": "owid_region",
+    "Share of firms that report being asked to pay a bribe (Original Year)": "bribery_incidence__percent_of_firms_experiencing_at_least_one_bribe_payment_request__original_year",
+    "Share of people who said they were recently asked for a bribe or paid one (Original Year)": "_16_5_1__iu_cor_brib__both_sexes__original_year"
+   }
+  },
+  {
+   "index": 7,
+   "name": "07 People asked for a bribe vs. Political Corruption Index",
+   "embed": {
+    "slug": "share-of-people-who-recently-paid-a-bribe-or-were-asked-for-one-vs-political-corruption-index",
+    "query": {},
+    "image": null
+   },
+   "files": {
+    "html": {
+     "path": "figs/07 People asked for a bribe vs. Political Corruption Index.html",
+     "sha256": "fa547bdcd8bd45bd90ceae11ef52fc04baf12e9fd553bf0fc4beac8e894ade6b"
+    },
+    "csv": {
+     "path": "figs/07 People asked for a bribe vs. Political Corruption Index.csv",
+     "sha256": "8b3dbfbfa90d5766d0c6d2ba00e7021884a577e75b5f56c22a9987c5f796056a"
+    },
+    "png": {
+     "path": "figs/07 People asked for a bribe vs. Political Corruption Index.png",
+     "sha256": "e24eafe27d90f4a16d2ab2b380795166ec11875425fc6bf2590bdcc5ff2d776f"
+    },
+    "txt": {
+     "path": "figs/07 People asked for a bribe vs. Political Corruption Index.txt",
+     "sha256": "4fd30be5cb1268fbd9ace61fa218651344c64fa39cf853f8a5fad0b22a758a8a"
+    }
+   },
+   "view_url": "https://ourworldindata.org/grapher/share-of-people-who-recently-paid-a-bribe-or-were-asked-for-one-vs-political-corruption-index",
+   "csv_url": "https://ourworldindata.org/grapher/share-of-people-who-recently-paid-a-bribe-or-were-asked-for-one-vs-political-corruption-index.csv?csvType=filtered",
+   "png_url": "https://ourworldindata.org/grapher/share-of-people-who-recently-paid-a-bribe-or-were-asked-for-one-vs-political-corruption-index.png",
+   "data_available": true,
+   "config_title": "People asked for a bribe vs. Political Corruption Index",
+   "config_subtitle": "Share of respondents who had contact with a public official in the past 12 months and said they paid or were asked to pay a bribe. The political corruption index is by [V-Dem](#dod:v-dem), based on expert estimates, and ranges from 0 to 1 (most corrupt).",
+   "chart_slug": "share-of-people-who-recently-paid-a-bribe-or-were-asked-for-one-vs-political-corruption-index",
+   "column_short_names": {
+    "Entity": "entity",
+    "Code": "code",
+    "Year": "year",
+    "Share of people who said they were recently asked for a bribe or paid one": "_16_5_1__iu_cor_brib__both_sexes",
+    "Political Corruption Index": "corruption_vdem__estimate_best",
+    "World region according to OWID": "owid_region",
+    "Political Corruption Index (Original Year)": "corruption_vdem__estimate_best__original_year",
+    "Share of people who said they were recently asked for a bribe or paid one (Original Year)": "_16_5_1__iu_cor_brib__both_sexes__original_year"
+   }
+  },
+  {
+   "index": 8,
+   "name": "08 Share of people who say they were asked for a bribe or paid one",
+   "embed": {
+    "slug": "bribery-prevalence-un",
+    "query": {},
+    "image": null
+   },
+   "files": {
+    "html": {
+     "path": "figs/08 Share of people who say they were asked for a bribe or paid one.html",
+     "sha256": "33e0b8bb237fa737dbd1c4a5b9056bb95e2a86dad41862734c6746088b6af674"
+    },
+    "csv": {
+     "path": "figs/08 Share of people who say they were asked for a bribe or paid one.csv",
+     "sha256": "e375c83eaa37e55b47b64dc20d7707adbf5710bf43086e15c9560dba4a82c8d8"
+    },
+    "png": {
+     "path": "figs/08 Share of people who say they were asked for a bribe or paid one.png",
+     "sha256": "2fd14019f4abf411afac483d196fe7a37564aa169c212483eca41ee68c5a557d"
+    },
+    "txt": {
+     "path": "figs/08 Share of people who say they were asked for a bribe or paid one.txt",
+     "sha256": "06e7163dcec3e67250379d05fda34b9270cac46aafd3507fde25b734db5d453e"
+    }
+   },
+   "view_url": "https://ourworldindata.org/grapher/bribery-prevalence-un",
+   "csv_url": "https://ourworldindata.org/grapher/bribery-prevalence-un.csv?csvType=filtered",
+   "png_url": "https://ourworldindata.org/grapher/bribery-prevalence-un.png",
+   "data_available": true,
+   "config_title": "Share of people who say they were asked for a bribe or paid one",
+   "config_subtitle": "Share of respondents who report having contact with a public official in the past 12 months and paying or being asked to pay a [bribe](#dod:bribery).",
+   "chart_slug": "bribery-prevalence-un",
+   "column_short_names": {
+    "Entity": "entity",
+    "Code": "code",
+    "Year": "year",
+    "Share of people who recently paid a bribe or were asked for one": "_16_5_1__iu_cor_brib__both_sexes",
+    "World region according to OWID": "owid_region",
+    "Share of people who recently paid a bribe or were asked for one (Original Year)": "_16_5_1__iu_cor_brib__both_sexes__original_year"
+   }
+  }
+ ]
+}

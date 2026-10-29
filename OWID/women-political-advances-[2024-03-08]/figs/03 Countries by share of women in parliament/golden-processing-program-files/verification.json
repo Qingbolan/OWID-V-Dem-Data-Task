@@ -1,0 +1,48 @@
+{
+ "figure": "03 Countries by share of women in parliament",
+ "checked_at": "2026-10-29T18:06:18.874594+00:00",
+ "status": "match",
+ "gold_rows": 126,
+ "gold_rows_missing_in_reference": 0,
+ "mismatched_cells": {
+  "No women": 0,
+  "Less than 10% women": 0,
+  "10 - 20% women": 0,
+  "20 - 30% women": 0,
+  "30 - 40% women": 0,
+  "40 - 50% women": 0,
+  "50% or more women": 0
+ },
+ "tolerance": {
+  "No women": {
+   "abs": 1e-16,
+   "rel": 1e-06
+  },
+  "Less than 10% women": {
+   "abs": 1e-16,
+   "rel": 1e-06
+  },
+  "10 - 20% women": {
+   "abs": 1e-16,
+   "rel": 1e-06
+  },
+  "20 - 30% women": {
+   "abs": 1e-16,
+   "rel": 1e-06
+  },
+  "30 - 40% women": {
+   "abs": 1e-16,
+   "rel": 1e-06
+  },
+  "40 - 50% women": {
+   "abs": 1e-16,
+   "rel": 1e-06
+  },
+  "50% or more women": {
+   "abs": 1e-16,
+   "rel": 1e-06
+  }
+ },
+ "first_mismatches": [],
+ "program": "golden.vdem_pipeline"
+}

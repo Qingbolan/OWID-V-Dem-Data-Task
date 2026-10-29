@@ -1,0 +1,56 @@
+{
+ "title": "Deliberative Political Institutions Index",
+ "url": "https://ourworldindata.org/grapher/deliberative-political-institutions-index",
+ "date_published": null,
+ "chart_page": true,
+ "authors": [],
+ "retrieved_at": "2026-10-29T17:03:27.089603+00:00",
+ "materialised_at": "2026-10-29T17:03:27.089616+00:00",
+ "source_original_sha256": "2924d6006b5dfd51d4d9756d919667c9474acec26dcd797e93f1baa9aa81bf3e",
+ "offline_snapshot": {
+  "page": "source.html",
+  "assets": "source_files/",
+  "assets_manifest": "source_files/manifest.json",
+  "asset_count": 73,
+  "removed": "all <script> elements except application/ld+json"
+ },
+ "figures": [
+  {
+   "index": 1,
+   "name": "01 Deliberative Political Institutions Index",
+   "embed": {
+    "slug": "deliberative-political-institutions-index",
+    "query": {},
+    "image": null
+   },
+   "view_url": "https://ourworldindata.org/grapher/deliberative-political-institutions-index",
+   "csv_url": "https://ourworldindata.org/grapher/deliberative-political-institutions-index.csv?csvType=filtered",
+   "png_url": "https://ourworldindata.org/grapher/deliberative-political-institutions-index.png",
+   "data_available": true,
+   "config_title": "Deliberative Political Institutions Index",
+   "config_subtitle": "Data by [V-Dem](#dod:v-dem). Expert estimates of the extent to which citizens and leaders discuss different views and seek the public good. The index ranges from 0 to 1 (most deliberative).",
+   "files": {
+    "txt": {
+     "path": "figs/01 Deliberative Political Institutions Index.txt",
+     "sha256": "822114aae0696c5af15dfea2c5fa29298672dccdc63b174b017d19d6d48ce1bd"
+    },
+    "csv": {
+     "path": "figs/01 Deliberative Political Institutions Index.csv",
+     "sha256": "35f0ebfd8e0becf34b169d91c5f30b25d27ae264c07e8a40c2b7e65ac52d9540"
+    },
+    "png": {
+     "path": "figs/01 Deliberative Political Institutions Index.png",
+     "sha256": "4765f2c9c4881f0611b9ad9b64ae89a4f3793c979135a1ebabad57c373d26927"
+    }
+   },
+   "chart_slug": "deliberative-political-institutions-index",
+   "column_short_names": {
+    "Entity": "entity",
+    "Code": "code",
+    "Year": "year",
+    "Deliberative political institutions index": "delib_vdem__estimate_best",
+    "World region according to OWID": "owid_region"
+   }
+  }
+ ]
+}

@@ -1,0 +1,12 @@
+Figure 08: 08 Share of victims who reported crime to the police
+Article: Promote just, peaceful and inclusive societies (2023-07-18)
+
+Title: Share of victims who reported crime to the police
+Subtitle: Number of victims in the previous 12 months who reported the crime to competent authorities, divided by the number of all victims.
+Note: 
+Source: United Nations Office on Drugs and Crime
+Units: %
+Chart: https://ourworldindata.org/grapher/share-of-victims-who-reported-crime-to-the-police
+
+Text before the figure: Target: “Promote the rule of law at the national and international levels and ensure equal access to justice for all” across all countries by 2030.
+Text after the figure: ### SDG Indicator 16.3.2 Unsentenced detainees

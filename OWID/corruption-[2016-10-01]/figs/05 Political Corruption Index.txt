@@ -1,0 +1,12 @@
+Figure 05: 05 Political Corruption Index
+Article: Corruption (2016-10-01)
+
+Title: Political Corruption Index
+Subtitle: Data by [V-Dem](#dod:v-dem). Expert estimates of the extent to which the executive, legislative, judiciary, and bureaucracy engage in bribery and theft, and the making and implementation of laws are susceptible to corruption. The index ranges from 0 to 1 (highly corrupt).
+Note: 
+Source: V-Dem (2026)
+Units: 
+Chart: https://ourworldindata.org/grapher/political-corruption-index?time=1970..latest
+
+Text before the figure: The maps show how V-Dem’s experts assess political corruption in 1970 compared to the present. Experts identify increases in corruption in some countries and decreases in others. You can explore specific countries by switching to the line chart. But, importantly, you should keep in mind that no single measure can fully tell us the story of how corruption changes over time.
+Text after the figure: In our related article, you can read more about how corruption relates to broader development outcomes. While it does not cover the most recent research on the topic, it highlights key patterns and historical examples that remain relevant:

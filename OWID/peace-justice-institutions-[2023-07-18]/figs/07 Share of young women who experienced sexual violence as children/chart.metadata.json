@@ -1,0 +1,36 @@
+{
+ "chart": {
+  "title": "Share of young women who experienced sexual violence as children",
+  "subtitle": "Women aged 18-29 years old who experienced any form of sexual violence before reaching the age of 18. Data is from 2005-2024.",
+  "citation": "UNICEF",
+  "originalChartUrl": "https://ourworldindata.org/grapher/women-who-experienced-sexual-violence-by-age-18",
+  "selection": [
+   "Ghana",
+   "Maldives",
+   "Sao Tome and Principe",
+   "Bangladesh",
+   "Democratic Republic of Congo",
+   "Colombia",
+   "United Kingdom"
+  ]
+ },
+ "columns": {
+  "16.2.3 - Proportion of population aged 18-29 years who experienced sexual violence by age 18, by sex (% of population aged 18-29) - VC_VAW_SXVLN - 18 to 29 years old - Female": {
+   "titleShort": "Proportion of population aged 18-29 years who experienced sexual violence by age 18, by sex (% of population aged 18-29) - 18 to 29 years old - Female",
+   "titleLong": "Proportion of population aged 18-29 years who experienced sexual violence by age 18, by sex (% of population aged 18-29) - 18 to 29 years old - Female",
+   "descriptionShort": "Proportion of population aged 18-29 years who experienced sexual violence by age 18, by sex (% of population aged 18-29).",
+   "shortUnit": "%",
+   "unit": "%",
+   "timespan": "2005-2024",
+   "type": "Numeric",
+   "owidVariableId": 1301106,
+   "shortName": "_16_2_3__vc_vaw_sxvln__18_to_29_years_old__female",
+   "lastUpdated": "2026-07-31",
+   "nextUpdate": "2027-07-31",
+   "citationShort": "UNICEF – processed by Our World in Data",
+   "citationLong": "UNICEF – processed by Our World in Data. “Proportion of population aged 18-29 years who experienced sexual violence by age 18, by sex (% of population aged 18-29) - 18 to 29 years old - Female” [dataset]. UNICEF, “Data from multiple sources” [original data].",
+   "fullMetadata": "https://api.ourworldindata.org/v1/indicators/1301106.metadata.json"
+  }
+ },
+ "dateDownloaded": "2026-10-29"
+}

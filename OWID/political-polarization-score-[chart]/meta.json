@@ -1,0 +1,55 @@
+{
+ "title": "Political Polarization Score",
+ "url": "https://ourworldindata.org/grapher/political-polarization-score",
+ "date_published": null,
+ "chart_page": true,
+ "authors": [],
+ "retrieved_at": "2026-10-29T17:40:07.506321+00:00",
+ "materialised_at": "2026-10-29T17:40:07.506329+00:00",
+ "source_original_sha256": "5abf063f5c2eeec8cdb9fa3fa0ba1a2a988069ab51356b962fb537568fb6b137",
+ "offline_snapshot": {
+  "page": "source.html",
+  "assets": "source_files/",
+  "assets_manifest": "source_files/manifest.json",
+  "asset_count": 73,
+  "removed": "all <script> elements except application/ld+json"
+ },
+ "figures": [
+  {
+   "index": 1,
+   "name": "01 Political Polarization Score",
+   "embed": {
+    "slug": "political-polarization-score",
+    "query": {},
+    "image": null
+   },
+   "view_url": "https://ourworldindata.org/grapher/political-polarization-score",
+   "csv_url": "https://ourworldindata.org/grapher/political-polarization-score.csv?csvType=filtered",
+   "png_url": "https://ourworldindata.org/grapher/political-polarization-score.png",
+   "data_available": true,
+   "config_title": "Political Polarization Score",
+   "config_subtitle": "Data by [V-Dem](#dod:v-dem). Expert estimates of the extent to which society is divided into hostile political camps, and political differences undermine social relationships and discourage interaction across ideological lines. Higher scores indicate more polarization. A score of 0 is approximately the average across all countries and years.",
+   "files": {
+    "txt": {
+     "path": "figs/01 Political Polarization Score.txt",
+     "sha256": "c71a08c14993b48a63b57088eb89b9ad6b8a6db15fd04011357b254d8ec0dbaa"
+    },
+    "csv": {
+     "path": "figs/01 Political Polarization Score.csv",
+     "sha256": "0c6061c7e245fbea7a1467829a8b2bfc7ba525fc5336cb3782d27947daf9ede7"
+    },
+    "png": {
+     "path": "figs/01 Political Polarization Score.png",
+     "sha256": "70c52a91fede553e6adfe0e343c941d6b3f0fae058f38d4cacd3fe34b73edf81"
+    }
+   },
+   "chart_slug": "political-polarization-score",
+   "column_short_names": {
+    "Entity": "entity",
+    "Code": "code",
+    "Year": "year",
+    "Political polarization score": "v2cacamps__estimate_best"
+   }
+  }
+ ]
+}

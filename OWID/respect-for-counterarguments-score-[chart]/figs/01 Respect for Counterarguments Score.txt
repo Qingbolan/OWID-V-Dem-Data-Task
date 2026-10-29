@@ -1,0 +1,9 @@
+Figure 01: 01 Respect for Counterarguments Score
+Article: none; source page is the chart page https://ourworldindata.org/grapher/respect-for-counterarguments-score
+
+Title: Respect for Counterarguments Score
+Subtitle: Data by [V-Dem](#dod:v-dem). Expert estimates of the extent to which political leaders acknowledge and respect different views and sometimes change their own. Higher scores mean more respect. A score of 0 is approximately the average across all countries and years.
+Note: 
+Source: V-Dem (2026)
+Units: 
+Chart: https://ourworldindata.org/grapher/respect-for-counterarguments-score

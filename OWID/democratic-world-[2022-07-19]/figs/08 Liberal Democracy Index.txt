@@ -1,0 +1,12 @@
+Figure 08: 08 Liberal Democracy Index
+Article: People around the world have gained democratic rights, but some have many more rights than others (2022-07-19)
+
+Title: Liberal Democracy Index
+Subtitle: Data by [V-Dem](#dod:v-dem). Expert estimates of the extent of voting rights, the freedom and fairness of elections, freedoms of association and expression, civil liberties, and executive constraints. The index ranges from 0 to 1 (most democratic).
+Note: 
+Source: V-Dem (2026)
+Units: 
+Chart: https://ourworldindata.org/grapher/liberal-democracy-index
+
+Text before the figure: But the fact that so many countries are still highly undemocratic means that the fight for democratic political rights goes on.
+Text after the figure: ## Keep reading at Our World in Data

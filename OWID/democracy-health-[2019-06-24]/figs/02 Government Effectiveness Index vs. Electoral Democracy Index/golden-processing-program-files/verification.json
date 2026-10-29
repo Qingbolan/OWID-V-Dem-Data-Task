@@ -1,0 +1,23 @@
+{
+ "figure": "02 Government Effectiveness Index vs. Electoral Democracy Index",
+ "checked_at": "2026-10-29T18:06:15.809876+00:00",
+ "status": "match",
+ "gold_rows": 170,
+ "gold_rows_missing_in_reference": 0,
+ "mismatched_cells": {
+  "Electoral Democracy ndex": 0,
+  "Government Effectiveness Index": 0
+ },
+ "tolerance": {
+  "Electoral Democracy ndex": {
+   "abs": 0.001,
+   "rel": 1e-06
+  },
+  "Government Effectiveness Index": {
+   "abs": 0.001,
+   "rel": 1e-06
+  }
+ },
+ "first_mismatches": [],
+ "program": "golden.vdem_pipeline"
+}

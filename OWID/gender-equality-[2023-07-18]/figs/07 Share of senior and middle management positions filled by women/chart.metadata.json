@@ -1,0 +1,38 @@
+{
+ "chart": {
+  "title": "Share of senior and middle management positions filled by women",
+  "subtitle": "Women who are employed in decision-making and management roles in government, as well as large enterprises and institutions.",
+  "note": "Differences in the levels of responsibility between men and women, and the enterprises and institutions for which they work, are not considered.",
+  "citation": "International Labour Organization",
+  "originalChartUrl": "https://ourworldindata.org/grapher/proportion-of-women-in-senior-and-middle-management-positions",
+  "selection": [
+   "Russia",
+   "Germany",
+   "United States",
+   "Argentina",
+   "Pakistan",
+   "Japan",
+   "South Africa"
+  ]
+ },
+ "columns": {
+  "5.5.2 - Proportion of women in senior and middle management positions - 13th ICLS (%) - IC_GEN_MGTN": {
+   "titleShort": "5.5.2 - Proportion of women in senior and middle management positions - 13th ICLS (%) - IC_GEN_MGTN",
+   "titleLong": "5.5.2 - Proportion of women in senior and middle management positions - 13th ICLS (%) - IC_GEN_MGTN",
+   "descriptionShort": "Proportion of women in senior and middle management positions - 13th ICLS (%).",
+   "descriptionKey": "Employment in senior and middle management is defined based on the [International Standard Classification of Occupations](https://ilostat.ilo.org/methods/concepts-and-definitions/classification-occupation/). This series refers to major group 1 of ISCO-08 or ISCO-88, excluding sub-major groups 14 in ISCO-08 and 13 in ISCO-88.",
+   "shortUnit": "%",
+   "unit": "%",
+   "timespan": "2000-2025",
+   "type": "Numeric",
+   "owidVariableId": 1305120,
+   "shortName": "_5_5_2__ic_gen_mgtn",
+   "lastUpdated": "2026-07-31",
+   "nextUpdate": "2027-07-31",
+   "citationShort": "International Labour Organization – with minor processing by Our World in Data",
+   "citationLong": "International Labour Organization – with minor processing by Our World in Data. “5.5.2 - Proportion of women in senior and middle management positions - 13th ICLS (%) - IC_GEN_MGTN” [dataset]. International Labour Organization, “Data from multiple sources” [original data].",
+   "fullMetadata": "https://api.ourworldindata.org/v1/indicators/1305120.metadata.json"
+  }
+ },
+ "dateDownloaded": "2026-10-29"
+}

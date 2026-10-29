@@ -1,0 +1,55 @@
+{
+ "title": "Elite Consultations Score",
+ "url": "https://ourworldindata.org/grapher/elite-consultations-score",
+ "date_published": null,
+ "chart_page": true,
+ "authors": [],
+ "retrieved_at": "2026-10-29T17:10:07.888323+00:00",
+ "materialised_at": "2026-10-29T17:10:07.888344+00:00",
+ "source_original_sha256": "96fd75b144e60f8922b44ffaf79edf558ef6b7411551363d57121b907149f551",
+ "offline_snapshot": {
+  "page": "source.html",
+  "assets": "source_files/",
+  "assets_manifest": "source_files/manifest.json",
+  "asset_count": 73,
+  "removed": "all <script> elements except application/ld+json"
+ },
+ "figures": [
+  {
+   "index": 1,
+   "name": "01 Elite Consultations Score",
+   "embed": {
+    "slug": "elite-consultations-score",
+    "query": {},
+    "image": null
+   },
+   "view_url": "https://ourworldindata.org/grapher/elite-consultations-score",
+   "csv_url": "https://ourworldindata.org/grapher/elite-consultations-score.csv?csvType=filtered",
+   "png_url": "https://ourworldindata.org/grapher/elite-consultations-score.png",
+   "data_available": true,
+   "config_title": "Elite Consultations Score",
+   "config_subtitle": "Data by [V-Dem](#dod:v-dem). Expert estimates of the extent to which leaders across the political spectrum, society, and business are consulted when deciding on policies. Higher scores mean more consultation. A score of 0 is approximately the average across all countries and years.",
+   "files": {
+    "txt": {
+     "path": "figs/01 Elite Consultations Score.txt",
+     "sha256": "41643558a700e56437a3cbe34954a1a1ca299423626f36832891aff94309fac3"
+    },
+    "csv": {
+     "path": "figs/01 Elite Consultations Score.csv",
+     "sha256": "1dfa44b211a575c94815ee0df42ce06400acf1b5eef797469c01d37364d90c72"
+    },
+    "png": {
+     "path": "figs/01 Elite Consultations Score.png",
+     "sha256": "95bdfece344bece988f83f299f7a9fa239d243fbe1594e55ad043eb3b7dd8b31"
+    }
+   },
+   "chart_slug": "elite-consultations-score",
+   "column_short_names": {
+    "Entity": "entity",
+    "Code": "code",
+    "Year": "year",
+    "Elite consultation": "elitecons_polch_vdem__estimate_best"
+   }
+  }
+ ]
+}

@@ -1,0 +1,12 @@
+Figure 12: 12 Share of people who own a mobile phone, by sex
+Article: Achieve gender equality and empower all women and girls (2023-07-18)
+
+Title: Share of people who own a mobile phone, by sex
+Subtitle: Individuals with a mobile phone with at least one SIM card that has been used in the last three months.
+Note: 
+Source: International Telecommunication Union
+Units: %
+Chart: https://ourworldindata.org/grapher/share-of-individuals-who-own-a-mobile-telephone-by-sex
+
+Text before the figure: There is no defined target level for this indicator.
+Text after the figure: ## Target 5.c Adopt and strengthen policies and enforceable legislation for gender equality

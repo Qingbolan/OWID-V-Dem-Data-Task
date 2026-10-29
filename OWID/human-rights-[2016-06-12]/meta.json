@@ -1,0 +1,241 @@
+{
+ "title": "Human Rights",
+ "url": "https://ourworldindata.org/human-rights",
+ "date_published": "2016-06-12",
+ "authors": [
+  "Bastian Herre",
+  "Pablo Arriagada"
+ ],
+ "retrieved_at": "2026-10-29T15:15:23.158763+00:00",
+ "materialised_at": "2026-10-29T16:40:07.810439+00:00",
+ "source_original_sha256": "c46e94661cdbe0ca5757b3528174b8a8dd246cfb3742107b5aaebac92ebf2372",
+ "offline_snapshot": {
+  "page": "source.html",
+  "assets": "source_files/",
+  "assets_manifest": "source_files/manifest.json",
+  "asset_count": 188,
+  "removed": "all <script> elements except application/ld+json"
+ },
+ "figures": [
+  {
+   "index": 1,
+   "name": "01 Human Rights Index",
+   "embed": {
+    "slug": "human-rights-index-vdem",
+    "query": {
+     "tab": "line",
+     "time": "earliest..latest",
+     "country": "~OWID_WRL"
+    },
+    "image": null
+   },
+   "files": {
+    "html": {
+     "path": "figs/01 Human Rights Index.html",
+     "sha256": "46a1f0fd5777b6d64b0e193d445a5c2f47ae66b72799f9e0f80c93ffed4d90bf"
+    },
+    "csv": {
+     "path": "figs/01 Human Rights Index.csv",
+     "sha256": "3ea3ea19723b355542812587440c9c164de3553a9e9b10a34beeca91421f5b73"
+    },
+    "png": {
+     "path": "figs/01 Human Rights Index.png",
+     "sha256": "141faa48c33d24d2c4625309143d4a79b02f84ae1d4d62d77e18014b68f6b4fe"
+    },
+    "txt": {
+     "path": "figs/01 Human Rights Index.txt",
+     "sha256": "11dce80e3e9790a7f6dd86d9fdc01aefc61169a70cc9adb81b09901ac0d7337a"
+    }
+   },
+   "view_url": "https://ourworldindata.org/grapher/human-rights-index-vdem?tab=line&time=earliest..latest&country=~OWID_WRL",
+   "csv_url": "https://ourworldindata.org/grapher/human-rights-index-vdem.csv?csvType=filtered&tab=line&time=earliest..latest&country=~OWID_WRL",
+   "png_url": "https://ourworldindata.org/grapher/human-rights-index-vdem.png?tab=line&time=earliest..latest&country=~OWID_WRL",
+   "data_available": true,
+   "config_title": "Human Rights Index",
+   "config_subtitle": "Data by [V-Dem](#dod:v-dem). Expert estimates of the extent to which people are free from government torture, political killings, and forced labor, have property rights, and enjoy the freedoms of movement, religion, expression, and association. The index ranges from 0 to 1 (most rights).",
+   "chart_slug": "human-rights-index-vdem",
+   "column_short_names": {
+    "Entity": "entity",
+    "Code": "code",
+    "Year": "year",
+    "Human Rights Index": "civ_libs_vdem__estimate_best",
+    "World region according to OWID": "owid_region"
+   }
+  },
+  {
+   "index": 2,
+   "name": "02 Human Rights Index",
+   "embed": {
+    "slug": "human-rights-index-vdem",
+    "query": {
+     "tab": "chart",
+     "time": "latest",
+     "stackMode": "relative"
+    },
+    "image": "https://ourworldindata.org/grapher/by-uuid/01981e5c-7768-7a98-983b-496ee71bbc76.png"
+   },
+   "files": {
+    "html": {
+     "path": "figs/02 Human Rights Index.html",
+     "sha256": "c3a11209ff5ddce660118d8d139b7411f67342eeb240f13852c042b21dd6c431"
+    },
+    "csv": {
+     "path": "figs/02 Human Rights Index.csv",
+     "sha256": "6960e39baac23149f2d06ed91254a952c33d1b162b430bd9c98d4c59b75b5ab2"
+    },
+    "png": {
+     "path": "figs/02 Human Rights Index.png",
+     "sha256": "1b9f2c78cda397b670274d1bd2fd12d60a893a5ed1352b40300b6667d69c8da7"
+    },
+    "txt": {
+     "path": "figs/02 Human Rights Index.txt",
+     "sha256": "12b103ed9fd42a18c7b5ee66ed4897e00861a70d12b73045e84badb90a534504"
+    }
+   },
+   "view_url": "https://ourworldindata.org/grapher/human-rights-index-vdem?tab=chart&time=latest&stackMode=relative",
+   "csv_url": "https://ourworldindata.org/grapher/human-rights-index-vdem.csv?csvType=filtered&tab=chart&time=latest&stackMode=relative",
+   "png_url": "https://ourworldindata.org/grapher/by-uuid/01981e5c-7768-7a98-983b-496ee71bbc76.png",
+   "data_available": true,
+   "config_title": "Human Rights Index",
+   "config_subtitle": "Data by [V-Dem](#dod:v-dem). Expert estimates of the extent to which people are free from government torture, political killings, and forced labor, have property rights, and enjoy the freedoms of movement, religion, expression, and association. The index ranges from 0 to 1 (most rights).",
+   "chart_slug": "human-rights-index-vdem",
+   "column_short_names": {
+    "Entity": "entity",
+    "Code": "code",
+    "Year": "year",
+    "Human Rights Index": "civ_libs_vdem__estimate_best",
+    "World region according to OWID": "owid_region"
+   }
+  },
+  {
+   "index": 3,
+   "name": "03 Women's Political Empowerment Index",
+   "embed": {
+    "slug": "women-political-empowerment-index",
+    "query": {
+     "tab": "line",
+     "time": "earliest..latest",
+     "country": "~OWID_WRL"
+    },
+    "image": null
+   },
+   "files": {
+    "html": {
+     "path": "figs/03 Women's Political Empowerment Index.html",
+     "sha256": "11dab6332f569e6b53fa7182b3c9d93610c7f7ef35267025dd29c7e7f2b0378d"
+    },
+    "csv": {
+     "path": "figs/03 Women's Political Empowerment Index.csv",
+     "sha256": "a91073af64d09e8d15d47ad11fb5775e39f31622d1649afc48164cdc2dca3ad8"
+    },
+    "png": {
+     "path": "figs/03 Women's Political Empowerment Index.png",
+     "sha256": "a790404caf84d6213c04a2ca10303efb16217a5885703472d3f779e58f73e2b8"
+    },
+    "txt": {
+     "path": "figs/03 Women's Political Empowerment Index.txt",
+     "sha256": "5c364118cea6d65408cb11b663c03c48b61b5bba9bf42ddab4a7a5e59951216e"
+    }
+   },
+   "view_url": "https://ourworldindata.org/grapher/women-political-empowerment-index?tab=line&time=earliest..latest&country=~OWID_WRL",
+   "csv_url": "https://ourworldindata.org/grapher/women-political-empowerment-index.csv?csvType=filtered&tab=line&time=earliest..latest&country=~OWID_WRL",
+   "png_url": "https://ourworldindata.org/grapher/women-political-empowerment-index.png?tab=line&time=earliest..latest&country=~OWID_WRL",
+   "data_available": true,
+   "config_title": "Women's Political Empowerment Index",
+   "config_subtitle": "Data by [V-Dem](#dod:v-dem). Expert estimates of the extent to which women enjoy civil liberties, can participate in civil society, and are represented in politics. The index ranges from 0 to 1 (most empowered).",
+   "chart_slug": "women-political-empowerment-index",
+   "column_short_names": {
+    "Entity": "entity",
+    "Code": "code",
+    "Year": "year",
+    "Women's Political Empowerment Index": "wom_emp_vdem__estimate_best",
+    "World region according to OWID": "owid_region"
+   }
+  },
+  {
+   "index": 4,
+   "name": "04 Number of countries protecting core LGBT+ rights",
+   "embed": {
+    "slug": "countries-protecting-core-lgbt-rights",
+    "query": {},
+    "image": null
+   },
+   "files": {
+    "html": {
+     "path": "figs/04 Number of countries protecting core LGBT+ rights.html",
+     "sha256": "4b07966d191e57c4aed712bec503f44a0dbdda3ebb0b1858092ed56e035dae79"
+    },
+    "csv": {
+     "path": "figs/04 Number of countries protecting core LGBT+ rights.csv",
+     "sha256": "50829e803e00c6fb25ac4116275d0702f11a5eed19f0c459ad52fa17e50f4a3a"
+    },
+    "png": {
+     "path": "figs/04 Number of countries protecting core LGBT+ rights.png",
+     "sha256": "08008a492a698994522a442f55392f1a290c582371fec0faee6384e8d413ac8d"
+    },
+    "txt": {
+     "path": "figs/04 Number of countries protecting core LGBT+ rights.txt",
+     "sha256": "99e44507c4123d8607deffe2191f0abb4db3a2946ea45d3e52d8771173e8b653"
+    }
+   },
+   "view_url": "https://ourworldindata.org/grapher/countries-protecting-core-lgbt-rights",
+   "csv_url": "https://ourworldindata.org/grapher/countries-protecting-core-lgbt-rights.csv?csvType=filtered",
+   "png_url": "https://ourworldindata.org/grapher/countries-protecting-core-lgbt-rights.png",
+   "data_available": true,
+   "config_title": "Number of countries protecting core LGBT+ rights",
+   "config_subtitle": "Countries that fully implement these core policies. Countries that only partially implement them, such as when laws differ across the country, are not included.",
+   "chart_slug": "countries-protecting-core-lgbt-rights",
+   "column_short_names": {
+    "Entity": "entity",
+    "Code": "code",
+    "Year": "year",
+    "Same-sex sexual acts legal": "status_legal_count",
+    "Joint adoption": "adoption_legal_count",
+    "Same-sex marriage": "marriage_legal_count",
+    "Gender marker change legal": "changing_gender_legal__no_restrictions_count",
+    "Third gender recognized": "non_binary_gender_recognition_recognized_count"
+   }
+  },
+  {
+   "index": 5,
+   "name": "05 Human Rights Index",
+   "embed": {
+    "slug": "human-rights-index-vdem",
+    "query": {},
+    "image": null
+   },
+   "files": {
+    "html": {
+     "path": "figs/05 Human Rights Index.html",
+     "sha256": "ddd9f0eba8adab2ec033e27104477a53c44ff28ce163d8faccef6c534119bae7"
+    },
+    "csv": {
+     "path": "figs/05 Human Rights Index.csv",
+     "sha256": "ca7a41f297bed0afaf819cad63220533a0a1865f3e8ea6e616d5f7042e72fe9a"
+    },
+    "png": {
+     "path": "figs/05 Human Rights Index.png",
+     "sha256": "9ddb8eee39c897b59a0772cb17eff1778f6b95aefa9d5fb6d698c6caf9a2207c"
+    },
+    "txt": {
+     "path": "figs/05 Human Rights Index.txt",
+     "sha256": "b3428752977aac0ffdea86189e380ab7fb1ba80a02c2816be1ccc8874467a96a"
+    }
+   },
+   "view_url": "https://ourworldindata.org/grapher/human-rights-index-vdem",
+   "csv_url": "https://ourworldindata.org/grapher/human-rights-index-vdem.csv?csvType=filtered",
+   "png_url": "https://ourworldindata.org/grapher/human-rights-index-vdem.png",
+   "data_available": true,
+   "config_title": "Human Rights Index",
+   "config_subtitle": "Data by [V-Dem](#dod:v-dem). Expert estimates of the extent to which people are free from government torture, political killings, and forced labor, have property rights, and enjoy the freedoms of movement, religion, expression, and association. The index ranges from 0 to 1 (most rights).",
+   "chart_slug": "human-rights-index-vdem",
+   "column_short_names": {
+    "Entity": "entity",
+    "Code": "code",
+    "Year": "year",
+    "Human Rights Index": "civ_libs_vdem__estimate_best",
+    "World region according to OWID": "owid_region"
+   }
+  }
+ ]
+}

@@ -1,0 +1,9 @@
+Figure 01: 01 Judicial Checks on Government Index
+Article: none; source page is the chart page https://ourworldindata.org/grapher/judicial-constraints-on-the-executive-index
+
+Title: Judicial Checks on Government Index
+Subtitle: Data by [V-Dem](#dod:v-dem). Expert estimates of the extent to which the executive respects the constitution and complies with the rulings of independent courts. The index ranges from 0 to 1 (most constrained).
+Note: 
+Source: V-Dem (2026)
+Units: 
+Chart: https://ourworldindata.org/grapher/judicial-constraints-on-the-executive-index

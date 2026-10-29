@@ -1,0 +1,34 @@
+{
+ "chart": {
+  "title": "Share that feel safe walking alone around the area they live at night",
+  "subtitle": "",
+  "citation": "United Nations Office on Drugs and Crime",
+  "originalChartUrl": "https://ourworldindata.org/grapher/safety-walking-alone",
+  "selection": [
+   "Germany",
+   "United Kingdom (England and Wales)",
+   "Turkey",
+   "United States",
+   "Peru"
+  ]
+ },
+ "columns": {
+  "16.1.4 - Proportion of population that feel safe walking alone around the area they live after dark (%) - VC_SNS_WALN_DRK - Both sexes": {
+   "titleShort": "Proportion of population that feel safe walking alone around the area they live after dark (%) - Both sexes",
+   "titleLong": "Proportion of population that feel safe walking alone around the area they live after dark (%) - Both sexes",
+   "descriptionShort": "Proportion of population that feel safe walking alone around the area they live after dark (%).",
+   "shortUnit": "%",
+   "unit": "%",
+   "timespan": "2009-2024",
+   "type": "Numeric",
+   "owidVariableId": 1301009,
+   "shortName": "_16_1_4__vc_sns_waln_drk__both_sexes",
+   "lastUpdated": "2026-07-31",
+   "nextUpdate": "2027-07-31",
+   "citationShort": "United Nations Office on Drugs and Crime – processed by Our World in Data",
+   "citationLong": "United Nations Office on Drugs and Crime – processed by Our World in Data. “Proportion of population that feel safe walking alone around the area they live after dark (%) - Both sexes” [dataset]. United Nations Office on Drugs and Crime, “Data from multiple sources” [original data].",
+   "fullMetadata": "https://api.ourworldindata.org/v1/indicators/1301009.metadata.json"
+  }
+ },
+ "dateDownloaded": "2026-10-29"
+}

@@ -1,0 +1,56 @@
+{
+ "title": "Individual Liberties and Equality before the Law Index",
+ "url": "https://ourworldindata.org/grapher/individual-liberties-and-equality-before-the-law-index",
+ "date_published": null,
+ "chart_page": true,
+ "authors": [],
+ "retrieved_at": "2026-10-29T17:21:20.731314+00:00",
+ "materialised_at": "2026-10-29T17:21:20.731324+00:00",
+ "source_original_sha256": "ee68323395d6eaf2876b3b0842999593e4eb2570388c1a3bc29cbd8986782c1e",
+ "offline_snapshot": {
+  "page": "source.html",
+  "assets": "source_files/",
+  "assets_manifest": "source_files/manifest.json",
+  "asset_count": 73,
+  "removed": "all <script> elements except application/ld+json"
+ },
+ "figures": [
+  {
+   "index": 1,
+   "name": "01 Individual Liberties and Equality before the Law Index",
+   "embed": {
+    "slug": "individual-liberties-and-equality-before-the-law-index",
+    "query": {},
+    "image": null
+   },
+   "view_url": "https://ourworldindata.org/grapher/individual-liberties-and-equality-before-the-law-index",
+   "csv_url": "https://ourworldindata.org/grapher/individual-liberties-and-equality-before-the-law-index.csv?csvType=filtered",
+   "png_url": "https://ourworldindata.org/grapher/individual-liberties-and-equality-before-the-law-index.png",
+   "data_available": true,
+   "config_title": "Individual Liberties and Equality before the Law Index",
+   "config_subtitle": "Data by [V-Dem](#dod:v-dem). Expert estimates of the extent to which laws are transparent and predictably enforced, public administration is impartial, and citizens enjoy access to justice, secure property rights, freedom from forced labor, freedom of movement, physical integrity rights, and freedom of religion. The index ranges from 0 to 1 (most liberties).",
+   "files": {
+    "txt": {
+     "path": "figs/01 Individual Liberties and Equality before the Law Index.txt",
+     "sha256": "f1a5ab620f18ad0b2a8df11685acb2ef06ab17db36643fe73885821aa3eb4c22"
+    },
+    "csv": {
+     "path": "figs/01 Individual Liberties and Equality before the Law Index.csv",
+     "sha256": "ff191757fe0a5ec567ddf40f51f415228a2de1e472e782f2ca3dfd956fbd1e4c"
+    },
+    "png": {
+     "path": "figs/01 Individual Liberties and Equality before the Law Index.png",
+     "sha256": "b2dbb1e169b9ee708e9bf2dfa706168aa0e101abfab1aef2155c5c4f03920e18"
+    }
+   },
+   "chart_slug": "individual-liberties-and-equality-before-the-law-index",
+   "column_short_names": {
+    "Entity": "entity",
+    "Code": "code",
+    "Year": "year",
+    "Equality before the law and individual liberty index": "indiv_libs_vdem__estimate_best",
+    "World region according to OWID": "owid_region"
+   }
+  }
+ ]
+}

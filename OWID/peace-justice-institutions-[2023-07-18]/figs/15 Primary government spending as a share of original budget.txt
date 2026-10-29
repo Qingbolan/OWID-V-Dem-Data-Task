@@ -1,0 +1,12 @@
+Figure 15: 15 Primary government spending as a share of original budget
+Article: Promote just, peaceful and inclusive societies (2023-07-18)
+
+Title: Primary government spending as a share of original budget
+Subtitle: Expenditures between 85% and 115% of the original budget is considered consistent with good international practices.
+Note: 
+Source: World Bank
+Units: %
+Chart: https://ourworldindata.org/grapher/govt-expenditure-share-budget
+
+Text before the figure: More research: Further data and research can be found at the Our World in Data topic page on Government spending .
+Text after the figure: ### SDG Indicator 16.6.2 Satisfaction with public services

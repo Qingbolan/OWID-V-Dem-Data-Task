@@ -1,0 +1,12 @@
+Figure 01: 01 Tax revenue as share of GDP
+Article: State Capacity (2023-11-30)
+
+Title: Tax revenue as share of GDP
+Subtitle: Direct and indirect taxes as well as social contributions included.
+Note: 
+Source: UNU-WIDER Government Revenue Dataset (2025)
+Units: % of GDP
+Chart: https://ourworldindata.org/grapher/tax-revenues-as-a-share-of-gdp-unu-wider
+
+Text before the figure: We remove the data points flagged by UNU-WIDER as lacking accuracy, quality, or comparability.
+Text after the figure: #### Most countries effectively control their territory, but some do not

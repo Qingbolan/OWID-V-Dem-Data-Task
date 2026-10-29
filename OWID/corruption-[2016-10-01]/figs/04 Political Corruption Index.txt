@@ -1,0 +1,12 @@
+Figure 04: 04 Political Corruption Index
+Article: Corruption (2016-10-01)
+
+Title: Political Corruption Index
+Subtitle: Data by [V-Dem](#dod:v-dem). Expert estimates of the extent to which the executive, legislative, judiciary, and bureaucracy engage in bribery and theft, and the making and implementation of laws are susceptible to corruption. The index ranges from 0 to 1 (highly corrupt).
+Note: 
+Source: V-Dem (2026)
+Units: 
+Chart: https://ourworldindata.org/grapher/political-corruption-index
+
+Text before the figure: Using this data, the map below again shows clear differences between countries. In many European countries, experts report that corruption in the form of bribery and embezzlement is relatively rare across the branches of government. In contrast, experts describe corruption as widespread in other countries, especially in Africa and Asia.
+Text after the figure: Other initiatives also provide corruption data based on expert ratings. One example is Transparency International ’s popular Corruption Perceptions Index:

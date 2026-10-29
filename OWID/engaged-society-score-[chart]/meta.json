@@ -1,0 +1,55 @@
+{
+ "title": "Engaged Society Score",
+ "url": "https://ourworldindata.org/grapher/engaged-society-score",
+ "date_published": null,
+ "chart_page": true,
+ "authors": [],
+ "retrieved_at": "2026-10-29T17:10:50.342126+00:00",
+ "materialised_at": "2026-10-29T17:10:50.342138+00:00",
+ "source_original_sha256": "dd2250e6b41ef0b0938a08b76166c69a079cde79d9a6895fcbab08f8747daba2",
+ "offline_snapshot": {
+  "page": "source.html",
+  "assets": "source_files/",
+  "assets_manifest": "source_files/manifest.json",
+  "asset_count": 73,
+  "removed": "all <script> elements except application/ld+json"
+ },
+ "figures": [
+  {
+   "index": 1,
+   "name": "01 Engaged Society Score",
+   "embed": {
+    "slug": "engaged-society-score",
+    "query": {},
+    "image": null
+   },
+   "view_url": "https://ourworldindata.org/grapher/engaged-society-score",
+   "csv_url": "https://ourworldindata.org/grapher/engaged-society-score.csv?csvType=filtered",
+   "png_url": "https://ourworldindata.org/grapher/engaged-society-score.png",
+   "data_available": true,
+   "config_title": "Engaged Society Score",
+   "config_subtitle": "Data by [V-Dem](#dod:v-dem). Expert estimates of the extent to which many ordinary people discuss policies freely in private and public. Higher scores mean more engagement. A score of 0 is approximately the average across all countries and years.",
+   "files": {
+    "txt": {
+     "path": "figs/01 Engaged Society Score.txt",
+     "sha256": "a94729180ce402cb6cbdd476d438086ee3429500a1fe38ab0fb18119603f168d"
+    },
+    "csv": {
+     "path": "figs/01 Engaged Society Score.csv",
+     "sha256": "1e0eded1f1d31dd38872eb34d63bbcc6ac1d3d1175dae8649bc13e447fd38605"
+    },
+    "png": {
+     "path": "figs/01 Engaged Society Score.png",
+     "sha256": "9705144311da28b8dc5cc089e37f16cec5ac14ab29edadf42f1fbff512c14cb9"
+    }
+   },
+   "chart_slug": "engaged-society-score",
+   "column_short_names": {
+    "Entity": "entity",
+    "Code": "code",
+    "Year": "year",
+    "Engaged society": "soccons_polch_vdem__estimate_best"
+   }
+  }
+ ]
+}

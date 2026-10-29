@@ -1,0 +1,9 @@
+Figure 01: 01 Academic Freedom Index
+Article: none; source page is the chart page https://ourworldindata.org/grapher/academic-freedom-index
+
+Title: Academic Freedom Index
+Subtitle: Data by [V-Dem](#dod:v-dem). Expert estimates of the extent to which universities are autonomous from the state, and academics can research, teach, publish, express opinions, and participate in academic bodies without interference, censorship, or institutional restrictions. The index ranges from 0 to 1 (most free).
+Note: 
+Source: V-Dem (2026)
+Units: 
+Chart: https://ourworldindata.org/grapher/academic-freedom-index

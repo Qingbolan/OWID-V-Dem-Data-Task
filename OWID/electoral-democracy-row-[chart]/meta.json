@@ -1,0 +1,55 @@
+{
+ "title": "Electoral democracy",
+ "url": "https://ourworldindata.org/grapher/electoral-democracy-row",
+ "date_published": null,
+ "chart_page": true,
+ "authors": [],
+ "retrieved_at": "2026-10-29T17:09:20.846251+00:00",
+ "materialised_at": "2026-10-29T17:09:20.846264+00:00",
+ "source_original_sha256": "73d8694c1890c043c96d1f05863cb31039ce0ccc316f1709d93a198fb9468c22",
+ "offline_snapshot": {
+  "page": "source.html",
+  "assets": "source_files/",
+  "assets_manifest": "source_files/manifest.json",
+  "asset_count": 73,
+  "removed": "all <script> elements except application/ld+json"
+ },
+ "figures": [
+  {
+   "index": 1,
+   "name": "01 Electoral democracy",
+   "embed": {
+    "slug": "electoral-democracy-row",
+    "query": {},
+    "image": null
+   },
+   "view_url": "https://ourworldindata.org/grapher/electoral-democracy-row",
+   "csv_url": "https://ourworldindata.org/grapher/electoral-democracy-row.csv?csvType=filtered",
+   "png_url": "https://ourworldindata.org/grapher/electoral-democracy-row.png",
+   "data_available": true,
+   "config_title": "Electoral democracy",
+   "config_subtitle": "Classification by [Lührmann et al. (2018)](#dod:regimes-of-the-world-simplified) based on expert estimates by [V-Dem](#dod:v-dem). Electoral democracies are political systems that hold meaningful, free and fair, and multi-party elections.",
+   "files": {
+    "txt": {
+     "path": "figs/01 Electoral democracy.txt",
+     "sha256": "8ea96cf7bcc2b450a71a0b1601c275f8fcbeb9d4cec09d187841505f0519b336"
+    },
+    "csv": {
+     "path": "figs/01 Electoral democracy.csv",
+     "sha256": "0e1d525c3ab5c1bf9ab3b3ebddbc8752f72c9fb46029245f489f20c5dd27cae5"
+    },
+    "png": {
+     "path": "figs/01 Electoral democracy.png",
+     "sha256": "eb2091db605dfa56829cd69a3a7d280dcda077e70bc0f52751bb554b3c1a70b8"
+    }
+   },
+   "chart_slug": "electoral-democracy-row",
+   "column_short_names": {
+    "Entity": "entity",
+    "Code": "code",
+    "Year": "year",
+    "Political regime": "regime_redux_row_owid"
+   }
+  }
+ ]
+}

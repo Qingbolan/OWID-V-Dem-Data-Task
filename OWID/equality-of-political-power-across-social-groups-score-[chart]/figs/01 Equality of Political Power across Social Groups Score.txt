@@ -1,0 +1,9 @@
+Figure 01: 01 Equality of Political Power across Social Groups Score
+Article: none; source page is the chart page https://ourworldindata.org/grapher/equality-of-political-power-across-social-groups-score
+
+Title: Equality of Political Power across Social Groups Score
+Subtitle: Data by [V-Dem](#dod:v-dem). Expert estimates of the extent to which social groups — defined by language, ethnicity, religion, race, region, and/or caste — are irrelevant to politics, or have similar political power. Higher scores mean more equality. A score of 0 is approximately the average across all countries and years.
+Note: 
+Source: V-Dem (2026)
+Units: 
+Chart: https://ourworldindata.org/grapher/equality-of-political-power-across-social-groups-score

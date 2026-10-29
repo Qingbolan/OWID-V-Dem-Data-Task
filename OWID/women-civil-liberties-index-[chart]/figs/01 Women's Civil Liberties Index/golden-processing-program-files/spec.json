@@ -1,0 +1,43 @@
+{
+ "reproducible": true,
+ "program": "golden.vdem_pipeline",
+ "chart_slug": "women-civil-liberties-index",
+ "view": "https://ourworldindata.org/grapher/women-civil-liberties-index",
+ "columns": [
+  "Women's Civil Rights Index"
+ ],
+ "solution_columns": [
+  "Women's Civil Rights Index"
+ ],
+ "output_precision": {
+  "Women's Civil Rights Index": 3
+ },
+ "sources": {
+  "Women's Civil Rights Index": {
+   "table": "vdem_multi_with_regions",
+   "column": "wom_civ_libs_vdem",
+   "filter": {
+    "estimate": "best"
+   },
+   "short_name": "wom_civ_libs_vdem__estimate_best",
+   "gold_index": 3
+  }
+ },
+ "gold_column_index": {
+  "Women's Civil Rights Index": 3
+ },
+ "entity_mapping": "data/reference/owid_etl/vdem/vdem.countries.json",
+ "compare": {
+  "Women's Civil Rights Index": {
+   "abs": 0.001,
+   "rel": 1e-06
+  }
+ },
+ "encodings": {},
+ "scale": {},
+ "stack_relative": false,
+ "time_tolerance": 0,
+ "not_compared": {
+  "World region according to OWID": "OWID's world region (map and scatter colour), not a V-Dem indicator"
+ }
+}

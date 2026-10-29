@@ -1,0 +1,34 @@
+{
+ "chart": {
+  "title": "Democracy Index",
+  "subtitle": "Data by Polity 5. Expert estimates of the extent to which open, multi-party, and competitive elections choose a chief executive who faces comprehensive institutional constraints, and political participation is competitive. The index ranges from -10 to 10 (fully democratic).",
+  "citation": "Polity 5 (2020); Population based on various sources (2023)",
+  "originalChartUrl": "https://ourworldindata.org/grapher/democracy-index-polity",
+  "selection": [
+   "Australia",
+   "Argentina",
+   "Botswana",
+   "China"
+  ]
+ },
+ "columns": {
+  "Democracy": {
+   "titleShort": "Democracy",
+   "titleLong": "Democracy",
+   "descriptionShort": "It combines information on the extent to which open, multi-party, and competitive elections choose a chief executive who faces comprehensive institutional constraints, and political participation is competitive.\n\nIt ranges from -10 to 10 (fully democratic).",
+   "descriptionKey": "We have other democracy data sources that also cover more recent years and have more precise data. You can find them in our [Key Democracy Charts](https://ourworldindata.org/democracy#all-charts) and [Democracy Data Explorer](https://ourworldindata.org/explorers/democracy).",
+   "descriptionProcessing": "Values for continents have been obtained using two different methodologies:\n- Averaging the values of the countries in the continent. E.g. labeled as \"Africa\".\n- Averaging the values of the countries in the continent _weighed by each country's population_. E.g. labeled as \"Africa (population-weighted)\".",
+   "unit": "",
+   "timespan": "1776-2020",
+   "type": "Numeric",
+   "owidVariableId": 901272,
+   "shortName": "democracy_polity",
+   "lastUpdated": "2024-05-13",
+   "nextUpdate": "2026-11-29",
+   "citationShort": "Polity 5 (2020); Population based on various sources (2023) – processed by Our World in Data",
+   "citationLong": "Polity 5 (2020); Population based on various sources (2023) – processed by Our World in Data. “Democracy” [dataset]. Polity 5, “Polity5 Project, Political Regime Characteristics and Transitions, 1800–2018 5”; Various sources, “Population” [original data].",
+   "fullMetadata": "https://api.ourworldindata.org/v1/indicators/901272.metadata.json"
+  }
+ },
+ "dateDownloaded": "2026-10-29"
+}

@@ -1,0 +1,12 @@
+Figure 05: 05 Electoral Democracy Index
+Article: People around the world have gained democratic rights, but some have many more rights than others (2022-07-19)
+
+Title: Electoral Democracy Index
+Subtitle: Data by [V-Dem](#dod:v-dem). Expert estimates of the extent to which political leaders are elected under comprehensive voting rights in free and fair elections, and freedoms of association and expression are guaranteed. The index ranges from 0 to 1 (most democratic).
+Note: 
+Source: V-Dem (2026)
+Units: 
+Chart: https://ourworldindata.org/grapher/electoral-democracy-index?tab=chart&time=2000&stackMode=relative
+
+Text before the figure: Many countries then became much more democratic in the second half of the 20th century.
+Text after the figure: In the 1990s especially, democratic institutions expanded across the world. Countries in South America shed their highly autocratic political systems that had spread in the 1970s. According to V-Dem, a considerable number of countries in Africa became fairly democratic (such as Ghana and South Africa) in the decades after gaining independence. Civil society organizations and political parties could operate more freely, and elections became freer and fairer.

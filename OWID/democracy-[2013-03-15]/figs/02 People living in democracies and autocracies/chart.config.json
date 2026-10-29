@@ -1,0 +1,73 @@
+{
+ "id": 5451,
+ "slug": "people-living-in-democracies-autocracies",
+ "title": "People living in democracies and autocracies",
+ "$schema": "https://files.ourworldindata.org/schemas/grapher-schema.011.json",
+ "version": 62,
+ "subtitle": "Classification by [Lührmann et al. (2018)](#dod:regimes-of-the-world) based on expert estimates by [V-Dem](#dod:v-dem).",
+ "originUrl": "/democracy",
+ "chartTypes": [
+  "StackedArea",
+  "StackedDiscreteBar"
+ ],
+ "dimensions": [
+  {
+   "display": {
+    "name": "No regime data",
+    "color": "#555555"
+   },
+   "property": "y",
+   "variableId": 1209992
+  },
+  {
+   "display": {
+    "name": "People living in closed autocracies",
+    "color": "#d7191c"
+   },
+   "property": "y",
+   "variableId": 1209993
+  },
+  {
+   "display": {
+    "name": "in electoral autocracies",
+    "color": "#ec9d4f"
+   },
+   "property": "y",
+   "variableId": 1209994
+  },
+  {
+   "display": {
+    "name": "in electoral democracies",
+    "color": "#6da5b8"
+   },
+   "property": "y",
+   "variableId": 1209995
+  },
+  {
+   "display": {
+    "name": "in liberal democracies",
+    "color": "#2c7bb6"
+   },
+   "property": "y",
+   "variableId": 1209996
+  }
+ ],
+ "entityType": "region",
+ "isPublished": true,
+ "variantName": "Regimes of the World",
+ "entityTypePlural": "regions",
+ "relatedQuestions": [
+  {
+   "url": "https://ourworldindata.org/regimes-of-the-world-data",
+   "text": "The 'Regimes of the World' data: how do researchers measure democracy?"
+  }
+ ],
+ "hideRelativeToggle": false,
+ "selectedEntityNames": [
+  "World"
+ ],
+ "hideAnnotationFieldsInTitle": {
+  "time": true,
+  "changeInPrefix": true
+ }
+}

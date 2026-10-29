@@ -1,0 +1,12 @@
+Figure 03: 03 Women's Political Empowerment Index
+Article: Human Rights (2016-06-12)
+
+Title: Women's Political Empowerment Index
+Subtitle: Data by [V-Dem](#dod:v-dem). Expert estimates of the extent to which women enjoy civil liberties, can participate in civil society, and are represented in politics. The index ranges from 0 to 1 (most empowered).
+Note: 
+Source: V-Dem (2026)
+Units: 
+Chart: https://ourworldindata.org/grapher/women-political-empowerment-index?tab=line&time=earliest..latest&country=~OWID_WRL
+
+Text before the figure: We expand the years and countries covered by the V-Dem data.
+Text after the figure: #### LGBT+ people’s rights have become more protected in some countries

@@ -1,0 +1,40 @@
+{
+ "chart": {
+  "title": "Primary government spending as a share of original budget",
+  "subtitle": "Expenditures between 85% and 115% of the original budget is considered consistent with good international practices.",
+  "citation": "World Bank",
+  "originalChartUrl": "https://ourworldindata.org/grapher/govt-expenditure-share-budget",
+  "selection": [
+   "Australia",
+   "China",
+   "India",
+   "Brazil",
+   "Argentina",
+   "Democratic Republic of Congo",
+   "Niger",
+   "Saudi Arabia",
+   "France",
+   "Germany",
+   "Russia"
+  ]
+ },
+ "columns": {
+  "16.6.1 - Primary government expenditures as a proportion of original approved budget (%) - GF_XPD_GBPC": {
+   "titleShort": "Primary government expenditures as a proportion of original approved budget (%)",
+   "titleLong": "Primary government expenditures as a proportion of original approved budget (%)",
+   "descriptionShort": "Primary government expenditures as a proportion of original approved budget (%).",
+   "shortUnit": "%",
+   "unit": "%",
+   "timespan": "2004-2025",
+   "type": "Numeric",
+   "owidVariableId": 1301149,
+   "shortName": "_16_6_1__gf_xpd_gbpc",
+   "lastUpdated": "2026-07-31",
+   "nextUpdate": "2027-07-31",
+   "citationShort": "World Bank – processed by Our World in Data",
+   "citationLong": "World Bank – processed by Our World in Data. “Primary government expenditures as a proportion of original approved budget (%)” [dataset]. World Bank, “Data from multiple sources” [original data].",
+   "fullMetadata": "https://api.ourworldindata.org/v1/indicators/1301149.metadata.json"
+  }
+ },
+ "dateDownloaded": "2026-10-29"
+}

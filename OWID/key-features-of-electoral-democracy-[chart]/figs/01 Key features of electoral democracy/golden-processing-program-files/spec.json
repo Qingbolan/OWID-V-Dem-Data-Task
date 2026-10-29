@@ -1,0 +1,124 @@
+{
+ "reproducible": true,
+ "program": "golden.vdem_pipeline",
+ "chart_slug": "key-features-of-electoral-democracy",
+ "view": "https://ourworldindata.org/grapher/key-features-of-electoral-democracy",
+ "columns": [
+  "Electoral democracy overall",
+  "Elected officials",
+  "Share of adult citizens who have the right to vote",
+  "Free and fair elections",
+  "Freedom of association",
+  "Freedom of expression"
+ ],
+ "solution_columns": [
+  "Electoral democracy overall",
+  "Elected officials",
+  "Share of adult citizens who have the right to vote",
+  "Free and fair elections",
+  "Freedom of association",
+  "Freedom of expression"
+ ],
+ "output_precision": {
+  "Electoral democracy overall": 3,
+  "Elected officials": 3,
+  "Share of adult citizens who have the right to vote": 0,
+  "Free and fair elections": 3,
+  "Freedom of association": 3,
+  "Freedom of expression": 3
+ },
+ "sources": {
+  "Electoral democracy overall": {
+   "table": "vdem_multi_with_regions",
+   "column": "electdem_vdem",
+   "filter": {
+    "estimate": "best"
+   },
+   "short_name": "electdem_vdem__estimate_best",
+   "gold_index": 3
+  },
+  "Elected officials": {
+   "table": "vdem_uni_with_regions",
+   "column": "electoff_vdem",
+   "filter": {},
+   "short_name": "electoff_vdem",
+   "gold_index": 4
+  },
+  "Share of adult citizens who have the right to vote": {
+   "table": "vdem_uni_with_regions",
+   "column": "suffr_vdem",
+   "filter": {},
+   "short_name": "suffr_vdem",
+   "gold_index": 5
+  },
+  "Free and fair elections": {
+   "table": "vdem_multi_with_regions",
+   "column": "electfreefair_vdem",
+   "filter": {
+    "estimate": "best"
+   },
+   "short_name": "electfreefair_vdem__estimate_best",
+   "gold_index": 6
+  },
+  "Freedom of association": {
+   "table": "vdem_multi_with_regions",
+   "column": "freeassoc_vdem",
+   "filter": {
+    "estimate": "best"
+   },
+   "short_name": "freeassoc_vdem__estimate_best",
+   "gold_index": 7
+  },
+  "Freedom of expression": {
+   "table": "vdem_multi_with_regions",
+   "column": "freeexpr_vdem",
+   "filter": {
+    "estimate": "best"
+   },
+   "short_name": "freeexpr_vdem__estimate_best",
+   "gold_index": 8
+  }
+ },
+ "gold_column_index": {
+  "Electoral democracy overall": 3,
+  "Elected officials": 4,
+  "Share of adult citizens who have the right to vote": 5,
+  "Free and fair elections": 6,
+  "Freedom of association": 7,
+  "Freedom of expression": 8
+ },
+ "entity_mapping": "data/reference/owid_etl/vdem/vdem.countries.json",
+ "compare": {
+  "Electoral democracy overall": {
+   "abs": 0.001,
+   "rel": 1e-06
+  },
+  "Elected officials": {
+   "abs": 0.001,
+   "rel": 1e-06
+  },
+  "Share of adult citizens who have the right to vote": {
+   "abs": 1.0,
+   "rel": 1e-06
+  },
+  "Free and fair elections": {
+   "abs": 0.001,
+   "rel": 1e-06
+  },
+  "Freedom of association": {
+   "abs": 0.001,
+   "rel": 1e-06
+  },
+  "Freedom of expression": {
+   "abs": 0.001,
+   "rel": 1e-06
+  }
+ },
+ "encodings": {},
+ "scale": {
+  "Share of adult citizens who have the right to vote": 0.01
+ },
+ "stack_relative": false,
+ "time_tolerance": 0,
+ "not_compared": {}
+}

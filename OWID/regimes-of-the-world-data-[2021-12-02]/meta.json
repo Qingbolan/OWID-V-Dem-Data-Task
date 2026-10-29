@@ -1,0 +1,60 @@
+{
+ "title": "The “Regimes of the World” data: how do researchers measure democracy?",
+ "url": "https://ourworldindata.org/regimes-of-the-world-data",
+ "date_published": "2021-12-02",
+ "authors": [
+  "Bastian Herre"
+ ],
+ "retrieved_at": "2026-10-29T15:15:24.307400+00:00",
+ "materialised_at": "2026-10-29T16:45:55.657212+00:00",
+ "source_original_sha256": "338e3736443aef0c1db395162658c24623ae1aba546c8424b678e6fc4976d20d",
+ "offline_snapshot": {
+  "page": "source.html",
+  "assets": "source_files/",
+  "assets_manifest": "source_files/manifest.json",
+  "asset_count": 79,
+  "removed": "all <script> elements except application/ld+json"
+ },
+ "figures": [
+  {
+   "index": 1,
+   "name": "01 Democracy",
+   "embed": {
+    "slug": "political-regime",
+    "query": {},
+    "image": null
+   },
+   "files": {
+    "html": {
+     "path": "figs/01 Democracy.html",
+     "sha256": "d33a076062d49d005744564e6ab38c39b9bacb479ef97994b4c81c3e83ee8750"
+    },
+    "csv": {
+     "path": "figs/01 Democracy.csv",
+     "sha256": "e1545dc8dfd1f0bcb911c38e67fdbcae26a50f28556185e0082da775369083c7"
+    },
+    "png": {
+     "path": "figs/01 Democracy.png",
+     "sha256": "45eded3816e4718e8719f187f041f4b79fb1c5448e6d9998011581ff94976c41"
+    },
+    "txt": {
+     "path": "figs/01 Democracy.txt",
+     "sha256": "bdca74999f37c41969d86fa49552f3ca601bae331630e8d5da2b178f68501538"
+    }
+   },
+   "view_url": "https://ourworldindata.org/grapher/political-regime",
+   "csv_url": "https://ourworldindata.org/grapher/political-regime.csv?csvType=filtered",
+   "png_url": "https://ourworldindata.org/grapher/political-regime.png",
+   "data_available": true,
+   "config_title": "Democracy",
+   "config_subtitle": "Classification by [Lührmann et al. (2018)](#dod:regimes-of-the-world) based on expert estimates by [V-Dem](#dod:v-dem).",
+   "chart_slug": "political-regime",
+   "column_short_names": {
+    "Entity": "entity",
+    "Code": "code",
+    "Year": "year",
+    "Political regime": "regime_row_owid"
+   }
+  }
+ ]
+}

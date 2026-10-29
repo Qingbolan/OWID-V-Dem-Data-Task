@@ -1,0 +1,12 @@
+Figure 22: 22 Countries with policy guarantees for public access to information
+Article: Promote just, peaceful and inclusive societies (2023-07-18)
+
+Title: Countries with policy guarantees for public access to information
+Subtitle: Number of countries that have adopted and implemented constitutional, statutory and/or policy guarantees for public access to information.
+Note: 
+Source: UNESCO
+Units: number
+Chart: https://ourworldindata.org/grapher/countries-that-adopt-guarantees-for-public-access-to-information
+
+Text before the figure: Target: “Ensure public access to information and protect fundamental freedoms, in accordance with national legislation and international agreements” across all countries by 2030.
+Text after the figure: ## Target 16.a Strengthen national institutions to prevent violence and combat crime and terrorism

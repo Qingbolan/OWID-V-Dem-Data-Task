@@ -1,0 +1,9 @@
+Figure 01: 01 Judicial Corruption Score
+Article: none; source page is the chart page https://ourworldindata.org/grapher/judicial-corruption-score
+
+Title: Judicial Corruption Score
+Subtitle: Data by [V-Dem](#dod:v-dem). Expert estimates of how often individuals or businesses make undocumented extra payments or bribes to obtain a favorable judicial decision, or speed up or delay the process. Higher scores mean less corruption. A score of 0 is approximately the average across all countries and years.
+Note: 
+Source: V-Dem (2026)
+Units: 
+Chart: https://ourworldindata.org/grapher/judicial-corruption-score

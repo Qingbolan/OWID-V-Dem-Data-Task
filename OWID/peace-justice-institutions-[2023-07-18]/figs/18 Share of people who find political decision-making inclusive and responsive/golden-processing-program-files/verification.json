@@ -1,0 +1,6 @@
+{
+ "figure": "18 Share of people who find political decision-making inclusive and responsive",
+ "checked_at": "2026-10-29T18:06:18.027312+00:00",
+ "status": "not_reproducible",
+ "reason": "the chart is not one of the V-Dem-only charts (data/reference/charts.json): it plots grapher/un/2026-07-31/un_sdg"
+}

@@ -1,0 +1,5 @@
+# Golden processing program: 01 How important are honest elections to people across the world
+
+View: none
+
+Not reproducible: The image is a stacked bar chart of survey answers for 16 countries in 2022, source Integrated Values Surveys; the page links do-honest-elections-make-a-difference-to-your-life. Not V-Dem data: not reproducible from this database.

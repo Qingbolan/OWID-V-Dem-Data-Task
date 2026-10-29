@@ -1,0 +1,43 @@
+{
+ "figure": "01 Key features of electoral democracy",
+ "checked_at": "2026-10-29T18:06:17.258054+00:00",
+ "status": "match",
+ "gold_rows": 26,
+ "gold_rows_missing_in_reference": 0,
+ "mismatched_cells": {
+  "Electoral democracy overall": 0,
+  "Elected officials": 0,
+  "Share of adult citizens who have the right to vote": 0,
+  "Free and fair elections": 0,
+  "Freedom of association": 0,
+  "Freedom of expression": 0
+ },
+ "tolerance": {
+  "Electoral democracy overall": {
+   "abs": 0.001,
+   "rel": 1e-06
+  },
+  "Elected officials": {
+   "abs": 0.001,
+   "rel": 1e-06
+  },
+  "Share of adult citizens who have the right to vote": {
+   "abs": 1.0,
+   "rel": 1e-06
+  },
+  "Free and fair elections": {
+   "abs": 0.001,
+   "rel": 1e-06
+  },
+  "Freedom of association": {
+   "abs": 0.001,
+   "rel": 1e-06
+  },
+  "Freedom of expression": {
+   "abs": 0.001,
+   "rel": 1e-06
+  }
+ },
+ "first_mismatches": [],
+ "program": "golden.vdem_pipeline"
+}

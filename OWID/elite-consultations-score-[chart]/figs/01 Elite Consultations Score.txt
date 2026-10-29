@@ -1,0 +1,9 @@
+Figure 01: 01 Elite Consultations Score
+Article: none; source page is the chart page https://ourworldindata.org/grapher/elite-consultations-score
+
+Title: Elite Consultations Score
+Subtitle: Data by [V-Dem](#dod:v-dem). Expert estimates of the extent to which leaders across the political spectrum, society, and business are consulted when deciding on policies. Higher scores mean more consultation. A score of 0 is approximately the average across all countries and years.
+Note: 
+Source: V-Dem (2026)
+Units: 
+Chart: https://ourworldindata.org/grapher/elite-consultations-score

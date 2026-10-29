@@ -1,0 +1,88 @@
+{
+ "id": 3862,
+ "map": {
+  "colorScale": {
+   "baseColorScheme": "YlOrRd",
+   "binningStrategy": "manual",
+   "customNumericColors": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "customNumericLabels": [
+    "",
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "customNumericValues": [
+    0,
+    10,
+    20,
+    30,
+    40,
+    50,
+    60,
+    70,
+    70
+   ]
+  },
+  "columnSlug": "1301145",
+  "timeTolerance": 10
+ },
+ "tab": "map",
+ "slug": "bribery-prevalence-un",
+ "title": "Share of people who say they were asked for a bribe or paid one",
+ "yAxis": {
+  "max": 0,
+  "min": 0
+ },
+ "$schema": "https://files.ourworldindata.org/schemas/grapher-schema.011.json",
+ "version": 36,
+ "dumbbell": {
+  "trendColorMap": {
+   "decrease": "#00875e",
+   "increase": "#d73c50"
+  }
+ },
+ "subtitle": "Share of respondents who report having contact with a public official in the past 12 months and paying or being asked to pay a [bribe](#dod:bribery).",
+ "hasMapTab": true,
+ "originUrl": "/corruption",
+ "chartTypes": [
+  "DiscreteBar",
+  "LineChart",
+  "SlopeChart",
+  "Marimekko",
+  "Dumbbell"
+ ],
+ "dimensions": [
+  {
+   "display": {
+    "name": "Share of people who recently paid a bribe or were asked for one",
+    "tolerance": 10,
+    "numDecimalPlaces": 0
+   },
+   "property": "y",
+   "variableId": 1301145
+  },
+  {
+   "property": "color",
+   "variableId": 900801
+  }
+ ],
+ "isPublished": true,
+ "selectedEntityNames": [
+  "France",
+  "Peru",
+  "India",
+  "Malaysia",
+  "Poland",
+  "Lebanon"
+ ]
+}

@@ -1,0 +1,6 @@
+{
+ "figure": "07 People asked for a bribe vs. Political Corruption Index",
+ "checked_at": "2026-10-29T18:06:14.936226+00:00",
+ "status": "not_reproducible",
+ "reason": "the chart is not one of the V-Dem-only charts (data/reference/charts.json): it plots grapher/regions/2023-01-01/regions, grapher/un/2026-07-31/un_sdg"
+}

@@ -1,0 +1,12 @@
+Figure 06: 06 Democracy
+Article: Democracy (2013-03-15)
+
+Title: Democracy
+Subtitle: Classification by [Lührmann et al. (2018)](#dod:regimes-of-the-world) based on expert estimates by [V-Dem](#dod:v-dem).
+Note: 
+Source: V-Dem (2026)
+Units: 
+Chart: https://ourworldindata.org/grapher/political-regime
+
+Text before the figure: Universal right to vote in practice
+Text after the figure: # Featured Data on Democracy

@@ -1,0 +1,55 @@
+{
+ "title": "Access to justice for men",
+ "url": "https://ourworldindata.org/grapher/access-to-justice-men-row",
+ "date_published": null,
+ "chart_page": true,
+ "authors": [],
+ "retrieved_at": "2026-10-29T16:57:41.409183+00:00",
+ "materialised_at": "2026-10-29T16:57:41.409191+00:00",
+ "source_original_sha256": "21a362e9e1dbc4793dc67b2130b6432413261179c19515ba4820af2d51ee3574",
+ "offline_snapshot": {
+  "page": "source.html",
+  "assets": "source_files/",
+  "assets_manifest": "source_files/manifest.json",
+  "asset_count": 73,
+  "removed": "all <script> elements except application/ld+json"
+ },
+ "figures": [
+  {
+   "index": 1,
+   "name": "01 Access to justice for men",
+   "embed": {
+    "slug": "access-to-justice-men-row",
+    "query": {},
+    "image": null
+   },
+   "view_url": "https://ourworldindata.org/grapher/access-to-justice-men-row",
+   "csv_url": "https://ourworldindata.org/grapher/access-to-justice-men-row.csv?csvType=filtered",
+   "png_url": "https://ourworldindata.org/grapher/access-to-justice-men-row.png",
+   "data_available": true,
+   "config_title": "Access to justice for men",
+   "config_subtitle": "Data by Lührmann et al. (2018) and [V-Dem](#dod:v-dem). Expert estimates of whether men can safely bring cases before courts, are able to seek redress if public authorities violate their rights, and trials are fair.",
+   "files": {
+    "txt": {
+     "path": "figs/01 Access to justice for men.txt",
+     "sha256": "a49100431564656fd949a5094230258ded2552eaf9a3130431bd94833d99becc"
+    },
+    "csv": {
+     "path": "figs/01 Access to justice for men.csv",
+     "sha256": "fea24d46ee8aca82b84ef8f1eeba90318fe52f5eac675d09ae897dfd8655cc3d"
+    },
+    "png": {
+     "path": "figs/01 Access to justice for men.png",
+     "sha256": "21b68f1b7c4b9a689bdaa615cf7181c267a8a29f5f76765d83676b63815d92fa"
+    }
+   },
+   "chart_slug": "access-to-justice-men-row",
+   "column_short_names": {
+    "Entity": "entity",
+    "Code": "code",
+    "Year": "year",
+    "Access to justice for men": "accessjust_m_row__estimate_best"
+   }
+  }
+ ]
+}

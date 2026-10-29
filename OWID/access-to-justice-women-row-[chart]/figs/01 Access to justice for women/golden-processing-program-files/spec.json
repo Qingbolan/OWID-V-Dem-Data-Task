@@ -1,0 +1,41 @@
+{
+ "reproducible": true,
+ "program": "golden.vdem_pipeline",
+ "chart_slug": "access-to-justice-women-row",
+ "view": "https://ourworldindata.org/grapher/access-to-justice-women-row",
+ "columns": [
+  "Access to justice for women"
+ ],
+ "solution_columns": [
+  "Access to justice for women"
+ ],
+ "output_precision": {
+  "Access to justice for women": 0
+ },
+ "sources": {
+  "Access to justice for women": {
+   "table": "vdem_multi_without_regions",
+   "column": "accessjust_w_row",
+   "filter": {
+    "estimate": "best"
+   },
+   "short_name": "accessjust_w_row__estimate_best",
+   "gold_index": 3
+  }
+ },
+ "gold_column_index": {
+  "Access to justice for women": 3
+ },
+ "entity_mapping": "data/reference/owid_etl/vdem/vdem.countries.json",
+ "compare": {
+  "Access to justice for women": {
+   "abs": 1.0,
+   "rel": 1e-06
+  }
+ },
+ "encodings": {},
+ "scale": {},
+ "stack_relative": false,
+ "time_tolerance": 0,
+ "not_compared": {}
+}

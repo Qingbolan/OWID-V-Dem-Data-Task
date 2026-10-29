@@ -1,0 +1,12 @@
+Figure 02: 02 Electoral Democracy Index
+Article: People around the world have gained democratic rights, but some have many more rights than others (2022-07-19)
+
+Title: Electoral Democracy Index
+Subtitle: Data by [V-Dem](#dod:v-dem). Expert estimates of the extent to which political leaders are elected under comprehensive voting rights in free and fair elections, and freedoms of association and expression are guaranteed. The index ranges from 0 to 1 (most democratic).
+Note: 
+Source: V-Dem (2026)
+Units: 
+Chart: https://ourworldindata.org/grapher/electoral-democracy-index?tab=chart&time=earliest&stackMode=relative
+
+Text before the figure: Here we do this in the form of a bar chart, where electoral democracy is again measured on a scale from 0 to 1. The shortest bars here are the least democratic countries, the highest bars indicate the most democratic.
+Text after the figure: This means that the area covered by all of the bars gives us a proxy for the extent of democracy globally.

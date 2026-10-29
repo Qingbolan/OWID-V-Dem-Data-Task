@@ -1,0 +1,13 @@
+Figure 01: 01 Share of women in parliament, 2025 map
+Article: Five countries had more women than men in parliament in 2025 (2026-09-05)
+
+Title: Five countries had more women than men in parliament in 2025
+Subtitle: Based on the percentage of seats in the lower or single chamber of the legislature held by women.
+Note: 
+Source: V-Dem (2026)
+Units: %
+Image description: World map of the percentage of seats in the lower or single chamber of national parliaments held by women, where five countries in 2025 had more women than men and many countries have less than 25% female representation. Highlighted countries with more women than men are Rwanda (about 63.8%), Cuba (55.7%), Nicaragua (55.0%), Bolivia (50.8%), and Mexico (50.2); the United Arab Emirates is exactly 50 to 50. Data source: V‑Dem (2026). License: CC BY.
+Underlying chart (identified): https://ourworldindata.org/grapher/share-of-women-in-parliament?tab=map&time=2025
+
+Text before the figure: 
+Text after the figure: Women’s representation in national politics has increased dramatically in the last century.

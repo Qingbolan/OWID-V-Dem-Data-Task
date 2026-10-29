@@ -1,0 +1,12 @@
+Figure 01: 01 Homicide rate
+Article: Promote just, peaceful and inclusive societies (2023-07-18)
+
+Title: Homicide rate
+Subtitle: Annual number of deaths from [homicide](#dod:homicide) per 100,000 people.
+Note: 
+Source: United Nations Office on Drugs and Crime (2025)
+Units: homicides per 100,000 population
+Chart: https://ourworldindata.org/grapher/homicide-rate-unodc
+
+Text before the figure: Homicide rate by age of the victim
+Text after the figure: ### SDG Indicator 16.1.2 Conflict-related deaths

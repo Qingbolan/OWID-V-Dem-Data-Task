@@ -1,0 +1,55 @@
+{
+ "title": "Respect for Counterarguments Score",
+ "url": "https://ourworldindata.org/grapher/respect-for-counterarguments-score",
+ "date_published": null,
+ "chart_page": true,
+ "authors": [],
+ "retrieved_at": "2026-10-29T17:43:26.380132+00:00",
+ "materialised_at": "2026-10-29T17:43:26.380139+00:00",
+ "source_original_sha256": "0c61817139415dd587fdac01f0ea69c8b27ff2a66c1e14d4c385badaa5b88505",
+ "offline_snapshot": {
+  "page": "source.html",
+  "assets": "source_files/",
+  "assets_manifest": "source_files/manifest.json",
+  "asset_count": 73,
+  "removed": "all <script> elements except application/ld+json"
+ },
+ "figures": [
+  {
+   "index": 1,
+   "name": "01 Respect for Counterarguments Score",
+   "embed": {
+    "slug": "respect-for-counterarguments-score",
+    "query": {},
+    "image": null
+   },
+   "view_url": "https://ourworldindata.org/grapher/respect-for-counterarguments-score",
+   "csv_url": "https://ourworldindata.org/grapher/respect-for-counterarguments-score.csv?csvType=filtered",
+   "png_url": "https://ourworldindata.org/grapher/respect-for-counterarguments-score.png",
+   "data_available": true,
+   "config_title": "Respect for Counterarguments Score",
+   "config_subtitle": "Data by [V-Dem](#dod:v-dem). Expert estimates of the extent to which political leaders acknowledge and respect different views and sometimes change their own. Higher scores mean more respect. A score of 0 is approximately the average across all countries and years.",
+   "files": {
+    "txt": {
+     "path": "figs/01 Respect for Counterarguments Score.txt",
+     "sha256": "d14f93e8564b9526b46c646559e6034bb289a57391c8dc742d0eb88811555ed2"
+    },
+    "csv": {
+     "path": "figs/01 Respect for Counterarguments Score.csv",
+     "sha256": "f88e1d9dd3e5d1a906d9da641f8dc25d69dc1ddf26a6f7a173cfe0a289aeda33"
+    },
+    "png": {
+     "path": "figs/01 Respect for Counterarguments Score.png",
+     "sha256": "a66f90beb00c9f5036d6f4595c912d3131a9dc682c3ba338ec04e28b0ae3d1fc"
+    }
+   },
+   "chart_slug": "respect-for-counterarguments-score",
+   "column_short_names": {
+    "Entity": "entity",
+    "Code": "code",
+    "Year": "year",
+    "Respect for counterarguments": "counterarg_polch_vdem__estimate_best"
+   }
+  }
+ ]
+}

@@ -1,0 +1,176 @@
+Entity,Code,Year,Life expectancy,Electoral Democracy Index,World region according to OWID
+Afghanistan,AFG,2023,66.0346,0.073,Asia
+Albania,ALB,2023,79.6019,0.505,Europe
+Algeria,DZA,2023,76.261,0.265,Africa
+Angola,AGO,2023,64.617,0.329,Africa
+Argentina,ARG,2023,77.3947,0.838,South America
+Armenia,ARM,2023,75.6827,0.631,Asia
+Australia,AUS,2023,83.9228,0.851,Oceania
+Austria,AUT,2023,81.9559,0.848,Europe
+Azerbaijan,AZE,2023,74.4286,0.185,Asia
+Bahrain,BHR,2023,81.2835,0.138,Asia
+Bangladesh,BGD,2023,74.6723,0.253,Asia
+Barbados,BRB,2023,76.1782,0.802,North America
+Belarus,BLR,2023,74.4339,0.157,Europe
+Belgium,BEL,2023,82.115,0.895,Europe
+Benin,BEN,2023,60.7738,0.487,Africa
+Bhutan,BTN,2023,72.9753,0.532,Asia
+Bolivia,BOL,2023,68.5814,0.586,South America
+Bosnia and Herzegovina,BIH,2023,77.8504,0.502,Europe
+Botswana,BWA,2023,69.1631,0.564,Africa
+Brazil,BRA,2023,75.8482,0.79,South America
+Bulgaria,BGR,2023,75.6363,0.659,Europe
+Burkina Faso,BFA,2023,61.092,0.212,Africa
+Burundi,BDI,2023,63.6511,0.186,Africa
+Cambodia,KHM,2023,70.6675,0.189,Asia
+Cameroon,CMR,2023,63.6996,0.279,Africa
+Canada,CAN,2023,82.6302,0.847,North America
+Cape Verde,CPV,2023,76.0587,0.75,Africa
+Central African Republic,CAF,2023,57.4077,0.301,Africa
+Chad,TCD,2023,55.0692,0.148,Africa
+Chile,CHL,2023,81.1667,0.836,South America
+China,CHN,2023,77.9529,0.074,Asia
+Colombia,COL,2023,77.7246,0.711,South America
+Comoros,COM,2023,66.7768,0.264,Africa
+Congo,COG,2023,65.772,0.253,Africa
+Costa Rica,CRI,2023,80.7995,0.862,North America
+Cote d'Ivoire,CIV,2023,61.9438,0.445,Africa
+Croatia,HRV,2023,78.5803,0.725,Europe
+Cuba,CUB,2023,78.0855,0.175,North America
+Cyprus,CYP,2023,81.648,0.777,Europe
+Czechia,CZE,2023,79.8341,0.863,Europe
+Democratic Republic of Congo,COD,2023,61.895,0.333,Africa
+Denmark,DNK,2023,81.9328,0.917,Europe
+Djibouti,DJI,2023,65.9865,0.25,Africa
+Dominican Republic,DOM,2023,73.7201,0.692,North America
+East Timor,TLS,2023,67.6894,0.714,Asia
+Ecuador,ECU,2023,77.3924,0.641,South America
+Egypt,EGY,2023,71.6335,0.187,Africa
+El Salvador,SLV,2023,72.0993,0.377,North America
+Equatorial Guinea,GNQ,2023,63.7071,0.183,Africa
+Eritrea,ERI,2023,68.6239,0.068,Africa
+Estonia,EST,2023,79.1535,0.893,Europe
+Eswatini,SWZ,2023,64.1227,0.121,Africa
+Ethiopia,ETH,2023,67.315,0.279,Africa
+Fiji,FJI,2023,67.3157,0.509,Oceania
+Finland,FIN,2023,81.9102,0.853,Europe
+France,FRA,2023,83.3253,0.871,Europe
+Gabon,GAB,2023,68.3367,0.325,Africa
+Gambia,GMB,2023,65.8603,0.635,Africa
+Georgia,GEO,2023,74.4965,0.591,Asia
+Germany,DEU,2023,81.3777,0.855,Europe
+Ghana,GHA,2023,65.4979,0.657,Africa
+Greece,GRC,2023,81.8568,0.735,Europe
+Guatemala,GTM,2023,72.6023,0.506,North America
+Guinea,GIN,2023,60.7405,0.169,Africa
+Guinea-Bissau,GNB,2023,64.0849,0.428,Africa
+Guyana,GUY,2023,70.1802,0.484,South America
+Haiti,HTI,2023,64.9356,0.231,North America
+Honduras,HND,2023,72.8842,0.539,North America
+Hong Kong,HKG,2023,85.5106,0.149,Asia
+Hungary,HUN,2023,77.024,0.434,Europe
+Iceland,ISL,2023,82.6911,0.841,Europe
+India,IND,2023,72.0026,0.374,Asia
+Indonesia,IDN,2023,71.1457,0.538,Asia
+Iran,IRN,2023,77.6545,0.153,Asia
+Iraq,IRQ,2023,72.3242,0.371,Asia
+Ireland,IRL,2023,82.4118,0.894,Europe
+Israel,ISR,2023,82.408,0.704,Asia
+Italy,ITA,2023,83.7157,0.806,Europe
+Jamaica,JAM,2023,71.4789,0.798,North America
+Japan,JPN,2023,84.7123,0.826,Asia
+Jordan,JOR,2023,77.8145,0.252,Asia
+Kazakhstan,KAZ,2023,74.4021,0.269,Asia
+Kenya,KEN,2023,63.6459,0.57,Africa
+Kosovo,OWID_KOS,2023,78.0326,0.676,Europe
+Kuwait,KWT,2023,80.4047,0.314,Asia
+Kyrgyzstan,KGZ,2023,71.677,0.348,Asia
+Laos,LAO,2023,68.9637,0.132,Asia
+Latvia,LVA,2023,76.1898,0.846,Europe
+Lebanon,LBN,2023,77.817,0.361,Asia
+Lesotho,LSO,2023,57.3749,0.667,Africa
+Liberia,LBR,2023,62.1625,0.624,Africa
+Libya,LBY,2023,69.3389,0.196,Africa
+Lithuania,LTU,2023,76.025,0.785,Europe
+Luxembourg,LUX,2023,82.2294,0.871,Europe
+Madagascar,MDG,2023,63.6317,0.461,Africa
+Malawi,MWI,2023,67.3535,0.571,Africa
+Malaysia,MYS,2023,76.6571,0.508,Asia
+Maldives,MDV,2023,81.0412,0.596,Asia
+Mali,MLI,2023,60.4394,0.229,Africa
+Malta,MLT,2023,83.2989,0.783,Europe
+Mauritania,MRT,2023,68.4836,0.368,Africa
+Mauritius,MUS,2023,74.9263,0.47,Africa
+Mexico,MEX,2023,75.069,0.548,North America
+Moldova,MDA,2023,71.1985,0.712,Europe
+Mongolia,MNG,2023,71.7341,0.534,Asia
+Montenegro,MNE,2023,77.0869,0.61,Europe
+Morocco,MAR,2023,75.3128,0.262,Africa
+Mozambique,MOZ,2023,63.6111,0.351,Africa
+Myanmar,MMR,2023,66.889,0.077,Asia
+Namibia,NAM,2023,67.3848,0.622,Africa
+Nepal,NPL,2023,70.3537,0.685,Asia
+Netherlands,NLD,2023,82.1576,0.847,Europe
+New Zealand,NZL,2023,82.088,0.88,Oceania
+Nicaragua,NIC,2023,74.9468,0.158,North America
+Niger,NER,2023,61.1833,0.388,Africa
+Nigeria,NGA,2023,54.4623,0.484,Africa
+North Korea,PRK,2023,73.6418,0.083,Asia
+North Macedonia,MKD,2023,77.3947,0.562,Europe
+Norway,NOR,2023,83.3078,0.89,Europe
+Oman,OMN,2023,80.0305,0.172,Asia
+Pakistan,PAK,2023,67.649,0.334,Asia
+Panama,PAN,2023,79.5937,0.722,North America
+Papua New Guinea,PNG,2023,66.134,0.466,Oceania
+Paraguay,PRY,2023,73.8443,0.576,South America
+Peru,PER,2023,77.7401,0.7,South America
+Philippines,PHL,2023,69.8327,0.416,Asia
+Poland,POL,2023,78.6329,0.598,Europe
+Portugal,PRT,2023,82.3599,0.854,Europe
+Qatar,QAT,2023,82.368,0.087,Asia
+Romania,ROU,2023,75.9381,0.677,Europe
+Russia,RUS,2023,73.1541,0.19,Europe
+Rwanda,RWA,2023,67.7852,0.212,Africa
+Sao Tome and Principe,STP,2023,69.7182,0.644,Africa
+Saudi Arabia,SAU,2023,78.7321,0.014,Asia
+Senegal,SEN,2023,68.6829,0.625,Africa
+Serbia,SRB,2023,76.7693,0.36,Europe
+Seychelles,SYC,2023,72.862,0.728,Africa
+Sierra Leone,SLE,2023,61.7858,0.512,Africa
+Singapore,SGP,2023,83.7362,0.405,Asia
+Slovakia,SVK,2023,78.3414,0.812,Europe
+Slovenia,SVN,2023,81.6034,0.76,Europe
+Solomon Islands,SLB,2023,70.5277,0.666,Oceania
+Somalia,SOM,2023,58.8158,0.167,Africa
+South Africa,ZAF,2023,66.1387,0.712,Africa
+South Korea,KOR,2023,84.3288,0.722,Asia
+South Sudan,SSD,2023,57.6174,0.167,Africa
+Spain,ESP,2023,83.6703,0.846,Europe
+Sri Lanka,LKA,2023,77.4828,0.585,Asia
+Sudan,SDN,2023,66.331,0.139,Africa
+Suriname,SUR,2023,73.631,0.764,South America
+Sweden,SWE,2023,83.2624,0.883,Europe
+Switzerland,CHE,2023,83.9536,0.884,Europe
+Syria,SYR,2023,72.1201,0.145,Asia
+Taiwan,TWN,2023,80.5588,0.823,Asia
+Tajikistan,TJK,2023,71.7901,0.164,Asia
+Tanzania,TZA,2023,66.9953,0.409,Africa
+Thailand,THA,2023,76.4115,0.295,Asia
+Togo,TGO,2023,62.7387,0.389,Africa
+Trinidad and Tobago,TTO,2023,73.4896,0.778,North America
+Tunisia,TUN,2023,76.5077,0.432,Africa
+Turkey,TUR,2023,77.1557,0.285,Asia
+Turkmenistan,TKM,2023,70.0727,0.148,Asia
+Uganda,UGA,2023,68.2523,0.259,Africa
+Ukraine,UKR,2023,73.4225,0.39,Europe
+United Arab Emirates,ARE,2023,82.9091,0.102,Asia
+United Kingdom,GBR,2023,81.3015,0.852,Europe
+United States,USA,2023,79.3043,0.857,North America
+Uruguay,URY,2023,78.1385,0.833,South America
+Uzbekistan,UZB,2023,72.3884,0.215,Asia
+Vanuatu,VUT,2023,71.4769,0.82,Oceania
+Venezuela,VEN,2023,72.5142,0.206,South America
+Vietnam,VNM,2023,74.5883,0.148,Asia
+Yemen,YEM,2023,69.2952,0.128,Asia
+Zambia,ZMB,2023,66.3487,0.525,Africa
+Zimbabwe,ZWE,2023,62.7748,0.296,Africa

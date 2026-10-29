@@ -1,0 +1,12 @@
+Figure 16: 16 Share of population satisfied with government services
+Article: Promote just, peaceful and inclusive societies (2023-07-18)
+
+Title: Share of population satisfied with government services
+Subtitle: People who have used government services in the last 12 months and were satisfied with their experience. Government services considered here include: services to obtain government-issued identification documents and the civil registration of life events, such as births marriages and deaths.
+Note: 
+Source: United Nations Development Programme
+Units: %
+Chart: https://ourworldindata.org/grapher/share-of-population-satisfied-with-government-services
+
+Text before the figure: More research: Further data and research can be found at the Our World in Data topic page on Trust .
+Text after the figure: ## Target 16.7 Ensure responsive, inclusive and representative decision-making

@@ -1,0 +1,55 @@
+{
+ "title": "Foreign Policy Free from Interference of other States Score",
+ "url": "https://ourworldindata.org/grapher/foreign-policy-free-from-interference-of-other-states-score",
+ "date_published": null,
+ "chart_page": true,
+ "authors": [],
+ "retrieved_at": "2026-10-29T17:15:48.164033+00:00",
+ "materialised_at": "2026-10-29T17:15:48.164054+00:00",
+ "source_original_sha256": "bb0f12bd573ec700fa6168793ed35d6b9ae75a9b42c4e6610bb7b63c0ec9c80d",
+ "offline_snapshot": {
+  "page": "source.html",
+  "assets": "source_files/",
+  "assets_manifest": "source_files/manifest.json",
+  "asset_count": 73,
+  "removed": "all <script> elements except application/ld+json"
+ },
+ "figures": [
+  {
+   "index": 1,
+   "name": "01 Foreign Policy Free from Interference of other States Score",
+   "embed": {
+    "slug": "foreign-policy-free-from-interference-of-other-states-score",
+    "query": {},
+    "image": null
+   },
+   "view_url": "https://ourworldindata.org/grapher/foreign-policy-free-from-interference-of-other-states-score",
+   "csv_url": "https://ourworldindata.org/grapher/foreign-policy-free-from-interference-of-other-states-score.csv?csvType=filtered",
+   "png_url": "https://ourworldindata.org/grapher/foreign-policy-free-from-interference-of-other-states-score.png",
+   "data_available": true,
+   "config_title": "Foreign Policy Free from Interference of other States Score",
+   "config_subtitle": "Expert estimates by [V-Dem](#dod:v-dem). International treaties, organizations, and confederations not considered if the state negotiated its entry and is free to exit. International market forces and transnational corporations not considered. Higher scores mean more freedom. A score of 0 is approximately the average across all countries and years.",
+   "files": {
+    "txt": {
+     "path": "figs/01 Foreign Policy Free from Interference of other States Score.txt",
+     "sha256": "c7bcaba515a2b1d79926f109d600209743d10da31a81a311f2b6d9c16fb4330c"
+    },
+    "csv": {
+     "path": "figs/01 Foreign Policy Free from Interference of other States Score.csv",
+     "sha256": "f7fae273b1ff79fba32bbc9fc5692c4598b01990daa12582320bd71ae9b10625"
+    },
+    "png": {
+     "path": "figs/01 Foreign Policy Free from Interference of other States Score.png",
+     "sha256": "188a83b37e5135e1ca7bda04f0659498d4657b42c0f479f6f6bb89780c090608"
+    }
+   },
+   "chart_slug": "foreign-policy-free-from-interference-of-other-states-score",
+   "column_short_names": {
+    "Entity": "entity",
+    "Code": "code",
+    "Year": "year",
+    "Foreign policymaking free from foreign influence": "int_auton_vdem__estimate_best"
+   }
+  }
+ ]
+}

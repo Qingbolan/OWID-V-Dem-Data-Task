@@ -1,0 +1,5 @@
+# Golden processing program: 06 People asked for a bribe vs. firms asked for a bribe
+
+View: https://ourworldindata.org/grapher/people-asked-for-a-bribe-vs-firms-asked-for-a-bribe
+
+Not reproducible: the chart is not one of the V-Dem-only charts (data/reference/charts.json): it plots grapher/regions/2023-01-01/regions, grapher/un/2026-07-31/un_sdg, grapher/wb/2025-05-12/enterprise_surveys

@@ -1,0 +1,98 @@
+{
+ "chart": {
+  "title": "Number of electoral democracies by age",
+  "subtitle": "Data by the Lexical Index of Electoral Democracy. Electoral democracies are political systems with an elected government and parliament, universal voting rights, and competitive elections.",
+  "citation": "Lexical Index (2026)",
+  "originalChartUrl": "https://ourworldindata.org/grapher/number-electoral-democracies-age-lexical",
+  "selection": [
+   "World"
+  ]
+ },
+ "columns": {
+  "Number of autocracies": {
+   "titleShort": "Non-democracies",
+   "titleLong": "Non-democracies",
+   "unit": "countries",
+   "timespan": "1789-2025",
+   "type": "Integer",
+   "owidVariableId": 1210582,
+   "shortName": "num_democracy_lied__category_autocracy",
+   "lastUpdated": "2026-04-02",
+   "nextUpdate": "2027-04-02",
+   "citationShort": "Lexical Index (2026) – processed by Our World in Data",
+   "citationLong": "Lexical Index (2026) – processed by Our World in Data. “Non-democracies” [dataset]. Lexical Index, “Lexical Index of Electoral Democracy (LIED) v6.9” [original data].",
+   "fullMetadata": "https://api.ourworldindata.org/v1/indicators/1210582.metadata.json"
+  },
+  "Number of electoral democracies aged 91+ years": {
+   "titleShort": "91 years +",
+   "titleLong": "91 years +",
+   "unit": "countries",
+   "timespan": "1789-2025",
+   "type": "Integer",
+   "owidVariableId": 1210590,
+   "shortName": "num_group_age_electdem_lied__category_91plus_years",
+   "lastUpdated": "2026-04-02",
+   "nextUpdate": "2027-04-02",
+   "citationShort": "Lexical Index (2026) – processed by Our World in Data",
+   "citationLong": "Lexical Index (2026) – processed by Our World in Data. “91 years +” [dataset]. Lexical Index, “Lexical Index of Electoral Democracy (LIED) v6.9” [original data].",
+   "fullMetadata": "https://api.ourworldindata.org/v1/indicators/1210590.metadata.json"
+  },
+  "Number of electoral democracies aged 61-90 years": {
+   "titleShort": "61-90 years",
+   "titleLong": "61-90 years",
+   "unit": "countries",
+   "timespan": "1789-2025",
+   "type": "Integer",
+   "owidVariableId": 1210588,
+   "shortName": "num_group_age_electdem_lied__category_61_90_years",
+   "lastUpdated": "2026-04-02",
+   "nextUpdate": "2027-04-02",
+   "citationShort": "Lexical Index (2026) – processed by Our World in Data",
+   "citationLong": "Lexical Index (2026) – processed by Our World in Data. “61-90 years” [dataset]. Lexical Index, “Lexical Index of Electoral Democracy (LIED) v6.9” [original data].",
+   "fullMetadata": "https://api.ourworldindata.org/v1/indicators/1210588.metadata.json"
+  },
+  "Number of electoral democracies aged 31-60 years": {
+   "titleShort": "31-60 years",
+   "titleLong": "31-60 years",
+   "unit": "countries",
+   "timespan": "1789-2025",
+   "type": "Integer",
+   "owidVariableId": 1210589,
+   "shortName": "num_group_age_electdem_lied__category_31_60_years",
+   "lastUpdated": "2026-04-02",
+   "nextUpdate": "2027-04-02",
+   "citationShort": "Lexical Index (2026) – processed by Our World in Data",
+   "citationLong": "Lexical Index (2026) – processed by Our World in Data. “31-60 years” [dataset]. Lexical Index, “Lexical Index of Electoral Democracy (LIED) v6.9” [original data].",
+   "fullMetadata": "https://api.ourworldindata.org/v1/indicators/1210589.metadata.json"
+  },
+  "Number of electoral democracies aged 19-30 years": {
+   "titleShort": "19-30 years",
+   "titleLong": "19-30 years",
+   "unit": "countries",
+   "timespan": "1789-2025",
+   "type": "Integer",
+   "owidVariableId": 1210587,
+   "shortName": "num_group_age_electdem_lied__category_19_30_years",
+   "lastUpdated": "2026-04-02",
+   "nextUpdate": "2027-04-02",
+   "citationShort": "Lexical Index (2026) – processed by Our World in Data",
+   "citationLong": "Lexical Index (2026) – processed by Our World in Data. “19-30 years” [dataset]. Lexical Index, “Lexical Index of Electoral Democracy (LIED) v6.9” [original data].",
+   "fullMetadata": "https://api.ourworldindata.org/v1/indicators/1210587.metadata.json"
+  },
+  "Number of electoral democracies aged 1-18 years": {
+   "titleShort": "Electoral democracies aged 1-18 years",
+   "titleLong": "Electoral democracies aged 1-18 years",
+   "unit": "countries",
+   "timespan": "1789-2025",
+   "type": "Integer",
+   "owidVariableId": 1210586,
+   "shortName": "num_group_age_electdem_lied__category_1_18_years",
+   "lastUpdated": "2026-04-02",
+   "nextUpdate": "2027-04-02",
+   "citationShort": "Lexical Index (2026) – processed by Our World in Data",
+   "citationLong": "Lexical Index (2026) – processed by Our World in Data. “Electoral democracies aged 1-18 years” [dataset]. Lexical Index, “Lexical Index of Electoral Democracy (LIED) v6.9” [original data].",
+   "fullMetadata": "https://api.ourworldindata.org/v1/indicators/1210586.metadata.json"
+  }
+ },
+ "dateDownloaded": "2026-10-29"
+}

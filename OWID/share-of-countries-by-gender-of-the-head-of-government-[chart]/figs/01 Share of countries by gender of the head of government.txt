@@ -1,0 +1,9 @@
+Figure 01: 01 Share of countries by gender of the head of government
+Article: none; source page is the chart page https://ourworldindata.org/grapher/share-of-countries-by-gender-of-the-head-of-government
+
+Title: Share of countries by gender of the head of government
+Subtitle: The head of government is the chief officer of the executive branch of their country.
+Note: This is recorded on December 31 of each year.
+Source: V-Dem (2026)
+Units: countries
+Chart: https://ourworldindata.org/grapher/share-of-countries-by-gender-of-the-head-of-government

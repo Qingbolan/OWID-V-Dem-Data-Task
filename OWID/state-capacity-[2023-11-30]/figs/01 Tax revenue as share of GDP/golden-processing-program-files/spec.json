@@ -1,0 +1,6 @@
+{
+ "reproducible": false,
+ "reason": "the chart is not one of the V-Dem-only charts (data/reference/charts.json): it plots grapher/regions/2023-01-01/regions, grapher/unu_wider/2026-03-24/government_revenue_dataset",
+ "view": "https://ourworldindata.org/grapher/tax-revenues-as-a-share-of-gdp-unu-wider",
+ "chart_slug": "tax-revenues-as-a-share-of-gdp-unu-wider"
+}

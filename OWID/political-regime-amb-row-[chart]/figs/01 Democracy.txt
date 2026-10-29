@@ -1,0 +1,9 @@
+Figure 01: 01 Democracy
+Article: none; source page is the chart page https://ourworldindata.org/grapher/political-regime-amb-row
+
+Title: Democracy
+Subtitle: Classification by [Lührmann et al. (2018)](#dod:regimes-of-the-world) based on expert estimates by [V-Dem](#dod:v-dem). The intermediate categories indicate that the country may belong in the next-higher or next-lower group.
+Note: 
+Source: V-Dem (2026)
+Units: 
+Chart: https://ourworldindata.org/grapher/political-regime-amb-row

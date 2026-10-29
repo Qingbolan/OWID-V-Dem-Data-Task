@@ -1,0 +1,12 @@
+Figure 13: 13 Systems tracking and making public allocations for gender equality and women's empowerment
+Article: Achieve gender equality and empower all women and girls (2023-07-18)
+
+Title: Systems tracking and making public allocations for gender equality and women's empowerment
+Subtitle: 
+Note: 
+Source: Data from multiple sources compiled by the UN
+Units: %
+Chart: https://ourworldindata.org/grapher/systems-track-gender-equality
+
+Text before the figure: More research: Further data and research on this topic can be found at the Our World in Data topic page on Women’s Rights .
+Text after the figure: ### Endnotes

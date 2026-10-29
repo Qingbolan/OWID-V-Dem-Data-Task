@@ -1,0 +1,12 @@
+Figure 05: 05 Share of children who experienced violence
+Article: Promote just, peaceful and inclusive societies (2023-07-18)
+
+Title: Share of children who experienced violence
+Subtitle: Children aged 1-14 years who experienced physical punishment and/or psychological aggression by caregivers in the last month.
+Note: 
+Source: UNICEF
+Units: %
+Chart: https://ourworldindata.org/grapher/share-of-children-who-experienced-violence
+
+Text before the figure: More research: Further data and research can be found at the Our World in Data topic page on Violence Against & Rights for Children .
+Text after the figure: ### SDG Indicator 16.2.2 Human trafficking

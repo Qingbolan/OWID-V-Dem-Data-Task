@@ -1,0 +1,45 @@
+{
+ "id": 6537,
+ "map": {
+  "colorScale": {
+   "binningStrategy": "manual",
+   "customNumericValues": [
+    0,
+    20,
+    40,
+    60,
+    80
+   ]
+  },
+  "timeTolerance": 10
+ },
+ "tab": "discrete-bar",
+ "slug": "share-of-people-with-disputes-using-a-dispute-resolution-mechanism",
+ "title": "Share of people with disputes using a dispute resolution mechanism",
+ "yAxis": {
+  "min": 0
+ },
+ "$schema": "https://files.ourworldindata.org/schemas/grapher-schema.011.json",
+ "minTime": "latest",
+ "version": 10,
+ "subtitle": "A dispute can be understood as a problem between individuals or between individual(s) and an entity that gives rise to legal issues. Dispute resolution mechanisms include: lawyers, community or religious leaders, a court or tribunal, or the police.",
+ "originUrl": "/human-rights",
+ "dimensions": [
+  {
+   "display": {
+    "tolerance": 4
+   },
+   "property": "y",
+   "variableId": 1301131
+  }
+ ],
+ "isPublished": true,
+ "selectedEntityNames": [
+  "Palestine",
+  "Peru",
+  "Canada",
+  "Colombia",
+  "Gambia",
+  "South Africa"
+ ]
+}

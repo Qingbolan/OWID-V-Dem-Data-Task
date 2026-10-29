@@ -1,0 +1,52 @@
+{
+ "chart": {
+  "title": "Confirmed killings of human rights defenders, journalists and trade unionists",
+  "subtitle": "Number of killings that have been confirmed by UN agencies and national human rights institutions.",
+  "citation": "Office of the United Nations High Commissioner for Human Rights",
+  "originalChartUrl": "https://ourworldindata.org/grapher/cases-of-killed-human-rights-defenders-journalists-trade-unionists",
+  "selection": [
+   "World",
+   "Latin America and the Caribbean (UN SDG)",
+   "Northern Africa and Western Asia (UN SDG)",
+   "Central and Southern Asia (UN SDG)",
+   "Eastern and South-Eastern Asia (UN SDG)",
+   "Sub-Saharan Africa (UN SDG)",
+   "Europe and Northern America (UN SDG)"
+  ]
+ },
+ "columns": {
+  "16.10.1 - Number of cases of killings of human rights defenders, journalists and trade unionists - VC_VAW_MTUHRA - Male": {
+   "titleShort": "Male",
+   "titleLong": "Male",
+   "descriptionShort": "Number of cases of killings of human rights defenders, journalists and trade unionists.",
+   "shortUnit": "",
+   "unit": "number",
+   "timespan": "2015-2025",
+   "type": "Integer",
+   "owidVariableId": 1300874,
+   "shortName": "_16_10_1__vc_vaw_mtuhra__male",
+   "lastUpdated": "2026-07-31",
+   "nextUpdate": "2027-07-31",
+   "citationShort": "Office of the United Nations High Commissioner for Human Rights – processed by Our World in Data",
+   "citationLong": "Office of the United Nations High Commissioner for Human Rights – processed by Our World in Data. “Male” [dataset]. Office of the United Nations High Commissioner for Human Rights, “OHCHR in collaboration with UNESCO, ILO, and accredited National Human Rights Institutions” [original data].",
+   "fullMetadata": "https://api.ourworldindata.org/v1/indicators/1300874.metadata.json"
+  },
+  "16.10.1 - Number of cases of killings of human rights defenders, journalists and trade unionists - VC_VAW_MTUHRA - Female": {
+   "titleShort": "Female",
+   "titleLong": "Female",
+   "descriptionShort": "Number of cases of killings of human rights defenders, journalists and trade unionists.",
+   "shortUnit": "",
+   "unit": "number",
+   "timespan": "2015-2025",
+   "type": "Integer",
+   "owidVariableId": 1300873,
+   "shortName": "_16_10_1__vc_vaw_mtuhra__female",
+   "lastUpdated": "2026-07-31",
+   "nextUpdate": "2027-07-31",
+   "citationShort": "Office of the United Nations High Commissioner for Human Rights – processed by Our World in Data",
+   "citationLong": "Office of the United Nations High Commissioner for Human Rights – processed by Our World in Data. “Female” [dataset]. Office of the United Nations High Commissioner for Human Rights, “OHCHR in collaboration with UNESCO, ILO, and accredited National Human Rights Institutions” [original data].",
+   "fullMetadata": "https://api.ourworldindata.org/v1/indicators/1300873.metadata.json"
+  }
+ },
+ "dateDownloaded": "2026-10-29"
+}

@@ -1,0 +1,55 @@
+{
+ "title": "Equality of Political Power across Social Groups Score",
+ "url": "https://ourworldindata.org/grapher/equality-of-political-power-across-social-groups-score",
+ "date_published": null,
+ "chart_page": true,
+ "authors": [],
+ "retrieved_at": "2026-10-29T17:14:24.604784+00:00",
+ "materialised_at": "2026-10-29T17:14:24.604808+00:00",
+ "source_original_sha256": "41a05788379a25c9c64adc3800ba8c2a105cf65b45c0ee02e8f9893ef8edfea5",
+ "offline_snapshot": {
+  "page": "source.html",
+  "assets": "source_files/",
+  "assets_manifest": "source_files/manifest.json",
+  "asset_count": 73,
+  "removed": "all <script> elements except application/ld+json"
+ },
+ "figures": [
+  {
+   "index": 1,
+   "name": "01 Equality of Political Power across Social Groups Score",
+   "embed": {
+    "slug": "equality-of-political-power-across-social-groups-score",
+    "query": {},
+    "image": null
+   },
+   "view_url": "https://ourworldindata.org/grapher/equality-of-political-power-across-social-groups-score",
+   "csv_url": "https://ourworldindata.org/grapher/equality-of-political-power-across-social-groups-score.csv?csvType=filtered",
+   "png_url": "https://ourworldindata.org/grapher/equality-of-political-power-across-social-groups-score.png",
+   "data_available": true,
+   "config_title": "Equality of Political Power across Social Groups Score",
+   "config_subtitle": "Data by [V-Dem](#dod:v-dem). Expert estimates of the extent to which social groups — defined by language, ethnicity, religion, race, region, and/or caste — are irrelevant to politics, or have similar political power. Higher scores mean more equality. A score of 0 is approximately the average across all countries and years.",
+   "files": {
+    "txt": {
+     "path": "figs/01 Equality of Political Power across Social Groups Score.txt",
+     "sha256": "96b64aab604e09e3607d64b8b2082aeb00c65ee1b6b2026a7aeafad8e8600d94"
+    },
+    "csv": {
+     "path": "figs/01 Equality of Political Power across Social Groups Score.csv",
+     "sha256": "f138812d2ad93e0f68adad2e93834633166e66e1d226c761cab165a2925a27dc"
+    },
+    "png": {
+     "path": "figs/01 Equality of Political Power across Social Groups Score.png",
+     "sha256": "acec808151c04fb411d852b102eb177043c48431b13f3c5e6100433fc5fda87d"
+    }
+   },
+   "chart_slug": "equality-of-political-power-across-social-groups-score",
+   "column_short_names": {
+    "Entity": "entity",
+    "Code": "code",
+    "Year": "year",
+    "Equality of political power across social groups": "socgr_pow_vdem__estimate_best"
+   }
+  }
+ ]
+}

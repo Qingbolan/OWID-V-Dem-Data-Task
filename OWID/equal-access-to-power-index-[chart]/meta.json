@@ -1,0 +1,56 @@
+{
+ "title": "Equal Access to Power Index",
+ "url": "https://ourworldindata.org/grapher/equal-access-to-power-index",
+ "date_published": null,
+ "chart_page": true,
+ "authors": [],
+ "retrieved_at": "2026-10-29T17:11:34.456294+00:00",
+ "materialised_at": "2026-10-29T17:11:34.456307+00:00",
+ "source_original_sha256": "ccf15654bb246901f37cbb2bafc4f83c4439f66bda77d18d375cf4f3e5cd3722",
+ "offline_snapshot": {
+  "page": "source.html",
+  "assets": "source_files/",
+  "assets_manifest": "source_files/manifest.json",
+  "asset_count": 73,
+  "removed": "all <script> elements except application/ld+json"
+ },
+ "figures": [
+  {
+   "index": 1,
+   "name": "01 Equal Access to Power Index",
+   "embed": {
+    "slug": "equal-access-to-power-index",
+    "query": {},
+    "image": null
+   },
+   "view_url": "https://ourworldindata.org/grapher/equal-access-to-power-index",
+   "csv_url": "https://ourworldindata.org/grapher/equal-access-to-power-index.csv?csvType=filtered",
+   "png_url": "https://ourworldindata.org/grapher/equal-access-to-power-index.png",
+   "data_available": true,
+   "config_title": "Equal Access to Power Index",
+   "config_subtitle": "Data by [V-Dem](#dod:v-dem). Expert estimates of the extent to which all social groups can influence and participate in policy-making. The index ranges from 0 to 1 (most equal).",
+   "files": {
+    "txt": {
+     "path": "figs/01 Equal Access to Power Index.txt",
+     "sha256": "7a252bd2197fadda09a2f96ae16232611aa79327866c143de4c67bbfd250bc3e"
+    },
+    "csv": {
+     "path": "figs/01 Equal Access to Power Index.csv",
+     "sha256": "7773fc8fd329bd6729021d94452ae4a3f984f72e77e9758597fcc116226f46eb"
+    },
+    "png": {
+     "path": "figs/01 Equal Access to Power Index.png",
+     "sha256": "72a11c2f72a49d00b225707c9edb70501eb602b84a6b7af6d852539620e6d666"
+    }
+   },
+   "chart_slug": "equal-access-to-power-index",
+   "column_short_names": {
+    "Entity": "entity",
+    "Code": "code",
+    "Year": "year",
+    "Equal access to power index": "equal_access_vdem__estimate_best",
+    "World region according to OWID": "owid_region"
+   }
+  }
+ ]
+}

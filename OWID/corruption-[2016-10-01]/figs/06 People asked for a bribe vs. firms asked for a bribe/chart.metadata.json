@@ -1,0 +1,60 @@
+{
+ "chart": {
+  "title": "People asked for a bribe vs. firms asked for a bribe",
+  "subtitle": "Share of respondents who report having contact with a public official in the past 12 months and paying or being asked to pay a bribe, vs. share of firms that report being asked to pay a bribe when dealing with core public services.",
+  "citation": "United Nations Office on Drugs and Crime; World Bank Enterprise Surveys (2024)",
+  "originalChartUrl": "https://ourworldindata.org/grapher/people-asked-for-a-bribe-vs-firms-asked-for-a-bribe",
+  "selection": []
+ },
+ "columns": {
+  "Share of people who said they were recently asked for a bribe or paid one": {
+   "titleShort": "Share of people who said they were recently asked for a bribe or paid one",
+   "titleLong": "Share of people who said they were recently asked for a bribe or paid one",
+   "descriptionShort": "Share of respondents who reported having contact with a public official in the past 12 months and paying or being asked to pay a bribe.",
+   "descriptionKey": "- This indicator measures how common bribery is in people’s everyday interactions with public officials. It shows the share of individuals who, in the past year, either paid a bribe or were asked to pay one during contact with a public official.\n- Bribes can take the form of money, gifts, or favors given in exchange for special treatment. The focus is on petty or administrative bribery — the kind people may face when accessing basic services, such as dealing with the police, schools, or healthcare.\n- “Public officials” refers to anyone holding a legislative, executive, administrative, or judicial role — including police officers, customs agents, judges, teachers, and doctors. The data does not cover high-level political corruption, trading of influence, or abuse of office.\n- Data comes primarily from national surveys, where respondents report their own direct experiences. Reports involving intermediaries (e.g. a bribe paid through someone else) are included, but second-hand accounts from other household members are excluded.\n- When national data is unavailable or insufficient, estimates may draw on [Global Corruption Barometer (GCB)](https://www.transparency.org/en/gcb) data, provided it aligns closely with UNODC definitions. These estimates are reviewed and validated by national authorities, usually through national statistics offices.\n- In some cases — such as Peru and Panama — UNODC estimates differ significantly from the GCB's figures. These differences may arise from variations in survey scope (e.g. UNODC's surveys inquire about any contact with public officials, while GCB asks about contact concerning a few core services), sample size, how people without recent contact with officials are handled, or how surveys are conducted (e.g. phone vs. in-person).\n- Earlier surveys often excluded people who were asked for a bribe but refused to pay. This likely led to underestimates of the prevalence of bribery. The UNODC aims to correct this by applying standardised methods across countries.",
+   "shortUnit": "%",
+   "unit": "%",
+   "timespan": "2004-2024",
+   "type": "Numeric",
+   "owidVariableId": 1301145,
+   "shortName": "_16_5_1__iu_cor_brib__both_sexes",
+   "lastUpdated": "2026-07-31",
+   "nextUpdate": "2027-07-31",
+   "citationShort": "United Nations Office on Drugs and Crime – with minor processing by Our World in Data",
+   "citationLong": "United Nations Office on Drugs and Crime – with minor processing by Our World in Data. “Share of people who said they were recently asked for a bribe or paid one” [dataset]. United Nations Office on Drugs and Crime, “Data from multiple sources” [original data].",
+   "fullMetadata": "https://api.ourworldindata.org/v1/indicators/1301145.metadata.json"
+  },
+  "Share of firms that were asked to pay a bribe": {
+   "titleShort": "Share of firms that were asked to pay a bribe",
+   "titleLong": "Share of firms that were asked to pay a bribe",
+   "descriptionShort": "Share of firms that were asked to pay a bribe when dealing with core public services, such as operating licenses and construction permits.",
+   "descriptionKey": "- Measures the share of firms that experienced at least one request for a gift or informal payment across six types of public transactions.\n- Covers applications for electrical connections, water connections, construction permits, meetings with tax officials, import licenses (authorization to import specific goods), and operating licenses (permit to legally conduct business activities).\n- Data are collected through structured interviews with private sector firms.\n- Refusal to answer a question is treated as an affirmative response indicating bribery occurred.\n- Corruption imposes administrative and financial burdens, reduces operational efficiency, and increases costs and risks for firms.\n- Regional and global averages are computed by taking a simple average of country-level results using only the latest available survey data per country since 2014.",
+   "shortUnit": "%",
+   "unit": "%",
+   "timespan": "2006-2025",
+   "type": "Numeric",
+   "owidVariableId": 1032401,
+   "shortName": "bribery_incidence__percent_of_firms_experiencing_at_least_one_bribe_payment_request",
+   "lastUpdated": "2025-05-12",
+   "nextUpdate": "2026-11-29",
+   "citationShort": "World Bank Enterprise Surveys (2024) – with minor processing by Our World in Data",
+   "citationLong": "World Bank Enterprise Surveys (2024) – with minor processing by Our World in Data. “Share of firms that were asked to pay a bribe” [dataset]. World Bank Enterprise Surveys, “Enterprise Surveys – Corruption” [original data].",
+   "fullMetadata": "https://api.ourworldindata.org/v1/indicators/1032401.metadata.json"
+  },
+  "World region according to OWID": {
+   "titleShort": "World region according to OWID",
+   "titleLong": "World region according to OWID",
+   "descriptionShort": "Regions defined by Our World in Data, which are used in OWID charts and maps.",
+   "unit": "",
+   "timespan": "2023-2023",
+   "type": "Continent",
+   "owidVariableId": 900801,
+   "shortName": "owid_region",
+   "lastUpdated": "2023-01-01",
+   "citationShort": "Our World in Data",
+   "citationLong": "Our World in Data. “World region according to OWID” [dataset]. Our World in Data, “Regions” [original data].",
+   "fullMetadata": "https://api.ourworldindata.org/v1/indicators/900801.metadata.json"
+  }
+ },
+ "dateDownloaded": "2026-10-29"
+}

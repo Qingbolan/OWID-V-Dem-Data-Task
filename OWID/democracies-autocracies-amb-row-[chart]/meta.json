@@ -1,0 +1,64 @@
+{
+ "title": "Countries that are democracies and autocracies",
+ "url": "https://ourworldindata.org/grapher/democracies-autocracies-amb-row",
+ "date_published": null,
+ "chart_page": true,
+ "authors": [],
+ "retrieved_at": "2026-10-29T17:04:15.229865+00:00",
+ "materialised_at": "2026-10-29T17:04:15.229873+00:00",
+ "source_original_sha256": "3e78608ea0575975eae015e09164307869f41262b8c2e36afbd7054d3f458c15",
+ "offline_snapshot": {
+  "page": "source.html",
+  "assets": "source_files/",
+  "assets_manifest": "source_files/manifest.json",
+  "asset_count": 73,
+  "removed": "all <script> elements except application/ld+json"
+ },
+ "figures": [
+  {
+   "index": 1,
+   "name": "01 Countries that are democracies and autocracies",
+   "embed": {
+    "slug": "democracies-autocracies-amb-row",
+    "query": {},
+    "image": null
+   },
+   "view_url": "https://ourworldindata.org/grapher/democracies-autocracies-amb-row",
+   "csv_url": "https://ourworldindata.org/grapher/democracies-autocracies-amb-row.csv?csvType=filtered",
+   "png_url": "https://ourworldindata.org/grapher/democracies-autocracies-amb-row.png",
+   "data_available": true,
+   "config_title": "Countries that are democracies and autocracies",
+   "config_subtitle": "Classification by [Lührmann et al. (2018)](#dod:regimes-of-the-world) based on expert estimates by [V-Dem](#dod:v-dem).",
+   "files": {
+    "txt": {
+     "path": "figs/01 Countries that are democracies and autocracies.txt",
+     "sha256": "3812fc67bcf0c1ad71ab59484b61c2039ce427a61b040c54595315fcc6c46beb"
+    },
+    "csv": {
+     "path": "figs/01 Countries that are democracies and autocracies.csv",
+     "sha256": "d84153ffae92e84d09a6832998fab6b869b85a434a2d5e50b839406b6d4539a4"
+    },
+    "png": {
+     "path": "figs/01 Countries that are democracies and autocracies.png",
+     "sha256": "8ea9571aaf5d68a91cf839346c8df1087d483e281965a5681e3206ea540dc5de"
+    }
+   },
+   "chart_slug": "democracies-autocracies-amb-row",
+   "column_short_names": {
+    "Entity": "entity",
+    "Code": "code",
+    "Year": "year",
+    "Closed autocracies": "num_countries_regime_amb__category_closed_autocracy",
+    "Probably closed autocracies": "num_countries_regime_amb__category_closed__maybe_electoral__autocracy",
+    "Probably electoral autocracy": "num_countries_regime_amb__category_electoral__maybe_closed__autocracy",
+    "Electoral autocracies": "num_countries_regime__category_electoral_autocracy",
+    " Probably electoral autocracy": "num_countries_regime_amb__category_electoral_autocracy__maybe_electoral_democracy",
+    " Probably electoral democracy": "num_countries_regime_amb__category_electoral_democracy__maybe_electoral_autocracy",
+    "Electoral democracies": "num_countries_regime__category_electoral_democracy",
+    "Probably electoral democracy": "num_countries_regime_amb__category_electoral_democracy__maybe_liberal_democracy",
+    "Probably liberal democracy": "num_countries_regime_amb__category_liberal_democracy__maybe_electoral_democracy",
+    "Liberal democracies": "num_countries_regime_amb__category_liberal_democracy"
+   }
+  }
+ ]
+}

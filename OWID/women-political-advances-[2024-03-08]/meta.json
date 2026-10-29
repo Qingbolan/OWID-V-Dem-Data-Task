@@ -1,0 +1,290 @@
+{
+ "title": "Women have made major advances in politics — but the world is still far from equal",
+ "url": "https://ourworldindata.org/women-political-advances",
+ "date_published": "2024-03-08",
+ "authors": [
+  "Bastian Herre"
+ ],
+ "retrieved_at": "2026-10-29T15:15:32.643362+00:00",
+ "materialised_at": "2026-10-29T16:54:53.364986+00:00",
+ "source_original_sha256": "3f11713ec4eaadcdd9585c6ba0ac8fc57a423fb5c99fc97fcb8483bebcc511aa",
+ "offline_snapshot": {
+  "page": "source.html",
+  "assets": "source_files/",
+  "assets_manifest": "source_files/manifest.json",
+  "asset_count": 106,
+  "removed": "all <script> elements except application/ld+json"
+ },
+ "figures": [
+  {
+   "index": 1,
+   "name": "01 Countries that have universal voting rights",
+   "embed": {
+    "slug": "countries-that-have-universal-voting-rights",
+    "query": {},
+    "image": null
+   },
+   "files": {
+    "html": {
+     "path": "figs/01 Countries that have universal voting rights.html",
+     "sha256": "6afa77f442e1ede3ffc8b28dc95a2b8cac11d3f4cb343cdb312465ea535994ae"
+    },
+    "csv": {
+     "path": "figs/01 Countries that have universal voting rights.csv",
+     "sha256": "f5cb450bd81471de6b0d5c6d2901d35110eb11b8f64ff9ff4423fecf66990e0a"
+    },
+    "png": {
+     "path": "figs/01 Countries that have universal voting rights.png",
+     "sha256": "1b3b4df88591118e7914fd7fbb3b7bf4cde22448b26a7527f8a985e4cb097b4e"
+    },
+    "txt": {
+     "path": "figs/01 Countries that have universal voting rights.txt",
+     "sha256": "7fa14884cec0dcb746155545a31a39816a9b39bb7563ba951ad37cd84fdeab44"
+    }
+   },
+   "view_url": "https://ourworldindata.org/grapher/countries-that-have-universal-voting-rights",
+   "csv_url": "https://ourworldindata.org/grapher/countries-that-have-universal-voting-rights.csv?csvType=filtered",
+   "png_url": "https://ourworldindata.org/grapher/countries-that-have-universal-voting-rights.png",
+   "data_available": true,
+   "config_title": "Countries that have universal voting rights",
+   "config_subtitle": "This does not consider elections being held in practice, informal restrictions on voting rights, or legal restrictions based on age, criminal conviction, disability, or local residency.",
+   "chart_slug": "countries-that-have-universal-voting-rights",
+   "column_short_names": {
+    "Entity": "entity",
+    "Code": "code",
+    "Year": "year",
+    "No universal right to vote": "num_suffrage_lied__category_no_suffrage",
+    "Universal right to vote for men only": "num_suffrage_lied__category_male_suffrage",
+    "Universal right to vote for men and women": "num_suffrage_lied__category_universal_suffrage"
+   }
+  },
+  {
+   "index": 2,
+   "name": "02 Universal right to vote",
+   "embed": {
+    "slug": "universal-suffrage-lexical",
+    "query": {},
+    "image": null
+   },
+   "files": {
+    "html": {
+     "path": "figs/02 Universal right to vote.html",
+     "sha256": "29edf4c1e788d949551f4ee87097ae78378e375aa38ad3452450a61fc4d9aca2"
+    },
+    "csv": {
+     "path": "figs/02 Universal right to vote.csv",
+     "sha256": "8b13df614255af162756406a91f57c05a5697f1c1e04899db749acfb5ed00309"
+    },
+    "png": {
+     "path": "figs/02 Universal right to vote.png",
+     "sha256": "04beaed3641561d38157c9532ba240f75f7794f52654248b127a36d8b65a3c1b"
+    },
+    "txt": {
+     "path": "figs/02 Universal right to vote.txt",
+     "sha256": "d02d72567fc6dbf17aa904e0ddf058adf3770011bda717429b4c9ac8edccd6e1"
+    }
+   },
+   "view_url": "https://ourworldindata.org/grapher/universal-suffrage-lexical",
+   "csv_url": "https://ourworldindata.org/grapher/universal-suffrage-lexical.csv?csvType=filtered",
+   "png_url": "https://ourworldindata.org/grapher/universal-suffrage-lexical.png",
+   "data_available": true,
+   "config_title": "Universal right to vote",
+   "config_subtitle": "This does not consider elections not being held, informal restrictions, or legal restrictions based on age, criminal conviction, disability, and local residency.",
+   "chart_slug": "universal-suffrage-lexical",
+   "column_short_names": {
+    "Entity": "entity",
+    "Code": "code",
+    "Year": "year",
+    "Universal right to vote": "suffrage_lied"
+   }
+  },
+  {
+   "index": 3,
+   "name": "03 Countries by share of women in parliament",
+   "embed": {
+    "slug": "countries-by-share-of-women-in-parliament",
+    "query": {},
+    "image": null
+   },
+   "files": {
+    "html": {
+     "path": "figs/03 Countries by share of women in parliament.html",
+     "sha256": "ead5494d7cb28851ccc0223b14b29026326a1f4c5c0ca8d38710f21064eca081"
+    },
+    "csv": {
+     "path": "figs/03 Countries by share of women in parliament.csv",
+     "sha256": "2e3dbc9e273f74e164909eafa392c83520cb90e329a374de4b913fdbbbb27c5b"
+    },
+    "png": {
+     "path": "figs/03 Countries by share of women in parliament.png",
+     "sha256": "d6b8b5ccbcec1b5d1683d524080d7b26251761f985b34d6655edfb2126a6e53e"
+    },
+    "txt": {
+     "path": "figs/03 Countries by share of women in parliament.txt",
+     "sha256": "26e92bbaf082fd3ea277b6ce6928fe2f775330cb57708a08368e82079c62588d"
+    }
+   },
+   "view_url": "https://ourworldindata.org/grapher/countries-by-share-of-women-in-parliament",
+   "csv_url": "https://ourworldindata.org/grapher/countries-by-share-of-women-in-parliament.csv?csvType=filtered",
+   "png_url": "https://ourworldindata.org/grapher/countries-by-share-of-women-in-parliament.png",
+   "data_available": true,
+   "config_title": "Countries by share of women in parliament",
+   "config_subtitle": "Percentage of seats in lower or single chamber of the legislature held by women.",
+   "chart_slug": "countries-by-share-of-women-in-parliament",
+   "column_short_names": {
+    "Entity": "entity",
+    "Code": "code",
+    "Year": "year",
+    "No women": "num_countries_wom_parl__category_0pct_women",
+    "Less than 10% women": "num_countries_wom_parl__category_0_10pct_women",
+    "10 - 20% women": "num_countries_wom_parl__category_10_20pct_women",
+    "20 - 30% women": "num_countries_wom_parl__category_20_30pct_women",
+    "30 - 40% women": "num_countries_wom_parl__category_30_40pct_women",
+    "40 - 50% women": "num_countries_wom_parl__category_40_50pct_women",
+    "50% or more women": "num_countries_wom_parl__category_50pctplus_women"
+   }
+  },
+  {
+   "index": 4,
+   "name": "04 Share of women in parliament",
+   "embed": {
+    "slug": "share-of-women-in-parliament",
+    "query": {},
+    "image": null
+   },
+   "files": {
+    "html": {
+     "path": "figs/04 Share of women in parliament.html",
+     "sha256": "8ab8af30cbc1eeafd9806ac1d1ca22acf70041399e4ec30495bd20393770e080"
+    },
+    "csv": {
+     "path": "figs/04 Share of women in parliament.csv",
+     "sha256": "f8c58a23686407a815970ab569be2f1246faf8d26d91ddc39788563d23ce9a91"
+    },
+    "png": {
+     "path": "figs/04 Share of women in parliament.png",
+     "sha256": "06cb058b26878f775ddc33a0b39934a76ea59b3b96fe4d3cf8b4b9957acae487"
+    },
+    "txt": {
+     "path": "figs/04 Share of women in parliament.txt",
+     "sha256": "a0b26da74f2e822e898555af8e4c5211f491254ad6a3ee051d011128d460facf"
+    }
+   },
+   "view_url": "https://ourworldindata.org/grapher/share-of-women-in-parliament",
+   "csv_url": "https://ourworldindata.org/grapher/share-of-women-in-parliament.csv?csvType=filtered",
+   "png_url": "https://ourworldindata.org/grapher/share-of-women-in-parliament.png",
+   "data_available": true,
+   "config_title": "Share of women in parliament",
+   "config_subtitle": "Percentage of seats in lower or single chamber of the legislature held by women.",
+   "chart_slug": "share-of-women-in-parliament",
+   "column_short_names": {
+    "Entity": "entity",
+    "Code": "code",
+    "Year": "year",
+    "Lower chamber female legislators": "wom_parl_vdem__estimate_best",
+    "World region according to OWID": "owid_region"
+   }
+  },
+  {
+   "index": 5,
+   "name": "05 image",
+   "embed": {
+    "slug": null,
+    "query": {},
+    "image": "https://ourworldindata.org/cdn-cgi/imagedelivery/qLq-8BTgXU8yG0N6HnOy8g/df0b4108-06ea-4040-2885-64afd4439a00/w=5032"
+   },
+   "files": {
+    "html": {
+     "path": "figs/05 image.html",
+     "sha256": "ec5c8a9881c301b563eb2a52ff02c2f14624b959cf8b02b1a2501c1aebba021d"
+    },
+    "txt": {
+     "path": "figs/05 image.txt",
+     "sha256": "90d13799686f40ff2b4eb5d193fb1a09af766be8fbfd94c9bd35ade5403aa60f"
+    }
+   },
+   "data_available": false
+  },
+  {
+   "index": 6,
+   "name": "06 Share of countries by gender of the chief executive",
+   "embed": {
+    "slug": "share-of-countries-by-gender-of-the-chief-executive",
+    "query": {},
+    "image": null
+   },
+   "files": {
+    "html": {
+     "path": "figs/06 Share of countries by gender of the chief executive.html",
+     "sha256": "9f8fb7e3d170618cf86632102727d99d3751ee0142a634eb6528a86d4720820c"
+    },
+    "csv": {
+     "path": "figs/06 Share of countries by gender of the chief executive.csv",
+     "sha256": "43c675277af63f611c495a3674127d3de862ad085740b7fc016bf0a93baea24e"
+    },
+    "png": {
+     "path": "figs/06 Share of countries by gender of the chief executive.png",
+     "sha256": "ae4166545e237aa5861fbb8bfd0b4ead085f0f85139727d484b3a564f0380c38"
+    },
+    "txt": {
+     "path": "figs/06 Share of countries by gender of the chief executive.txt",
+     "sha256": "1c5b3e6835662616d99ec0139a19285ac6574c5784d64710029eb4863a1c261a"
+    }
+   },
+   "view_url": "https://ourworldindata.org/grapher/share-of-countries-by-gender-of-the-chief-executive",
+   "csv_url": "https://ourworldindata.org/grapher/share-of-countries-by-gender-of-the-chief-executive.csv?csvType=filtered",
+   "png_url": "https://ourworldindata.org/grapher/share-of-countries-by-gender-of-the-chief-executive.png",
+   "data_available": true,
+   "config_title": "Share of countries by gender of the chief executive",
+   "config_subtitle": "\"Chief executive\" is defined here as the head of state or the head of government, whoever has more power over the appointment and dismissal of cabinet ministers.",
+   "chart_slug": "share-of-countries-by-gender-of-the-chief-executive",
+   "column_short_names": {
+    "Entity": "entity",
+    "Code": "code",
+    "Year": "year",
+    "Man is chief executive": "num_countries_hoe__category_man",
+    "Woman is chief executive": "num_countries_hoe__category_woman"
+   }
+  },
+  {
+   "index": 7,
+   "name": "07 Gender of the chief executive",
+   "embed": {
+    "slug": "gender-of-chief-executive",
+    "query": {},
+    "image": null
+   },
+   "files": {
+    "html": {
+     "path": "figs/07 Gender of the chief executive.html",
+     "sha256": "b90647a4b331cc33ad0e89dbfd9ac684a46ccae807496a5cfeb04f855c3d9b59"
+    },
+    "csv": {
+     "path": "figs/07 Gender of the chief executive.csv",
+     "sha256": "399a01326a466aead4e6f4d5cd47ff0a46be6d4c7069474360734dd29df8083b"
+    },
+    "png": {
+     "path": "figs/07 Gender of the chief executive.png",
+     "sha256": "0f525f7d073493f2d2e0ab5d7b045f0819222a809798ce116b67fb95b23b2dd4"
+    },
+    "txt": {
+     "path": "figs/07 Gender of the chief executive.txt",
+     "sha256": "87548fa16f950fe342ae5966db74245d010505ce0b0a7cc2ba7fb2caf11253c2"
+    }
+   },
+   "view_url": "https://ourworldindata.org/grapher/gender-of-chief-executive",
+   "csv_url": "https://ourworldindata.org/grapher/gender-of-chief-executive.csv?csvType=filtered",
+   "png_url": "https://ourworldindata.org/grapher/gender-of-chief-executive.png",
+   "data_available": true,
+   "config_title": "Gender of the chief executive",
+   "config_subtitle": "\"Chief executive\" is defined here as the head of state or the head of government, whoever has more power over the appointment and dismissal of cabinet ministers.",
+   "chart_slug": "gender-of-chief-executive",
+   "column_short_names": {
+    "Entity": "entity",
+    "Code": "code",
+    "Year": "year",
+    "Woman chief executive (31st December)": "wom_hoe_vdem"
+   }
+  }
+ ]
+}

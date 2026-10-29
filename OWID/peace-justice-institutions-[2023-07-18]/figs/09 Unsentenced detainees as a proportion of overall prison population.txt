@@ -1,0 +1,12 @@
+Figure 09: 09 Unsentenced detainees as a proportion of overall prison population
+Article: Promote just, peaceful and inclusive societies (2023-07-18)
+
+Title: Unsentenced detainees as a proportion of overall prison population
+Subtitle: People held in detention who have not yet been sentenced as a percentage of all people held in detention.
+Note: 
+Source: United Nations Office on Drugs and Crime
+Units: %
+Chart: https://ourworldindata.org/grapher/unsentenced-detainees-as-proportion-of-prison-population
+
+Text before the figure: Target: “Promote the rule of law at the national and international levels and ensure equal access to justice for all” across all countries by 2030.
+Text after the figure: ### SDG Indicator 16.3.3 Dispute resolution

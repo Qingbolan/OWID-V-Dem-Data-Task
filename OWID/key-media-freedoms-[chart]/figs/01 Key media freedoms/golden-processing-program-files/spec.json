@@ -1,0 +1,92 @@
+{
+ "reproducible": true,
+ "program": "golden.vdem_pipeline",
+ "chart_slug": "key-media-freedoms",
+ "view": "https://ourworldindata.org/grapher/key-media-freedoms",
+ "columns": [
+  "No government censorship of the media",
+  "No journalist harassment",
+  "No self-censorship by the media",
+  "No media bias"
+ ],
+ "solution_columns": [
+  "No government censorship of the media",
+  "No journalist harassment",
+  "No self-censorship by the media",
+  "No media bias"
+ ],
+ "output_precision": {
+  "No government censorship of the media": 3,
+  "No journalist harassment": 3,
+  "No self-censorship by the media": 3,
+  "No media bias": 3
+ },
+ "sources": {
+  "No government censorship of the media": {
+   "table": "vdem_multi_with_regions",
+   "column": "v2mecenefm",
+   "filter": {
+    "estimate": "best"
+   },
+   "short_name": "v2mecenefm__estimate_best",
+   "gold_index": 3
+  },
+  "No journalist harassment": {
+   "table": "vdem_multi_with_regions",
+   "column": "v2meharjrn",
+   "filter": {
+    "estimate": "best"
+   },
+   "short_name": "v2meharjrn__estimate_best",
+   "gold_index": 4
+  },
+  "No self-censorship by the media": {
+   "table": "vdem_multi_with_regions",
+   "column": "v2meslfcen",
+   "filter": {
+    "estimate": "best"
+   },
+   "short_name": "v2meslfcen__estimate_best",
+   "gold_index": 5
+  },
+  "No media bias": {
+   "table": "vdem_multi_with_regions",
+   "column": "v2mebias",
+   "filter": {
+    "estimate": "best"
+   },
+   "short_name": "v2mebias__estimate_best",
+   "gold_index": 6
+  }
+ },
+ "gold_column_index": {
+  "No government censorship of the media": 3,
+  "No journalist harassment": 4,
+  "No self-censorship by the media": 5,
+  "No media bias": 6
+ },
+ "entity_mapping": "data/reference/owid_etl/vdem/vdem.countries.json",
+ "compare": {
+  "No government censorship of the media": {
+   "abs": 0.001,
+   "rel": 1e-06
+  },
+  "No journalist harassment": {
+   "abs": 0.001,
+   "rel": 1e-06
+  },
+  "No self-censorship by the media": {
+   "abs": 0.001,
+   "rel": 1e-06
+  },
+  "No media bias": {
+   "abs": 0.001,
+   "rel": 1e-06
+  }
+ },
+ "encodings": {},
+ "scale": {},
+ "stack_relative": false,
+ "time_tolerance": 0,
+ "not_compared": {}
+}

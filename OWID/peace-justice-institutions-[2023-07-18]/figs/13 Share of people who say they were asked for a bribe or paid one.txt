@@ -1,0 +1,12 @@
+Figure 13: 13 Share of people who say they were asked for a bribe or paid one
+Article: Promote just, peaceful and inclusive societies (2023-07-18)
+
+Title: Share of people who say they were asked for a bribe or paid one
+Subtitle: Share of respondents who report having contact with a public official in the past 12 months and paying or being asked to pay a [bribe](#dod:bribery).
+Note: 
+Source: United Nations Office on Drugs and Crime
+Units: %
+Chart: https://ourworldindata.org/grapher/bribery-prevalence-un
+
+Text before the figure: More research: Further data and research can be found at the Our World in Data topic page on Corruption .
+Text after the figure: ### SDG Indicator 16.5.2 Bribery in business

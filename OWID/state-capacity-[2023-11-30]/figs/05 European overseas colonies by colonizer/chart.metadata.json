@@ -1,0 +1,39 @@
+{
+ "chart": {
+  "title": "European overseas colonies by colonizer",
+  "subtitle": "Only countries that are independent today are considered.",
+  "citation": "Bastian Becker (2023)",
+  "originalChartUrl": "https://ourworldindata.org/grapher/european-overseas-colonies-by-colonizer",
+  "selection": [
+   "Belgium",
+   "France",
+   "Germany",
+   "Italy",
+   "Netherlands",
+   "Portugal",
+   "Spain",
+   "United Kingdom"
+  ]
+ },
+ "columns": {
+  "Number of colonies": {
+   "titleShort": "Number of colonies",
+   "titleLong": "Number of colonies",
+   "descriptionShort": "Total number of overseas colonies per year colonized by an European colonial power, between Belgium, United Kingdom, France, Germany, Netherlands, Portugal, Spain, and Italy. Colonies are defined in terms of contemporary nation states: along current independent countries and their borders.\n",
+   "descriptionProcessing": "This is the count of countries each European colonial power colonized each year. Colonized countries or countries not colonized show a null value.\n\nA total for each year is estimated with the country (entity) \"World\".\n\nYears are defined from last date aggregations available in the Colonial Dates Dataset. This means that when sources differ, years of colonization are defined from the last date between them. This is different from mean date aggregations (also available), which averages the dates of colonization across the original sources.\n\nYears have been expanded to show the full range of years in the dataset, from 1462 to 2022. The original dataset only includes the years where a country was colonized.\n\n",
+   "shortUnit": "",
+   "unit": "countries",
+   "timespan": "1462-2022",
+   "type": "Integer",
+   "conversionFactor": 1,
+   "owidVariableId": 814886,
+   "shortName": "total_colonies",
+   "lastUpdated": "2023-09-18",
+   "nextUpdate": "2026-11-29",
+   "citationShort": "Bastian Becker (2023); Gapminder, Population v7 (2022) – with major processing by Our World in Data",
+   "citationLong": "Bastian Becker (2023); Gapminder, Population v7 (2022) – with major processing by Our World in Data. “Number of colonies” [dataset]. Bastian Becker, “Colonial Dates Dataset (COLDAT) 3.0”; Gapminder, “Population v7” [original data].",
+   "fullMetadata": "https://api.ourworldindata.org/v1/indicators/814886.metadata.json"
+  }
+ },
+ "dateDownloaded": "2026-10-29"
+}

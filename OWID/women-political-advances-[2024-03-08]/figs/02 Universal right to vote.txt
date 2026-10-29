@@ -1,0 +1,12 @@
+Figure 02: 02 Universal right to vote
+Article: Women have made major advances in politics — but the world is still far from equal (2024-03-08)
+
+Title: Universal right to vote
+Subtitle: This does not consider elections not being held, informal restrictions, or legal restrictions based on age, criminal conviction, disability, and local residency.
+Note: 
+Source: Lexical Index (2026)
+Units: 
+Chart: https://ourworldindata.org/grapher/universal-suffrage-lexical
+
+Text before the figure: On this map, you can see the voting rights in each country. You can explore how each country changed over time by moving the time slider.
+Text after the figure: # The share of women in parliament has increased a lot in many countries

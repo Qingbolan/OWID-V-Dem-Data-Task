@@ -1,0 +1,55 @@
+{
+ "id": 6425,
+ "map": {
+  "colorScale": {},
+  "timeTolerance": 5
+ },
+ "slug": "share-or-agricultural-population-with-land-ownership-rights-by-sex",
+ "title": "Share of agricultural population with land rights, by sex",
+ "xAxis": {
+  "min": 0
+ },
+ "yAxis": {
+  "min": 0
+ },
+ "$schema": "https://files.ourworldindata.org/schemas/grapher-schema.011.json",
+ "minTime": "latest",
+ "version": 22,
+ "subtitle": "The agricultural population refers to the number of adult individuals living in a household where at least one person operates land for agricultural purposes or raises livestock. Secure tenure rights over land include agricultural land ownership and the right to sell or bequeath agricultural land.",
+ "originUrl": "/economic-inequality-by-gender",
+ "chartTypes": [
+  "ScatterPlot"
+ ],
+ "dimensions": [
+  {
+   "display": {
+    "name": "Male population with agricultural land rights",
+    "tolerance": 5
+   },
+   "property": "y",
+   "variableId": 1305147
+  },
+  {
+   "display": {
+    "name": "Female population with agricultural land rights",
+    "tolerance": 5
+   },
+   "property": "x",
+   "variableId": 1305146
+  },
+  {
+   "property": "size",
+   "variableId": 953899
+  },
+  {
+   "property": "color",
+   "variableId": 900801
+  }
+ ],
+ "isPublished": true,
+ "comparisonLines": [
+  {
+   "yEquals": "x"
+  }
+ ]
+}

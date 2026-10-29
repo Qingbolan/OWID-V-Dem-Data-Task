@@ -1,0 +1,41 @@
+{
+ "reproducible": true,
+ "program": "golden.vdem_pipeline",
+ "chart_slug": "rigorous-and-impartial-public-administration-score",
+ "view": "https://ourworldindata.org/grapher/rigorous-and-impartial-public-administration-score",
+ "columns": [
+  "Rigorous and impartial public administration"
+ ],
+ "solution_columns": [
+  "Rigorous and impartial public administration"
+ ],
+ "output_precision": {
+  "Rigorous and impartial public administration": 3
+ },
+ "sources": {
+  "Rigorous and impartial public administration": {
+   "table": "vdem_multi_with_regions",
+   "column": "public_admin_vdem",
+   "filter": {
+    "estimate": "best"
+   },
+   "short_name": "public_admin_vdem__estimate_best",
+   "gold_index": 3
+  }
+ },
+ "gold_column_index": {
+  "Rigorous and impartial public administration": 3
+ },
+ "entity_mapping": "data/reference/owid_etl/vdem/vdem.countries.json",
+ "compare": {
+  "Rigorous and impartial public administration": {
+   "abs": 0.001,
+   "rel": 1e-06
+  }
+ },
+ "encodings": {},
+ "scale": {},
+ "stack_relative": false,
+ "time_tolerance": 0,
+ "not_compared": {}
+}

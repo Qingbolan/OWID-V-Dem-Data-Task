@@ -1,0 +1,56 @@
+{
+ "title": "Share of countries by gender of the head of state",
+ "url": "https://ourworldindata.org/grapher/share-of-countries-by-gender-of-the-head-of-state",
+ "date_published": null,
+ "chart_page": true,
+ "authors": [],
+ "retrieved_at": "2026-10-29T17:45:27.251410+00:00",
+ "materialised_at": "2026-10-29T17:45:27.251418+00:00",
+ "source_original_sha256": "adef4a180823cf024188faaf4af1a7ee40a7940a0d16b3e2e655cc2a788b6a33",
+ "offline_snapshot": {
+  "page": "source.html",
+  "assets": "source_files/",
+  "assets_manifest": "source_files/manifest.json",
+  "asset_count": 73,
+  "removed": "all <script> elements except application/ld+json"
+ },
+ "figures": [
+  {
+   "index": 1,
+   "name": "01 Share of countries by gender of the head of state",
+   "embed": {
+    "slug": "share-of-countries-by-gender-of-the-head-of-state",
+    "query": {},
+    "image": null
+   },
+   "view_url": "https://ourworldindata.org/grapher/share-of-countries-by-gender-of-the-head-of-state",
+   "csv_url": "https://ourworldindata.org/grapher/share-of-countries-by-gender-of-the-head-of-state.csv?csvType=filtered",
+   "png_url": "https://ourworldindata.org/grapher/share-of-countries-by-gender-of-the-head-of-state.png",
+   "data_available": true,
+   "config_title": "Share of countries by gender of the head of state",
+   "config_subtitle": "The head of state is the chief public representative of their country.",
+   "files": {
+    "txt": {
+     "path": "figs/01 Share of countries by gender of the head of state.txt",
+     "sha256": "72171379e150e605e3a93ae52a0da85da3b40db45966db5c8be7cd2262ed0777"
+    },
+    "csv": {
+     "path": "figs/01 Share of countries by gender of the head of state.csv",
+     "sha256": "b3ac2637a018dc1528674ccb6c8fac7a4d3fec4c4d7e8561234cdfd1d72b7e26"
+    },
+    "png": {
+     "path": "figs/01 Share of countries by gender of the head of state.png",
+     "sha256": "2d4d56fca28e6935a80b0d160fd5f392b5b109db0df012ee90f76fd33c1de0e0"
+    }
+   },
+   "chart_slug": "share-of-countries-by-gender-of-the-head-of-state",
+   "column_short_names": {
+    "Entity": "entity",
+    "Code": "code",
+    "Year": "year",
+    "Man is head of state": "num_countries_hos__category_man",
+    "Woman is head of state": "num_countries_hos__category_woman"
+   }
+  }
+ ]
+}

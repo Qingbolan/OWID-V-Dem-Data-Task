@@ -1,0 +1,18 @@
+{
+ "figure": "03 Women's Political Empowerment Index",
+ "checked_at": "2026-10-29T18:06:16.927074+00:00",
+ "status": "match",
+ "gold_rows": 237,
+ "gold_rows_missing_in_reference": 0,
+ "mismatched_cells": {
+  "Women's Political Empowerment Index": 0
+ },
+ "tolerance": {
+  "Women's Political Empowerment Index": {
+   "abs": 1e-09,
+   "rel": 1e-06
+  }
+ },
+ "first_mismatches": [],
+ "program": "golden.vdem_pipeline"
+}

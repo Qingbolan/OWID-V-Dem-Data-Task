@@ -1,0 +1,30 @@
+{
+ "chart": {
+  "title": "Systems tracking and making public allocations for gender equality and women's empowerment",
+  "citation": "Data from multiple sources compiled by the UN",
+  "originalChartUrl": "https://ourworldindata.org/grapher/systems-track-gender-equality",
+  "selection": [
+   "World",
+   "Latin America and the Caribbean (UN SDG)"
+  ]
+ },
+ "columns": {
+  "5.c.1 - Proportion of countries with systems to track and make public allocations for gender equality and women's empowerment (%) - SG_GEN_EQPWN": {
+   "titleShort": "Proportion of countries with systems to track and make public allocations for gender equality and women's empowerment (%)",
+   "titleLong": "Proportion of countries with systems to track and make public allocations for gender equality and women's empowerment (%)",
+   "descriptionShort": "Proportion of countries with systems to track and make public allocations for gender equality and women's empowerment (%).",
+   "shortUnit": "%",
+   "unit": "%",
+   "timespan": "2018-2025",
+   "type": "Integer",
+   "owidVariableId": 1305152,
+   "shortName": "_5_c_1__sg_gen_eqpwn",
+   "lastUpdated": "2026-07-31",
+   "nextUpdate": "2027-07-31",
+   "citationShort": "Data from multiple sources compiled by the UN – processed by Our World in Data",
+   "citationLong": "Data from multiple sources compiled by the UN – processed by Our World in Data. “Proportion of countries with systems to track and make public allocations for gender equality and women's empowerment (%)” [dataset]. Data from multiple sources compiled by the UN, “Data are derived from country reporting on 13 binary questions on questionnaire, collected through the Global Partneship for Effective Development Cooperation” [original data].",
+   "fullMetadata": "https://api.ourworldindata.org/v1/indicators/1305152.metadata.json"
+  }
+ },
+ "dateDownloaded": "2026-10-29"
+}

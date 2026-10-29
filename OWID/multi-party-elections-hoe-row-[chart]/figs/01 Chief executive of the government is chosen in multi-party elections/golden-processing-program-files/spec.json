@@ -1,0 +1,41 @@
+{
+ "reproducible": true,
+ "program": "golden.vdem_pipeline",
+ "chart_slug": "multi-party-elections-hoe-row",
+ "view": "https://ourworldindata.org/grapher/multi-party-elections-hoe-row",
+ "columns": [
+  "Multi-party elections for government's chief executive"
+ ],
+ "solution_columns": [
+  "Multi-party elections for government's chief executive"
+ ],
+ "output_precision": {
+  "Multi-party elections for government's chief executive": 0
+ },
+ "sources": {
+  "Multi-party elections for government's chief executive": {
+   "table": "vdem_multi_without_regions",
+   "column": "electmulpar_hoe_row_owid",
+   "filter": {
+    "estimate": "best"
+   },
+   "short_name": "electmulpar_hoe_row_owid__estimate_best",
+   "gold_index": 3
+  }
+ },
+ "gold_column_index": {
+  "Multi-party elections for government's chief executive": 3
+ },
+ "entity_mapping": "data/reference/owid_etl/vdem/vdem.countries.json",
+ "compare": {
+  "Multi-party elections for government's chief executive": {
+   "abs": 1.0,
+   "rel": 1e-06
+  }
+ },
+ "encodings": {},
+ "scale": {},
+ "stack_relative": false,
+ "time_tolerance": 0,
+ "not_compared": {}
+}

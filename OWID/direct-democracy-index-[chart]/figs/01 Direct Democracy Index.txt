@@ -1,0 +1,9 @@
+Figure 01: 01 Direct Democracy Index
+Article: none; source page is the chart page https://ourworldindata.org/grapher/direct-democracy-index
+
+Title: Direct Democracy Index
+Subtitle: Data by [V-Dem](#dod:v-dem). Expert estimates of the extent to which citizens can easily vote on specific issues themselves in popular initiatives, referendums, and plebiscites. The index ranges from 0 to 1 (easiest).
+Note: 
+Source: V-Dem (2026)
+Units: 
+Chart: https://ourworldindata.org/grapher/direct-democracy-index

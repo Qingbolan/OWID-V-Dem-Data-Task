@@ -1,0 +1,62 @@
+{
+ "chart": {
+  "title": "Share of victims who reported crime to the police",
+  "subtitle": "Number of victims in the previous 12 months who reported the crime to competent authorities, divided by the number of all victims.",
+  "citation": "United Nations Office on Drugs and Crime",
+  "originalChartUrl": "https://ourworldindata.org/grapher/share-of-victims-who-reported-crime-to-the-police",
+  "selection": [
+   "United States"
+  ]
+ },
+ "columns": {
+  "16.3.1 - Police reporting rate for robbery in the previous 12 months, by sex (%) - VC_PRR_ROBB - Both sexes": {
+   "titleShort": "Robbery",
+   "titleLong": "Robbery",
+   "descriptionShort": "Police reporting rate for robbery in the previous 12 months, by sex (%).",
+   "shortUnit": "%",
+   "unit": "%",
+   "timespan": "2004-2024",
+   "type": "Numeric",
+   "owidVariableId": 1301119,
+   "shortName": "_16_3_1__vc_prr_robb__both_sexes",
+   "lastUpdated": "2026-07-31",
+   "nextUpdate": "2027-07-31",
+   "citationShort": "United Nations Office on Drugs and Crime – processed by Our World in Data",
+   "citationLong": "United Nations Office on Drugs and Crime – processed by Our World in Data. “Robbery” [dataset]. United Nations Office on Drugs and Crime, “Data from multiple sources” [original data].",
+   "fullMetadata": "https://api.ourworldindata.org/v1/indicators/1301119.metadata.json"
+  },
+  "16.3.1 - Police reporting rate for sexual assault in the previous 12 months, by sex (%) - VC_PRR_SEXV - Both sexes": {
+   "titleShort": "Sexual assault",
+   "titleLong": "Sexual assault",
+   "descriptionShort": "Police reporting rate for sexual assault in the previous 12 months, by sex (%).",
+   "shortUnit": "%",
+   "unit": "%",
+   "timespan": "2004-2024",
+   "type": "Numeric",
+   "owidVariableId": 1301125,
+   "shortName": "_16_3_1__vc_prr_sexv__both_sexes",
+   "lastUpdated": "2026-07-31",
+   "nextUpdate": "2027-07-31",
+   "citationShort": "United Nations Office on Drugs and Crime – processed by Our World in Data",
+   "citationLong": "United Nations Office on Drugs and Crime – processed by Our World in Data. “Sexual assault” [dataset]. United Nations Office on Drugs and Crime, “Data from multiple sources” [original data].",
+   "fullMetadata": "https://api.ourworldindata.org/v1/indicators/1301125.metadata.json"
+  },
+  "16.3.1 - Police reporting rate for physical assault in the previous 12 months, by sex (%) - VC_PRR_PHYV - Both sexes": {
+   "titleShort": "Physical assault",
+   "titleLong": "Physical assault",
+   "descriptionShort": "Police reporting rate for physical assault in the previous 12 months, by sex (%).",
+   "shortUnit": "%",
+   "unit": "%",
+   "timespan": "2010-2024",
+   "type": "Numeric",
+   "owidVariableId": 1301113,
+   "shortName": "_16_3_1__vc_prr_phyv__both_sexes",
+   "lastUpdated": "2026-07-31",
+   "nextUpdate": "2027-07-31",
+   "citationShort": "United Nations Office on Drugs and Crime – processed by Our World in Data",
+   "citationLong": "United Nations Office on Drugs and Crime – processed by Our World in Data. “Physical assault” [dataset]. United Nations Office on Drugs and Crime, “Data from multiple sources” [original data].",
+   "fullMetadata": "https://api.ourworldindata.org/v1/indicators/1301113.metadata.json"
+  }
+ },
+ "dateDownloaded": "2026-10-29"
+}

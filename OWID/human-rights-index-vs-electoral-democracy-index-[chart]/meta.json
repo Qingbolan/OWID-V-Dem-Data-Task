@@ -1,0 +1,57 @@
+{
+ "title": "Human Rights Index vs. Electoral Democracy Index",
+ "url": "https://ourworldindata.org/grapher/human-rights-index-vs-electoral-democracy-index",
+ "date_published": null,
+ "chart_page": true,
+ "authors": [],
+ "retrieved_at": "2026-10-29T17:20:40.644470+00:00",
+ "materialised_at": "2026-10-29T17:20:40.644478+00:00",
+ "source_original_sha256": "767a9df086e2c970a20bd3afcbf5d57ca46b9d532e993e8f46222839670ce47e",
+ "offline_snapshot": {
+  "page": "source.html",
+  "assets": "source_files/",
+  "assets_manifest": "source_files/manifest.json",
+  "asset_count": 73,
+  "removed": "all <script> elements except application/ld+json"
+ },
+ "figures": [
+  {
+   "index": 1,
+   "name": "01 Human Rights Index vs. Electoral Democracy Index",
+   "embed": {
+    "slug": "human-rights-index-vs-electoral-democracy-index",
+    "query": {},
+    "image": null
+   },
+   "view_url": "https://ourworldindata.org/grapher/human-rights-index-vs-electoral-democracy-index",
+   "csv_url": "https://ourworldindata.org/grapher/human-rights-index-vs-electoral-democracy-index.csv?csvType=filtered",
+   "png_url": "https://ourworldindata.org/grapher/human-rights-index-vs-electoral-democracy-index.png",
+   "data_available": true,
+   "config_title": "Human Rights Index vs. Electoral Democracy Index",
+   "config_subtitle": "The indices are by [V-Dem](#dod:v-dem), based on expert estimates, and range from 0 to 1 (most rights/most democratic).",
+   "files": {
+    "txt": {
+     "path": "figs/01 Human Rights Index vs. Electoral Democracy Index.txt",
+     "sha256": "93a6c4d2ce07b929678ac1401310909220c1593f7282870b7887282f513fbbd8"
+    },
+    "csv": {
+     "path": "figs/01 Human Rights Index vs. Electoral Democracy Index.csv",
+     "sha256": "bf0d7159483ab3cee2ac9fd8e64457aa2b4098c996782d58c17f6f97b4fa0abc"
+    },
+    "png": {
+     "path": "figs/01 Human Rights Index vs. Electoral Democracy Index.png",
+     "sha256": "58eefb4fb3c921d6ba7900f99d809851684dd2e8f67794b34082d2f0bf9295e7"
+    }
+   },
+   "chart_slug": "human-rights-index-vs-electoral-democracy-index",
+   "column_short_names": {
+    "Entity": "entity",
+    "Code": "code",
+    "Year": "year",
+    "Human Rights Index": "civ_libs_vdem__estimate_best",
+    "Electoral Democracy Index": "electdem_vdem__estimate_best",
+    "World region according to OWID": "owid_region"
+   }
+  }
+ ]
+}

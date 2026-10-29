@@ -1,0 +1,41 @@
+{
+ "reproducible": true,
+ "program": "golden.vdem_pipeline",
+ "chart_slug": "judicial-corruption-score",
+ "view": "https://ourworldindata.org/grapher/judicial-corruption-score",
+ "columns": [
+  "Judicial Corruption Score"
+ ],
+ "solution_columns": [
+  "Judicial Corruption Score"
+ ],
+ "output_precision": {
+  "Judicial Corruption Score": 3
+ },
+ "sources": {
+  "Judicial Corruption Score": {
+   "table": "vdem_multi_with_regions",
+   "column": "corr_jud_vdem",
+   "filter": {
+    "estimate": "best"
+   },
+   "short_name": "corr_jud_vdem__estimate_best",
+   "gold_index": 3
+  }
+ },
+ "gold_column_index": {
+  "Judicial Corruption Score": 3
+ },
+ "entity_mapping": "data/reference/owid_etl/vdem/vdem.countries.json",
+ "compare": {
+  "Judicial Corruption Score": {
+   "abs": 0.001,
+   "rel": 1e-06
+  }
+ },
+ "encodings": {},
+ "scale": {},
+ "stack_relative": false,
+ "time_tolerance": 0,
+ "not_compared": {}
+}

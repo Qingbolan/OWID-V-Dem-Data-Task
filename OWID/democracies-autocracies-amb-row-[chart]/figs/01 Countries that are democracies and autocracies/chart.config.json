@@ -1,0 +1,115 @@
+{
+ "id": 5701,
+ "note": "The share of closed autocracies increases a lot in 1900 because V-Dem covers many more countries since then, often colonies.",
+ "slug": "democracies-autocracies-amb-row",
+ "title": "Countries that are democracies and autocracies",
+ "$schema": "https://files.ourworldindata.org/schemas/grapher-schema.011.json",
+ "version": 57,
+ "subtitle": "Classification by [Lührmann et al. (2018)](#dod:regimes-of-the-world) based on expert estimates by [V-Dem](#dod:v-dem).",
+ "originUrl": "/democracy",
+ "stackMode": "relative",
+ "chartTypes": [
+  "StackedArea",
+  "StackedDiscreteBar"
+ ],
+ "dimensions": [
+  {
+   "display": {
+    "name": "Closed autocracies",
+    "color": "#d7191c"
+   },
+   "property": "y",
+   "variableId": 1209945
+  },
+  {
+   "display": {
+    "name": "Probably closed autocracies",
+    "color": "#e74731"
+   },
+   "property": "y",
+   "variableId": 1209944
+  },
+  {
+   "display": {
+    "name": "Probably electoral autocracy",
+    "color": "#f88e52"
+   },
+   "property": "y",
+   "variableId": 1209946
+  },
+  {
+   "display": {
+    "name": "Electoral autocracies",
+    "color": "#fdae61"
+   },
+   "property": "y",
+   "variableId": 1209938
+  },
+  {
+   "display": {
+    "name": " Probably electoral autocracy",
+    "color": "#f0cda5"
+   },
+   "property": "y",
+   "variableId": 1209948
+  },
+  {
+   "display": {
+    "name": " Probably electoral democracy",
+    "color": "#d0dcc1"
+   },
+   "property": "y",
+   "variableId": 1209950
+  },
+  {
+   "display": {
+    "name": "Electoral democracies",
+    "color": "#abd9e9"
+   },
+   "property": "y",
+   "variableId": 1209941
+  },
+  {
+   "display": {
+    "name": "Probably electoral democracy",
+    "color": "#8dc1dc"
+   },
+   "property": "y",
+   "variableId": 1209951
+  },
+  {
+   "display": {
+    "name": "Probably liberal democracy",
+    "color": "#5496c5"
+   },
+   "property": "y",
+   "variableId": 1209954
+  },
+  {
+   "display": {
+    "name": "Liberal democracies",
+    "color": "#2c7bb6"
+   },
+   "property": "y",
+   "variableId": 1209952
+  }
+ ],
+ "entityType": "region",
+ "isPublished": true,
+ "variantName": "Regimes of the World, including ambiguous regimes",
+ "entityTypePlural": "regions",
+ "relatedQuestions": [
+  {
+   "url": "https://ourworldindata.org/regimes-of-the-world-data",
+   "text": "The 'Regimes of the World' data: how do researchers measure democracy?"
+  }
+ ],
+ "hideRelativeToggle": false,
+ "selectedEntityNames": [
+  "World"
+ ],
+ "hideAnnotationFieldsInTitle": {
+  "time": true,
+  "changeInPrefix": true
+ }
+}

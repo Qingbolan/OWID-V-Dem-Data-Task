@@ -1,0 +1,12 @@
+Figure 01: 01 Legal frameworks addressing gender equality overall
+Article: Achieve gender equality and empower all women and girls (2023-07-18)
+
+Title: Legal frameworks addressing gender equality overall
+Subtitle: A higher percentage indicates stronger legislation.
+Note: 
+Source: UN Women
+Units: %
+Chart: https://ourworldindata.org/grapher/overarching-legal-frameworks-regarding-gender-equality
+
+Text before the figure: Equal rights to land ownership
+Text after the figure: ## Target 5.2 End all violence against and exploitation of women and girls

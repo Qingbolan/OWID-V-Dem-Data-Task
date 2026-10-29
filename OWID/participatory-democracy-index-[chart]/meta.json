@@ -1,0 +1,56 @@
+{
+ "title": "Participatory Democracy Index",
+ "url": "https://ourworldindata.org/grapher/participatory-democracy-index",
+ "date_published": null,
+ "chart_page": true,
+ "authors": [],
+ "retrieved_at": "2026-10-29T17:35:08.278481+00:00",
+ "materialised_at": "2026-10-29T17:35:08.278489+00:00",
+ "source_original_sha256": "2af25e9bfec1c1af68bfdf2c5ef34a22ad804742cffa7242d48063010b9f158c",
+ "offline_snapshot": {
+  "page": "source.html",
+  "assets": "source_files/",
+  "assets_manifest": "source_files/manifest.json",
+  "asset_count": 73,
+  "removed": "all <script> elements except application/ld+json"
+ },
+ "figures": [
+  {
+   "index": 1,
+   "name": "01 Participatory Democracy Index",
+   "embed": {
+    "slug": "participatory-democracy-index",
+    "query": {},
+    "image": null
+   },
+   "view_url": "https://ourworldindata.org/grapher/participatory-democracy-index",
+   "csv_url": "https://ourworldindata.org/grapher/participatory-democracy-index.csv?csvType=filtered",
+   "png_url": "https://ourworldindata.org/grapher/participatory-democracy-index.png",
+   "data_available": true,
+   "config_title": "Participatory Democracy Index",
+   "config_subtitle": "Data by [V-Dem](#dod:v-dem). Expert estimates of the extent of voting rights, the freedom and fairness of elections, freedoms of association and expression, and citizens being able to engage in regional and local government, civil society organizations, and direct democracy. The index ranges from 0 to 1 (most democratic).",
+   "files": {
+    "txt": {
+     "path": "figs/01 Participatory Democracy Index.txt",
+     "sha256": "f5fab4ab69ac32a7744947a713eba36a9d532a29949302beaefa1f1768d8479a"
+    },
+    "csv": {
+     "path": "figs/01 Participatory Democracy Index.csv",
+     "sha256": "09c35656e1c04fd63df37dd7811c9762cd002e416479826c8b6e308713ee19fc"
+    },
+    "png": {
+     "path": "figs/01 Participatory Democracy Index.png",
+     "sha256": "7aa0a23f0f3ae36d2cabc32e64e40b7ccad2d7e43ece0a76b6dc5c976bd197ab"
+    }
+   },
+   "chart_slug": "participatory-democracy-index",
+   "column_short_names": {
+    "Entity": "entity",
+    "Code": "code",
+    "Year": "year",
+    "Participatory democracy index": "participdem_vdem__estimate_best",
+    "World region according to OWID": "owid_region"
+   }
+  }
+ ]
+}

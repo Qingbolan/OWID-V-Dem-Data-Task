@@ -1,0 +1,45 @@
+{
+ "chart": {
+  "title": "Share of countries by gender of the chief executive",
+  "subtitle": "\"Chief executive\" is defined here as the head of state or the head of government, whoever has more power over the appointment and dismissal of cabinet ministers.",
+  "note": "This is recorded on December 31 of each year. When the head of state and head of government hold equal power, the head of government is considered the chief executive.",
+  "citation": "V-Dem (2026)",
+  "originalChartUrl": "https://ourworldindata.org/grapher/share-of-countries-by-gender-of-the-chief-executive",
+  "selection": [
+   "World"
+  ]
+ },
+ "columns": {
+  "Number of countries in which chief executive is a man": {
+   "titleShort": "Man is chief executive",
+   "titleLong": "Man is chief executive",
+   "descriptionProcessing": "We only count the countries that V-Dem covers in the given year. Where we impute a country's data from a historical entity it was part of, those imputed values are excluded from the count, because the country did not yet exist separately at the time.",
+   "unit": "countries",
+   "timespan": "1789-2025",
+   "type": "Integer",
+   "owidVariableId": 1209925,
+   "shortName": "num_countries_hoe__category_man",
+   "lastUpdated": "2026-03-17",
+   "nextUpdate": "2027-03-17",
+   "citationShort": "V-Dem (2026) – processed by Our World in Data",
+   "citationLong": "V-Dem (2026) – processed by Our World in Data. “Man is chief executive” [dataset]. V-Dem, “Democracy report v16” [original data].",
+   "fullMetadata": "https://api.ourworldindata.org/v1/indicators/1209925.metadata.json"
+  },
+  "Number of countries in which chief executive is a woman": {
+   "titleShort": "Woman is chief executive",
+   "titleLong": "Woman is chief executive",
+   "descriptionProcessing": "We only count the countries that V-Dem covers in the given year. Where we impute a country's data from a historical entity it was part of, those imputed values are excluded from the count, because the country did not yet exist separately at the time.",
+   "unit": "countries",
+   "timespan": "1789-2025",
+   "type": "Integer",
+   "owidVariableId": 1209928,
+   "shortName": "num_countries_hoe__category_woman",
+   "lastUpdated": "2026-03-17",
+   "nextUpdate": "2027-03-17",
+   "citationShort": "V-Dem (2026) – processed by Our World in Data",
+   "citationLong": "V-Dem (2026) – processed by Our World in Data. “Woman is chief executive” [dataset]. V-Dem, “Democracy report v16” [original data].",
+   "fullMetadata": "https://api.ourworldindata.org/v1/indicators/1209928.metadata.json"
+  }
+ },
+ "dateDownloaded": "2026-10-29"
+}

@@ -1,0 +1,6 @@
+{
+ "figure": "05 European overseas colonies by colonizer",
+ "checked_at": "2026-10-29T18:06:18.477219+00:00",
+ "status": "not_reproducible",
+ "reason": "the chart is not one of the V-Dem-only charts (data/reference/charts.json): it plots grapher/harvard/2023-09-18/colonial_dates_dataset"
+}

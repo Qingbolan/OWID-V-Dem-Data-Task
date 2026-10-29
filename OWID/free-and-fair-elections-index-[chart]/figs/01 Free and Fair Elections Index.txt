@@ -1,0 +1,9 @@
+Figure 01: 01 Free and Fair Elections Index
+Article: none; source page is the chart page https://ourworldindata.org/grapher/free-and-fair-elections-index
+
+Title: Free and Fair Elections Index
+Subtitle: Data by [V-Dem](#dod:v-dem). Expert estimates of the extent to which election violence, government intimidation, fraud, large irregularities, and vote buying are absent. The index ranges from 0 to 1 (most free and fair).
+Note: 
+Source: V-Dem (2026)
+Units: 
+Chart: https://ourworldindata.org/grapher/free-and-fair-elections-index

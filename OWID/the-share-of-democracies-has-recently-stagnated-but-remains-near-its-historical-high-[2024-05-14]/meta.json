@@ -1,0 +1,72 @@
+{
+ "title": "The share of democracies has recently stagnated but remains near its historical high",
+ "url": "https://ourworldindata.org/data-insights/the-share-of-democracies-has-recently-stagnated-but-remains-near-its-historical-high",
+ "date_published": "2024-05-14",
+ "authors": [
+  "Bastian Herre"
+ ],
+ "retrieved_at": "2026-10-29T15:15:14.215248+00:00",
+ "materialised_at": "2026-10-29T16:51:18.322278+00:00",
+ "source_original_sha256": "fab31b4ebde0b3cc9ac48c7d73a0d349d342efee506e5baf387de472388df8f5",
+ "offline_snapshot": {
+  "page": "source.html",
+  "assets": "source_files/",
+  "assets_manifest": "source_files/manifest.json",
+  "asset_count": 123,
+  "removed": "all <script> elements except application/ld+json"
+ },
+ "figures": [
+  {
+   "index": 1,
+   "name": "01 Countries that are democracies and autocracies, World, 1973-2023, relative",
+   "embed": {
+    "slug": null,
+    "query": {},
+    "image": "https://ourworldindata.org/cdn-cgi/imagedelivery/qLq-8BTgXU8yG0N6HnOy8g/68dda1a0-eba3-44ee-050a-702571df7700/w=2160"
+   },
+   "files": {
+    "html": {
+     "path": "figs/01 Countries that are democracies and autocracies, World, 1973-2023, relative.html",
+     "sha256": "f98c077bffb901a22044317f13c3959becabad338f5ba8580415d05fd6b66fde"
+    },
+    "csv": {
+     "path": "figs/01 Countries that are democracies and autocracies, World, 1973-2023, relative.csv",
+     "sha256": "64ffaaba0f0d478e4b56191afdc027275cf8d5bad702f8aded6db51e9c33aed0"
+    },
+    "png": {
+     "path": "figs/01 Countries that are democracies and autocracies, World, 1973-2023, relative.png",
+     "sha256": "36715490da1fc3ce9c97bfcea6373f422c3f9b92741ce1439dfa62479d65c9dd"
+    },
+    "txt": {
+     "path": "figs/01 Countries that are democracies and autocracies, World, 1973-2023, relative.txt",
+     "sha256": "91e873e313f46e0d0a7c13bbd26461e60ef5349fa3ed9dce6184be3c0ba4c5ad"
+    }
+   },
+   "scope": {
+    "entities": [
+     "World"
+    ]
+   },
+   "view_url": "https://ourworldindata.org/grapher/countries-democracies-autocracies-row?tab=chart&stackMode=relative&time=1973..2023&country=~OWID_WRL",
+   "csv_url": "https://ourworldindata.org/grapher/countries-democracies-autocracies-row.csv?csvType=filtered&tab=chart&stackMode=relative&time=1973..2023&country=~OWID_WRL",
+   "png_url": "https://ourworldindata.org/cdn-cgi/imagedelivery/qLq-8BTgXU8yG0N6HnOy8g/68dda1a0-eba3-44ee-050a-702571df7700/w=2160",
+   "data_available": true,
+   "static_image": true,
+   "identification": "The image is a 100% stacked area chart of the four regime types for the world from 1973 to 2023, source V-Dem (2024); the page links the chart countries-democracies-autocracies-row, shown here in relative mode. The ground truth is the chart's current data (decision 0003).",
+   "image_title": "Countries that are democracies and autocracies",
+   "image_subtitle": "Political regimes based on the classification by Lührmann et al. (2018) and the estimates by V-Dem's experts.",
+   "config_title": "Countries that are democracies and autocracies",
+   "config_subtitle": "Classification by [Lührmann et al. (2018)](#dod:regimes-of-the-world) based on expert estimates by [V-Dem](#dod:v-dem).",
+   "chart_slug": "countries-democracies-autocracies-row",
+   "column_short_names": {
+    "Entity": "entity",
+    "Code": "code",
+    "Year": "year",
+    "Closed autocracies": "num_countries_regime__category_closed_autocracy",
+    "Electoral autocracies": "num_countries_regime__category_electoral_autocracy",
+    "Electoral democracies": "num_countries_regime__category_electoral_democracy",
+    "Liberal democracies": "num_countries_regime__category_liberal_democracy"
+   }
+  }
+ ]
+}

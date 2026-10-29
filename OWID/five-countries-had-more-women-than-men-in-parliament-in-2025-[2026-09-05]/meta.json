@@ -1,0 +1,71 @@
+{
+ "title": "Five countries had more women than men in parliament in 2025",
+ "url": "https://ourworldindata.org/data-insights/five-countries-had-more-women-than-men-in-parliament-in-2025",
+ "date_published": "2026-09-05",
+ "authors": [
+  "Hannah Ritchie",
+  "Pablo Arriagada"
+ ],
+ "retrieved_at": "2026-10-29T15:15:08.021890+00:00",
+ "materialised_at": "2026-10-29T16:29:58.563680+00:00",
+ "source_original_sha256": "a1ea6b13fdaab06384be061f89733fc9650be440e6f690b0c9ccb5b00f1485b1",
+ "offline_snapshot": {
+  "page": "source.html",
+  "assets": "source_files/",
+  "assets_manifest": "source_files/manifest.json",
+  "asset_count": 127,
+  "removed": "all <script> elements except application/ld+json"
+ },
+ "figures": [
+  {
+   "index": 1,
+   "name": "01 Share of women in parliament, 2025 map",
+   "embed": {
+    "slug": null,
+    "query": {},
+    "image": "https://ourworldindata.org/cdn-cgi/imagedelivery/qLq-8BTgXU8yG0N6HnOy8g/0f31ea42-1299-4ea8-a5d1-1962d6362d00/w=1620"
+   },
+   "files": {
+    "html": {
+     "path": "figs/01 Share of women in parliament, 2025 map.html",
+     "sha256": "9d6a9604d8bbb8a43dde212f3908ea1224ae44b93ebea0c2b522e1298a341ef0"
+    },
+    "csv": {
+     "path": "figs/01 Share of women in parliament, 2025 map.csv",
+     "sha256": "349c7ca810d6e182f864e2c97a23f823497da923591a1d9c9e18693d78efaa6f"
+    },
+    "png": {
+     "path": "figs/01 Share of women in parliament, 2025 map.png",
+     "sha256": "21adc72ad50dc5778505e4aa63b7d0ec229dbe19307997779149840aa1fe5b7c"
+    },
+    "txt": {
+     "path": "figs/01 Share of women in parliament, 2025 map.txt",
+     "sha256": "e07af49bdee6cb74f956c9f1c1cb510c55b5435f8d4329f3df265957de287801"
+    }
+   },
+   "scope": {
+    "years": [
+     2025
+    ]
+   },
+   "view_url": "https://ourworldindata.org/grapher/share-of-women-in-parliament?tab=map&time=2025",
+   "csv_url": "https://ourworldindata.org/grapher/share-of-women-in-parliament.csv?csvType=filtered&tab=map&time=2025",
+   "png_url": "https://ourworldindata.org/cdn-cgi/imagedelivery/qLq-8BTgXU8yG0N6HnOy8g/0f31ea42-1299-4ea8-a5d1-1962d6362d00/w=1620",
+   "data_available": true,
+   "static_image": true,
+   "identification": "The image is a world map of the share of seats held by women in 2025, binned (no women, 1-25%, 25-50%, equal, more women), source V-Dem (2026); the page links the chart share-of-women-in-parliament, whose map shows that indicator; the labelled values (Rwanda 63.8%, Cuba 55.7%, Nicaragua 55.0%, Bolivia 50.8%, Mexico 50.2%, UAE 50%) are checked against the view's data.",
+   "image_title": "Five countries had more women than men in parliament in 2025",
+   "image_subtitle": "Based on the percentage of seats in the lower or single chamber of the legislature held by women.",
+   "config_title": "Share of women in parliament",
+   "config_subtitle": "Percentage of seats in lower or single chamber of the legislature held by women.",
+   "chart_slug": "share-of-women-in-parliament",
+   "column_short_names": {
+    "Entity": "entity",
+    "Code": "code",
+    "Year": "year",
+    "Lower chamber female legislators": "wom_parl_vdem__estimate_best",
+    "World region according to OWID": "owid_region"
+   }
+  }
+ ]
+}

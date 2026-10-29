@@ -1,0 +1,9 @@
+Figure 01: 01 Media Corruption Score
+Article: none; source page is the chart page https://ourworldindata.org/grapher/media-corruption-score
+
+Title: Media Corruption Score
+Subtitle: Data by [V-Dem](#dod:v-dem). Expert estimates of the extent to which journalists, publishers, and broadcasters accept payments to modify news content and go unpunished. Higher scores mean less corruption. A score of 0 is approximately the average across all countries and years.
+Note: 
+Source: V-Dem (2026)
+Units: 
+Chart: https://ourworldindata.org/grapher/media-corruption-score

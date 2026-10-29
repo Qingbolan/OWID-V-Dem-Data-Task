@@ -1,0 +1,12 @@
+Figure 01: 01 Human Rights Index
+Article: Human Rights (2016-06-12)
+
+Title: Human Rights Index
+Subtitle: Data by [V-Dem](#dod:v-dem). Expert estimates of the extent to which people are free from government torture, political killings, and forced labor, have property rights, and enjoy the freedoms of movement, religion, expression, and association. The index ranges from 0 to 1 (most rights).
+Note: 
+Source: V-Dem (2026)
+Units: 
+Chart: https://ourworldindata.org/grapher/human-rights-index-vdem?tab=line&time=earliest..latest&country=~OWID_WRL
+
+Text before the figure: We expand the years and countries covered by the V-Dem data.
+Text after the figure: #### Human rights are much more protected in some countries than in others

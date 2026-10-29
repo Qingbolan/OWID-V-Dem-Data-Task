@@ -1,0 +1,56 @@
+{
+ "title": "Centralization of Political Power Index",
+ "url": "https://ourworldindata.org/grapher/political-centralization-index",
+ "date_published": null,
+ "chart_page": true,
+ "authors": [],
+ "retrieved_at": "2026-10-29T17:38:00.489442+00:00",
+ "materialised_at": "2026-10-29T17:38:00.489450+00:00",
+ "source_original_sha256": "6cff1c180b6bf5fb6931ef7dbfbc6920d258d09de060fce921c37a576e55a3b7",
+ "offline_snapshot": {
+  "page": "source.html",
+  "assets": "source_files/",
+  "assets_manifest": "source_files/manifest.json",
+  "asset_count": 73,
+  "removed": "all <script> elements except application/ld+json"
+ },
+ "figures": [
+  {
+   "index": 1,
+   "name": "01 Centralization of Political Power Index",
+   "embed": {
+    "slug": "political-centralization-index",
+    "query": {},
+    "image": null
+   },
+   "view_url": "https://ourworldindata.org/grapher/political-centralization-index",
+   "csv_url": "https://ourworldindata.org/grapher/political-centralization-index.csv?csvType=filtered",
+   "png_url": "https://ourworldindata.org/grapher/political-centralization-index.png",
+   "data_available": true,
+   "config_title": "Centralization of Political Power Index",
+   "config_subtitle": "Data by [V-Dem](#dod:v-dem). Expert estimates of the extent to which the executive is unconstrained by the legislature, judiciary, electoral management body, and other oversight bodies. The index ranges from 0 to 1 (most centralized).",
+   "files": {
+    "txt": {
+     "path": "figs/01 Centralization of Political Power Index.txt",
+     "sha256": "c7a81c480a082fca2196d7ab7a171ae9628ddb2490aa52298524e593cebf50cb"
+    },
+    "csv": {
+     "path": "figs/01 Centralization of Political Power Index.csv",
+     "sha256": "623ad60200060770da44cf8f3927678543014755f41b05428fa8828dafeec294"
+    },
+    "png": {
+     "path": "figs/01 Centralization of Political Power Index.png",
+     "sha256": "ea4ad24a13cd1d5a46bdced1467564f7f309031bd864cadb47771254b4dd7ee4"
+    }
+   },
+   "chart_slug": "political-centralization-index",
+   "column_short_names": {
+    "Entity": "entity",
+    "Code": "code",
+    "Year": "year",
+    "Centralization of Political Power Index": "personalism_vdem__estimate_best",
+    "World region according to OWID": "owid_region"
+   }
+  }
+ ]
+}

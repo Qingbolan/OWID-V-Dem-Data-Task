@@ -1,0 +1,12 @@
+Figure 05: 05 European overseas colonies by colonizer
+Article: State Capacity (2023-11-30)
+
+Title: European overseas colonies by colonizer
+Subtitle: Only countries that are independent today are considered.
+Note: 
+Source: Bastian Becker (2023)
+Units: countries
+Chart: https://ourworldindata.org/grapher/european-overseas-colonies-by-colonizer
+
+Text before the figure: The CShapes project provides an alternative perspective by looking beyond countries that are independent today, and classifies some overseas territories as colonies to this day.
+Text after the figure: # Key Charts on State Capacity

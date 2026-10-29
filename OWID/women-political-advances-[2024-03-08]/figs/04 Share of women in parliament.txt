@@ -1,0 +1,12 @@
+Figure 04: 04 Share of women in parliament
+Article: Women have made major advances in politics — but the world is still far from equal (2024-03-08)
+
+Title: Share of women in parliament
+Subtitle: Percentage of seats in lower or single chamber of the legislature held by women.
+Note: Only countries with at least one legislative chamber included.
+Source: V-Dem (2026)
+Units: %
+Chart: https://ourworldindata.org/grapher/share-of-women-in-parliament
+
+Text before the figure: On this map, you can explore the share of women in parliament for each country and year.
+Text after the figure: # Women have led many countries, but most political leaders are still men

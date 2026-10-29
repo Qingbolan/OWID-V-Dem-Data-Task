@@ -1,0 +1,12 @@
+Figure 02: 02 People living in democracies and autocracies
+Article: 200 years ago, everyone lacked democratic rights. Now, billions of people have them (2021-12-02)
+
+Title: People living in democracies and autocracies
+Subtitle: Classification by [Lührmann et al. (2018)](#dod:regimes-of-the-world) based on expert estimates by [V-Dem](#dod:v-dem).
+Note: 
+Source: V-Dem (2026); Population based on various sources (2024)
+Units: people
+Chart: https://ourworldindata.org/grapher/people-living-in-democracies-autocracies?tab=chart&time=earliest..latest&country=~OWID_WRL
+
+Text before the figure: In the core chart of this post we see how many people lived under each of the four political systems since 1789. To see what share of the world's population lived in each regime, you can click on the chart and then display relative values under ‘Settings’.
+Text after the figure: Very few people had democratic political rights in the late 18th and 19th centuries. In 1800, almost everyone lived in regimes that are classified as closed autocracies by RoW. No country was a democracy, and only 22 million people lived in the two countries classified as electoral autocracies: the United Kingdom and the United States.

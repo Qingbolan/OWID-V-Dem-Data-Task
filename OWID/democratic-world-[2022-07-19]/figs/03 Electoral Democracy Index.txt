@@ -1,0 +1,12 @@
+Figure 03: 03 Electoral Democracy Index
+Article: People around the world have gained democratic rights, but some have many more rights than others (2022-07-19)
+
+Title: Electoral Democracy Index
+Subtitle: Data by [V-Dem](#dod:v-dem). Expert estimates of the extent to which political leaders are elected under comprehensive voting rights in free and fair elections, and freedoms of association and expression are guaranteed. The index ranges from 0 to 1 (most democratic).
+Note: 
+Source: V-Dem (2026)
+Units: 
+Chart: https://ourworldindata.org/grapher/electoral-democracy-index?tab=chart&time=1900&stackMode=relative
+
+Text before the figure: By 1900, political institutions had become more diverse, but remained highly undemocratic in most countries.
+Text after the figure: A fair number of countries in Europe and the Americas now had some democratic features: in particular, citizens had become freer to associate and express their opinions. A couple of countries, such as Australia, France, and Switzerland, had even developed fairly democratic features, with men now having the right to vote and almost all political leaders being chosen in elections.

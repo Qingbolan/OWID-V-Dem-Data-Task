@@ -1,0 +1,12 @@
+Figure 03: 03 Rigorous and Impartial Public Administration Score
+Article: State Capacity (2023-11-30)
+
+Title: Rigorous and Impartial Public Administration Score
+Subtitle: Data by [V-Dem](#dod:v-dem). Expert estimates of the extent to which public officials follow the law and show no favoritism or discrimination. Higher scores mean more rigor and impartiality. A score of 0 is approximately the average across all countries and years.
+Note: 
+Source: V-Dem (2026)
+Units: 
+Chart: https://ourworldindata.org/grapher/rigorous-and-impartial-public-administration-score
+
+Text before the figure: We describe the V-Dem data, and how we expand the years and countries covered, in our article on its electoral democracy index.
+Text after the figure: #### Many states have increased their capacities in recent decades

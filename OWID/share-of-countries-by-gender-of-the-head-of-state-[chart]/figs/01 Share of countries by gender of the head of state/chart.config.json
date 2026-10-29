@@ -1,0 +1,45 @@
+{
+ "id": 6411,
+ "note": "This is recorded on December 31 of each year.",
+ "slug": "share-of-countries-by-gender-of-the-head-of-state",
+ "title": "Share of countries by gender of the head of state",
+ "$schema": "https://files.ourworldindata.org/schemas/grapher-schema.011.json",
+ "version": 46,
+ "subtitle": "The head of state is the chief public representative of their country.",
+ "originUrl": "/women-rights",
+ "stackMode": "relative",
+ "chartTypes": [
+  "StackedArea",
+  "StackedDiscreteBar"
+ ],
+ "dimensions": [
+  {
+   "display": {
+    "name": "Man is head of state",
+    "color": "#e2b99c",
+    "numDecimalPlaces": 0
+   },
+   "property": "y",
+   "variableId": 1209934
+  },
+  {
+   "display": {
+    "name": "Woman is head of state",
+    "color": "#863d8c",
+    "numDecimalPlaces": 0
+   },
+   "property": "y",
+   "variableId": 1209935
+  }
+ ],
+ "entityType": "region",
+ "isPublished": true,
+ "entityTypePlural": "regions",
+ "hideRelativeToggle": false,
+ "selectedEntityNames": [
+  "World"
+ ],
+ "hideAnnotationFieldsInTitle": {
+  "time": true
+ }
+}

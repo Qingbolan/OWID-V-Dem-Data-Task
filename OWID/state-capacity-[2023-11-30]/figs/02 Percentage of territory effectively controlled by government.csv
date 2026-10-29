@@ -1,0 +1,175 @@
+Entity,Code,Year,Territory under state control,World region according to OWID
+Afghanistan,AFG,2025,79.5,Asia
+Albania,ALB,2025,96.25,Europe
+Algeria,DZA,2025,99.5,Africa
+Angola,AGO,2025,96.25,Africa
+Argentina,ARG,2025,100,South America
+Armenia,ARM,2025,96,Asia
+Australia,AUS,2025,92.375,Oceania
+Austria,AUT,2025,99.857,Europe
+Azerbaijan,AZE,2025,100,Asia
+Bahrain,BHR,2025,95.8,Asia
+Bangladesh,BGD,2025,99.8,Asia
+Barbados,BRB,2025,100,North America
+Belarus,BLR,2025,100,Europe
+Belgium,BEL,2025,99.909,Europe
+Benin,BEN,2025,90,Africa
+Bhutan,BTN,2025,96.25,Asia
+Bolivia,BOL,2025,83,South America
+Bosnia and Herzegovina,BIH,2025,85.278,Europe
+Botswana,BWA,2025,98.333,Africa
+Brazil,BRA,2025,90.833,South America
+Bulgaria,BGR,2025,99.909,Europe
+Burkina Faso,BFA,2025,79,Africa
+Burundi,BDI,2025,95,Africa
+Cambodia,KHM,2025,87.6,Asia
+Cameroon,CMR,2025,86.429,Africa
+Canada,CAN,2025,97,North America
+Cape Verde,CPV,2025,99,Africa
+Central African Republic,CAF,2025,80.667,Africa
+Chad,TCD,2025,85.333,Africa
+Chile,CHL,2025,80.667,South America
+China,CHN,2025,97.125,Asia
+Colombia,COL,2025,82,South America
+Comoros,COM,2025,82.25,Africa
+Congo,COG,2025,78.2,Africa
+Costa Rica,CRI,2025,94.6,North America
+Cote d'Ivoire,CIV,2025,90,Africa
+Croatia,HRV,2025,100,Europe
+Cuba,CUB,2025,96.75,North America
+Cyprus,CYP,2025,70.2,Europe
+Czechia,CZE,2025,99.929,Europe
+Democratic Republic of Congo,COD,2025,73.571,Africa
+Denmark,DNK,2025,98.929,Europe
+Djibouti,DJI,2025,98,Africa
+Dominican Republic,DOM,2025,100,North America
+East Timor,TLS,2025,95.667,Asia
+Ecuador,ECU,2025,90,South America
+Egypt,EGY,2025,94.5,Africa
+El Salvador,SLV,2025,100,North America
+Equatorial Guinea,GNQ,2025,97.833,Africa
+Eritrea,ERI,2025,97.2,Africa
+Estonia,EST,2025,100,Europe
+Eswatini,SWZ,2025,95,Africa
+Ethiopia,ETH,2025,68.333,Africa
+Fiji,FJI,2025,95,Oceania
+Finland,FIN,2025,100,Europe
+France,FRA,2025,98.333,Europe
+Gabon,GAB,2025,86,Africa
+Gambia,GMB,2025,94.667,Africa
+Georgia,GEO,2025,83.143,Asia
+Germany,DEU,2025,99.667,Europe
+Ghana,GHA,2025,95.556,Africa
+Greece,GRC,2025,98.5,Europe
+Guatemala,GTM,2025,88.333,North America
+Guinea,GIN,2025,88.75,Africa
+Guinea-Bissau,GNB,2025,82.5,Africa
+Guyana,GUY,2025,98,South America
+Haiti,HTI,2025,70.25,North America
+Honduras,HND,2025,86.5,North America
+Hungary,HUN,2025,100,Europe
+Iceland,ISL,2025,99.833,Europe
+India,IND,2025,95,Asia
+Indonesia,IDN,2025,95.2,Asia
+Iran,IRN,2025,86.75,Asia
+Iraq,IRQ,2025,97.25,Asia
+Ireland,IRL,2025,98.4,Europe
+Israel,ISR,2025,94.8,Asia
+Italy,ITA,2025,87.4,Europe
+Jamaica,JAM,2025,95.1,North America
+Japan,JPN,2025,96.25,Asia
+Jordan,JOR,2025,98.333,Asia
+Kazakhstan,KAZ,2025,100,Asia
+Kenya,KEN,2025,86.2,Africa
+Kosovo,OWID_KOS,2025,91.5,Europe
+Kuwait,KWT,2025,97.6,Asia
+Kyrgyzstan,KGZ,2025,99.8,Asia
+Laos,LAO,2025,98.25,Asia
+Latvia,LVA,2025,96.667,Europe
+Lebanon,LBN,2025,77,Asia
+Lesotho,LSO,2025,94.429,Africa
+Liberia,LBR,2025,91.75,Africa
+Libya,LBY,2025,65.6,Africa
+Lithuania,LTU,2025,100,Europe
+Luxembourg,LUX,2025,100,Europe
+Madagascar,MDG,2025,84.5,Africa
+Malawi,MWI,2025,89.833,Africa
+Malaysia,MYS,2025,98.75,Asia
+Maldives,MDV,2025,95.4,Asia
+Mali,MLI,2025,77.8,Africa
+Malta,MLT,2025,100,Europe
+Mauritania,MRT,2025,87.857,Africa
+Mauritius,MUS,2025,85,Africa
+Mexico,MEX,2025,86.5,North America
+Moldova,MDA,2025,88.5,Europe
+Mongolia,MNG,2025,99,Asia
+Montenegro,MNE,2025,98.571,Europe
+Morocco,MAR,2025,90.8,Africa
+Mozambique,MOZ,2025,85.667,Africa
+Myanmar,MMR,2025,49,Asia
+Namibia,NAM,2025,97.75,Africa
+Nepal,NPL,2025,95.6,Asia
+Netherlands,NLD,2025,99,Europe
+New Zealand,NZL,2025,99.833,Oceania
+Nicaragua,NIC,2025,82.625,North America
+Niger,NER,2025,80.833,Africa
+Nigeria,NGA,2025,78.25,Africa
+North Korea,PRK,2025,99.833,Asia
+North Macedonia,MKD,2025,94.444,Europe
+Norway,NOR,2025,98,Europe
+Oman,OMN,2025,90,Asia
+Pakistan,PAK,2025,78.929,Asia
+Panama,PAN,2025,90.25,North America
+Papua New Guinea,PNG,2025,71,Oceania
+Paraguay,PRY,2025,76,South America
+Peru,PER,2025,87.6,South America
+Philippines,PHL,2025,95,Asia
+Poland,POL,2025,100,Europe
+Portugal,PRT,2025,97.5,Europe
+Qatar,QAT,2025,99,Asia
+Romania,ROU,2025,97.714,Europe
+Russia,RUS,2025,95.2,Europe
+Rwanda,RWA,2025,99.857,Africa
+Sao Tome and Principe,STP,2025,100,Africa
+Saudi Arabia,SAU,2025,98.8,Asia
+Senegal,SEN,2025,90.75,Africa
+Serbia,SRB,2025,94.857,Europe
+Seychelles,SYC,2025,99.5,Africa
+Sierra Leone,SLE,2025,95.5,Africa
+Singapore,SGP,2025,95,Asia
+Slovakia,SVK,2025,100,Europe
+Slovenia,SVN,2025,99.571,Europe
+Solomon Islands,SLB,2025,90.667,Oceania
+Somalia,SOM,2025,74.667,Africa
+South Africa,ZAF,2025,94.8,Africa
+South Korea,KOR,2025,98.875,Asia
+South Sudan,SSD,2025,65,Africa
+Spain,ESP,2025,99.909,Europe
+Sri Lanka,LKA,2025,98.8,Asia
+Sudan,SDN,2025,49.75,Africa
+Suriname,SUR,2025,65,South America
+Sweden,SWE,2025,99,Europe
+Switzerland,CHE,2025,100,Europe
+Syria,SYR,2025,67.75,Asia
+Taiwan,TWN,2025,100,Asia
+Tajikistan,TJK,2025,94,Asia
+Tanzania,TZA,2025,97.8,Africa
+Thailand,THA,2025,97,Asia
+Togo,TGO,2025,83,Africa
+Trinidad and Tobago,TTO,2025,92.5,North America
+Tunisia,TUN,2025,94.125,Africa
+Turkey,TUR,2025,94.8,Asia
+Turkmenistan,TKM,2025,99.75,Asia
+Uganda,UGA,2025,94.286,Africa
+Ukraine,UKR,2025,69,Europe
+United Arab Emirates,ARE,2025,96,Asia
+United Kingdom,GBR,2025,99.333,Europe
+United States,USA,2025,97.462,North America
+Uruguay,URY,2025,99.917,South America
+Uzbekistan,UZB,2025,98.25,Asia
+Vanuatu,VUT,2025,99.143,Oceania
+Venezuela,VEN,2025,84,South America
+Vietnam,VNM,2025,98,Asia
+Yemen,YEM,2025,47.557,Asia
+Zambia,ZMB,2025,93.75,Africa
+Zimbabwe,ZWE,2025,99,Africa

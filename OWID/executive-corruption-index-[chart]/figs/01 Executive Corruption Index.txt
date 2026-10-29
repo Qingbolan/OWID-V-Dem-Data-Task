@@ -1,0 +1,9 @@
+Figure 01: 01 Executive Corruption Index
+Article: none; source page is the chart page https://ourworldindata.org/grapher/executive-corruption-index
+
+Title: Executive Corruption Index
+Subtitle: Data by [V-Dem](#dod:v-dem). Expert estimates of the extent to which high-ranking members of the executive, such as the head of government or cabinet ministers, engage in bribery and theft. The index ranges from 0 to 1 (highly corrupt).
+Note: 
+Source: V-Dem (2026)
+Units: 
+Chart: https://ourworldindata.org/grapher/executive-corruption-index

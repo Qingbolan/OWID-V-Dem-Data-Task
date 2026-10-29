@@ -1,0 +1,73 @@
+{
+ "title": "Four countries that have successfully reversed democratic decline in recent years",
+ "url": "https://ourworldindata.org/data-insights/four-countries-that-have-successfully-reversed-democratic-decline-in-recent-years",
+ "date_published": "2025-04-01",
+ "authors": [
+  "Bastian Herre"
+ ],
+ "retrieved_at": "2026-10-29T15:15:10.006757+00:00",
+ "materialised_at": "2026-10-29T16:31:15.705769+00:00",
+ "source_original_sha256": "06f7f53d2d4b685a86841f44412fa905740df4e09d7f2726dda8491a1a2f1130",
+ "offline_snapshot": {
+  "page": "source.html",
+  "assets": "source_files/",
+  "assets_manifest": "source_files/manifest.json",
+  "asset_count": 123,
+  "removed": "all <script> elements except application/ld+json"
+ },
+ "figures": [
+  {
+   "index": 1,
+   "name": "01 Liberal democracy index, Brazil, Poland, Thailand and Zambia, 2003-2024",
+   "embed": {
+    "slug": null,
+    "query": {},
+    "image": "https://ourworldindata.org/cdn-cgi/imagedelivery/qLq-8BTgXU8yG0N6HnOy8g/2dc73ec5-4ab8-4c03-fb20-73661a2f2100/w=1620"
+   },
+   "files": {
+    "html": {
+     "path": "figs/01 Liberal democracy index, Brazil, Poland, Thailand and Zambia, 2003-2024.html",
+     "sha256": "7d6616bac24287819c1f97f18e922955d3f1f8dc2665f69361673bb769ed8681"
+    },
+    "csv": {
+     "path": "figs/01 Liberal democracy index, Brazil, Poland, Thailand and Zambia, 2003-2024.csv",
+     "sha256": "91ea944169a717d9246e32a6d22f80f2f0209acb2ef1efc1957e0cf12246e242"
+    },
+    "png": {
+     "path": "figs/01 Liberal democracy index, Brazil, Poland, Thailand and Zambia, 2003-2024.png",
+     "sha256": "aa0d3086e841778a24cffa7637bcf859bbe9ee5ac9e29d6f3c004ab083431a15"
+    },
+    "txt": {
+     "path": "figs/01 Liberal democracy index, Brazil, Poland, Thailand and Zambia, 2003-2024.txt",
+     "sha256": "e7216ab5083ca364c81b9fd5576b898ebb028d688efef761a8363d2160a3f2fe"
+    }
+   },
+   "scope": {
+    "entities": [
+     "Brazil",
+     "Poland",
+     "Thailand",
+     "Zambia"
+    ]
+   },
+   "view_url": "https://ourworldindata.org/grapher/liberal-democracy-index?tab=chart&time=2003..2024&country=BRA~POL~THA~ZMB",
+   "csv_url": "https://ourworldindata.org/grapher/liberal-democracy-index.csv?csvType=filtered&tab=chart&time=2003..2024&country=BRA~POL~THA~ZMB",
+   "png_url": "https://ourworldindata.org/cdn-cgi/imagedelivery/qLq-8BTgXU8yG0N6HnOy8g/2dc73ec5-4ab8-4c03-fb20-73661a2f2100/w=1620",
+   "data_available": true,
+   "static_image": true,
+   "identification": "The image shows four small-multiple line charts (Brazil, Poland, Thailand, Zambia) of V-Dem's liberal democracy index; the x-axis is labelled 2004, 2010, 2015, 2024 and the lines start one year before 2004; the page links the chart liberal-democracy-index. The image was made with V-Dem (2025); the ground truth is the chart's current data (decision 0003).",
+   "image_title": "Autocratization can be turned around",
+   "image_subtitle": "Liberal democracy index by V-Dem, using expert estimates. It ranges from 0 (highly autocratic) to 1 (highly democratic).",
+   "config_title": "Liberal Democracy Index",
+   "config_subtitle": "Data by [V-Dem](#dod:v-dem). Expert estimates of the extent of voting rights, the freedom and fairness of elections, freedoms of association and expression, civil liberties, and executive constraints. The index ranges from 0 to 1 (most democratic).",
+   "chart_slug": "liberal-democracy-index",
+   "column_short_names": {
+    "Entity": "entity",
+    "Code": "code",
+    "Year": "year",
+    "Liberal democracy index": "libdem_vdem__estimate_best",
+    "World region according to OWID": "owid_region"
+   }
+  }
+ ]
+}

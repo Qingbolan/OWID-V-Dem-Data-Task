@@ -1,0 +1,12 @@
+Figure 02: 02 People living in democracies and autocracies
+Article: Democracy (2013-03-15)
+
+Title: People living in democracies and autocracies
+Subtitle: Classification by [Lührmann et al. (2018)](#dod:regimes-of-the-world) based on expert estimates by [V-Dem](#dod:v-dem).
+Note: 
+Source: V-Dem (2026); Population based on various sources (2024)
+Units: people
+Chart: https://ourworldindata.org/grapher/people-living-in-democracies-autocracies
+
+Text before the figure: We use the RoW data here, but there are several other leading approaches to measuring democracy, which sometimes classify countries differently. You can explore them in our Democracy Data Explorer .
+Text after the figure: #### Many democracies are less than a generation old. Dictatorship is far from a distant memory

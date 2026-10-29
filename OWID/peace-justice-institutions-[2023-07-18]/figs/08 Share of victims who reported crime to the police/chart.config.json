@@ -1,0 +1,44 @@
+{
+ "id": 3861,
+ "slug": "share-of-victims-who-reported-crime-to-the-police",
+ "title": "Share of victims who reported crime to the police",
+ "yAxis": {
+  "max": 0,
+  "min": 0
+ },
+ "$schema": "https://files.ourworldindata.org/schemas/grapher-schema.011.json",
+ "version": 18,
+ "subtitle": "Number of victims in the previous 12 months who reported the crime to competent authorities, divided by the number of all victims.",
+ "originUrl": "/sdgs/peace-justice-institutions",
+ "dimensions": [
+  {
+   "display": {
+    "name": "Robbery"
+   },
+   "property": "y",
+   "variableId": 1301119
+  },
+  {
+   "display": {
+    "name": "Sexual assault"
+   },
+   "property": "y",
+   "variableId": 1301125
+  },
+  {
+   "display": {
+    "name": "Physical assault"
+   },
+   "property": "y",
+   "variableId": 1301113
+  }
+ ],
+ "isPublished": true,
+ "addCountryMode": "change-country",
+ "selectedEntityNames": [
+  "United States"
+ ],
+ "hideAnnotationFieldsInTitle": {
+  "time": true
+ }
+}

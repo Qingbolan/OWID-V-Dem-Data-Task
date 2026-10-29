@@ -1,0 +1,55 @@
+{
+ "title": "Legislative Corruption Score",
+ "url": "https://ourworldindata.org/grapher/legislative-corruption-score",
+ "date_published": null,
+ "chart_page": true,
+ "authors": [],
+ "retrieved_at": "2026-10-29T17:29:12.416923+00:00",
+ "materialised_at": "2026-10-29T17:29:12.416931+00:00",
+ "source_original_sha256": "7eee40eb3da9ca8a2bfef388a18f0131d12aeef29bf774ee9c850e0e2ff7e015",
+ "offline_snapshot": {
+  "page": "source.html",
+  "assets": "source_files/",
+  "assets_manifest": "source_files/manifest.json",
+  "asset_count": 73,
+  "removed": "all <script> elements except application/ld+json"
+ },
+ "figures": [
+  {
+   "index": 1,
+   "name": "01 Legislative Corruption Score",
+   "embed": {
+    "slug": "legislative-corruption-score",
+    "query": {},
+    "image": null
+   },
+   "view_url": "https://ourworldindata.org/grapher/legislative-corruption-score",
+   "csv_url": "https://ourworldindata.org/grapher/legislative-corruption-score.csv?csvType=filtered",
+   "png_url": "https://ourworldindata.org/grapher/legislative-corruption-score.png",
+   "data_available": true,
+   "config_title": "Legislative Corruption Score",
+   "config_subtitle": "Data by [V-Dem](#dod:v-dem). Expert estimates of the extent to which members of the legislature abuse their position for financial gain, such as bribes, government contracts, future employment, or stealing from the state. Higher scores mean less corruption. A score of 0 is approximately the average across all countries and years.",
+   "files": {
+    "txt": {
+     "path": "figs/01 Legislative Corruption Score.txt",
+     "sha256": "2b4adb3e88f881176597d755db7860c2228ebe5a0732043a385a57ce6004e597"
+    },
+    "csv": {
+     "path": "figs/01 Legislative Corruption Score.csv",
+     "sha256": "0b00ec166f5c3b13ca2698d715b7bac600a4bdb25fcb5e6fd8d68771a8c1be8e"
+    },
+    "png": {
+     "path": "figs/01 Legislative Corruption Score.png",
+     "sha256": "7df7ad3c017445e71e94986f4b4b01089e4ce082fbc7b47781a286157a7d51f8"
+    }
+   },
+   "chart_slug": "legislative-corruption-score",
+   "column_short_names": {
+    "Entity": "entity",
+    "Code": "code",
+    "Year": "year",
+    "Legislative Corruption Score": "corr_leg_vdem__estimate_best"
+   }
+  }
+ ]
+}

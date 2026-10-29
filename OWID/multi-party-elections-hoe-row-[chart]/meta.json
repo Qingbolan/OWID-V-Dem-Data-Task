@@ -1,0 +1,55 @@
+{
+ "title": "Chief executive of the government is chosen in multi-party elections",
+ "url": "https://ourworldindata.org/grapher/multi-party-elections-hoe-row",
+ "date_published": null,
+ "chart_page": true,
+ "authors": [],
+ "retrieved_at": "2026-10-29T17:33:02.618300+00:00",
+ "materialised_at": "2026-10-29T17:33:02.618309+00:00",
+ "source_original_sha256": "1eaa2580812fe9231fc227ced5b073102edeed6a68d0daad6454e8f1d5ae86aa",
+ "offline_snapshot": {
+  "page": "source.html",
+  "assets": "source_files/",
+  "assets_manifest": "source_files/manifest.json",
+  "asset_count": 73,
+  "removed": "all <script> elements except application/ld+json"
+ },
+ "figures": [
+  {
+   "index": 1,
+   "name": "01 Chief executive of the government is chosen in multi-party elections",
+   "embed": {
+    "slug": "multi-party-elections-hoe-row",
+    "query": {},
+    "image": null
+   },
+   "view_url": "https://ourworldindata.org/grapher/multi-party-elections-hoe-row",
+   "csv_url": "https://ourworldindata.org/grapher/multi-party-elections-hoe-row.csv?csvType=filtered",
+   "png_url": "https://ourworldindata.org/grapher/multi-party-elections-hoe-row.png",
+   "data_available": true,
+   "config_title": "Chief executive of the government is chosen in multi-party elections",
+   "config_subtitle": "Data by Lührmann et al. (2018) and [V-Dem](#dod:v-dem). \"Chief executive\" is defined here as the head of state or the head of government, whoever has more power over the appointment and dismissal of cabinet ministers.",
+   "files": {
+    "txt": {
+     "path": "figs/01 Chief executive of the government is chosen in multi-party elections.txt",
+     "sha256": "bdabfab3c83c91487a9ea2bd1def04c3eff66894dbcd8bb16fa713174af365e7"
+    },
+    "csv": {
+     "path": "figs/01 Chief executive of the government is chosen in multi-party elections.csv",
+     "sha256": "b36d195b236a5a9a6a963f544329c06cff66987b44ce2fcc323a0db0df24019a"
+    },
+    "png": {
+     "path": "figs/01 Chief executive of the government is chosen in multi-party elections.png",
+     "sha256": "1ae606c9146ddb918f63b5e02b3537d5d08cd58498c8bb4857cec6cdab2ca1b2"
+    }
+   },
+   "chart_slug": "multi-party-elections-hoe-row",
+   "column_short_names": {
+    "Entity": "entity",
+    "Code": "code",
+    "Year": "year",
+    "Multi-party elections for government's chief executive": "electmulpar_hoe_row_owid__estimate_best"
+   }
+  }
+ ]
+}

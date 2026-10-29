@@ -1,0 +1,97 @@
+{
+ "id": 5852,
+ "map": {
+  "colorScale": {
+   "baseColorScheme": "RdYlBu",
+   "binningStrategy": "manual",
+   "customNumericColors": [
+    "#8d6e71",
+    "#c6a1a5",
+    "#abd9e9"
+   ],
+   "customNumericLabels": [
+    "Closed autocracy",
+    "Electoral autocracy",
+    "Electoral democracy"
+   ],
+   "customNumericValues": [
+    0,
+    0,
+    1,
+    3
+   ],
+   "customNumericColorsActive": true
+  },
+  "tooltipUseCustomLabels": true
+ },
+ "tab": "map",
+ "note": "",
+ "slug": "electoral-democracy-row",
+ "title": "Electoral democracy",
+ "yAxis": {
+  "max": 2,
+  "min": 0
+ },
+ "$schema": "https://files.ourworldindata.org/schemas/grapher-schema.011.json",
+ "version": 54,
+ "subtitle": "Classification by [Lührmann et al. (2018)](#dod:regimes-of-the-world-simplified) based on expert estimates by [V-Dem](#dod:v-dem). Electoral democracies are political systems that hold meaningful, free and fair, and multi-party elections.",
+ "hasMapTab": true,
+ "originUrl": "/democracy",
+ "chartTypes": [
+  "LineChart"
+ ],
+ "colorScale": {
+  "baseColorScheme": "RdYlBu",
+  "binningStrategy": "manual",
+  "customNumericColors": [
+   "#8d6e71",
+   "#c6a1a5",
+   "#abd9e9"
+  ],
+  "customNumericLabels": [
+   "Closed autocracy",
+   "Electoral autocracy",
+   "Electoral democracy"
+  ],
+  "customNumericValues": [
+   0,
+   0,
+   1,
+   2
+  ],
+  "customNumericColorsActive": true
+ },
+ "dimensions": [
+  {
+   "display": {
+    "numDecimalPlaces": 0
+   },
+   "property": "y",
+   "variableId": 1210051
+  },
+  {
+   "property": "color",
+   "variableId": 1210051
+  }
+ ],
+ "isPublished": true,
+ "variantName": "Regimes of the World",
+ "relatedQuestions": [
+  {
+   "url": "https://ourworldindata.org/regimes-of-the-world-data",
+   "text": "The 'Regimes of the World' data: how do researchers measure democracy?"
+  }
+ ],
+ "selectedEntityNames": [
+  "Argentina",
+  "Australia",
+  "Botswana",
+  "China"
+ ],
+ "selectedFacetStrategy": "entity",
+ "hideAnnotationFieldsInTitle": {
+  "time": true,
+  "entity": true,
+  "changeInPrefix": true
+ }
+}

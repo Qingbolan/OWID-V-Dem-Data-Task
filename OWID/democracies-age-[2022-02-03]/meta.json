@@ -1,0 +1,284 @@
+{
+ "title": "In most countries, democracy is a recent achievement. Dictatorship is far from a distant memory.",
+ "url": "https://ourworldindata.org/democracies-age",
+ "date_published": "2022-02-03",
+ "authors": [
+  "Bastian Herre"
+ ],
+ "retrieved_at": "2026-10-29T15:15:17.247171+00:00",
+ "materialised_at": "2026-10-29T16:16:17.713511+00:00",
+ "source_original_sha256": "407509295fb7108761e64141376171485f73675f1dec63b071ecdef223b8c995",
+ "offline_snapshot": {
+  "page": "source.html",
+  "assets": "source_files/",
+  "assets_manifest": "source_files/manifest.json",
+  "asset_count": 94,
+  "removed": "all <script> elements except application/ld+json"
+ },
+ "figures": [
+  {
+   "index": 1,
+   "name": "01 Age of electoral democracy",
+   "embed": {
+    "slug": "age-of-electoral-democracy",
+    "query": {},
+    "image": null
+   },
+   "files": {
+    "html": {
+     "path": "figs/01 Age of electoral democracy.html",
+     "sha256": "15fccb53fda7dcb1ccfa18b7d3ff0060f31b091289a48f64085541c9cbebfe4c"
+    },
+    "csv": {
+     "path": "figs/01 Age of electoral democracy.csv",
+     "sha256": "1be1dd8383ff71436386fa067d76623706074901e3b7d0b33e21df473bef78b5"
+    },
+    "png": {
+     "path": "figs/01 Age of electoral democracy.png",
+     "sha256": "d3e926f620b1fb7af6d9855340cc4deb784836edb2cb11de4d6062a4cdb0e20c"
+    },
+    "txt": {
+     "path": "figs/01 Age of electoral democracy.txt",
+     "sha256": "fa04b25b6ddc894fda7d31eb8c51aebb11766f1e5a03dd645e6ff0f5aaa5e907"
+    }
+   },
+   "view_url": "https://ourworldindata.org/grapher/age-of-electoral-democracy",
+   "csv_url": "https://ourworldindata.org/grapher/age-of-electoral-democracy.csv?csvType=filtered",
+   "png_url": "https://ourworldindata.org/grapher/age-of-electoral-democracy.png",
+   "data_available": true,
+   "config_title": "Age of electoral democracy",
+   "config_subtitle": "Classification by [Lührmann et al. (2018)](#dod:regimes-of-the-world-simplified) based on expert estimates by [V-Dem](#dod:v-dem). Electoral democracies are political systems that hold meaningful, free and fair, and multi-party elections.",
+   "chart_slug": "age-of-electoral-democracy",
+   "column_short_names": {
+    "Entity": "entity",
+    "Code": "code",
+    "Year": "year",
+    "Age of electoral democracy": "num_years_in_electdem_consecutive"
+   }
+  },
+  {
+   "index": 2,
+   "name": "02 Number of electoral democracies by age",
+   "embed": {
+    "slug": "number-electoral-democracies-age",
+    "query": {},
+    "image": null
+   },
+   "files": {
+    "html": {
+     "path": "figs/02 Number of electoral democracies by age.html",
+     "sha256": "5e7475342ed95023eacf0d9b5f44a0760b19041b27a4969fbf423bbe7c356917"
+    },
+    "csv": {
+     "path": "figs/02 Number of electoral democracies by age.csv",
+     "sha256": "7dd3ac0dde9019d7c4285368517f075cc8a5891517f7ccae9989c4ca61da8996"
+    },
+    "png": {
+     "path": "figs/02 Number of electoral democracies by age.png",
+     "sha256": "c660ab71cb4ce0d9bc78234e2177655a7d40cfa37a69835f01fdb5dcd84f89f7"
+    },
+    "txt": {
+     "path": "figs/02 Number of electoral democracies by age.txt",
+     "sha256": "88a0126d131dd92b31a4b66540822024c99ecd4a2677a73c74aa0aa31aaae4cd"
+    }
+   },
+   "view_url": "https://ourworldindata.org/grapher/number-electoral-democracies-age",
+   "csv_url": "https://ourworldindata.org/grapher/number-electoral-democracies-age.csv?csvType=filtered",
+   "png_url": "https://ourworldindata.org/grapher/number-electoral-democracies-age.png",
+   "data_available": true,
+   "config_title": "Number of electoral democracies by age",
+   "config_subtitle": "Classification by [Lührmann et al. (2018)](#dod:regimes-of-the-world-simplified) based on expert estimates by [V-Dem](#dod:v-dem). Electoral democracies are political systems that hold meaningful, free and fair, and multi-party elections.",
+   "chart_slug": "number-electoral-democracies-age",
+   "column_short_names": {
+    "Entity": "entity",
+    "Code": "code",
+    "Year": "year",
+    "Closed autocracies": "num_countries_regime__category_closed_autocracy",
+    "Electoral autocracies": "num_countries_regime__category_electoral_autocracy",
+    "91 years +": "num_countries_years_in_electdem__category_91plus_years",
+    "61-90 years": "num_countries_years_in_electdem__category_61_90_years",
+    "31-60 years": "num_countries_years_in_electdem__category_31_60_years",
+    "19-30 years": "num_countries_years_in_electdem__category_19_30_years",
+    "Electoral democracies aged 1-18 years": "num_countries_years_in_electdem__category_1_18_years"
+   }
+  },
+  {
+   "index": 3,
+   "name": "03 Age of liberal democracy",
+   "embed": {
+    "slug": "age-of-liberal-democracy-row",
+    "query": {},
+    "image": null
+   },
+   "files": {
+    "html": {
+     "path": "figs/03 Age of liberal democracy.html",
+     "sha256": "23ffd047fe72d041a4fafd74e65673e150766077c7afdb6fd662ecae182111f1"
+    },
+    "csv": {
+     "path": "figs/03 Age of liberal democracy.csv",
+     "sha256": "7c49beb6f19904dd617391bdade420ff9b852026342b828319c5b92c4872a068"
+    },
+    "png": {
+     "path": "figs/03 Age of liberal democracy.png",
+     "sha256": "a1625d0e318e4c9e2c951da3a5a081d407a11d2af557e6f713156a0f82890bcc"
+    },
+    "txt": {
+     "path": "figs/03 Age of liberal democracy.txt",
+     "sha256": "16143a1e407f25d572dfabb698df1785e0cd9ae9e1e8560a3249d29a829fb3bf"
+    }
+   },
+   "view_url": "https://ourworldindata.org/grapher/age-of-liberal-democracy-row",
+   "csv_url": "https://ourworldindata.org/grapher/age-of-liberal-democracy-row.csv?csvType=filtered",
+   "png_url": "https://ourworldindata.org/grapher/age-of-liberal-democracy-row.png",
+   "data_available": true,
+   "config_title": "Age of liberal democracy",
+   "config_subtitle": "Classification by [Lührmann et al. (2018)](#dod:regimes-of-the-world) based on expert estimates by [V-Dem](#dod:v-dem). Liberal democracies are political systems that hold meaningful, free and fair, and multi-party elections, and their citizens have further individual rights, are equal before the law, and the legislative and the courts constrain the executive.",
+   "chart_slug": "age-of-liberal-democracy-row",
+   "column_short_names": {
+    "Entity": "entity",
+    "Code": "code",
+    "Year": "year",
+    "Age of liberal democracy": "num_years_in_libdem_consecutive"
+   }
+  },
+  {
+   "index": 4,
+   "name": "04 Number of liberal democracies by age",
+   "embed": {
+    "slug": "number-liberal-democracies-age",
+    "query": {},
+    "image": null
+   },
+   "files": {
+    "html": {
+     "path": "figs/04 Number of liberal democracies by age.html",
+     "sha256": "9c0f4b2d5aa1d51eb0daf91f75b554029d902813cf286cf6ba3041cf3c94834f"
+    },
+    "csv": {
+     "path": "figs/04 Number of liberal democracies by age.csv",
+     "sha256": "9ca9c5bee04005f932ffcf929c432b1c11825635cf0ea2ccfbf2219fb86b4fbf"
+    },
+    "png": {
+     "path": "figs/04 Number of liberal democracies by age.png",
+     "sha256": "34c9db8995ca1feb245c74f832bd132da4058b1b938875e396a53b246bfeb348"
+    },
+    "txt": {
+     "path": "figs/04 Number of liberal democracies by age.txt",
+     "sha256": "6fe47c3798588049f04d1a406b7f6ff309312b2ed63c94d5fabeea80b8c4df05"
+    }
+   },
+   "view_url": "https://ourworldindata.org/grapher/number-liberal-democracies-age",
+   "csv_url": "https://ourworldindata.org/grapher/number-liberal-democracies-age.csv?csvType=filtered",
+   "png_url": "https://ourworldindata.org/grapher/number-liberal-democracies-age.png",
+   "data_available": true,
+   "config_title": "Number of liberal democracies by age",
+   "config_subtitle": "Classification by [Lührmann et al. (2018)](#dod:regimes-of-the-world) based on expert estimates by [V-Dem](#dod:v-dem). Liberal democracies are political systems that hold meaningful, free and fair, and multi-party elections, and their citizens have further individual rights, are equal before the law, and the legislative and the courts constrain the executive.",
+   "chart_slug": "number-liberal-democracies-age",
+   "column_short_names": {
+    "Entity": "entity",
+    "Code": "code",
+    "Year": "year",
+    "Liberal democracies aged 1-18 years": "num_countries_years_in_libdem__category_1_18_years",
+    "19-30 years": "num_countries_years_in_libdem__category_19_30_years",
+    "31-60 years": "num_countries_years_in_libdem__category_31_60_years",
+    "61-90 years": "num_countries_years_in_libdem__category_61_90_years",
+    "91 years +": "num_countries_years_in_libdem__category_91plus_years",
+    "Electoral democracies": "num_countries_regime__category_electoral_democracy",
+    "Electoral autocracies": "num_countries_regime__category_electoral_autocracy",
+    "Closed autocracies": "num_countries_regime__category_closed_autocracy"
+   }
+  },
+  {
+   "index": 5,
+   "name": "05 Age of electoral democracy",
+   "embed": {
+    "slug": "age-of-electoral-democracy-lexical",
+    "query": {
+     "tab": "map",
+     "country": "JOR~GBR~LTU"
+    },
+    "image": null
+   },
+   "files": {
+    "html": {
+     "path": "figs/05 Age of electoral democracy.html",
+     "sha256": "5843e40750715baf7e443fa0513bf86147d6f45a74bca9e2e8119d0e7c0c1110"
+    },
+    "csv": {
+     "path": "figs/05 Age of electoral democracy.csv",
+     "sha256": "f15c9ef7dfb71273648954b63becf06e2e731e93847ac18004a342d9f1daea84"
+    },
+    "png": {
+     "path": "figs/05 Age of electoral democracy.png",
+     "sha256": "4708954442c8f6b5b447cca3a7b84c45a8fff39bcc465c0c82d9871339a9106c"
+    },
+    "txt": {
+     "path": "figs/05 Age of electoral democracy.txt",
+     "sha256": "ba00b79acc1b944d7bc153720a6c5dd771200f00104bc9f71c593ee6b9d5062e"
+    }
+   },
+   "view_url": "https://ourworldindata.org/grapher/age-of-electoral-democracy-lexical?tab=map&country=JOR~GBR~LTU",
+   "csv_url": "https://ourworldindata.org/grapher/age-of-electoral-democracy-lexical.csv?csvType=filtered&tab=map&country=JOR~GBR~LTU",
+   "png_url": "https://ourworldindata.org/grapher/age-of-electoral-democracy-lexical.png?tab=map&country=JOR~GBR~LTU",
+   "data_available": true,
+   "config_title": "Age of electoral democracy",
+   "config_subtitle": "Data by the Lexical Index of Electoral Democracy. Electoral democracies are political systems with an elected government and parliament, universal voting rights, and competitive elections.",
+   "chart_slug": "age-of-electoral-democracy-lexical",
+   "column_short_names": {
+    "Entity": "entity",
+    "Code": "code",
+    "Year": "year",
+    "Age of electoral democracy": "age_electdem_lied"
+   }
+  },
+  {
+   "index": 6,
+   "name": "06 Number of electoral democracies by age",
+   "embed": {
+    "slug": "number-electoral-democracies-age-lexical",
+    "query": {
+     "time": "latest",
+     "country": "~OWID_WRL"
+    },
+    "image": null
+   },
+   "files": {
+    "html": {
+     "path": "figs/06 Number of electoral democracies by age.html",
+     "sha256": "3c3ae5d53b20a5576755479779446da239b8407103253f191f322b5e7e28f94f"
+    },
+    "csv": {
+     "path": "figs/06 Number of electoral democracies by age.csv",
+     "sha256": "957ca620bfc57a175c537baae843688cc08902875bd9c915a6a8fa962f59fbde"
+    },
+    "png": {
+     "path": "figs/06 Number of electoral democracies by age.png",
+     "sha256": "bcf11ca520076a24525b6eec8604daaf156d58a314b20497fe9badd91ef75a62"
+    },
+    "txt": {
+     "path": "figs/06 Number of electoral democracies by age.txt",
+     "sha256": "6698a1900cc68ec09b3701160468d1bac3ce536370909ab8d17ce2c3e13601f3"
+    }
+   },
+   "view_url": "https://ourworldindata.org/grapher/number-electoral-democracies-age-lexical?time=latest&country=~OWID_WRL",
+   "csv_url": "https://ourworldindata.org/grapher/number-electoral-democracies-age-lexical.csv?csvType=filtered&time=latest&country=~OWID_WRL",
+   "png_url": "https://ourworldindata.org/grapher/number-electoral-democracies-age-lexical.png?time=latest&country=~OWID_WRL",
+   "data_available": true,
+   "config_title": "Number of electoral democracies by age",
+   "config_subtitle": "Data by the Lexical Index of Electoral Democracy. Electoral democracies are political systems with an elected government and parliament, universal voting rights, and competitive elections.",
+   "chart_slug": "number-electoral-democracies-age-lexical",
+   "column_short_names": {
+    "Entity": "entity",
+    "Code": "code",
+    "Year": "year",
+    "Non-democracies": "num_democracy_lied__category_autocracy",
+    "91 years +": "num_group_age_electdem_lied__category_91plus_years",
+    "61-90 years": "num_group_age_electdem_lied__category_61_90_years",
+    "31-60 years": "num_group_age_electdem_lied__category_31_60_years",
+    "19-30 years": "num_group_age_electdem_lied__category_19_30_years",
+    "Electoral democracies aged 1-18 years": "num_group_age_electdem_lied__category_1_18_years"
+   }
+  }
+ ]
+}

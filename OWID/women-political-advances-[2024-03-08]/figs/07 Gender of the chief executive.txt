@@ -1,0 +1,12 @@
+Figure 07: 07 Gender of the chief executive
+Article: Women have made major advances in politics — but the world is still far from equal (2024-03-08)
+
+Title: Gender of the chief executive
+Subtitle: "Chief executive" is defined here as the head of state or the head of government, whoever has more power over the appointment and dismissal of cabinet ministers.
+Note: This is recorded on December 31 of each year. When the head of state and head of government hold equal power, the head of government is considered the chief executive.
+Source: V-Dem (2026)
+Units: 
+Chart: https://ourworldindata.org/grapher/gender-of-chief-executive
+
+Text before the figure: The map allows you to explore the specific countries and years that saw women chief executives.
+Text after the figure: # Much progress, but many shortcomings remain

@@ -1,0 +1,58 @@
+{
+ "id": 5905,
+ "slug": "countries-that-are-democratizing-and-autocratizing",
+ "title": "Countries that are democratizing and autocratizing",
+ "$schema": "https://files.ourworldindata.org/schemas/grapher-schema.011.json",
+ "version": 85,
+ "subtitle": "Data by [Episodes of Regime Transformation](#dod:regimes-episodes-regime-transformation) and [V-Dem](#dod:v-dem).",
+ "originUrl": "/democracy",
+ "stackMode": "relative",
+ "chartTypes": [
+  "StackedArea",
+  "StackedDiscreteBar"
+ ],
+ "dimensions": [
+  {
+   "display": {
+    "name": "Autocratizing regimes",
+    "color": "#d7191c"
+   },
+   "property": "y",
+   "variableId": 1210075
+  },
+  {
+   "display": {
+    "name": "Neither autocratizing nor democratizing",
+    "color": "#bc8e5a"
+   },
+   "property": "y",
+   "variableId": 1210077
+  },
+  {
+   "display": {
+    "name": "Democratizing regimes",
+    "color": "#2c7bb6"
+   },
+   "property": "y",
+   "variableId": 1210076
+  }
+ ],
+ "entityType": "region",
+ "isPublished": true,
+ "variantName": "Episodes of Regime Transformation",
+ "entityTypePlural": "regions",
+ "relatedQuestions": [
+  {
+   "url": "https://ourworldindata.org/explorers/democracy",
+   "text": "How do different approaches score democracy across the world?"
+  }
+ ],
+ "hideRelativeToggle": false,
+ "selectedEntityNames": [
+  "World"
+ ],
+ "hideAnnotationFieldsInTitle": {
+  "time": true,
+  "changeInPrefix": true
+ }
+}

@@ -1,0 +1,6 @@
+{
+ "figure": "03 Share of women who were married by age 15",
+ "checked_at": "2026-10-29T18:06:16.817587+00:00",
+ "status": "not_reproducible",
+ "reason": "the chart is not one of the V-Dem-only charts (data/reference/charts.json): it plots grapher/un/2026-07-31/un_sdg"
+}

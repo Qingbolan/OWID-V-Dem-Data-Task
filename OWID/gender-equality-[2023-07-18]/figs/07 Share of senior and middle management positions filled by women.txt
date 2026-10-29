@@ -1,0 +1,12 @@
+Figure 07: 07 Share of senior and middle management positions filled by women
+Article: Achieve gender equality and empower all women and girls (2023-07-18)
+
+Title: Share of senior and middle management positions filled by women
+Subtitle: Women who are employed in decision-making and management roles in government, as well as large enterprises and institutions.
+Note: Differences in the levels of responsibility between men and women, and the enterprises and institutions for which they work, are not considered.
+Source: International Labour Organization
+Units: %
+Chart: https://ourworldindata.org/grapher/proportion-of-women-in-senior-and-middle-management-positions
+
+Text before the figure: More research: Further data and research on this topic can be found at the Our World in Data topic page on Women’s Rights and Women's Employment .
+Text after the figure: ## Target 5.6 Universal access to reproductive rights and health

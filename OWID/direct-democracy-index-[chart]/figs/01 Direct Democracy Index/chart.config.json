@@ -1,0 +1,65 @@
+{
+ "id": 5745,
+ "map": {
+  "colorScale": {
+   "baseColorScheme": "YlGnBu",
+   "binningStrategy": "manual",
+   "customNumericValues": [
+    0,
+    0.099,
+    0.199,
+    0.299,
+    0.399,
+    0.499,
+    0.599,
+    0.699,
+    0.799,
+    0.899,
+    1
+   ]
+  }
+ },
+ "tab": "map",
+ "slug": "direct-democracy-index",
+ "title": "Direct Democracy Index",
+ "yAxis": {
+  "max": 1,
+  "min": 0
+ },
+ "$schema": "https://files.ourworldindata.org/schemas/grapher-schema.011.json",
+ "version": 54,
+ "subtitle": "Data by [V-Dem](#dod:v-dem). Expert estimates of the extent to which citizens can easily vote on specific issues themselves in popular initiatives, referendums, and plebiscites. The index ranges from 0 to 1 (easiest).",
+ "hasMapTab": true,
+ "originUrl": "/democracy",
+ "chartTypes": [
+  "LineChart",
+  "SlopeChart",
+  "DiscreteBar",
+  "Marimekko"
+ ],
+ "dimensions": [
+  {
+   "property": "y",
+   "variableId": 1210041
+  },
+  {
+   "property": "color",
+   "variableId": 900801
+  }
+ ],
+ "isPublished": true,
+ "variantName": "V-Dem",
+ "hideFacetControl": false,
+ "relatedQuestions": [
+  {
+   "url": "https://ourworldindata.org/explorers/democracy",
+   "text": "How do different approaches score democracy across the world?"
+  }
+ ],
+ "selectedEntityNames": [
+  "Romania",
+  "Switzerland",
+  "Taiwan",
+  "Venezuela"
+ ]
+}

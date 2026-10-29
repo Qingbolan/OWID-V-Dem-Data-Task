@@ -1,0 +1,12 @@
+Figure 23: 23 Share of countries with independent national human rights institutions
+Article: Promote just, peaceful and inclusive societies (2023-07-18)
+
+Title: Share of countries with independent national human rights institutions
+Subtitle: Independent national human rights institutions are self-governing administrative bodies set up by the respective country to promote and protect human rights. These institutions must meet the UN’s standards in order to be counted here.
+Note: 
+Source: United Nations High Commissioner for Human Rights and Global Alliance of National Human Rights Institutions
+Units: %
+Chart: https://ourworldindata.org/grapher/share-countries-accredited-independent-national-human-rights-institutions
+
+Text before the figure: More research: Further data and research can be found at the Our World in Data topic page on Human Rights .
+Text after the figure: ## Target 16.b Promote and enforce non-discriminatory laws and policies

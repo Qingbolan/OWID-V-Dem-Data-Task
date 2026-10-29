@@ -1,0 +1,120 @@
+{
+ "chart": {
+  "title": "Countries by share of women in parliament",
+  "subtitle": "Percentage of seats in lower or single chamber of the legislature held by women.",
+  "note": "Only countries with at least one legislative chamber included.",
+  "citation": "V-Dem (2026)",
+  "originalChartUrl": "https://ourworldindata.org/grapher/countries-by-share-of-women-in-parliament",
+  "selection": [
+   "World"
+  ]
+ },
+ "columns": {
+  "Number of countries with no women in parliament": {
+   "titleShort": "No women",
+   "titleLong": "No women",
+   "descriptionProcessing": "We only count the countries that V-Dem covers in the given year. Where we impute a country's data from a historical entity it was part of, those imputed values are excluded from the count, because the country did not yet exist separately at the time.",
+   "unit": "countries",
+   "timespan": "1900-2025",
+   "type": "Integer",
+   "owidVariableId": 1209961,
+   "shortName": "num_countries_wom_parl__category_0pct_women",
+   "lastUpdated": "2026-03-17",
+   "nextUpdate": "2027-03-17",
+   "citationShort": "V-Dem (2026) – processed by Our World in Data",
+   "citationLong": "V-Dem (2026) – processed by Our World in Data. “No women” [dataset]. V-Dem, “Democracy report v16” [original data].",
+   "fullMetadata": "https://api.ourworldindata.org/v1/indicators/1209961.metadata.json"
+  },
+  "Number of countries with 0-10% women in parliament": {
+   "titleShort": "Less than 10% women",
+   "titleLong": "Less than 10% women",
+   "descriptionProcessing": "We only count the countries that V-Dem covers in the given year. Where we impute a country's data from a historical entity it was part of, those imputed values are excluded from the count, because the country did not yet exist separately at the time.",
+   "unit": "countries",
+   "timespan": "1900-2025",
+   "type": "Integer",
+   "owidVariableId": 1209962,
+   "shortName": "num_countries_wom_parl__category_0_10pct_women",
+   "lastUpdated": "2026-03-17",
+   "nextUpdate": "2027-03-17",
+   "citationShort": "V-Dem (2026) – processed by Our World in Data",
+   "citationLong": "V-Dem (2026) – processed by Our World in Data. “Less than 10% women” [dataset]. V-Dem, “Democracy report v16” [original data].",
+   "fullMetadata": "https://api.ourworldindata.org/v1/indicators/1209962.metadata.json"
+  },
+  "Number of countries with 10-20% women in parliament": {
+   "titleShort": "10 - 20% women",
+   "titleLong": "10 - 20% women",
+   "descriptionProcessing": "We only count the countries that V-Dem covers in the given year. Where we impute a country's data from a historical entity it was part of, those imputed values are excluded from the count, because the country did not yet exist separately at the time.",
+   "unit": "countries",
+   "timespan": "1900-2025",
+   "type": "Integer",
+   "owidVariableId": 1209963,
+   "shortName": "num_countries_wom_parl__category_10_20pct_women",
+   "lastUpdated": "2026-03-17",
+   "nextUpdate": "2027-03-17",
+   "citationShort": "V-Dem (2026) – processed by Our World in Data",
+   "citationLong": "V-Dem (2026) – processed by Our World in Data. “10 - 20% women” [dataset]. V-Dem, “Democracy report v16” [original data].",
+   "fullMetadata": "https://api.ourworldindata.org/v1/indicators/1209963.metadata.json"
+  },
+  "Number of countries with 20-30% women in parliament": {
+   "titleShort": "20 - 30% women",
+   "titleLong": "20 - 30% women",
+   "descriptionProcessing": "We only count the countries that V-Dem covers in the given year. Where we impute a country's data from a historical entity it was part of, those imputed values are excluded from the count, because the country did not yet exist separately at the time.",
+   "unit": "countries",
+   "timespan": "1900-2025",
+   "type": "Integer",
+   "owidVariableId": 1209964,
+   "shortName": "num_countries_wom_parl__category_20_30pct_women",
+   "lastUpdated": "2026-03-17",
+   "nextUpdate": "2027-03-17",
+   "citationShort": "V-Dem (2026) – processed by Our World in Data",
+   "citationLong": "V-Dem (2026) – processed by Our World in Data. “20 - 30% women” [dataset]. V-Dem, “Democracy report v16” [original data].",
+   "fullMetadata": "https://api.ourworldindata.org/v1/indicators/1209964.metadata.json"
+  },
+  "Number of countries with 30-40% women in parliament": {
+   "titleShort": "30 - 40% women",
+   "titleLong": "30 - 40% women",
+   "descriptionProcessing": "We only count the countries that V-Dem covers in the given year. Where we impute a country's data from a historical entity it was part of, those imputed values are excluded from the count, because the country did not yet exist separately at the time.",
+   "unit": "countries",
+   "timespan": "1900-2025",
+   "type": "Integer",
+   "owidVariableId": 1209966,
+   "shortName": "num_countries_wom_parl__category_30_40pct_women",
+   "lastUpdated": "2026-03-17",
+   "nextUpdate": "2027-03-17",
+   "citationShort": "V-Dem (2026) – processed by Our World in Data",
+   "citationLong": "V-Dem (2026) – processed by Our World in Data. “30 - 40% women” [dataset]. V-Dem, “Democracy report v16” [original data].",
+   "fullMetadata": "https://api.ourworldindata.org/v1/indicators/1209966.metadata.json"
+  },
+  "Number of countries with 40-50% women in parliament": {
+   "titleShort": "40 - 50% women",
+   "titleLong": "40 - 50% women",
+   "descriptionProcessing": "We only count the countries that V-Dem covers in the given year. Where we impute a country's data from a historical entity it was part of, those imputed values are excluded from the count, because the country did not yet exist separately at the time.",
+   "unit": "countries",
+   "timespan": "1900-2025",
+   "type": "Integer",
+   "owidVariableId": 1209965,
+   "shortName": "num_countries_wom_parl__category_40_50pct_women",
+   "lastUpdated": "2026-03-17",
+   "nextUpdate": "2027-03-17",
+   "citationShort": "V-Dem (2026) – processed by Our World in Data",
+   "citationLong": "V-Dem (2026) – processed by Our World in Data. “40 - 50% women” [dataset]. V-Dem, “Democracy report v16” [original data].",
+   "fullMetadata": "https://api.ourworldindata.org/v1/indicators/1209965.metadata.json"
+  },
+  "Number of countries with 50%+ women in parliament": {
+   "titleShort": "50% or more women",
+   "titleLong": "50% or more women",
+   "descriptionProcessing": "We only count the countries that V-Dem covers in the given year. Where we impute a country's data from a historical entity it was part of, those imputed values are excluded from the count, because the country did not yet exist separately at the time.",
+   "unit": "countries",
+   "timespan": "1900-2025",
+   "type": "Integer",
+   "owidVariableId": 1209967,
+   "shortName": "num_countries_wom_parl__category_50pctplus_women",
+   "lastUpdated": "2026-03-17",
+   "nextUpdate": "2027-03-17",
+   "citationShort": "V-Dem (2026) – processed by Our World in Data",
+   "citationLong": "V-Dem (2026) – processed by Our World in Data. “50% or more women” [dataset]. V-Dem, “Democracy report v16” [original data].",
+   "fullMetadata": "https://api.ourworldindata.org/v1/indicators/1209967.metadata.json"
+  }
+ },
+ "dateDownloaded": "2026-10-29"
+}

@@ -1,0 +1,12 @@
+Figure 01: 01 Countries that have universal voting rights
+Article: Women have made major advances in politics — but the world is still far from equal (2024-03-08)
+
+Title: Countries that have universal voting rights
+Subtitle: This does not consider elections being held in practice, informal restrictions on voting rights, or legal restrictions based on age, criminal conviction, disability, or local residency.
+Note: 
+Source: Lexical Index (2026)
+Units: countries
+Chart: https://ourworldindata.org/grapher/countries-that-have-universal-voting-rights
+
+Text before the figure: The gap rapidly closed in the decades after World War II, when the voting-rights discrimination against women ended in many countries, and both women and men gained the right to vote in many others.
+Text after the figure: Today there are no countries that formally discriminate between men and women regarding the right to vote. In 2006, Kuwait was the last country that extended the right to vote to women. The corresponding area in the chart therefore disappears in recent years.

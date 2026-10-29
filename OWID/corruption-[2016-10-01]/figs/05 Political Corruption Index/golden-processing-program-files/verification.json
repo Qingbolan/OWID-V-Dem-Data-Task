@@ -1,0 +1,18 @@
+{
+ "figure": "05 Political Corruption Index",
+ "checked_at": "2026-10-29T18:06:14.845364+00:00",
+ "status": "match",
+ "gold_rows": 319,
+ "gold_rows_missing_in_reference": 0,
+ "mismatched_cells": {
+  "Political Corruption Index": 0
+ },
+ "tolerance": {
+  "Political Corruption Index": {
+   "abs": 0.001,
+   "rel": 1e-06
+  }
+ },
+ "first_mismatches": [],
+ "program": "golden.vdem_pipeline"
+}

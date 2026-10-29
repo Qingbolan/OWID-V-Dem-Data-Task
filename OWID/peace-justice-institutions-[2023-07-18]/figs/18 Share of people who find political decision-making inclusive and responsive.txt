@@ -1,0 +1,12 @@
+Figure 18: 18 Share of people who find political decision-making inclusive and responsive
+Article: Promote just, peaceful and inclusive societies (2023-07-18)
+
+Title: Share of people who find political decision-making inclusive and responsive
+Subtitle: Share of people who responded that the political system in their country allows people like them to have a say in what the government does and to have an influence on politics.
+Note: 
+Source: United Nations Development Programme
+Units: %
+Chart: https://ourworldindata.org/grapher/share-of-people-who-find-political-decision-making-inclusive-and-responsive
+
+Text before the figure: Target: “Ensure responsive, inclusive, participatory and representative decision-making at all levels” by 2030.
+Text after the figure: ## Target 16.8 Strengthen the participation in global governance

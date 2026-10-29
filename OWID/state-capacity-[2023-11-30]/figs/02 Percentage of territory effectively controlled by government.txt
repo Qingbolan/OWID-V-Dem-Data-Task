@@ -1,0 +1,12 @@
+Figure 02: 02 Percentage of territory effectively controlled by government
+Article: State Capacity (2023-11-30)
+
+Title: Percentage of territory effectively controlled by government
+Subtitle: Data by [V-Dem](#dod:v-dem). Expert estimates of the extent to which the government is recognized as the main authority, or rejected by others, such as insurgent groups, criminal organizations, or other countries.
+Note: Values are missing if the country is not independent.
+Source: V-Dem (2026)
+Units: %
+Chart: https://ourworldindata.org/grapher/percentage-of-territory-controlled-by-government
+
+Text before the figure: We describe the V-Dem data, and how we expand the years and countries covered, in our article on its electoral democracy index.
+Text after the figure: #### Bureaucracies are more rigorous and impartial in some countries than others

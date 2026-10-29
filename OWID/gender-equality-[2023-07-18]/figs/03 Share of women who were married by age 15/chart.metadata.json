@@ -1,0 +1,37 @@
+{
+ "chart": {
+  "title": "Share of women who were married by age 15",
+  "subtitle": "Women aged 20-24, who were married or in a union before they reached the age of 15.",
+  "citation": "UNICEF",
+  "originalChartUrl": "https://ourworldindata.org/grapher/women-married-by-age-15",
+  "selection": [
+   "East Timor",
+   "Kyrgyzstan",
+   "India",
+   "Colombia",
+   "Niger",
+   "Chad",
+   "Central African Republic",
+   "Honduras"
+  ]
+ },
+ "columns": {
+  "5.3.1 - Proportion of women aged 20-24 years who were married or in a union before age 15 (%) - SP_DYN_MRBF15": {
+   "titleShort": "Proportion of women aged 20-24 years who were married or in a union before age 15 (%)",
+   "titleLong": "Proportion of women aged 20-24 years who were married or in a union before age 15 (%)",
+   "descriptionShort": "Proportion of women aged 20-24 years who were married or in a union before age 15 (%).",
+   "shortUnit": "%",
+   "unit": "%",
+   "timespan": "2005-2025",
+   "type": "Numeric",
+   "owidVariableId": 1304626,
+   "shortName": "_5_3_1__sp_dyn_mrbf15",
+   "lastUpdated": "2026-07-31",
+   "nextUpdate": "2027-07-31",
+   "citationShort": "UNICEF – processed by Our World in Data",
+   "citationLong": "UNICEF – processed by Our World in Data. “Proportion of women aged 20-24 years who were married or in a union before age 15 (%)” [dataset]. UNICEF, “Data from multiple sources” [original data].",
+   "fullMetadata": "https://api.ourworldindata.org/v1/indicators/1304626.metadata.json"
+  }
+ },
+ "dateDownloaded": "2026-10-29"
+}

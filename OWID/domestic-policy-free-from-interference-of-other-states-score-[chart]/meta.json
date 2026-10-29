@@ -1,0 +1,55 @@
+{
+ "title": "Domestic Policy Free from Interference of other States Score",
+ "url": "https://ourworldindata.org/grapher/domestic-policy-free-from-interference-of-other-states-score",
+ "date_published": null,
+ "chart_page": true,
+ "authors": [],
+ "retrieved_at": "2026-10-29T17:06:24.841921+00:00",
+ "materialised_at": "2026-10-29T17:06:24.841949+00:00",
+ "source_original_sha256": "eadf70c37230dad2da805dc4ff2b09ca4e6464c92d715427839ae17e8e64486c",
+ "offline_snapshot": {
+  "page": "source.html",
+  "assets": "source_files/",
+  "assets_manifest": "source_files/manifest.json",
+  "asset_count": 73,
+  "removed": "all <script> elements except application/ld+json"
+ },
+ "figures": [
+  {
+   "index": 1,
+   "name": "01 Domestic Policy Free from Interference of other States Score",
+   "embed": {
+    "slug": "domestic-policy-free-from-interference-of-other-states-score",
+    "query": {},
+    "image": null
+   },
+   "view_url": "https://ourworldindata.org/grapher/domestic-policy-free-from-interference-of-other-states-score",
+   "csv_url": "https://ourworldindata.org/grapher/domestic-policy-free-from-interference-of-other-states-score.csv?csvType=filtered",
+   "png_url": "https://ourworldindata.org/grapher/domestic-policy-free-from-interference-of-other-states-score.png",
+   "data_available": true,
+   "config_title": "Domestic Policy Free from Interference of other States Score",
+   "config_subtitle": "Expert estimates by [V-Dem](#dod:v-dem). International treaties, organizations, and confederations not considered if the state negotiated its entry and is free to exit. International market forces and transnational corporations not considered. Higher scores mean more freedom. A score of 0 is approximately the average across all countries and years.",
+   "files": {
+    "txt": {
+     "path": "figs/01 Domestic Policy Free from Interference of other States Score.txt",
+     "sha256": "967f6d0aff5126d014f8161ed3a08a9ea162bcf8abee105b8cb02ce7b88b0f2a"
+    },
+    "csv": {
+     "path": "figs/01 Domestic Policy Free from Interference of other States Score.csv",
+     "sha256": "9b7f1c1700b03a32e4901a676af55b9d95e2dec66deff6af3a22f253e6ff02ee"
+    },
+    "png": {
+     "path": "figs/01 Domestic Policy Free from Interference of other States Score.png",
+     "sha256": "3bafa56955a6310b5e5385a9ada332b7c2989f0ab6796bc55e0f423eee75bdd6"
+    }
+   },
+   "chart_slug": "domestic-policy-free-from-interference-of-other-states-score",
+   "column_short_names": {
+    "Entity": "entity",
+    "Code": "code",
+    "Year": "year",
+    "Domestic policymaking free from foreign influence": "dom_auton_vdem__estimate_best"
+   }
+  }
+ ]
+}

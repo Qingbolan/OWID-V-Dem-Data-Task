@@ -1,0 +1,58 @@
+{
+ "reproducible": true,
+ "program": "golden.vdem_pipeline",
+ "chart_slug": "government-effectiveness-vs-electoral-democracy-index",
+ "view": "https://ourworldindata.org/grapher/government-effectiveness-vs-electoral-democracy-index",
+ "columns": [
+  "Electoral Democracy ndex",
+  "Government Effectiveness Index"
+ ],
+ "solution_columns": [
+  "Electoral Democracy ndex",
+  "Government Effectiveness Index"
+ ],
+ "output_precision": {
+  "Electoral Democracy ndex": 3,
+  "Government Effectiveness Index": 3
+ },
+ "sources": {
+  "Electoral Democracy ndex": {
+   "table": "vdem_multi_with_regions",
+   "column": "electdem_vdem",
+   "filter": {
+    "estimate": "best"
+   },
+   "short_name": "electdem_vdem__estimate_best",
+   "gold_index": 3
+  },
+  "Government Effectiveness Index": {
+   "table": "vdem_uni_without_regions",
+   "column": "goveffective_vdem_wbgi",
+   "filter": {},
+   "short_name": "goveffective_vdem_wbgi",
+   "gold_index": 4
+  }
+ },
+ "gold_column_index": {
+  "Electoral Democracy ndex": 3,
+  "Government Effectiveness Index": 4
+ },
+ "entity_mapping": "data/reference/owid_etl/vdem/vdem.countries.json",
+ "compare": {
+  "Electoral Democracy ndex": {
+   "abs": 0.001,
+   "rel": 1e-06
+  },
+  "Government Effectiveness Index": {
+   "abs": 0.001,
+   "rel": 1e-06
+  }
+ },
+ "encodings": {},
+ "scale": {},
+ "stack_relative": false,
+ "time_tolerance": 0,
+ "not_compared": {
+  "World region according to OWID": "OWID's world region (map and scatter colour), not a V-Dem indicator"
+ }
+}

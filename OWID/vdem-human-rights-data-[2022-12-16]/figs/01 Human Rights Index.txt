@@ -1,0 +1,12 @@
+Figure 01: 01 Human Rights Index
+Article: The 'Varieties of Democracy' data: how do researchers measure human rights? (2022-12-16)
+
+Title: Human Rights Index
+Subtitle: Data by [V-Dem](#dod:v-dem). Expert estimates of the extent to which people are free from government torture, political killings, and forced labor, have property rights, and enjoy the freedoms of movement, religion, expression, and association. The index ranges from 0 to 1 (most rights).
+Note: 
+Source: V-Dem (2026)
+Units: 
+Chart: https://ourworldindata.org/grapher/human-rights-index-vdem
+
+Text before the figure: The spectrum ranges from 0 (‘fewest rights’) to 1 (‘most rights’).
+Text after the figure: # What years and countries are covered?

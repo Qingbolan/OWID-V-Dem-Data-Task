@@ -1,0 +1,34 @@
+{
+ "chart": {
+  "title": "Gender of the chief executive",
+  "subtitle": "\"Chief executive\" is defined here as the head of state or the head of government, whoever has more power over the appointment and dismissal of cabinet ministers.",
+  "note": "This is recorded on December 31 of each year. When the head of state and head of government hold equal power, the head of government is considered the chief executive.",
+  "citation": "V-Dem (2026)",
+  "originalChartUrl": "https://ourworldindata.org/grapher/gender-of-chief-executive",
+  "selection": [
+   "Argentina",
+   "Australia",
+   "Botswana",
+   "China"
+  ]
+ },
+ "columns": {
+  "Woman chief executive (31st December)": {
+   "titleShort": "Woman chief executive (31st December)",
+   "titleLong": "Woman chief executive (31st December)",
+   "descriptionShort": "The variable denotes whether the chief executive of government in office on December 31 is a woman.",
+   "descriptionProcessing": "Assigns the value based on the gender of the most powerful chief: either Head of state or Head of government.\n\nUses gender from HOS:\n  - If head of state is more powerful than head of government, and head of state is the head of the executive.\n  - If head of state is also head of government.\n  - If head of government is less powerful than head of state.\n\nUses HOG if:\n  - If head of state is less powerful than head of government\n\nWe derive this indicator from V-Dem indicators: `v2exfemhos`, `v2exfemhog`, `v2ex_hosw`, and `v2ex_hogw`.\n\n### Data imputation\nUnlike most indicators in this dataset, this one is not extended back in time with the data of the historical entity a country was part of. Who led a country is a fact about that country rather than about the power that ruled its territory earlier, so the years before a country appears in V-Dem's data are left empty.",
+   "unit": "",
+   "timespan": "1789-2025",
+   "type": "Integer",
+   "owidVariableId": 1210054,
+   "shortName": "wom_hoe_vdem",
+   "lastUpdated": "2026-03-17",
+   "nextUpdate": "2027-03-17",
+   "citationShort": "V-Dem (2026) – processed by Our World in Data",
+   "citationLong": "V-Dem (2026) – processed by Our World in Data. “Woman chief executive (31st December)” [dataset]. V-Dem, “Democracy report v16” [original data].",
+   "fullMetadata": "https://api.ourworldindata.org/v1/indicators/1210054.metadata.json"
+  }
+ },
+ "dateDownloaded": "2026-10-29"
+}

@@ -1,0 +1,60 @@
+{
+ "title": "Key features of electoral democracy",
+ "url": "https://ourworldindata.org/grapher/key-features-of-electoral-democracy",
+ "date_published": null,
+ "chart_page": true,
+ "authors": [],
+ "retrieved_at": "2026-10-29T17:24:55.719831+00:00",
+ "materialised_at": "2026-10-29T17:24:55.719840+00:00",
+ "source_original_sha256": "02d2d87ce6d1a3e6d41f69ddc637d757831067130d882d9ae14b8934e65ab68e",
+ "offline_snapshot": {
+  "page": "source.html",
+  "assets": "source_files/",
+  "assets_manifest": "source_files/manifest.json",
+  "asset_count": 73,
+  "removed": "all <script> elements except application/ld+json"
+ },
+ "figures": [
+  {
+   "index": 1,
+   "name": "01 Key features of electoral democracy",
+   "embed": {
+    "slug": "key-features-of-electoral-democracy",
+    "query": {},
+    "image": null
+   },
+   "view_url": "https://ourworldindata.org/grapher/key-features-of-electoral-democracy",
+   "csv_url": "https://ourworldindata.org/grapher/key-features-of-electoral-democracy.csv?csvType=filtered",
+   "png_url": "https://ourworldindata.org/grapher/key-features-of-electoral-democracy.png",
+   "data_available": true,
+   "config_title": "Key features of electoral democracy",
+   "config_subtitle": "The [indices](#dod:key-indices-electoral-democracy) are by [V-Dem](#dod:v-dem), based on expert estimates, and range from 0 to 1 (most democratic).",
+   "files": {
+    "txt": {
+     "path": "figs/01 Key features of electoral democracy.txt",
+     "sha256": "160a83a24ea58e3176d40b01e2432521af1cc56525aa6d8d44b2ab9883c0e328"
+    },
+    "csv": {
+     "path": "figs/01 Key features of electoral democracy.csv",
+     "sha256": "efa147d35238ddb69007a2c4548383f2ee808107b26c83245f36f6f33f460131"
+    },
+    "png": {
+     "path": "figs/01 Key features of electoral democracy.png",
+     "sha256": "7a6a239873afa028956261c867663c2c0e8fb040c8a60145876355ca965979ff"
+    }
+   },
+   "chart_slug": "key-features-of-electoral-democracy",
+   "column_short_names": {
+    "Entity": "entity",
+    "Code": "code",
+    "Year": "year",
+    "Electoral democracy overall": "electdem_vdem__estimate_best",
+    "Elected officials": "electoff_vdem",
+    "Share of adult citizens who have the right to vote": "suffr_vdem",
+    "Free and fair elections": "electfreefair_vdem__estimate_best",
+    "Freedom of association": "freeassoc_vdem__estimate_best",
+    "Freedom of expression": "freeexpr_vdem__estimate_best"
+   }
+  }
+ ]
+}

@@ -1,0 +1,12 @@
+Figure 21: 21 Confirmed killings of human rights defenders, journalists and trade unionists
+Article: Promote just, peaceful and inclusive societies (2023-07-18)
+
+Title: Confirmed killings of human rights defenders, journalists and trade unionists
+Subtitle: Number of killings that have been confirmed by UN agencies and national human rights institutions.
+Note: 
+Source: Office of the United Nations High Commissioner for Human Rights
+Units: number
+Chart: https://ourworldindata.org/grapher/cases-of-killed-human-rights-defenders-journalists-trade-unionists
+
+Text before the figure: More research: Further data and research can be found at the Our World in Data topic page on Human Rights .
+Text after the figure: ### SDG Indicator 16.10.2 Public access to information

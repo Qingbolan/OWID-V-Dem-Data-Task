@@ -1,0 +1,9 @@
+Figure 01: 01 Voter turnout of voting-age population
+Article: none; source page is the chart page https://ourworldindata.org/grapher/voter-turnout-of-voting-age-population
+
+Title: Voter turnout of voting-age population
+Subtitle: Percentage of voting-age population who cast a vote in the national election, according to official results.
+Note: Problems with the voter registry or registration system can result in values above 100%.
+Source: V-Dem (2026)
+Units: %
+Chart: https://ourworldindata.org/grapher/voter-turnout-of-voting-age-population

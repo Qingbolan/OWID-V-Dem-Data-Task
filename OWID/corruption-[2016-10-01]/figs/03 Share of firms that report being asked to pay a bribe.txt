@@ -1,0 +1,12 @@
+Figure 03: 03 Share of firms that report being asked to pay a bribe
+Article: Corruption (2016-10-01)
+
+Title: Share of firms that report being asked to pay a bribe
+Subtitle: [Bribes](#dod:bribery) when dealing with core public services, such as operating licenses and construction permits.
+Note: 
+Source: World Bank Enterprise Surveys (2024)
+Units: %
+Chart: https://ourworldindata.org/grapher/bribery-incidence-for-firms
+
+Text before the figure: As with surveys of individuals, these results can underestimate how common corruption is. Some companies may not feel safe admitting their experiences, even anonymously, and differences in how surveys are run or understood can limit the comparability across countries.
+Text after the figure: ## How do experts assess corruption?

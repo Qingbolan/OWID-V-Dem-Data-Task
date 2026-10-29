@@ -1,0 +1,9 @@
+Figure 01: 01 Elected Political Leaders Index
+Article: none; source page is the chart page https://ourworldindata.org/grapher/elected-political-leaders-index
+
+Title: Elected Political Leaders Index
+Subtitle: Data by [V-Dem](#dod:v-dem). It measures the extent to which broad elections choose the chief executive and the legislature. The index ranges from 0 to 1 (chief executive and entire legislature elected).
+Note: 
+Source: V-Dem (2026)
+Units: 
+Chart: https://ourworldindata.org/grapher/elected-political-leaders-index

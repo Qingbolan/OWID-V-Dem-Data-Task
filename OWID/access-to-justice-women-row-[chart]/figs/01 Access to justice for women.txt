@@ -1,0 +1,9 @@
+Figure 01: 01 Access to justice for women
+Article: none; source page is the chart page https://ourworldindata.org/grapher/access-to-justice-women-row
+
+Title: Access to justice for women
+Subtitle: Data by Lührmann et al. (2018) and [V-Dem](#dod:v-dem). Expert estimates of whether women can safely bring cases before courts, are able to seek redress if public authorities violate their rights, and trials are fair.
+Note: 
+Source: V-Dem (2026)
+Units: 
+Chart: https://ourworldindata.org/grapher/access-to-justice-women-row

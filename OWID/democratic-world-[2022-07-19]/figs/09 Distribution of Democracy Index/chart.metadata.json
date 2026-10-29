@@ -1,0 +1,43 @@
+{
+ "chart": {
+  "title": "Distribution of Democracy Index",
+  "subtitle": "Data by Polity 5. Expert estimates of the extent to which open, multi-party, and competitive elections choose a chief executive who faces comprehensive institutional constraints, and political participation is competitive. The index here ranges from 0 to 20 (fully democratic).",
+  "citation": "Polity 5 (2020)",
+  "originalChartUrl": "https://ourworldindata.org/grapher/distribution-democracy-index-polity",
+  "selection": []
+ },
+ "columns": {
+  "Democracy (recoded 0-20)": {
+   "titleShort": "Democracy Index",
+   "titleLong": "Democracy Index",
+   "descriptionShort": "It combines information on the extent to which open, multi-party, and competitive elections choose a chief executive who faces comprehensive institutional constraints, and political participation is competitive. It ranges from 0 to 20 (fully democratic).",
+   "descriptionKey": "We have other democracy data sources that also cover more recent years and have more precise data. You can find them in our [Key Democracy Charts](https://ourworldindata.org/democracy#all-charts) and [Democracy Data Explorer](https://ourworldindata.org/explorers/democracy).",
+   "descriptionProcessing": "It matches the variable `polity2` in Polity 5 (2021), with the values rescaled to range from 0 to 20 instead of -10 to 10.\nValues for continents have been obtained by averaging the values of the countries in the continent.",
+   "unit": "",
+   "timespan": "1776-2020",
+   "type": "Numeric",
+   "owidVariableId": 901279,
+   "shortName": "democracy_recod_polity",
+   "lastUpdated": "2024-05-13",
+   "nextUpdate": "2026-11-29",
+   "citationShort": "Polity 5 (2020) – processed by Our World in Data",
+   "citationLong": "Polity 5 (2020) – processed by Our World in Data. “Democracy Index” [dataset]. Polity 5, “Polity5 Project, Political Regime Characteristics and Transitions, 1800–2018 5” [original data].",
+   "fullMetadata": "https://api.ourworldindata.org/v1/indicators/901279.metadata.json"
+  },
+  "World region according to OWID": {
+   "titleShort": "World region according to OWID",
+   "titleLong": "World region according to OWID",
+   "descriptionShort": "Regions defined by Our World in Data, which are used in OWID charts and maps.",
+   "unit": "",
+   "timespan": "2023-2023",
+   "type": "Continent",
+   "owidVariableId": 900801,
+   "shortName": "owid_region",
+   "lastUpdated": "2023-01-01",
+   "citationShort": "Our World in Data",
+   "citationLong": "Our World in Data. “World region according to OWID” [dataset]. Our World in Data, “Regions” [original data].",
+   "fullMetadata": "https://api.ourworldindata.org/v1/indicators/900801.metadata.json"
+  }
+ },
+ "dateDownloaded": "2026-10-29"
+}

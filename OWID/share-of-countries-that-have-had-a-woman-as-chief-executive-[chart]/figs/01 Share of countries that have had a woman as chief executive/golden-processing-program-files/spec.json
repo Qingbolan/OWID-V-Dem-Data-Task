@@ -1,0 +1,54 @@
+{
+ "reproducible": true,
+ "program": "golden.vdem_pipeline",
+ "chart_slug": "share-of-countries-that-have-had-a-woman-as-chief-executive",
+ "view": "https://ourworldindata.org/grapher/share-of-countries-that-have-had-a-woman-as-chief-executive",
+ "columns": [
+  "Any woman chief executive",
+  "Democratically-elected woman chief executive"
+ ],
+ "solution_columns": [
+  "Any woman chief executive",
+  "Democratically-elected woman chief executive"
+ ],
+ "output_precision": {
+  "Any woman chief executive": 7,
+  "Democratically-elected woman chief executive": 7
+ },
+ "sources": {
+  "Any woman chief executive": {
+   "table": "vdem_share_countries",
+   "column": "share_countries_wom_hoe_ever",
+   "filter": {},
+   "short_name": "share_countries_wom_hoe_ever",
+   "gold_index": 3
+  },
+  "Democratically-elected woman chief executive": {
+   "table": "vdem_share_countries",
+   "column": "share_countries_wom_hoe_ever_demelect",
+   "filter": {},
+   "short_name": "share_countries_wom_hoe_ever_demelect",
+   "gold_index": 4
+  }
+ },
+ "gold_column_index": {
+  "Any woman chief executive": 3,
+  "Democratically-elected woman chief executive": 4
+ },
+ "entity_mapping": "data/reference/owid_etl/vdem/vdem.countries.json",
+ "compare": {
+  "Any woman chief executive": {
+   "abs": 1e-07,
+   "rel": 1e-06
+  },
+  "Democratically-elected woman chief executive": {
+   "abs": 1e-07,
+   "rel": 1e-06
+  }
+ },
+ "encodings": {},
+ "scale": {},
+ "stack_relative": false,
+ "time_tolerance": 0,
+ "not_compared": {}
+}

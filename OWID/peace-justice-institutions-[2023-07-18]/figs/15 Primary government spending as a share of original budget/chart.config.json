@@ -1,0 +1,60 @@
+{
+ "id": 3863,
+ "map": {
+  "colorScale": {
+   "baseColorScheme": "Set1",
+   "binningStrategy": "manual",
+   "colorSchemeInvert": true,
+   "customNumericColors": [
+    "#1f78b4",
+    "#b2df8a",
+    "#e31a1c"
+   ],
+   "customNumericLabels": [
+    "Under budget",
+    "On budget",
+    "Over budget"
+   ],
+   "customNumericValues": [
+    0,
+    85,
+    115,
+    0
+   ]
+  },
+  "columnSlug": "1301149",
+  "timeTolerance": 5
+ },
+ "tab": "map",
+ "slug": "govt-expenditure-share-budget",
+ "title": "Primary government spending as a share of original budget",
+ "yAxis": {
+  "max": 0,
+  "min": 0
+ },
+ "$schema": "https://files.ourworldindata.org/schemas/grapher-schema.011.json",
+ "version": 27,
+ "subtitle": "Expenditures between 85% and 115% of the original budget is considered consistent with good international practices.",
+ "hasMapTab": true,
+ "originUrl": "/government-spending",
+ "dimensions": [
+  {
+   "property": "y",
+   "variableId": 1301149
+  }
+ ],
+ "isPublished": true,
+ "selectedEntityNames": [
+  "Australia",
+  "China",
+  "India",
+  "Brazil",
+  "Argentina",
+  "Democratic Republic of Congo",
+  "Niger",
+  "Saudi Arabia",
+  "France",
+  "Germany",
+  "Russia"
+ ]
+}

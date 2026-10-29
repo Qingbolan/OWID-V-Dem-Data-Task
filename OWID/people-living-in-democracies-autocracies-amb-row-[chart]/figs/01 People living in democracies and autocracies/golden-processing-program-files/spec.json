@@ -1,0 +1,211 @@
+{
+ "reproducible": true,
+ "program": "golden.vdem_pipeline",
+ "chart_slug": "people-living-in-democracies-autocracies-amb-row",
+ "view": "https://ourworldindata.org/grapher/people-living-in-democracies-autocracies-amb-row",
+ "columns": [
+  "No regime data",
+  "People living in closed autocracies",
+  "in probably closed aut.",
+  "in probably elect. aut.",
+  "in electoral autocracies",
+  " in probably elect. aut.",
+  "in probably elect. dem.",
+  "in electoral democracies",
+  " in probably elect. dem.",
+  "in probably lib. dem.",
+  "in liberal democracies"
+ ],
+ "solution_columns": [
+  "No regime data",
+  "People living in closed autocracies",
+  "in probably closed aut.",
+  "in probably elect. aut.",
+  "in electoral autocracies",
+  " in probably elect. aut.",
+  "in probably elect. dem.",
+  "in electoral democracies",
+  " in probably elect. dem.",
+  "in probably lib. dem.",
+  "in liberal democracies"
+ ],
+ "output_precision": {
+  "No regime data": 0,
+  "People living in closed autocracies": 0,
+  "in probably closed aut.": 0,
+  "in probably elect. aut.": 0,
+  "in electoral autocracies": 0,
+  " in probably elect. aut.": 0,
+  "in probably elect. dem.": 0,
+  "in electoral democracies": 0,
+  " in probably elect. dem.": 0,
+  "in probably lib. dem.": 0,
+  "in liberal democracies": 0
+ },
+ "sources": {
+  "No regime data": {
+   "table": "vdem_population",
+   "column": "population_regime_amb",
+   "filter": {
+    "category": "-1"
+   },
+   "short_name": "population_regime_amb__category__1",
+   "gold_index": 3
+  },
+  "People living in closed autocracies": {
+   "table": "vdem_population",
+   "column": "population_regime_amb",
+   "filter": {
+    "category": "closed autocracy"
+   },
+   "short_name": "population_regime_amb__category_closed_autocracy",
+   "gold_index": 4
+  },
+  "in probably closed aut.": {
+   "table": "vdem_population",
+   "column": "population_regime_amb",
+   "filter": {
+    "category": "closed (maybe electoral) autocracy"
+   },
+   "short_name": "population_regime_amb__category_closed__maybe_electoral__autocracy",
+   "gold_index": 5
+  },
+  "in probably elect. aut.": {
+   "table": "vdem_population",
+   "column": "population_regime_amb",
+   "filter": {
+    "category": "electoral (maybe closed) autocracy"
+   },
+   "short_name": "population_regime_amb__category_electoral__maybe_closed__autocracy",
+   "gold_index": 6
+  },
+  "in electoral autocracies": {
+   "table": "vdem_population",
+   "column": "population_regime_amb",
+   "filter": {
+    "category": "electoral autocracy"
+   },
+   "short_name": "population_regime_amb__category_electoral_autocracy",
+   "gold_index": 7
+  },
+  " in probably elect. aut.": {
+   "table": "vdem_population",
+   "column": "population_regime_amb",
+   "filter": {
+    "category": "electoral autocracy (maybe electoral democracy)"
+   },
+   "short_name": "population_regime_amb__category_electoral_autocracy__maybe_electoral_democracy",
+   "gold_index": 8
+  },
+  "in probably elect. dem.": {
+   "table": "vdem_population",
+   "column": "population_regime_amb",
+   "filter": {
+    "category": "electoral democracy (maybe electoral autocracy)"
+   },
+   "short_name": "population_regime_amb__category_electoral_democracy__maybe_electoral_autocracy",
+   "gold_index": 9
+  },
+  "in electoral democracies": {
+   "table": "vdem_population",
+   "column": "population_regime_amb",
+   "filter": {
+    "category": "electoral democracy"
+   },
+   "short_name": "population_regime_amb__category_electoral_democracy",
+   "gold_index": 10
+  },
+  " in probably elect. dem.": {
+   "table": "vdem_population",
+   "column": "population_regime_amb",
+   "filter": {
+    "category": "electoral democracy (maybe liberal democracy)"
+   },
+   "short_name": "population_regime_amb__category_electoral_democracy__maybe_liberal_democracy",
+   "gold_index": 11
+  },
+  "in probably lib. dem.": {
+   "table": "vdem_population",
+   "column": "population_regime_amb",
+   "filter": {
+    "category": "liberal democracy (maybe electoral democracy)"
+   },
+   "short_name": "population_regime_amb__category_liberal_democracy__maybe_electoral_democracy",
+   "gold_index": 12
+  },
+  "in liberal democracies": {
+   "table": "vdem_population",
+   "column": "population_regime_amb",
+   "filter": {
+    "category": "liberal democracy"
+   },
+   "short_name": "population_regime_amb__category_liberal_democracy",
+   "gold_index": 13
+  }
+ },
+ "gold_column_index": {
+  "No regime data": 3,
+  "People living in closed autocracies": 4,
+  "in probably closed aut.": 5,
+  "in probably elect. aut.": 6,
+  "in electoral autocracies": 7,
+  " in probably elect. aut.": 8,
+  "in probably elect. dem.": 9,
+  "in electoral democracies": 10,
+  " in probably elect. dem.": 11,
+  "in probably lib. dem.": 12,
+  "in liberal democracies": 13
+ },
+ "entity_mapping": "data/reference/owid_etl/vdem/vdem.countries.json",
+ "compare": {
+  "No regime data": {
+   "abs": 1.0,
+   "rel": 1e-06
+  },
+  "People living in closed autocracies": {
+   "abs": 1.0,
+   "rel": 1e-06
+  },
+  "in probably closed aut.": {
+   "abs": 1.0,
+   "rel": 1e-06
+  },
+  "in probably elect. aut.": {
+   "abs": 1.0,
+   "rel": 1e-06
+  },
+  "in electoral autocracies": {
+   "abs": 1.0,
+   "rel": 1e-06
+  },
+  " in probably elect. aut.": {
+   "abs": 1.0,
+   "rel": 1e-06
+  },
+  "in probably elect. dem.": {
+   "abs": 1.0,
+   "rel": 1e-06
+  },
+  "in electoral democracies": {
+   "abs": 1.0,
+   "rel": 1e-06
+  },
+  " in probably elect. dem.": {
+   "abs": 1.0,
+   "rel": 1e-06
+  },
+  "in probably lib. dem.": {
+   "abs": 1.0,
+   "rel": 1e-06
+  },
+  "in liberal democracies": {
+   "abs": 1.0,
+   "rel": 1e-06
+  }
+ },
+ "encodings": {},
+ "scale": {},
+ "stack_relative": false,
+ "time_tolerance": 0,
+ "not_compared": {}
+}

@@ -1,0 +1,35 @@
+{
+ "chart": {
+  "title": "Share of people with disputes using a dispute resolution mechanism",
+  "subtitle": "A dispute can be understood as a problem between individuals or between individual(s) and an entity that gives rise to legal issues. Dispute resolution mechanisms include: lawyers, community or religious leaders, a court or tribunal, or the police.",
+  "citation": "United Nations Development Programme and Organization for Economic Cooperation and Development and United Nations on Drugs and Crime",
+  "originalChartUrl": "https://ourworldindata.org/grapher/share-of-people-with-disputes-using-a-dispute-resolution-mechanism",
+  "selection": [
+   "Palestine",
+   "Peru",
+   "Canada",
+   "Colombia",
+   "Gambia",
+   "South Africa"
+  ]
+ },
+ "columns": {
+  "16.3.3 - Proportion of the population who have experienced a dispute in the past two years who accessed a formal or informal dispute resolution mechanism (%) - SP_DISP_RESOL - No breakdown by disability - All areas - Both sexes": {
+   "titleShort": "Proportion of the population who have experienced a dispute in the past two years who accessed a formal or informal dispute resolution mechanism (%) - No breakdown by disability - All areas - Both sexes",
+   "titleLong": "Proportion of the population who have experienced a dispute in the past two years who accessed a formal or informal dispute resolution mechanism (%) - No breakdown by disability - All areas - Both sexes",
+   "descriptionShort": "Proportion of the population who have experienced a dispute in the past two years who accessed a formal or informal dispute resolution mechanism (%).",
+   "shortUnit": "%",
+   "unit": "%",
+   "timespan": "2018-2025",
+   "type": "Numeric",
+   "owidVariableId": 1301131,
+   "shortName": "_16_3_3__sp_disp_resol__no_breakdown_by_disability__all_areas__both_sexes",
+   "lastUpdated": "2026-07-31",
+   "nextUpdate": "2027-07-31",
+   "citationShort": "United Nations Development Programme and Organization for Economic Cooperation and Development and United Nations on Drugs and Crime – processed by Our World in Data",
+   "citationLong": "United Nations Development Programme and Organization for Economic Cooperation and Development and United Nations on Drugs and Crime – processed by Our World in Data. “Proportion of the population who have experienced a dispute in the past two years who accessed a formal or informal dispute resolution mechanism (%) - No breakdown by disability - All areas - Both sexes” [dataset]. United Nations Development Programme and Organization for Economic Cooperation and Development and United Nations on Drugs and Crime, “Data from multiple sources” [original data].",
+   "fullMetadata": "https://api.ourworldindata.org/v1/indicators/1301131.metadata.json"
+  }
+ },
+ "dateDownloaded": "2026-10-29"
+}

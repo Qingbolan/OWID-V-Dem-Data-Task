@@ -1,0 +1,55 @@
+{
+ "title": "Gender of the head of state",
+ "url": "https://ourworldindata.org/grapher/gender-of-the-head-of-state",
+ "date_published": null,
+ "chart_page": true,
+ "authors": [],
+ "retrieved_at": "2026-10-29T17:19:59.471853+00:00",
+ "materialised_at": "2026-10-29T17:19:59.471875+00:00",
+ "source_original_sha256": "a327f1f08053433a8903840db8ad3c1d788661ecd4f7d46ba0d8be0ac7349ab7",
+ "offline_snapshot": {
+  "page": "source.html",
+  "assets": "source_files/",
+  "assets_manifest": "source_files/manifest.json",
+  "asset_count": 73,
+  "removed": "all <script> elements except application/ld+json"
+ },
+ "figures": [
+  {
+   "index": 1,
+   "name": "01 Gender of the head of state",
+   "embed": {
+    "slug": "gender-of-the-head-of-state",
+    "query": {},
+    "image": null
+   },
+   "view_url": "https://ourworldindata.org/grapher/gender-of-the-head-of-state",
+   "csv_url": "https://ourworldindata.org/grapher/gender-of-the-head-of-state.csv?csvType=filtered",
+   "png_url": "https://ourworldindata.org/grapher/gender-of-the-head-of-state.png",
+   "data_available": true,
+   "config_title": "Gender of the head of state",
+   "config_subtitle": "The head of state is the chief public representative of their country.",
+   "files": {
+    "txt": {
+     "path": "figs/01 Gender of the head of state.txt",
+     "sha256": "66029332f121e2ff541ec197382b1b5719bb094b3d5758c4cc7cc09d1b2d56a6"
+    },
+    "csv": {
+     "path": "figs/01 Gender of the head of state.csv",
+     "sha256": "7b8669aea3bed02d9fd985bc6dad77c0c5dbdc4f5c98eab765a0bb221f042213"
+    },
+    "png": {
+     "path": "figs/01 Gender of the head of state.png",
+     "sha256": "374c79e1bbbfecb9657c81352bca195563ed7e020364de181a94e6bf0367ea1f"
+    }
+   },
+   "chart_slug": "gender-of-the-head-of-state",
+   "column_short_names": {
+    "Entity": "entity",
+    "Code": "code",
+    "Year": "year",
+    "Woman head of state (31st December)": "wom_hos_vdem"
+   }
+  }
+ ]
+}

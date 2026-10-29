@@ -1,0 +1,12 @@
+Figure 01: 01 Life expectancy vs. Electoral Democracy Index
+Article: Does democracy lead to better health? (2019-06-24)
+
+Title: Life expectancy vs. Electoral Democracy Index
+Subtitle: The [period life expectancy](#dod:period-life-expectancy) at birth, in a given year. The electoral democracy index is by [V-Dem](#dod:v-dem), based on expert estimates, and ranges from 0 to 1 (most democratic).
+Note: 
+Source: Riley (2005); Zijdeman et al. (2015); HMD (2025); UN WPP (2024); V-Dem (2026)
+Units: years
+Chart: https://ourworldindata.org/grapher/life-expectancy-vs-electoral-democracy-index
+
+Text before the figure: The chart shows the cross-country correlation between an aggregate measure of health – life expectancy – and an aggregate measure of democracy, the Electoral Democracy Index .
+Text after the figure: The Electoral Democracy Index is produced by the Varieties of Democracy project at the University of Gothenburg. The index is based on a qualitative and quantitative assessment of elections and suffrage rights, as well as freedom of expression and association. It is measured on a continuous scale where more democratic regimes obtain higher scores. 2

@@ -1,0 +1,56 @@
+{
+ "title": "Elected Political Leaders Index",
+ "url": "https://ourworldindata.org/grapher/elected-political-leaders-index",
+ "date_published": null,
+ "chart_page": true,
+ "authors": [],
+ "retrieved_at": "2026-10-29T17:08:34.631482+00:00",
+ "materialised_at": "2026-10-29T17:08:34.631491+00:00",
+ "source_original_sha256": "555d6dad18ce0b730542b18bcee1ee6f39569a0df65df15981d276592f436ad5",
+ "offline_snapshot": {
+  "page": "source.html",
+  "assets": "source_files/",
+  "assets_manifest": "source_files/manifest.json",
+  "asset_count": 73,
+  "removed": "all <script> elements except application/ld+json"
+ },
+ "figures": [
+  {
+   "index": 1,
+   "name": "01 Elected Political Leaders Index",
+   "embed": {
+    "slug": "elected-political-leaders-index",
+    "query": {},
+    "image": null
+   },
+   "view_url": "https://ourworldindata.org/grapher/elected-political-leaders-index",
+   "csv_url": "https://ourworldindata.org/grapher/elected-political-leaders-index.csv?csvType=filtered",
+   "png_url": "https://ourworldindata.org/grapher/elected-political-leaders-index.png",
+   "data_available": true,
+   "config_title": "Elected Political Leaders Index",
+   "config_subtitle": "Data by [V-Dem](#dod:v-dem). It measures the extent to which broad elections choose the chief executive and the legislature. The index ranges from 0 to 1 (chief executive and entire legislature elected).",
+   "files": {
+    "txt": {
+     "path": "figs/01 Elected Political Leaders Index.txt",
+     "sha256": "25587230767a5a187d0a41b79e31a69ff20002ea6890ab73bb8e6cb086ee1a71"
+    },
+    "csv": {
+     "path": "figs/01 Elected Political Leaders Index.csv",
+     "sha256": "b491583cd9f8c5b829beb22abead4d0340cd1436a0a758fa2efb9a2244f162de"
+    },
+    "png": {
+     "path": "figs/01 Elected Political Leaders Index.png",
+     "sha256": "7a42a8d3dcade70a4cc9fa69c171303aab5ebc506d211e538da8439093f641bd"
+    }
+   },
+   "chart_slug": "elected-political-leaders-index",
+   "column_short_names": {
+    "Entity": "entity",
+    "Code": "code",
+    "Year": "year",
+    "Elected Political Leaders Index": "electoff_vdem",
+    "World region according to OWID": "owid_region"
+   }
+  }
+ ]
+}

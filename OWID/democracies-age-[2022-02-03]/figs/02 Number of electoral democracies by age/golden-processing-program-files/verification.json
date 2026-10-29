@@ -1,0 +1,48 @@
+{
+ "figure": "02 Number of electoral democracies by age",
+ "checked_at": "2026-10-29T18:06:15.285727+00:00",
+ "status": "match",
+ "gold_rows": 1,
+ "gold_rows_missing_in_reference": 0,
+ "mismatched_cells": {
+  "Closed autocracies": 0,
+  "Electoral autocracies": 0,
+  "91 years +": 0,
+  "61-90 years": 0,
+  "31-60 years": 0,
+  "19-30 years": 0,
+  "Electoral democracies aged 1-18 years": 0
+ },
+ "tolerance": {
+  "Closed autocracies": {
+   "abs": 1.0,
+   "rel": 1e-06
+  },
+  "Electoral autocracies": {
+   "abs": 1.0,
+   "rel": 1e-06
+  },
+  "91 years +": {
+   "abs": 1.0,
+   "rel": 1e-06
+  },
+  "61-90 years": {
+   "abs": 1.0,
+   "rel": 1e-06
+  },
+  "31-60 years": {
+   "abs": 1.0,
+   "rel": 1e-06
+  },
+  "19-30 years": {
+   "abs": 1.0,
+   "rel": 1e-06
+  },
+  "Electoral democracies aged 1-18 years": {
+   "abs": 1.0,
+   "rel": 1e-06
+  }
+ },
+ "first_mismatches": [],
+ "program": "golden.vdem_pipeline"
+}

@@ -1,0 +1,167 @@
+Entity,Code,Year,Democracy Index,World region according to OWID
+Afghanistan,AFG,2018,9,Asia
+Albania,ALB,2018,19,Europe
+Algeria,DZA,2018,12,Africa
+Angola,AGO,2018,8,Africa
+Argentina,ARG,2018,19,South America
+Armenia,ARM,2018,17,Asia
+Australia,AUS,2018,20,Oceania
+Austria,AUT,2018,20,Europe
+Azerbaijan,AZE,2018,3,Asia
+Bahrain,BHR,2018,0,Asia
+Bangladesh,BGD,2018,4,Asia
+Belarus,BLR,2018,3,Europe
+Belgium,BEL,2018,18,Europe
+Benin,BEN,2018,17,Africa
+Bhutan,BTN,2018,17,Asia
+Bolivia,BOL,2018,17,South America
+Botswana,BWA,2018,18,Africa
+Brazil,BRA,2018,18,South America
+Bulgaria,BGR,2018,19,Europe
+Burkina Faso,BFA,2018,16,Africa
+Burundi,BDI,2018,9,Africa
+Cambodia,KHM,2018,6,Asia
+Cameroon,CMR,2018,5,Africa
+Canada,CAN,2018,20,North America
+Cape Verde,CPV,2018,20,Africa
+Central African Republic,CAF,2018,16,Africa
+Chad,TCD,2018,9,Africa
+Chile,CHL,2018,20,South America
+China,CHN,2018,3,Asia
+Colombia,COL,2018,17,South America
+Comoros,COM,2018,7,Africa
+Congo,COG,2018,6,Africa
+Costa Rica,CRI,2018,20,North America
+Cote d'Ivoire,CIV,2018,14,Africa
+Croatia,HRV,2018,19,Europe
+Cuba,CUB,2018,5,North America
+Cyprus,CYP,2018,20,Europe
+Czechia,CZE,2018,19,Europe
+Democratic Republic of Congo,COD,2018,7,Africa
+Denmark,DNK,2018,20,Europe
+Djibouti,DJI,2018,13,Africa
+Dominican Republic,DOM,2018,17,North America
+East Timor,TLS,2018,18,Asia
+Ecuador,ECU,2018,15,South America
+Egypt,EGY,2018,6,Africa
+El Salvador,SLV,2018,18,North America
+Equatorial Guinea,GNQ,2018,4,Africa
+Eritrea,ERI,2018,3,Africa
+Estonia,EST,2018,19,Europe
+Eswatini,SWZ,2018,3,Africa
+Ethiopia,ETH,2018,11,Africa
+Fiji,FJI,2018,12,Oceania
+Finland,FIN,2018,20,Europe
+France,FRA,2018,20,Europe
+Gabon,GAB,2018,13,Africa
+Gambia,GMB,2018,14,Africa
+Georgia,GEO,2018,17,Asia
+Germany,DEU,2018,20,Europe
+Ghana,GHA,2018,18,Africa
+Greece,GRC,2018,20,Europe
+Guatemala,GTM,2018,18,North America
+Guinea,GIN,2018,14,Africa
+Guinea-Bissau,GNB,2018,16,Africa
+Guyana,GUY,2018,17,South America
+Haiti,HTI,2018,15,North America
+Honduras,HND,2018,17,North America
+Hungary,HUN,2018,20,Europe
+India,IND,2018,19,Asia
+Indonesia,IDN,2018,19,Asia
+Iran,IRN,2018,3,Asia
+Iraq,IRQ,2018,16,Asia
+Ireland,IRL,2018,20,Europe
+Israel,ISR,2018,16,Asia
+Italy,ITA,2018,20,Europe
+Jamaica,JAM,2018,19,North America
+Japan,JPN,2018,20,Asia
+Jordan,JOR,2018,7,Asia
+Kazakhstan,KAZ,2018,4,Asia
+Kenya,KEN,2018,19,Africa
+Kosovo,OWID_KOS,2018,18,Europe
+Kuwait,KWT,2018,3,Asia
+Kyrgyzstan,KGZ,2018,18,Asia
+Laos,LAO,2018,3,Asia
+Latvia,LVA,2018,18,Europe
+Lebanon,LBN,2018,16,Asia
+Lesotho,LSO,2018,18,Africa
+Liberia,LBR,2018,17,Africa
+Libya,LBY,2018,10,Africa
+Lithuania,LTU,2018,20,Europe
+Luxembourg,LUX,2018,20,Europe
+Madagascar,MDG,2018,16,Africa
+Malawi,MWI,2018,16,Africa
+Malaysia,MYS,2018,17,Asia
+Mali,MLI,2018,15,Africa
+Mauritania,MRT,2018,8,Africa
+Mauritius,MUS,2018,20,Africa
+Mexico,MEX,2018,18,North America
+Moldova,MDA,2018,19,Europe
+Mongolia,MNG,2018,20,Asia
+Montenegro,MNE,2018,19,Europe
+Morocco,MAR,2018,6,Africa
+Mozambique,MOZ,2018,15,Africa
+Myanmar,MMR,2018,18,Asia
+Namibia,NAM,2018,16,Africa
+Nepal,NPL,2018,17,Asia
+Netherlands,NLD,2018,20,Europe
+New Zealand,NZL,2018,20,Oceania
+Nicaragua,NIC,2018,16,North America
+Niger,NER,2018,15,Africa
+Nigeria,NGA,2018,17,Africa
+North Korea,PRK,2018,0,Asia
+North Macedonia,MKD,2018,19,Europe
+Norway,NOR,2018,20,Europe
+Oman,OMN,2018,2,Asia
+Pakistan,PAK,2018,17,Asia
+Panama,PAN,2018,19,North America
+Papua New Guinea,PNG,2018,15,Oceania
+Paraguay,PRY,2018,19,South America
+Peru,PER,2018,19,South America
+Philippines,PHL,2018,18,Asia
+Poland,POL,2018,20,Europe
+Portugal,PRT,2018,20,Europe
+Qatar,QAT,2018,0,Asia
+Romania,ROU,2018,19,Europe
+Russia,RUS,2018,14,Europe
+Rwanda,RWA,2018,7,Africa
+Saudi Arabia,SAU,2018,0,Asia
+Senegal,SEN,2018,17,Africa
+Serbia,SRB,2018,18,Europe
+Sierra Leone,SLE,2018,17,Africa
+Singapore,SGP,2018,8,Asia
+Slovakia,SVK,2018,20,Europe
+Slovenia,SVN,2018,20,Europe
+Solomon Islands,SLB,2018,18,Oceania
+Somalia,SOM,2018,15,Africa
+South Africa,ZAF,2018,19,Africa
+South Korea,KOR,2018,18,Asia
+South Sudan,SSD,2018,10,Africa
+Spain,ESP,2018,20,Europe
+Sri Lanka,LKA,2018,16,Asia
+Sudan,SDN,2018,6,Africa
+Suriname,SUR,2018,15,South America
+Sweden,SWE,2018,20,Europe
+Switzerland,CHE,2018,20,Europe
+Syria,SYR,2018,1,Asia
+Taiwan,TWN,2018,20,Asia
+Tajikistan,TJK,2018,7,Asia
+Tanzania,TZA,2018,13,Africa
+Thailand,THA,2018,7,Asia
+Togo,TGO,2018,8,Africa
+Trinidad and Tobago,TTO,2018,19,North America
+Tunisia,TUN,2018,17,Africa
+Turkey,TUR,2018,6,Asia
+Turkmenistan,TKM,2018,2,Asia
+Uganda,UGA,2018,9,Africa
+Ukraine,UKR,2018,14,Europe
+United Arab Emirates,ARE,2018,2,Asia
+United Kingdom,GBR,2018,18,Europe
+United States,USA,2018,18,North America
+Uruguay,URY,2018,20,South America
+Uzbekistan,UZB,2018,1,Asia
+Venezuela,VEN,2018,7,South America
+Vietnam,VNM,2018,3,Asia
+Yemen,YEM,2018,10,Asia
+Zambia,ZMB,2018,16,Africa
+Zimbabwe,ZWE,2018,14,Africa

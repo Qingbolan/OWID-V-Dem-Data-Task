@@ -1,0 +1,33 @@
+{
+ "figure": "01 Key features of human rights",
+ "checked_at": "2026-10-29T18:06:17.386444+00:00",
+ "status": "match",
+ "gold_rows": 237,
+ "gold_rows_missing_in_reference": 0,
+ "mismatched_cells": {
+  "Human rights overall": 0,
+  "Physical integrity": 0,
+  "Private civil liberties": 0,
+  "Political civil liberties": 0
+ },
+ "tolerance": {
+  "Human rights overall": {
+   "abs": 0.001,
+   "rel": 1e-06
+  },
+  "Physical integrity": {
+   "abs": 0.001,
+   "rel": 1e-06
+  },
+  "Private civil liberties": {
+   "abs": 0.001,
+   "rel": 1e-06
+  },
+  "Political civil liberties": {
+   "abs": 0.001,
+   "rel": 1e-06
+  }
+ },
+ "first_mismatches": [],
+ "program": "golden.vdem_pipeline"
+}

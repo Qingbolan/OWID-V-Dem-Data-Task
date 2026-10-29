@@ -1,0 +1,43 @@
+{
+ "reproducible": true,
+ "program": "golden.vdem_pipeline",
+ "chart_slug": "strong-elected-regional-governments-index",
+ "view": "https://ourworldindata.org/grapher/strong-elected-regional-governments-index",
+ "columns": [
+  "Strong Elected Regional Governments Index"
+ ],
+ "solution_columns": [
+  "Strong Elected Regional Governments Index"
+ ],
+ "output_precision": {
+  "Strong Elected Regional Governments Index": 3
+ },
+ "sources": {
+  "Strong Elected Regional Governments Index": {
+   "table": "vdem_multi_with_regions",
+   "column": "regelect_vdem",
+   "filter": {
+    "estimate": "best"
+   },
+   "short_name": "regelect_vdem__estimate_best",
+   "gold_index": 3
+  }
+ },
+ "gold_column_index": {
+  "Strong Elected Regional Governments Index": 3
+ },
+ "entity_mapping": "data/reference/owid_etl/vdem/vdem.countries.json",
+ "compare": {
+  "Strong Elected Regional Governments Index": {
+   "abs": 0.001,
+   "rel": 1e-06
+  }
+ },
+ "encodings": {},
+ "scale": {},
+ "stack_relative": false,
+ "time_tolerance": 0,
+ "not_compared": {
+  "World region according to OWID": "OWID's world region (map and scatter colour), not a V-Dem indicator"
+ }
+}

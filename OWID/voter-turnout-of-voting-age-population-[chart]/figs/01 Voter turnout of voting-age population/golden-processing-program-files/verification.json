@@ -1,0 +1,22 @@
+{
+ "figure": "01 Voter turnout of voting-age population",
+ "checked_at": "2026-10-29T18:06:18.808772+00:00",
+ "status": "match",
+ "gold_rows": 147,
+ "gold_rows_missing_in_reference": 0,
+ "mismatched_cells": {
+  "Voter turnout of voting-age population": 0,
+  "Voter turnout of voting-age population (Original Year)": 0
+ },
+ "tolerance": {
+  "Voter turnout of voting-age population": {
+   "abs": 0.01,
+   "rel": 1e-06
+  },
+  "Voter turnout of voting-age population (Original Year)": {
+   "abs": 0.0
+  }
+ },
+ "first_mismatches": [],
+ "program": "golden.vdem_pipeline"
+}

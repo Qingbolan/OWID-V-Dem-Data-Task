@@ -1,0 +1,12 @@
+Figure 03: 03 Number of electoral democracies by age
+Article: Democracy (2013-03-15)
+
+Title: Number of electoral democracies by age
+Subtitle: Classification by [Lührmann et al. (2018)](#dod:regimes-of-the-world-simplified) based on expert estimates by [V-Dem](#dod:v-dem). Electoral democracies are political systems that hold meaningful, free and fair, and multi-party elections.
+Note: 
+Source: V-Dem (2026)
+Units: countries
+Chart: https://ourworldindata.org/grapher/number-electoral-democracies-age
+
+Text before the figure: We use the RoW data here, but there are several other leading approaches to measuring democracy, which sometimes classify countries differently. You can explore them in our Democracy Data Explorer .
+Text after the figure: #### People around the world have gained democratic rights, but some have many more rights than others

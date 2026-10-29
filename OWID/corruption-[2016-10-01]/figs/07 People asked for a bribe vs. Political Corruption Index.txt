@@ -1,0 +1,12 @@
+Figure 07: 07 People asked for a bribe vs. Political Corruption Index
+Article: Corruption (2016-10-01)
+
+Title: People asked for a bribe vs. Political Corruption Index
+Subtitle: Share of respondents who had contact with a public official in the past 12 months and said they paid or were asked to pay a bribe. The political corruption index is by [V-Dem](#dod:v-dem), based on expert estimates, and ranges from 0 to 1 (most corrupt).
+Note: 
+Source: United Nations Office on Drugs and Crime; V-Dem (2026)
+Units: %
+Chart: https://ourworldindata.org/grapher/share-of-people-who-recently-paid-a-bribe-or-were-asked-for-one-vs-political-corruption-index
+
+Text before the figure: These differences remind us that each measure has its blind spots, and no single source can offer a complete picture.
+Text after the figure: ## What are the strengths and weaknesses of different approaches?

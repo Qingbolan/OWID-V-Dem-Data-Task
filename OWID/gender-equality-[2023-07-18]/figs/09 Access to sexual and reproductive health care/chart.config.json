@@ -1,0 +1,66 @@
+{
+ "id": 5199,
+ "map": {
+  "colorScale": {
+   "baseColorScheme": "YlGnBu",
+   "binningStrategy": "manual",
+   "customNumericColors": [
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "customNumericValues": [
+    0,
+    10,
+    20,
+    30,
+    40,
+    50,
+    60,
+    70,
+    80,
+    90,
+    100
+   ]
+  },
+  "columnSlug": "1305126",
+  "hideTimeline": true,
+  "timeTolerance": 3
+ },
+ "tab": "map",
+ "slug": "access-to-sexual-health-care-and-education",
+ "title": "Access to sexual and reproductive health care",
+ "yAxis": {
+  "max": 100,
+  "min": 0
+ },
+ "$schema": "https://files.ourworldindata.org/schemas/grapher-schema.011.json",
+ "minTime": "latest",
+ "version": 23,
+ "subtitle": "Extent to which countries have regulations that guarantee full and equal access to women and men aged 15 years and older to sexual and reproductive health care. Index of specific legal enablers and barriers for [13 sexual health components](#dod:indicator-5-6-2). Higher values indicate greater access.",
+ "hasMapTab": true,
+ "originUrl": "/sexual-reproductive-health",
+ "chartTypes": [
+  "DiscreteBar"
+ ],
+ "dimensions": [
+  {
+   "property": "y",
+   "variableId": 1305126
+  }
+ ],
+ "isPublished": true,
+ "hideTimeline": true,
+ "selectedEntityNames": [
+  "World",
+  "Sub-Saharan Africa (UN SDG)",
+  "Northern Africa and Western Asia (UN SDG)",
+  "Central and Southern Asia (UN SDG)",
+  "Australia and New Zealand (UN SDG)",
+  "Europe and Northern America (UN SDG)",
+  "Eastern and South-Eastern Asia (UN SDG)",
+  "Latin America and the Caribbean (UN SDG)"
+ ]
+}

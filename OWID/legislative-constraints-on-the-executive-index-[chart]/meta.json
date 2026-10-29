@@ -1,0 +1,56 @@
+{
+ "title": "Legislative Checks on Government Index",
+ "url": "https://ourworldindata.org/grapher/legislative-constraints-on-the-executive-index",
+ "date_published": null,
+ "chart_page": true,
+ "authors": [],
+ "retrieved_at": "2026-10-29T17:28:29.310225+00:00",
+ "materialised_at": "2026-10-29T17:28:29.310233+00:00",
+ "source_original_sha256": "ea15132fa44bda5304b86cdc6759858117c2a01ecd7a11e6ab194762606b3f5a",
+ "offline_snapshot": {
+  "page": "source.html",
+  "assets": "source_files/",
+  "assets_manifest": "source_files/manifest.json",
+  "asset_count": 73,
+  "removed": "all <script> elements except application/ld+json"
+ },
+ "figures": [
+  {
+   "index": 1,
+   "name": "01 Legislative Checks on Government Index",
+   "embed": {
+    "slug": "legislative-constraints-on-the-executive-index",
+    "query": {},
+    "image": null
+   },
+   "view_url": "https://ourworldindata.org/grapher/legislative-constraints-on-the-executive-index",
+   "csv_url": "https://ourworldindata.org/grapher/legislative-constraints-on-the-executive-index.csv?csvType=filtered",
+   "png_url": "https://ourworldindata.org/grapher/legislative-constraints-on-the-executive-index.png",
+   "data_available": true,
+   "config_title": "Legislative Checks on Government Index",
+   "config_subtitle": "Data by [V-Dem](#dod:v-dem). Expert estimates of the extent to which the legislature and government agencies can question, investigate and oversee the executive. The index ranges from 0 to 1 (most constrained).",
+   "files": {
+    "txt": {
+     "path": "figs/01 Legislative Checks on Government Index.txt",
+     "sha256": "c2f8d847d081813949ef6e9edf1d241226796dd531763f4efa7450ecab208f6e"
+    },
+    "csv": {
+     "path": "figs/01 Legislative Checks on Government Index.csv",
+     "sha256": "c0ffe1feb3e77046ad05dbfbed0d84cc4baf1036f94638ba6104c0e460a400e4"
+    },
+    "png": {
+     "path": "figs/01 Legislative Checks on Government Index.png",
+     "sha256": "95faad0f9f6fa28f73f3d7148a93a03ce9754152b1e282c44dbadd84f898d077"
+    }
+   },
+   "chart_slug": "legislative-constraints-on-the-executive-index",
+   "column_short_names": {
+    "Entity": "entity",
+    "Code": "code",
+    "Year": "year",
+    "Legislative constraints on the executive index": "legis_constr_vdem__estimate_best",
+    "World region according to OWID": "owid_region"
+   }
+  }
+ ]
+}

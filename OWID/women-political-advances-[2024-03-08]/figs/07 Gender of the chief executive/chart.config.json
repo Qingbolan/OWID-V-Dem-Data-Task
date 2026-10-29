@@ -1,0 +1,84 @@
+{
+ "id": 6373,
+ "map": {
+  "colorScale": {
+   "baseColorScheme": "BinaryMapPaletteE",
+   "binningStrategy": "manual",
+   "colorSchemeInvert": true,
+   "customNumericColors": [
+    "#e2b99c",
+    "#863d8c"
+   ],
+   "customNumericLabels": [
+    "Man",
+    "Woman"
+   ],
+   "customNumericValues": [
+    0,
+    0,
+    1
+   ],
+   "customNumericColorsActive": true
+  },
+  "columnSlug": "1210054",
+  "tooltipUseCustomLabels": true
+ },
+ "tab": "map",
+ "note": "This is recorded on December 31 of each year. When the head of state and head of government hold equal power, the head of government is considered the chief executive.",
+ "slug": "gender-of-chief-executive",
+ "title": "Gender of the chief executive",
+ "yAxis": {
+  "max": 1,
+  "min": 0
+ },
+ "$schema": "https://files.ourworldindata.org/schemas/grapher-schema.011.json",
+ "version": 39,
+ "subtitle": "\"Chief executive\" is defined here as the head of state or the head of government, whoever has more power over the appointment and dismissal of cabinet ministers.",
+ "hasMapTab": true,
+ "originUrl": "/women-rights",
+ "chartTypes": [
+  "LineChart"
+ ],
+ "colorScale": {
+  "binningStrategy": "manual",
+  "customNumericColors": [
+   "#e2b99c",
+   "#863d8c"
+  ],
+  "customNumericLabels": [
+   "Man",
+   "Woman"
+  ],
+  "customNumericValues": [
+   0,
+   0,
+   1
+  ],
+  "customNumericColorsActive": true
+ },
+ "dimensions": [
+  {
+   "display": {
+    "name": "",
+    "numDecimalPlaces": 0
+   },
+   "property": "y",
+   "variableId": 1210054
+  },
+  {
+   "property": "color",
+   "variableId": 1210054
+  }
+ ],
+ "isPublished": true,
+ "selectedEntityNames": [
+  "Argentina",
+  "Australia",
+  "Botswana",
+  "China"
+ ],
+ "selectedFacetStrategy": "entity",
+ "hideAnnotationFieldsInTitle": {
+  "time": true
+ }
+}

@@ -1,0 +1,55 @@
+{
+ "title": "Judicial Corruption Score",
+ "url": "https://ourworldindata.org/grapher/judicial-corruption-score",
+ "date_published": null,
+ "chart_page": true,
+ "authors": [],
+ "retrieved_at": "2026-10-29T17:22:43.974732+00:00",
+ "materialised_at": "2026-10-29T17:22:43.974743+00:00",
+ "source_original_sha256": "95df8eabd2b1cb148ccb5110d57118155d26ff8391afac4a3733fd6ce024296f",
+ "offline_snapshot": {
+  "page": "source.html",
+  "assets": "source_files/",
+  "assets_manifest": "source_files/manifest.json",
+  "asset_count": 73,
+  "removed": "all <script> elements except application/ld+json"
+ },
+ "figures": [
+  {
+   "index": 1,
+   "name": "01 Judicial Corruption Score",
+   "embed": {
+    "slug": "judicial-corruption-score",
+    "query": {},
+    "image": null
+   },
+   "view_url": "https://ourworldindata.org/grapher/judicial-corruption-score",
+   "csv_url": "https://ourworldindata.org/grapher/judicial-corruption-score.csv?csvType=filtered",
+   "png_url": "https://ourworldindata.org/grapher/judicial-corruption-score.png",
+   "data_available": true,
+   "config_title": "Judicial Corruption Score",
+   "config_subtitle": "Data by [V-Dem](#dod:v-dem). Expert estimates of how often individuals or businesses make undocumented extra payments or bribes to obtain a favorable judicial decision, or speed up or delay the process. Higher scores mean less corruption. A score of 0 is approximately the average across all countries and years.",
+   "files": {
+    "txt": {
+     "path": "figs/01 Judicial Corruption Score.txt",
+     "sha256": "39616f6c4cda31ceeb355662a0c81fc79454d56defb300295f1eb64c3d2e52ae"
+    },
+    "csv": {
+     "path": "figs/01 Judicial Corruption Score.csv",
+     "sha256": "6871e442e842ad8b862ffbb723d71ada6098b14b759298afee7bf003ba892455"
+    },
+    "png": {
+     "path": "figs/01 Judicial Corruption Score.png",
+     "sha256": "70cce62a0b07dbc05f6d3f6f951bf157fd1e9a3a74cb65b38431d3063fc75241"
+    }
+   },
+   "chart_slug": "judicial-corruption-score",
+   "column_short_names": {
+    "Entity": "entity",
+    "Code": "code",
+    "Year": "year",
+    "Judicial Corruption Score": "corr_jud_vdem__estimate_best"
+   }
+  }
+ ]
+}

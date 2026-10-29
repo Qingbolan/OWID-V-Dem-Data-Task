@@ -1,0 +1,55 @@
+{
+ "title": "Free and fair elections",
+ "url": "https://ourworldindata.org/grapher/free-and-fair-elections-row",
+ "date_published": null,
+ "chart_page": true,
+ "authors": [],
+ "retrieved_at": "2026-10-29T17:17:14.430523+00:00",
+ "materialised_at": "2026-10-29T17:17:14.430532+00:00",
+ "source_original_sha256": "cdb0082d8ee2f5eaa586b269a2b3cd7d8117c1ba33155d990e07c9c9146d6ac9",
+ "offline_snapshot": {
+  "page": "source.html",
+  "assets": "source_files/",
+  "assets_manifest": "source_files/manifest.json",
+  "asset_count": 73,
+  "removed": "all <script> elements except application/ld+json"
+ },
+ "figures": [
+  {
+   "index": 1,
+   "name": "01 Free and fair elections",
+   "embed": {
+    "slug": "free-and-fair-elections-row",
+    "query": {},
+    "image": null
+   },
+   "view_url": "https://ourworldindata.org/grapher/free-and-fair-elections-row",
+   "csv_url": "https://ourworldindata.org/grapher/free-and-fair-elections-row.csv?csvType=filtered",
+   "png_url": "https://ourworldindata.org/grapher/free-and-fair-elections-row.png",
+   "data_available": true,
+   "config_title": "Free and fair elections",
+   "config_subtitle": "Data by Lührmann et al. (2018) and [V-Dem](#dod:v-dem). Expert estimates of whether election violence, government intimidation, fraud, large irregularities, and vote buying are broadly absent.",
+   "files": {
+    "txt": {
+     "path": "figs/01 Free and fair elections.txt",
+     "sha256": "e53cdfd3f60cbf6c3973e9ed851c90fce073415c7a884820c1d65ce6771a70c3"
+    },
+    "csv": {
+     "path": "figs/01 Free and fair elections.csv",
+     "sha256": "c9c2d1c2e3d933189ee86aec733c86a87298d8e827f0b7b0a2634a740c03c222"
+    },
+    "png": {
+     "path": "figs/01 Free and fair elections.png",
+     "sha256": "687b38723ff13ea57dc1b4bf50272623a775c6a5894f699c6419f340aa063f8c"
+    }
+   },
+   "chart_slug": "free-and-fair-elections-row",
+   "column_short_names": {
+    "Entity": "entity",
+    "Code": "code",
+    "Year": "year",
+    "Free and fair elections": "electfreefair_row__estimate_best"
+   }
+  }
+ ]
+}

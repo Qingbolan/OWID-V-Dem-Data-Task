@@ -1,0 +1,56 @@
+{
+ "title": "Academic Freedom Index",
+ "url": "https://ourworldindata.org/grapher/academic-freedom-index",
+ "date_published": null,
+ "chart_page": true,
+ "authors": [],
+ "retrieved_at": "2026-10-29T16:56:57.211613+00:00",
+ "materialised_at": "2026-10-29T16:56:57.211630+00:00",
+ "source_original_sha256": "b369673f81d586516c534f82e1c98776fe58472e4515cd542c5db429d06d6731",
+ "offline_snapshot": {
+  "page": "source.html",
+  "assets": "source_files/",
+  "assets_manifest": "source_files/manifest.json",
+  "asset_count": 73,
+  "removed": "all <script> elements except application/ld+json"
+ },
+ "figures": [
+  {
+   "index": 1,
+   "name": "01 Academic Freedom Index",
+   "embed": {
+    "slug": "academic-freedom-index",
+    "query": {},
+    "image": null
+   },
+   "view_url": "https://ourworldindata.org/grapher/academic-freedom-index",
+   "csv_url": "https://ourworldindata.org/grapher/academic-freedom-index.csv?csvType=filtered",
+   "png_url": "https://ourworldindata.org/grapher/academic-freedom-index.png",
+   "data_available": true,
+   "config_title": "Academic Freedom Index",
+   "config_subtitle": "Data by [V-Dem](#dod:v-dem). Expert estimates of the extent to which universities are autonomous from the state, and academics can research, teach, publish, express opinions, and participate in academic bodies without interference, censorship, or institutional restrictions. The index ranges from 0 to 1 (most free).",
+   "files": {
+    "txt": {
+     "path": "figs/01 Academic Freedom Index.txt",
+     "sha256": "b3fb5c53b066cc23b8433ebb0e14631e63ee9a07706ab6df5971040031855ab7"
+    },
+    "csv": {
+     "path": "figs/01 Academic Freedom Index.csv",
+     "sha256": "e79eb1b8c11becdccdd6ed33f3938dd6fa15783fe4cb9bcb2da2593a08c1bbb6"
+    },
+    "png": {
+     "path": "figs/01 Academic Freedom Index.png",
+     "sha256": "88dfd9b8eb4d4d0d20a02d178db46d834a83383e136d7a0321e2553b78be2854"
+    }
+   },
+   "chart_slug": "academic-freedom-index",
+   "column_short_names": {
+    "Entity": "entity",
+    "Code": "code",
+    "Year": "year",
+    "Academic Freedom Index": "v2xca_academ__estimate_best",
+    "World region according to OWID": "owid_region"
+   }
+  }
+ ]
+}

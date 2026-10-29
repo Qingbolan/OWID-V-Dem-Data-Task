@@ -1,0 +1,13 @@
+Figure 01: 01 Liberal democracy index, Brazil, Poland, Thailand and Zambia, 2003-2024
+Article: Four countries that have successfully reversed democratic decline in recent years (2025-04-01)
+
+Title: Autocratization can be turned around
+Subtitle: Liberal democracy index by V-Dem, using expert estimates. It ranges from 0 (highly autocratic) to 1 (highly democratic).
+Note: 
+Source: V-Dem (2026)
+Units: 
+Image description: The image displays a line chart titled "Autocratization can be turned around," which illustrates the liberal democracy index for four countries: Brazil, Poland, Thailand, and Zambia. The index ranges from 0 to 1, with 1 being the highest score. The scores for each country decreased substantially between 2004 and 2024, but increased again afterwards. The visual includes flags of each country next to their respective graphs. A footer provides the data source as V-Dem, dated 2025, and is credited under a Creative Commons BY license.
+Underlying chart (identified): https://ourworldindata.org/grapher/liberal-democracy-index?tab=chart&time=2003..2024&country=BRA~POL~THA~ZMB
+
+Text before the figure: 
+Text after the figure: Several countries have recently managed to stop and even reverse the erosion of their democratic institutions.

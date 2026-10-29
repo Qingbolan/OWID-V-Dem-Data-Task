@@ -1,0 +1,9 @@
+Figure 01: 01 Equal Resource Distribution Index
+Article: none; source page is the chart page https://ourworldindata.org/grapher/equal-resource-distribution-index
+
+Title: Equal Resource Distribution Index
+Subtitle: Data by [V-Dem](#dod:v-dem). Expert estimates of the extent to which all social groups benefit from public spending, and have equal access to education, healthcare, and the welfare state. The index ranges from 0 to 1 (most equal).
+Note: 
+Source: V-Dem (2026)
+Units: 
+Chart: https://ourworldindata.org/grapher/equal-resource-distribution-index

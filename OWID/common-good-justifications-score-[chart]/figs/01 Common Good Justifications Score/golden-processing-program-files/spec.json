@@ -1,0 +1,41 @@
+{
+ "reproducible": true,
+ "program": "golden.vdem_pipeline",
+ "chart_slug": "common-good-justifications-score",
+ "view": "https://ourworldindata.org/grapher/common-good-justifications-score",
+ "columns": [
+  "Common good justifications"
+ ],
+ "solution_columns": [
+  "Common good justifications"
+ ],
+ "output_precision": {
+  "Common good justifications": 3
+ },
+ "sources": {
+  "Common good justifications": {
+   "table": "vdem_multi_with_regions",
+   "column": "justcomgd_polch_vdem",
+   "filter": {
+    "estimate": "best"
+   },
+   "short_name": "justcomgd_polch_vdem__estimate_best",
+   "gold_index": 3
+  }
+ },
+ "gold_column_index": {
+  "Common good justifications": 3
+ },
+ "entity_mapping": "data/reference/owid_etl/vdem/vdem.countries.json",
+ "compare": {
+  "Common good justifications": {
+   "abs": 0.001,
+   "rel": 1e-06
+  }
+ },
+ "encodings": {},
+ "scale": {},
+ "stack_relative": false,
+ "time_tolerance": 0,
+ "not_compared": {}
+}

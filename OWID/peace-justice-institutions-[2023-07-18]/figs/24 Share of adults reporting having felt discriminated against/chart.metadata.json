@@ -1,0 +1,42 @@
+{
+ "chart": {
+  "title": "Share of adults reporting having felt discriminated against",
+  "subtitle": "Adults reporting having experienced discrimination or harassment during the last year, based on grounds prohibited by international human rights law.",
+  "citation": "Office of the United Nations High Commissioner for Human Rights",
+  "originalChartUrl": "https://ourworldindata.org/grapher/share-of-the-population-reporting-having-felt-discriminated-against",
+  "selection": [
+   "Cuba",
+   "Tonga",
+   "Denmark",
+   "Mexico",
+   "France",
+   "Sweden",
+   "Zimbabwe",
+   "New Zealand",
+   "Canada",
+   "Peru",
+   "Chile",
+   "Central African Republic",
+   "Norway"
+  ]
+ },
+ "columns": {
+  "16.b.1 - Proportion of population reporting having felt discriminated against, by grounds of discrimination, sex and disability (%) - VC_VOV_GDSD - All age ranges or no breaks by age - No breakdown by disability - Total or not breakdown - All grounds or no breakdown - All areas - Total (national average) or no breakdown - Both sexes": {
+   "titleShort": "Proportion of population reporting having felt discriminated against, by grounds of discrimination, sex and disability (%) - All age ranges or no breaks by age - No breakdown by disability - Total or not breakdown - All grounds or no breakdown - All areas - Total (national average) or no breakdown - Both sexes",
+   "titleLong": "Proportion of population reporting having felt discriminated against, by grounds of discrimination, sex and disability (%) - All age ranges or no breaks by age - No breakdown by disability - Total or not breakdown - All grounds or no breakdown - All areas - Total (national average) or no breakdown - Both sexes",
+   "descriptionShort": "Proportion of population reporting having felt discriminated against, by grounds of discrimination, sex and disability (%).",
+   "shortUnit": "%",
+   "unit": "%",
+   "timespan": "2014-2025",
+   "type": "Numeric",
+   "owidVariableId": 1302443,
+   "shortName": "_16_b_1__vc_vov_gdsd__all_age_ranges_or_no_breaks_by_age__no_breakdown_by_disability__total_or_not_breakdown__all_grounds_or_no_breakdown__all_areas__total__national_average__or_no_breakdown__both_sexes",
+   "lastUpdated": "2026-07-31",
+   "nextUpdate": "2027-07-31",
+   "citationShort": "Office of the United Nations High Commissioner for Human Rights – processed by Our World in Data",
+   "citationLong": "Office of the United Nations High Commissioner for Human Rights – processed by Our World in Data. “Proportion of population reporting having felt discriminated against, by grounds of discrimination, sex and disability (%) - All age ranges or no breaks by age - No breakdown by disability - Total or not breakdown - All grounds or no breakdown - All areas - Total (national average) or no breakdown - Both sexes” [dataset]. Office of the United Nations High Commissioner for Human Rights, “Data from multiple sources” [original data].",
+   "fullMetadata": "https://api.ourworldindata.org/v1/indicators/1302443.metadata.json"
+  }
+ },
+ "dateDownloaded": "2026-10-29"
+}

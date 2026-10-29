@@ -1,0 +1,9 @@
+Figure 01: 01 Legislative Corruption Score
+Article: none; source page is the chart page https://ourworldindata.org/grapher/legislative-corruption-score
+
+Title: Legislative Corruption Score
+Subtitle: Data by [V-Dem](#dod:v-dem). Expert estimates of the extent to which members of the legislature abuse their position for financial gain, such as bribes, government contracts, future employment, or stealing from the state. Higher scores mean less corruption. A score of 0 is approximately the average across all countries and years.
+Note: 
+Source: V-Dem (2026)
+Units: 
+Chart: https://ourworldindata.org/grapher/legislative-corruption-score

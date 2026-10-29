@@ -1,0 +1,56 @@
+{
+ "title": "Freedom of Association Index",
+ "url": "https://ourworldindata.org/grapher/freedom-of-association-index",
+ "date_published": null,
+ "chart_page": true,
+ "authors": [],
+ "retrieved_at": "2026-10-29T17:17:54.375770+00:00",
+ "materialised_at": "2026-10-29T17:17:54.375786+00:00",
+ "source_original_sha256": "d33f94546753e5be987c25440922eeead49d3d64c88b4b47a0ba7c972bcbc95b",
+ "offline_snapshot": {
+  "page": "source.html",
+  "assets": "source_files/",
+  "assets_manifest": "source_files/manifest.json",
+  "asset_count": 73,
+  "removed": "all <script> elements except application/ld+json"
+ },
+ "figures": [
+  {
+   "index": 1,
+   "name": "01 Freedom of Association Index",
+   "embed": {
+    "slug": "freedom-of-association-index",
+    "query": {},
+    "image": null
+   },
+   "view_url": "https://ourworldindata.org/grapher/freedom-of-association-index",
+   "csv_url": "https://ourworldindata.org/grapher/freedom-of-association-index.csv?csvType=filtered",
+   "png_url": "https://ourworldindata.org/grapher/freedom-of-association-index.png",
+   "data_available": true,
+   "config_title": "Freedom of Association Index",
+   "config_subtitle": "Data by [V-Dem](#dod:v-dem). Expert estimates of the extent to which parties and civil society organizations can form and operate freely. The index ranges from 0 to 1 (most free).",
+   "files": {
+    "txt": {
+     "path": "figs/01 Freedom of Association Index.txt",
+     "sha256": "4fb0e8f505a2c15378983e3a4b61d4d040a04d3748c6291efe8f16887f532010"
+    },
+    "csv": {
+     "path": "figs/01 Freedom of Association Index.csv",
+     "sha256": "a8ed6f41cb15f3e162c62e7c0b39b5a1444e4f1e24647caa3c3675895574a1fc"
+    },
+    "png": {
+     "path": "figs/01 Freedom of Association Index.png",
+     "sha256": "d4c5106e9db685fe34959344226de9a649cb1cba657433e281fd477200f052e6"
+    }
+   },
+   "chart_slug": "freedom-of-association-index",
+   "column_short_names": {
+    "Entity": "entity",
+    "Code": "code",
+    "Year": "year",
+    "Freedom of Association Index": "freeassoc_vdem__estimate_best",
+    "World region according to OWID": "owid_region"
+   }
+  }
+ ]
+}

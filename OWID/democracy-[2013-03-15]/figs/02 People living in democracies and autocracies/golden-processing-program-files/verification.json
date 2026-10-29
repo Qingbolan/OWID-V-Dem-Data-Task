@@ -1,0 +1,38 @@
+{
+ "figure": "02 People living in democracies and autocracies",
+ "checked_at": "2026-10-29T18:06:15.625404+00:00",
+ "status": "match",
+ "gold_rows": 237,
+ "gold_rows_missing_in_reference": 0,
+ "mismatched_cells": {
+  "No regime data": 0,
+  "People living in closed autocracies": 0,
+  "in electoral autocracies": 0,
+  "in electoral democracies": 0,
+  "in liberal democracies": 0
+ },
+ "tolerance": {
+  "No regime data": {
+   "abs": 1.0,
+   "rel": 1e-06
+  },
+  "People living in closed autocracies": {
+   "abs": 1.0,
+   "rel": 1e-06
+  },
+  "in electoral autocracies": {
+   "abs": 1.0,
+   "rel": 1e-06
+  },
+  "in electoral democracies": {
+   "abs": 1.0,
+   "rel": 1e-06
+  },
+  "in liberal democracies": {
+   "abs": 1.0,
+   "rel": 1e-06
+  }
+ },
+ "first_mismatches": [],
+ "program": "golden.vdem_pipeline"
+}

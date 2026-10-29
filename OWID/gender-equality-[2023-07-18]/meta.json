@@ -1,0 +1,558 @@
+{
+ "title": "Achieve gender equality and empower all women and girls",
+ "url": "https://ourworldindata.org/sdgs/gender-equality",
+ "date_published": "2023-07-18",
+ "authors": [],
+ "retrieved_at": "2026-10-29T15:15:25.458453+00:00",
+ "materialised_at": "2026-10-29T16:34:01.135547+00:00",
+ "source_original_sha256": "5313d11dc4e52b0a9dcf660d8e05c82683c5d1c1ac499027759a408befa9e2bf",
+ "offline_snapshot": {
+  "page": "source.html",
+  "assets": "source_files/",
+  "assets_manifest": "source_files/manifest.json",
+  "asset_count": 110,
+  "removed": "all <script> elements except application/ld+json"
+ },
+ "figures": [
+  {
+   "index": 1,
+   "name": "01 Legal frameworks addressing gender equality overall",
+   "embed": {
+    "slug": "overarching-legal-frameworks-regarding-gender-equality",
+    "query": {},
+    "image": null
+   },
+   "files": {
+    "html": {
+     "path": "figs/01 Legal frameworks addressing gender equality overall.html",
+     "sha256": "6e4e622c72d1efeb876ae94e15255fe59edcda817a275288a08332dbd9681e6b"
+    },
+    "csv": {
+     "path": "figs/01 Legal frameworks addressing gender equality overall.csv",
+     "sha256": "2a9aebde9a7d6ce9d7e1faccca639fec343d75b7e8ab163d558e97e4007a0b96"
+    },
+    "png": {
+     "path": "figs/01 Legal frameworks addressing gender equality overall.png",
+     "sha256": "144932fba239bbfb4365756bf674e5e8f8b20c07b9ac496bcbeea9a70d167902"
+    },
+    "txt": {
+     "path": "figs/01 Legal frameworks addressing gender equality overall.txt",
+     "sha256": "fe91a211d150b4e6040767dc8be9c0ba59724292dcb84b51ef485d2b70c484f2"
+    }
+   },
+   "view_url": "https://ourworldindata.org/grapher/overarching-legal-frameworks-regarding-gender-equality",
+   "csv_url": "https://ourworldindata.org/grapher/overarching-legal-frameworks-regarding-gender-equality.csv?csvType=filtered",
+   "png_url": "https://ourworldindata.org/grapher/overarching-legal-frameworks-regarding-gender-equality.png",
+   "data_available": true,
+   "config_title": "Legal frameworks addressing gender equality overall",
+   "config_subtitle": "A higher percentage indicates stronger legislation.",
+   "chart_slug": "overarching-legal-frameworks-regarding-gender-equality",
+   "column_short_names": {
+    "Entity": "entity",
+    "Code": "code",
+    "Year": "year",
+    "Legal frameworks that promote, enforce and monitor gender equality (percentage of achievement, 0 - 100) -- Area 1: overarching legal frameworks and public life": "_5_1_1__sg_lgl_geneqlfp"
+   }
+  },
+  {
+   "index": 2,
+   "name": "02 Share of women who experienced violence from an intimate partner",
+   "embed": {
+    "slug": "share-of-women-who-experienced-violence-by-an-intimate-partner-un",
+    "query": {},
+    "image": null
+   },
+   "files": {
+    "html": {
+     "path": "figs/02 Share of women who experienced violence from an intimate partner.html",
+     "sha256": "827f32ebd6ae0d6a8fce87e7a9dd72c87e488635883d663a5a64165a448fe4ad"
+    },
+    "csv": {
+     "path": "figs/02 Share of women who experienced violence from an intimate partner.csv",
+     "sha256": "800248099d73959afeb22157974b53e6ac153f8c1ce05a1f1828a4bf07cc015e"
+    },
+    "png": {
+     "path": "figs/02 Share of women who experienced violence from an intimate partner.png",
+     "sha256": "f6509894071731d270e161b8cc82e5ed2a3d9275febd30400834ebf308ce3bf4"
+    },
+    "txt": {
+     "path": "figs/02 Share of women who experienced violence from an intimate partner.txt",
+     "sha256": "1118d0321d403e3c911542ceeff1d38dbd3e510364920c8e1d8f3afde6229fa7"
+    }
+   },
+   "view_url": "https://ourworldindata.org/grapher/share-of-women-who-experienced-violence-by-an-intimate-partner-un",
+   "csv_url": "https://ourworldindata.org/grapher/share-of-women-who-experienced-violence-by-an-intimate-partner-un.csv?csvType=filtered",
+   "png_url": "https://ourworldindata.org/grapher/share-of-women-who-experienced-violence-by-an-intimate-partner-un.png",
+   "data_available": true,
+   "config_title": "Share of women who experienced violence from an intimate partner",
+   "config_subtitle": "Ever-partnered women aged over 15 years who have been subject to physical or sexual violence by a current or former intimate partner in the last 12 months. An ever-partnered woman is a woman who has had an intimate partner at any time in their life.",
+   "chart_slug": "share-of-women-who-experienced-violence-by-an-intimate-partner-un",
+   "column_short_names": {
+    "Entity": "entity",
+    "Code": "code",
+    "Year": "year",
+    "Proportion of ever-partnered women and girls subjected to physical and/or sexual violence by a current or former intimate partner in the previous 12 months, by age (%) - 15 years old and over": "_5_2_1__vc_vaw_marr__15_years_old_and_over",
+    "World region according to OWID": "owid_region"
+   }
+  },
+  {
+   "index": 3,
+   "name": "03 Share of women who were married by age 15",
+   "embed": {
+    "slug": "women-married-by-age-15",
+    "query": {},
+    "image": null
+   },
+   "files": {
+    "html": {
+     "path": "figs/03 Share of women who were married by age 15.html",
+     "sha256": "83457d92fd37f0546be8f978fcf4a204718bb19be7eae280f4ea3d5f8b05b989"
+    },
+    "csv": {
+     "path": "figs/03 Share of women who were married by age 15.csv",
+     "sha256": "bd56262df4260d386f4ad82a32fc4ab32f1d4636e59e8dc1620c7f1959672439"
+    },
+    "png": {
+     "path": "figs/03 Share of women who were married by age 15.png",
+     "sha256": "8d818bed3daba171195c44284611c8c5bbc9d605885a44200ed4b0bed26bb249"
+    },
+    "txt": {
+     "path": "figs/03 Share of women who were married by age 15.txt",
+     "sha256": "488ce808c9c73d0ed8e010059284b984a034f614869e640a0afdd87ab93563ba"
+    }
+   },
+   "view_url": "https://ourworldindata.org/grapher/women-married-by-age-15",
+   "csv_url": "https://ourworldindata.org/grapher/women-married-by-age-15.csv?csvType=filtered",
+   "png_url": "https://ourworldindata.org/grapher/women-married-by-age-15.png",
+   "data_available": true,
+   "config_title": "Share of women who were married by age 15",
+   "config_subtitle": "Women aged 20-24, who were married or in a union before they reached the age of 15.",
+   "chart_slug": "women-married-by-age-15",
+   "column_short_names": {
+    "Entity": "entity",
+    "Code": "code",
+    "Year": "year",
+    "Proportion of women aged 20-24 years who were married or in a union before age 15 (%)": "_5_3_1__sp_dyn_mrbf15",
+    "Proportion of women aged 20-24 years who were married or in a union before age 15 (%) (Original Year)": "_5_3_1__sp_dyn_mrbf15__original_year"
+   }
+  },
+  {
+   "index": 4,
+   "name": "04 Share of women who have undergone female genital mutilation",
+   "embed": {
+    "slug": "female-genital-mutilation-prevalence",
+    "query": {},
+    "image": null
+   },
+   "files": {
+    "html": {
+     "path": "figs/04 Share of women who have undergone female genital mutilation.html",
+     "sha256": "8f8d94fbb21bf2e30c5f2969da04499ba728ff968bed8252da1d98d73dcb4eec"
+    },
+    "csv": {
+     "path": "figs/04 Share of women who have undergone female genital mutilation.csv",
+     "sha256": "9dfac2a1e55666f15fe635083e3f073d3dbf3a7ed0ecc9b903e11cddef3ad3bb"
+    },
+    "png": {
+     "path": "figs/04 Share of women who have undergone female genital mutilation.png",
+     "sha256": "f2e5b65c279b0c252241dcf350449c2aee7e5b1d15a266e896513350f082d59b"
+    },
+    "txt": {
+     "path": "figs/04 Share of women who have undergone female genital mutilation.txt",
+     "sha256": "c2d95761f41b102fbeea058a61f1013819336e919857fea91a23628ecac50fda"
+    }
+   },
+   "view_url": "https://ourworldindata.org/grapher/female-genital-mutilation-prevalence",
+   "csv_url": "https://ourworldindata.org/grapher/female-genital-mutilation-prevalence.csv?csvType=filtered",
+   "png_url": "https://ourworldindata.org/grapher/female-genital-mutilation-prevalence.png",
+   "data_available": true,
+   "config_title": "Share of women who have undergone female genital mutilation",
+   "config_subtitle": "Share of women, aged 15–49, who have gone through partial or total removal of the female external genitalia or other injury to the female genital organs for cultural or other non-therapeutic reasons.",
+   "chart_slug": "female-genital-mutilation-prevalence",
+   "column_short_names": {
+    "Entity": "entity",
+    "Code": "code",
+    "Year": "year",
+    "Female genital mutilation prevalence (%)": "sh_sta_fgms_zs",
+    "Female genital mutilation prevalence (%) (Original Year)": "sh_sta_fgms_zs__original_year"
+   }
+  },
+  {
+   "index": 5,
+   "name": "05 Time women and men spend on unpaid care and domestic work",
+   "embed": {
+    "slug": "time-spend-in-domestic-work-female-vs-male",
+    "query": {},
+    "image": null
+   },
+   "files": {
+    "html": {
+     "path": "figs/05 Time women and men spend on unpaid care and domestic work.html",
+     "sha256": "8339fcdef1972f97e68d5f0f81c57f1c626b5e81147a46ba859f21329c9c09e0"
+    },
+    "csv": {
+     "path": "figs/05 Time women and men spend on unpaid care and domestic work.csv",
+     "sha256": "7ecf9b2c833aed565dfb7b7214baf3f952ada10698df12e209d39e0b08de8344"
+    },
+    "png": {
+     "path": "figs/05 Time women and men spend on unpaid care and domestic work.png",
+     "sha256": "8964468898a363d5319e90b44192f6d6b10f52546ba3c1ecd5a8cd02be1839f5"
+    },
+    "txt": {
+     "path": "figs/05 Time women and men spend on unpaid care and domestic work.txt",
+     "sha256": "601c1b0ef3f65bb7a1f0b305b7b77c4b5ef826f1724b8d88f65f940ba7f6a76f"
+    }
+   },
+   "view_url": "https://ourworldindata.org/grapher/time-spend-in-domestic-work-female-vs-male",
+   "csv_url": "https://ourworldindata.org/grapher/time-spend-in-domestic-work-female-vs-male.csv?csvType=filtered",
+   "png_url": "https://ourworldindata.org/grapher/time-spend-in-domestic-work-female-vs-male.png",
+   "data_available": true,
+   "config_title": "Time women and men spend on unpaid care and domestic work",
+   "config_subtitle": "Average hours per day that women and men aged 15 and older spend on unpaid care and domestic work.",
+   "chart_slug": "time-spend-in-domestic-work-female-vs-male",
+   "column_short_names": {
+    "Entity": "entity",
+    "Code": "code",
+    "Year": "year",
+    "Women": "_5_4_1__sl_dom_tspd__15_years_old_and_over__all_areas__female",
+    "Men": "_5_4_1__sl_dom_tspd__15_years_old_and_over__all_areas__male",
+    "Women (Original Year)": "_5_4_1__sl_dom_tspd__15_years_old_and_over__all_areas__female__original_year",
+    "Men (Original Year)": "_5_4_1__sl_dom_tspd__15_years_old_and_over__all_areas__male__original_year"
+   }
+  },
+  {
+   "index": 6,
+   "name": "06 Share of women in parliament",
+   "embed": {
+    "slug": "share-of-women-in-parliament",
+    "query": {},
+    "image": null
+   },
+   "files": {
+    "html": {
+     "path": "figs/06 Share of women in parliament.html",
+     "sha256": "8ab8af30cbc1eeafd9806ac1d1ca22acf70041399e4ec30495bd20393770e080"
+    },
+    "csv": {
+     "path": "figs/06 Share of women in parliament.csv",
+     "sha256": "f8c58a23686407a815970ab569be2f1246faf8d26d91ddc39788563d23ce9a91"
+    },
+    "png": {
+     "path": "figs/06 Share of women in parliament.png",
+     "sha256": "06cb058b26878f775ddc33a0b39934a76ea59b3b96fe4d3cf8b4b9957acae487"
+    },
+    "txt": {
+     "path": "figs/06 Share of women in parliament.txt",
+     "sha256": "39dff6d4451e32335b44473bd39ab83a527521ea520aedb0981b45a92296b17d"
+    }
+   },
+   "view_url": "https://ourworldindata.org/grapher/share-of-women-in-parliament",
+   "csv_url": "https://ourworldindata.org/grapher/share-of-women-in-parliament.csv?csvType=filtered",
+   "png_url": "https://ourworldindata.org/grapher/share-of-women-in-parliament.png",
+   "data_available": true,
+   "config_title": "Share of women in parliament",
+   "config_subtitle": "Percentage of seats in lower or single chamber of the legislature held by women.",
+   "chart_slug": "share-of-women-in-parliament",
+   "column_short_names": {
+    "Entity": "entity",
+    "Code": "code",
+    "Year": "year",
+    "Lower chamber female legislators": "wom_parl_vdem__estimate_best",
+    "World region according to OWID": "owid_region"
+   }
+  },
+  {
+   "index": 7,
+   "name": "07 Share of senior and middle management positions filled by women",
+   "embed": {
+    "slug": "proportion-of-women-in-senior-and-middle-management-positions",
+    "query": {},
+    "image": null
+   },
+   "files": {
+    "html": {
+     "path": "figs/07 Share of senior and middle management positions filled by women.html",
+     "sha256": "ba8ba58e12855137021933f302d2a2c1640578d8b054a606ba4cb92618fd6c55"
+    },
+    "csv": {
+     "path": "figs/07 Share of senior and middle management positions filled by women.csv",
+     "sha256": "43a94b4a3a572383759b44e668f425d6b98d07249bed7460ac45c25bcb6f87f3"
+    },
+    "png": {
+     "path": "figs/07 Share of senior and middle management positions filled by women.png",
+     "sha256": "ed39b1bef2a93d98fc54544c4147bc11df8f2ac6c4684bd61135d444a250f2b5"
+    },
+    "txt": {
+     "path": "figs/07 Share of senior and middle management positions filled by women.txt",
+     "sha256": "7e13ca649c63011b1b803501533aa815ffdc21610ea35a9efdd594ae08014403"
+    }
+   },
+   "view_url": "https://ourworldindata.org/grapher/proportion-of-women-in-senior-and-middle-management-positions",
+   "csv_url": "https://ourworldindata.org/grapher/proportion-of-women-in-senior-and-middle-management-positions.csv?csvType=filtered",
+   "png_url": "https://ourworldindata.org/grapher/proportion-of-women-in-senior-and-middle-management-positions.png",
+   "data_available": true,
+   "config_title": "Share of senior and middle management positions filled by women",
+   "config_subtitle": "Women who are employed in decision-making and management roles in government, as well as large enterprises and institutions.",
+   "chart_slug": "proportion-of-women-in-senior-and-middle-management-positions",
+   "column_short_names": {
+    "Entity": "entity",
+    "Code": "code",
+    "Year": "year",
+    "5.5.2 - Proportion of women in senior and middle management positions - 13th ICLS (%) - IC_GEN_MGTN": "_5_5_2__ic_gen_mgtn",
+    "5.5.2 - Proportion of women in senior and middle management positions - 13th ICLS (%) - IC_GEN_MGTN (Original Year)": "_5_5_2__ic_gen_mgtn__original_year"
+   }
+  },
+  {
+   "index": 8,
+   "name": "08 Women who make informed decisions regarding their sexual relations, contraceptive use and reproductive health care",
+   "embed": {
+    "slug": "women-informed-decisions-health-sexual-relations",
+    "query": {},
+    "image": null
+   },
+   "files": {
+    "html": {
+     "path": "figs/08 Women who make informed decisions regarding their sexual relations, contraceptive use and reproductive health care.html",
+     "sha256": "05a64e144a1bdf21022842ac48fe8fdc15263509bc769705654ebb4285668475"
+    },
+    "csv": {
+     "path": "figs/08 Women who make informed decisions regarding their sexual relations, contraceptive use and reproductive health care.csv",
+     "sha256": "27f05e2fc8778c7de488367e834db543fe5a84fc637136147618810e5d64499d"
+    },
+    "png": {
+     "path": "figs/08 Women who make informed decisions regarding their sexual relations, contraceptive use and reproductive health care.png",
+     "sha256": "21a79bd43f74abfc397744ab7ff6e04908b71663c8e7e87949351c4ca5605fcc"
+    },
+    "txt": {
+     "path": "figs/08 Women who make informed decisions regarding their sexual relations, contraceptive use and reproductive health care.txt",
+     "sha256": "a170141717ac174f660c80787c3e58c381daa8c12384a90820c8631cdd9b194e"
+    }
+   },
+   "view_url": "https://ourworldindata.org/grapher/women-informed-decisions-health-sexual-relations",
+   "csv_url": "https://ourworldindata.org/grapher/women-informed-decisions-health-sexual-relations.csv?csvType=filtered",
+   "png_url": "https://ourworldindata.org/grapher/women-informed-decisions-health-sexual-relations.png",
+   "data_available": true,
+   "config_title": "Women who make informed decisions regarding their sexual relations, contraceptive use and reproductive health care",
+   "config_subtitle": "Women aged 15-49 (married or in union) who can say no to sexual intercourse with their husband or partner if they do not want, decide on use of contraception, and decide on their own health care.",
+   "chart_slug": "women-informed-decisions-health-sexual-relations",
+   "column_short_names": {
+    "Entity": "entity",
+    "Code": "code",
+    "Year": "year",
+    "Proportion of women who make their own informed decisions regarding sexual relations, contraceptive use and reproductive health care (% of women aged 15-49 years)": "_5_6_1__sh_fpl_infm",
+    "Proportion of women who make their own informed decisions regarding sexual relations, contraceptive use and reproductive health care (% of women aged 15-49 years) (Original Year)": "_5_6_1__sh_fpl_infm__original_year"
+   }
+  },
+  {
+   "index": 9,
+   "name": "09 Access to sexual and reproductive health care",
+   "embed": {
+    "slug": "access-to-sexual-health-care-and-education",
+    "query": {},
+    "image": null
+   },
+   "files": {
+    "html": {
+     "path": "figs/09 Access to sexual and reproductive health care.html",
+     "sha256": "c0b48fd5615f0f4e3e04b684ffde283c70b6286f8bb387f64ba74b7cbed3a45e"
+    },
+    "csv": {
+     "path": "figs/09 Access to sexual and reproductive health care.csv",
+     "sha256": "ae13c1796151944876ff1120882fb12c129f1a1142b3d5bd4c9579f6ce93be66"
+    },
+    "png": {
+     "path": "figs/09 Access to sexual and reproductive health care.png",
+     "sha256": "9b3aba9129449d6d8021fb932ce4f0dc098b9e32db868498847c83e9c6a089ae"
+    },
+    "txt": {
+     "path": "figs/09 Access to sexual and reproductive health care.txt",
+     "sha256": "8c909a65169700bba489804f8b03bca2866c9203ecbca3b923d1528f7eeb4e6c"
+    }
+   },
+   "view_url": "https://ourworldindata.org/grapher/access-to-sexual-health-care-and-education",
+   "csv_url": "https://ourworldindata.org/grapher/access-to-sexual-health-care-and-education.csv?csvType=filtered",
+   "png_url": "https://ourworldindata.org/grapher/access-to-sexual-health-care-and-education.png",
+   "data_available": true,
+   "config_title": "Access to sexual and reproductive health care",
+   "config_subtitle": "Extent to which countries have regulations that guarantee full and equal access to women and men aged 15 years and older to sexual and reproductive health care. Index of specific legal enablers and barriers for [13 sexual health components](#dod:indicator-5-6-2). Higher values indicate greater access.",
+   "chart_slug": "access-to-sexual-health-care-and-education",
+   "column_short_names": {
+    "Entity": "entity",
+    "Code": "code",
+    "Year": "year",
+    "Extent to which countries have laws and regulations that guarantee full and equal access to women and men aged 15 years and older to sexual and reproductive health care, information and education (%)": "_5_6_2__sh_lgr_acsrhe",
+    "Extent to which countries have laws and regulations that guarantee full and equal access to women and men aged 15 years and older to sexual and reproductive health care, information and education (%) (Original Year)": "_5_6_2__sh_lgr_acsrhe__original_year"
+   }
+  },
+  {
+   "index": 10,
+   "name": "10 Share of agricultural population with land rights, by sex",
+   "embed": {
+    "slug": "share-or-agricultural-population-with-land-ownership-rights-by-sex",
+    "query": {},
+    "image": null
+   },
+   "files": {
+    "html": {
+     "path": "figs/10 Share of agricultural population with land rights, by sex.html",
+     "sha256": "8d100b360265393e6ae1828e2ed5f4c2df01354af38570478c75147f03c708b2"
+    },
+    "csv": {
+     "path": "figs/10 Share of agricultural population with land rights, by sex.csv",
+     "sha256": "3ac68881cee321a12aba803522f7e1a8e690ba024867edb53fdf7ba6dd227e81"
+    },
+    "png": {
+     "path": "figs/10 Share of agricultural population with land rights, by sex.png",
+     "sha256": "033a746262e7041a640121101aec9fd9555befa820d13a75575c9ef22f2e4c10"
+    },
+    "txt": {
+     "path": "figs/10 Share of agricultural population with land rights, by sex.txt",
+     "sha256": "2d85f0c0a01aa1a3c6327222cb093ce2a17a58cf0bbcc38e21a83e561eaa49d8"
+    }
+   },
+   "view_url": "https://ourworldindata.org/grapher/share-or-agricultural-population-with-land-ownership-rights-by-sex",
+   "csv_url": "https://ourworldindata.org/grapher/share-or-agricultural-population-with-land-ownership-rights-by-sex.csv?csvType=filtered",
+   "png_url": "https://ourworldindata.org/grapher/share-or-agricultural-population-with-land-ownership-rights-by-sex.png",
+   "data_available": true,
+   "config_title": "Share of agricultural population with land rights, by sex",
+   "config_subtitle": "The agricultural population refers to the number of adult individuals living in a household where at least one person operates land for agricultural purposes or raises livestock. Secure tenure rights over land include agricultural land ownership and the right to sell or bequeath agricultural land.",
+   "chart_slug": "share-or-agricultural-population-with-land-ownership-rights-by-sex",
+   "column_short_names": {
+    "Entity": "entity",
+    "Code": "code",
+    "Year": "year",
+    "Male population with agricultural land rights": "_5_a_1__sp_lgl_lndagsec__male",
+    "Female population with agricultural land rights": "_5_a_1__sp_lgl_lndagsec__female",
+    "Population": "population",
+    "World region according to OWID": "owid_region",
+    "Female population with agricultural land rights (Original Year)": "_5_a_1__sp_lgl_lndagsec__female__original_year",
+    "Male population with agricultural land rights (Original Year)": "_5_a_1__sp_lgl_lndagsec__male__original_year"
+   }
+  },
+  {
+   "index": 11,
+   "name": "11 Equal rights to land ownership",
+   "embed": {
+    "slug": "degree-to-which-the-legal-framework-guarantees-womens-equal-rights-to-land-ownership-andor-control",
+    "query": {},
+    "image": null
+   },
+   "files": {
+    "html": {
+     "path": "figs/11 Equal rights to land ownership.html",
+     "sha256": "786cd851fedc94bdf0cb228e9bbbd05120d2a75018140fd345a31df2500d7ac6"
+    },
+    "csv": {
+     "path": "figs/11 Equal rights to land ownership.csv",
+     "sha256": "a7613568b3a04acde5f0fa248d7fa7ca50dcf7999e8f50b8b892ce403f59b1b9"
+    },
+    "png": {
+     "path": "figs/11 Equal rights to land ownership.png",
+     "sha256": "981357d149000a78a143850a7bd6137e7155a83aee722d8d086b5e8aaeb757f0"
+    },
+    "txt": {
+     "path": "figs/11 Equal rights to land ownership.txt",
+     "sha256": "c27db68c6d4127852fc201621d0ba6dc19246a12d2634c83af46aeda404731c6"
+    }
+   },
+   "view_url": "https://ourworldindata.org/grapher/degree-to-which-the-legal-framework-guarantees-womens-equal-rights-to-land-ownership-andor-control",
+   "csv_url": "https://ourworldindata.org/grapher/degree-to-which-the-legal-framework-guarantees-womens-equal-rights-to-land-ownership-andor-control.csv?csvType=filtered",
+   "png_url": "https://ourworldindata.org/grapher/degree-to-which-the-legal-framework-guarantees-womens-equal-rights-to-land-ownership-andor-control.png",
+   "data_available": true,
+   "config_title": "Equal rights to land ownership",
+   "config_subtitle": "The extent to which legal frameworks protect women's land rights, measured against [six proxies](#dod:sdg-landownership) designed to assess the multiple dimensions of equality in land rights. The value corresponds to the number of proxies that exist. Higher values indicate more equal land rights.",
+   "chart_slug": "degree-to-which-the-legal-framework-guarantees-womens-equal-rights-to-land-ownership-andor-control",
+   "column_short_names": {
+    "Entity": "entity",
+    "Code": "code",
+    "Year": "year",
+    "Degree to which the legal framework (including customary law) guarantees women’s equal rights to land ownership and/or control (1=No evidence to 6=Highest levels of guarantees)": "_5_a_2__sg_lgl_lndfemod",
+    "Degree to which the legal framework (including customary law) guarantees women’s equal rights to land ownership and/or control (1=No evidence to 6=Highest levels of guarantees) (Original Year)": "_5_a_2__sg_lgl_lndfemod__original_year"
+   }
+  },
+  {
+   "index": 12,
+   "name": "12 Share of people who own a mobile phone, by sex",
+   "embed": {
+    "slug": "share-of-individuals-who-own-a-mobile-telephone-by-sex",
+    "query": {},
+    "image": null
+   },
+   "files": {
+    "html": {
+     "path": "figs/12 Share of people who own a mobile phone, by sex.html",
+     "sha256": "2ac552482281fe96fe9a693350c9751b03defb60c36cd20f7949b6f3ca54f584"
+    },
+    "csv": {
+     "path": "figs/12 Share of people who own a mobile phone, by sex.csv",
+     "sha256": "7b083c7c81a6789d7a850c5841e01fad18910385a846cb85539eba3af4c32bc2"
+    },
+    "png": {
+     "path": "figs/12 Share of people who own a mobile phone, by sex.png",
+     "sha256": "87eefd5e63d99c388cdfd70efd8708e2ed0131eff2bcc8e0443063b60626d101"
+    },
+    "txt": {
+     "path": "figs/12 Share of people who own a mobile phone, by sex.txt",
+     "sha256": "29917a24e8293d9728c9686ea8c63446dfdeabc5b83ea6effc15b83a1cac2a4b"
+    }
+   },
+   "view_url": "https://ourworldindata.org/grapher/share-of-individuals-who-own-a-mobile-telephone-by-sex",
+   "csv_url": "https://ourworldindata.org/grapher/share-of-individuals-who-own-a-mobile-telephone-by-sex.csv?csvType=filtered",
+   "png_url": "https://ourworldindata.org/grapher/share-of-individuals-who-own-a-mobile-telephone-by-sex.png",
+   "data_available": true,
+   "config_title": "Share of people who own a mobile phone, by sex",
+   "config_subtitle": "Individuals with a mobile phone with at least one SIM card that has been used in the last three months.",
+   "chart_slug": "share-of-individuals-who-own-a-mobile-telephone-by-sex",
+   "column_short_names": {
+    "Entity": "entity",
+    "Code": "code",
+    "Year": "year",
+    "Female phone ownership (%)": "_5_b_1__it_mob_own__female",
+    "Male phone ownership (%)": "_5_b_1__it_mob_own__male",
+    "World region according to OWID": "owid_region",
+    "Male phone ownership (%) (Original Year)": "_5_b_1__it_mob_own__male__original_year",
+    "Female phone ownership (%) (Original Year)": "_5_b_1__it_mob_own__female__original_year"
+   }
+  },
+  {
+   "index": 13,
+   "name": "13 Systems tracking and making public allocations for gender equality and women's empowerment",
+   "embed": {
+    "slug": "systems-track-gender-equality",
+    "query": {},
+    "image": null
+   },
+   "files": {
+    "html": {
+     "path": "figs/13 Systems tracking and making public allocations for gender equality and women's empowerment.html",
+     "sha256": "746ffae371a876cf4bb465e19fc9ffefb72f08885335f5fdc9b16676f4d56b18"
+    },
+    "csv": {
+     "path": "figs/13 Systems tracking and making public allocations for gender equality and women's empowerment.csv",
+     "sha256": "2f9f8d66071aeabe1bae3cd76f54ee949c1feb7a23925b68514405ad74c7eb59"
+    },
+    "png": {
+     "path": "figs/13 Systems tracking and making public allocations for gender equality and women's empowerment.png",
+     "sha256": "19b8c900b1ee8cd3682daac755ce9966a49fb9b08316f3479682326d015cacde"
+    },
+    "txt": {
+     "path": "figs/13 Systems tracking and making public allocations for gender equality and women's empowerment.txt",
+     "sha256": "6fabc35948925fa3b7a350f7ebea55cc7873f01f655dba4fe85fc40eba8170cd"
+    }
+   },
+   "view_url": "https://ourworldindata.org/grapher/systems-track-gender-equality",
+   "csv_url": "https://ourworldindata.org/grapher/systems-track-gender-equality.csv?csvType=filtered",
+   "png_url": "https://ourworldindata.org/grapher/systems-track-gender-equality.png",
+   "data_available": true,
+   "config_title": "Systems tracking and making public allocations for gender equality and women's empowerment",
+   "config_subtitle": null,
+   "chart_slug": "systems-track-gender-equality",
+   "column_short_names": {
+    "Entity": "entity",
+    "Code": "code",
+    "Year": "year",
+    "Proportion of countries with systems to track and make public allocations for gender equality and women's empowerment (%)": "_5_c_1__sg_gen_eqpwn"
+   }
+  }
+ ]
+}

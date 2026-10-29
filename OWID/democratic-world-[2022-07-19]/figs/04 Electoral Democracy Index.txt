@@ -1,0 +1,12 @@
+Figure 04: 04 Electoral Democracy Index
+Article: People around the world have gained democratic rights, but some have many more rights than others (2022-07-19)
+
+Title: Electoral Democracy Index
+Subtitle: Data by [V-Dem](#dod:v-dem). Expert estimates of the extent to which political leaders are elected under comprehensive voting rights in free and fair elections, and freedoms of association and expression are guaranteed. The index ranges from 0 to 1 (most democratic).
+Note: 
+Source: V-Dem (2026)
+Units: 
+Chart: https://ourworldindata.org/grapher/electoral-democracy-index?tab=chart&time=1950&stackMode=relative
+
+Text before the figure: In the first half of the 20th century, some countries continued to become more democratic, while progress in most others stalled.
+Text after the figure: More democratic political institutions in Europe after the first World War were almost completely undone in the two decades that followed, but were then reestablished after the second World War. Some non-European countries such as Canada and the United States also extended the democratic rights of their citizens.

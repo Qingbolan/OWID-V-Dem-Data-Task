@@ -1,0 +1,40 @@
+{
+ "title": "Young people are less likely to vote than older people — often considerably so",
+ "url": "https://ourworldindata.org/data-insights/young-people-are-less-likely-to-vote-than-older-people-often-considerably-so",
+ "date_published": "2024-07-03",
+ "authors": [
+  "Bastian Herre"
+ ],
+ "retrieved_at": "2026-10-29T15:15:15.744489+00:00",
+ "materialised_at": "2026-10-29T16:56:02.381066+00:00",
+ "source_original_sha256": "0791ab31ad26194c5e273608839407fd4e98cbe0e5ed8d417ebdc1e614fdffb0",
+ "offline_snapshot": {
+  "page": "source.html",
+  "assets": "source_files/",
+  "assets_manifest": "source_files/manifest.json",
+  "asset_count": 122,
+  "removed": "all <script> elements except application/ld+json"
+ },
+ "figures": [
+  {
+   "index": 1,
+   "name": "01 Voter turnout by age group in France, the United Kingdom, the United States and Germany",
+   "embed": {
+    "slug": null,
+    "query": {},
+    "image": "https://ourworldindata.org/cdn-cgi/imagedelivery/qLq-8BTgXU8yG0N6HnOy8g/29485137-49ba-4f4c-ce4b-01121379e500/w=1080"
+   },
+   "files": {
+    "html": {
+     "path": "figs/01 Voter turnout by age group in France, the United Kingdom, the United States and Germany.html",
+     "sha256": "35522f3ef29b4b1d5ac0f842967e0faeda47b0010206d6ac179c1975b4f0aca6"
+    },
+    "txt": {
+     "path": "figs/01 Voter turnout by age group in France, the United Kingdom, the United States and Germany.txt",
+     "sha256": "2b83c0396d5f57b3e5c619c6ec3d4c67848796f6a1e4a1e32f95596517a32a9f"
+    }
+   },
+   "data_available": false
+  }
+ ]
+}

@@ -1,0 +1,56 @@
+{
+ "title": "Free and Fair Elections Index",
+ "url": "https://ourworldindata.org/grapher/free-and-fair-elections-index",
+ "date_published": null,
+ "chart_page": true,
+ "authors": [],
+ "retrieved_at": "2026-10-29T17:16:33.614774+00:00",
+ "materialised_at": "2026-10-29T17:16:33.614790+00:00",
+ "source_original_sha256": "8ef33fc3d63d577adec2b6890f590acb69614eb396d756d2afea9f5b030596c3",
+ "offline_snapshot": {
+  "page": "source.html",
+  "assets": "source_files/",
+  "assets_manifest": "source_files/manifest.json",
+  "asset_count": 73,
+  "removed": "all <script> elements except application/ld+json"
+ },
+ "figures": [
+  {
+   "index": 1,
+   "name": "01 Free and Fair Elections Index",
+   "embed": {
+    "slug": "free-and-fair-elections-index",
+    "query": {},
+    "image": null
+   },
+   "view_url": "https://ourworldindata.org/grapher/free-and-fair-elections-index",
+   "csv_url": "https://ourworldindata.org/grapher/free-and-fair-elections-index.csv?csvType=filtered",
+   "png_url": "https://ourworldindata.org/grapher/free-and-fair-elections-index.png",
+   "data_available": true,
+   "config_title": "Free and Fair Elections Index",
+   "config_subtitle": "Data by [V-Dem](#dod:v-dem). Expert estimates of the extent to which election violence, government intimidation, fraud, large irregularities, and vote buying are absent. The index ranges from 0 to 1 (most free and fair).",
+   "files": {
+    "txt": {
+     "path": "figs/01 Free and Fair Elections Index.txt",
+     "sha256": "01c8c30df6e87c212b58b8686be53aa1708656fd2c5efcfabc2e3e8de9c6f4e3"
+    },
+    "csv": {
+     "path": "figs/01 Free and Fair Elections Index.csv",
+     "sha256": "6b3e4b7fa5f15e7c69463997f1d98b0442f62769dabad89ae80d4cf007df4478"
+    },
+    "png": {
+     "path": "figs/01 Free and Fair Elections Index.png",
+     "sha256": "befccfdb6ee90099ea2e425679b79d2463ae599d2c82f20dab6914eecf8263b6"
+    }
+   },
+   "chart_slug": "free-and-fair-elections-index",
+   "column_short_names": {
+    "Entity": "entity",
+    "Code": "code",
+    "Year": "year",
+    "Free and Fair Elections Index": "electfreefair_vdem__estimate_best",
+    "World region according to OWID": "owid_region"
+   }
+  }
+ ]
+}

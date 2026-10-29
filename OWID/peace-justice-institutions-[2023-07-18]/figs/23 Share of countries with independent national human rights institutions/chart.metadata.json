@@ -1,0 +1,40 @@
+{
+ "chart": {
+  "title": "Share of countries with independent national human rights institutions",
+  "subtitle": "Independent national human rights institutions are self-governing administrative bodies set up by the respective country to promote and protect human rights. These institutions must meet the UN’s standards in order to be counted here.",
+  "citation": "United Nations High Commissioner for Human Rights and Global Alliance of National Human Rights Institutions",
+  "originalChartUrl": "https://ourworldindata.org/grapher/share-countries-accredited-independent-national-human-rights-institutions",
+  "selection": [
+   "Sub-Saharan Africa (UN SDG)",
+   "Least Developed Countries (LDCs)",
+   "Small Island Developing States (SIDS)",
+   "Central and Southern Asia (UN SDG)",
+   "Europe and Northern America (UN SDG)",
+   "Latin America and the Caribbean (UN)",
+   "Eastern and South-Eastern Asia (UN SDG)",
+   "Oceania (UN)",
+   "World",
+   "Australia and New Zealand (UN SDG)",
+   "Northern Africa and Western Asia (UN SDG)"
+  ]
+ },
+ "columns": {
+  "16.a.1 - Proportion of countries with independent National Human Rights Institutions in compliance with the Paris Principles (%) - SG_NHR_IMPL": {
+   "titleShort": "Proportion of countries with independent National Human Rights Institutions in compliance with the Paris Principles (%)",
+   "titleLong": "Proportion of countries with independent National Human Rights Institutions in compliance with the Paris Principles (%)",
+   "descriptionShort": "Proportion of countries with independent National Human Rights Institutions in compliance with the Paris Principles (%).",
+   "shortUnit": "%",
+   "unit": "%",
+   "timespan": "2000-2025",
+   "type": "Numeric",
+   "owidVariableId": 1302064,
+   "shortName": "_16_a_1__sg_nhr_impl",
+   "lastUpdated": "2026-07-31",
+   "nextUpdate": "2027-07-31",
+   "citationShort": "United Nations High Commissioner for Human Rights and Global Alliance of National Human Rights Institutions – processed by Our World in Data",
+   "citationLong": "United Nations High Commissioner for Human Rights and Global Alliance of National Human Rights Institutions – processed by Our World in Data. “Proportion of countries with independent National Human Rights Institutions in compliance with the Paris Principles (%)” [dataset]. United Nations High Commissioner for Human Rights and Global Alliance of National Human Rights Institutions, “Source: The Office of the United Nations High Commissioner for Human Rights (OHCHR) in collaboration with Global Alliance of National Human Rights Institutions (GANHRI).” [original data].",
+   "fullMetadata": "https://api.ourworldindata.org/v1/indicators/1302064.metadata.json"
+  }
+ },
+ "dateDownloaded": "2026-10-29"
+}

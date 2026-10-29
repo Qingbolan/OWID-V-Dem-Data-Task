@@ -1,0 +1,18 @@
+{
+ "figure": "01 Private Civil Liberties Index",
+ "checked_at": "2026-10-29T18:06:18.265895+00:00",
+ "status": "match",
+ "gold_rows": 174,
+ "gold_rows_missing_in_reference": 0,
+ "mismatched_cells": {
+  "Private Civil Liberties Index": 0
+ },
+ "tolerance": {
+  "Private Civil Liberties Index": {
+   "abs": 0.001,
+   "rel": 1e-06
+  }
+ },
+ "first_mismatches": [],
+ "program": "golden.vdem_pipeline"
+}

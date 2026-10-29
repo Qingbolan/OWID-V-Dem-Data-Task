@@ -1,0 +1,12 @@
+Figure 02: 02 Share of women who experienced violence from an intimate partner
+Article: Achieve gender equality and empower all women and girls (2023-07-18)
+
+Title: Share of women who experienced violence from an intimate partner
+Subtitle: Ever-partnered women aged over 15 years who have been subject to physical or sexual violence by a current or former intimate partner in the last 12 months. An ever-partnered woman is a woman who has had an intimate partner at any time in their life.
+Note: 
+Source: Data from multiple sources compiled by the UN
+Units: %
+Chart: https://ourworldindata.org/grapher/share-of-women-who-experienced-violence-by-an-intimate-partner-un
+
+Text before the figure: More research: Further data and research on this topic can be found at the Our World in Data topic page on Women’s Rights .
+Text after the figure: ### SDG Indicator 5.2.2 Violence against women from persons other than an intimate partner

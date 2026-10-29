@@ -1,0 +1,34 @@
+{
+ "chart": {
+  "title": "Multi-party elections for legislature",
+  "subtitle": "Data by Lührmann et al. (2018) and V-Dem.",
+  "note": "",
+  "citation": "V-Dem (2026)",
+  "originalChartUrl": "https://ourworldindata.org/grapher/multi-party-elections-legislature-row",
+  "selection": [
+   "Argentina",
+   "Australia",
+   "Botswana",
+   "China"
+  ]
+ },
+ "columns": {
+  "Multiparty elections for legislature (central estimate)": {
+   "titleShort": "Multiparty elections for legislature",
+   "titleLong": "Multiparty elections for legislature - V-Dem",
+   "descriptionShort": "Central estimate of whether multi-party elections for the national legislature were held or not.",
+   "descriptionProcessing": "We use the value from `v2elmulpar_osp` whenever `v2eltype` is 0, 1, 4 or 5. Otherwise the value is missing.\n\n### Data imputation\nWe expand the years covered by V-Dem further: To expand the time coverage of today's countries and include more of the period when they were still non-sovereign territories, we identified the historical entity they were a part of and used that regime's data whenever available\n\nFor example, V-Dem only provides regime data since Bangladesh's independence in 1971. There is, however, regime data for Pakistan and the colony of India, both of which the current territory of Bangladesh was a part. We, therefore, use the regime data of Pakistan for Bangladesh from 1947 to 1970, and the regime data of India from 1789 to 1946. We did so for all countries with a past or current population of more than one million.\n\nFor more details on the imputation methodology and which countries are affected, refer to [this file](https://github.com/owid/etl/blob/master/etl/steps/data/garden/democracy/2026-03-17/vdem/vdem.countries_impute.yml).",
+   "unit": "",
+   "timespan": "1789-2025",
+   "type": "Integer",
+   "owidVariableId": 1209913,
+   "shortName": "electmulpar_leg_row__estimate_best",
+   "lastUpdated": "2026-03-17",
+   "nextUpdate": "2027-03-17",
+   "citationShort": "V-Dem (2026) – processed by Our World in Data",
+   "citationLong": "V-Dem (2026) – processed by Our World in Data. “Multiparty elections for legislature – V-Dem” [dataset]. V-Dem, “Democracy report v16” [original data].",
+   "fullMetadata": "https://api.ourworldindata.org/v1/indicators/1209913.metadata.json"
+  }
+ },
+ "dateDownloaded": "2026-10-29"
+}

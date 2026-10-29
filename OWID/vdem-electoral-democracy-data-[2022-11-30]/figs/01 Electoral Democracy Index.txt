@@ -1,0 +1,12 @@
+Figure 01: 01 Electoral Democracy Index
+Article: The ‘Varieties of Democracy’ data: how do researchers measure democracy? (2022-11-30)
+
+Title: Electoral Democracy Index
+Subtitle: Data by [V-Dem](#dod:v-dem). Expert estimates of the extent to which political leaders are elected under comprehensive voting rights in free and fair elections, and freedoms of association and expression are guaranteed. The index ranges from 0 to 1 (most democratic).
+Note: 
+Source: V-Dem (2026)
+Units: 
+Chart: https://ourworldindata.org/grapher/electoral-democracy-index
+
+Text before the figure: The spectrum ranges from 0 (‘highly undemocratic’) to 1 (‘highly democratic’).
+Text after the figure: This scoring thereby differs from other approaches such as ‘Regimes of the World’ and others , which classify countries as a binary: either they are a democracy or not.

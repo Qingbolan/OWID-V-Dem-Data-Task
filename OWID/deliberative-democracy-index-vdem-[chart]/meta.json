@@ -1,0 +1,56 @@
+{
+ "title": "Deliberative Democracy Index",
+ "url": "https://ourworldindata.org/grapher/deliberative-democracy-index-vdem",
+ "date_published": null,
+ "chart_page": true,
+ "authors": [],
+ "retrieved_at": "2026-10-29T17:02:43.266130+00:00",
+ "materialised_at": "2026-10-29T17:02:43.266157+00:00",
+ "source_original_sha256": "0a78e5b921d1eac3b2b8d8051f480067271c681ac58e8de2ecf4df524c5315b0",
+ "offline_snapshot": {
+  "page": "source.html",
+  "assets": "source_files/",
+  "assets_manifest": "source_files/manifest.json",
+  "asset_count": 73,
+  "removed": "all <script> elements except application/ld+json"
+ },
+ "figures": [
+  {
+   "index": 1,
+   "name": "01 Deliberative Democracy Index",
+   "embed": {
+    "slug": "deliberative-democracy-index-vdem",
+    "query": {},
+    "image": null
+   },
+   "view_url": "https://ourworldindata.org/grapher/deliberative-democracy-index-vdem",
+   "csv_url": "https://ourworldindata.org/grapher/deliberative-democracy-index-vdem.csv?csvType=filtered",
+   "png_url": "https://ourworldindata.org/grapher/deliberative-democracy-index-vdem.png",
+   "data_available": true,
+   "config_title": "Deliberative Democracy Index",
+   "config_subtitle": "Data by [V-Dem](#dod:v-dem). Expert estimates of the extent of voting rights, the freedom and fairness of elections, freedoms of association and expression, and citizens and leaders discussing different views and seeking the public good. The index ranges from 0 to 1 (most democratic).",
+   "files": {
+    "txt": {
+     "path": "figs/01 Deliberative Democracy Index.txt",
+     "sha256": "94863dcc3034d2a565ad8229e78d9746ada7a59512ac35ea28060fd1b946164f"
+    },
+    "csv": {
+     "path": "figs/01 Deliberative Democracy Index.csv",
+     "sha256": "3e76401d63d56b3297ee2393e728633d4b090a7eca73a961109087b02fa4965d"
+    },
+    "png": {
+     "path": "figs/01 Deliberative Democracy Index.png",
+     "sha256": "ef73880f0be6537f388c1ee4629f401b1b5111a4719e5104383f325834bbab2c"
+    }
+   },
+   "chart_slug": "deliberative-democracy-index-vdem",
+   "column_short_names": {
+    "Entity": "entity",
+    "Code": "code",
+    "Year": "year",
+    "Deliberative democracy index": "delibdem_vdem__estimate_best",
+    "World region according to OWID": "owid_region"
+   }
+  }
+ ]
+}

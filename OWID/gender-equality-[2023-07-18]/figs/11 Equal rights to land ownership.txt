@@ -1,0 +1,12 @@
+Figure 11: 11 Equal rights to land ownership
+Article: Achieve gender equality and empower all women and girls (2023-07-18)
+
+Title: Equal rights to land ownership
+Subtitle: The extent to which legal frameworks protect women's land rights, measured against [six proxies](#dod:sdg-landownership) designed to assess the multiple dimensions of equality in land rights. The value corresponds to the number of proxies that exist. Higher values indicate more equal land rights.
+Note: 
+Source: Food and Agriculture Organization of the United Nations
+Units: score
+Chart: https://ourworldindata.org/grapher/degree-to-which-the-legal-framework-guarantees-womens-equal-rights-to-land-ownership-andor-control
+
+Text before the figure: More research: Further data and research on this topic can be found at the Our World in Data topic pages on Women’s Rights and Economic Inequality by Gender .
+Text after the figure: ## Target 5.b Promote empowerment of women through technology

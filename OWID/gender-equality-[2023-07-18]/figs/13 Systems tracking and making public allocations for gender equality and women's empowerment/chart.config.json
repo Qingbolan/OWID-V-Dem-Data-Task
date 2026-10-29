@@ -1,0 +1,56 @@
+{
+ "id": 3842,
+ "map": {
+  "colorScale": {
+   "binningStrategy": "manual",
+   "customNumericColors": [
+    "#ef8a62",
+    "#67a9cf"
+   ],
+   "customNumericLabels": [
+    "No",
+    "Yes"
+   ],
+   "customNumericValues": [
+    0,
+    1,
+    2
+   ],
+   "customNumericColorsActive": true
+  },
+  "timeTolerance": 5,
+  "tooltipUseCustomLabels": true
+ },
+ "slug": "systems-track-gender-equality",
+ "title": "Systems tracking and making public allocations for gender equality and women's empowerment",
+ "yAxis": {
+  "max": 0,
+  "min": 0
+ },
+ "$schema": "https://files.ourworldindata.org/schemas/grapher-schema.011.json",
+ "version": 23,
+ "originUrl": "/economic-inequality-by-gender",
+ "chartTypes": [
+  "DiscreteBar"
+ ],
+ "colorScale": {
+  "baseColorScheme": "SingleColorDenim"
+ },
+ "dimensions": [
+  {
+   "display": {
+    "tolerance": 3
+   },
+   "property": "y",
+   "variableId": 1305152
+  }
+ ],
+ "sourceDesc": "Data from multiple sources compiled by the UN",
+ "isPublished": true,
+ "hideTimeline": true,
+ "baseColorScheme": "SingleColorDenim",
+ "selectedEntityNames": [
+  "World",
+  "Latin America and the Caribbean (UN SDG)"
+ ]
+}

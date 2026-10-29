@@ -1,0 +1,56 @@
+{
+ "title": "Participatory Political Institutions Index",
+ "url": "https://ourworldindata.org/grapher/participatory-political-institutions-index",
+ "date_published": null,
+ "chart_page": true,
+ "authors": [],
+ "retrieved_at": "2026-10-29T17:35:51.871850+00:00",
+ "materialised_at": "2026-10-29T17:35:51.871862+00:00",
+ "source_original_sha256": "70ebc90063d18e68ddd7d6cffb41bdbcb7c84f9d8e0f01ed59ddeb9bcf0aaaa2",
+ "offline_snapshot": {
+  "page": "source.html",
+  "assets": "source_files/",
+  "assets_manifest": "source_files/manifest.json",
+  "asset_count": 73,
+  "removed": "all <script> elements except application/ld+json"
+ },
+ "figures": [
+  {
+   "index": 1,
+   "name": "01 Participatory Political Institutions Index",
+   "embed": {
+    "slug": "participatory-political-institutions-index",
+    "query": {},
+    "image": null
+   },
+   "view_url": "https://ourworldindata.org/grapher/participatory-political-institutions-index",
+   "csv_url": "https://ourworldindata.org/grapher/participatory-political-institutions-index.csv?csvType=filtered",
+   "png_url": "https://ourworldindata.org/grapher/participatory-political-institutions-index.png",
+   "data_available": true,
+   "config_title": "Participatory Political Institutions Index",
+   "config_subtitle": "Data by [V-Dem](#dod:v-dem). Expert estimates of the extent to which citizens can engage in regional and local government, civil society organizations, and direct democracy. The index ranges from 0 to 1 (most participatory).",
+   "files": {
+    "txt": {
+     "path": "figs/01 Participatory Political Institutions Index.txt",
+     "sha256": "672ad06cbbd4897bd034aa480ecae98f3d2c4fda9a0ab101225740d0f1156bd7"
+    },
+    "csv": {
+     "path": "figs/01 Participatory Political Institutions Index.csv",
+     "sha256": "c0e107de3fec32f05b4356f26bff758b0a595c41b5cb8a7a547197b7c8b6a2a3"
+    },
+    "png": {
+     "path": "figs/01 Participatory Political Institutions Index.png",
+     "sha256": "a772ee4e87264e4f8d5bcce08f15561fb88b74d29dff328bb4b74cedc55fc564"
+    }
+   },
+   "chart_slug": "participatory-political-institutions-index",
+   "column_short_names": {
+    "Entity": "entity",
+    "Code": "code",
+    "Year": "year",
+    "Participatory Political Institutions Index": "particip_vdem__estimate_best",
+    "World region according to OWID": "owid_region"
+   }
+  }
+ ]
+}

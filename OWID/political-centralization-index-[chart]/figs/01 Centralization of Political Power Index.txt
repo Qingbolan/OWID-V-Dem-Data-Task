@@ -1,0 +1,9 @@
+Figure 01: 01 Centralization of Political Power Index
+Article: none; source page is the chart page https://ourworldindata.org/grapher/political-centralization-index
+
+Title: Centralization of Political Power Index
+Subtitle: Data by [V-Dem](#dod:v-dem). Expert estimates of the extent to which the executive is unconstrained by the legislature, judiciary, electoral management body, and other oversight bodies. The index ranges from 0 to 1 (most centralized).
+Note: 
+Source: V-Dem (2026)
+Units: 
+Chart: https://ourworldindata.org/grapher/political-centralization-index

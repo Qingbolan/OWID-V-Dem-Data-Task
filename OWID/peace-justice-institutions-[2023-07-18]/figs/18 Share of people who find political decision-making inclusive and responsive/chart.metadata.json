@@ -1,0 +1,35 @@
+{
+ "chart": {
+  "title": "Share of people who find political decision-making inclusive and responsive",
+  "subtitle": "Share of people who responded that the political system in their country allows people like them to have a say in what the government does and to have an influence on politics.",
+  "citation": "United Nations Development Programme",
+  "originalChartUrl": "https://ourworldindata.org/grapher/share-of-people-who-find-political-decision-making-inclusive-and-responsive",
+  "selection": [
+   "Colombia",
+   "Palestine",
+   "Tunisia",
+   "Cape Verde",
+   "Latvia",
+   "South Korea"
+  ]
+ },
+ "columns": {
+  "16.7.2 - Proportion of population who believe decision-making is inclusive and responsive (%) - IU_DMK_ICRS - All age ranges or no breaks by age - No breakdown by disability - Total or not breakdown - All areas - TOTAL - Both sexes": {
+   "titleShort": "Proportion of population who believe decision-making is inclusive and responsive (%) - All age ranges or no breaks by age - No breakdown by disability - Total or not breakdown - All areas - TOTAL - Both sexes",
+   "titleLong": "Proportion of population who believe decision-making is inclusive and responsive (%) - All age ranges or no breaks by age - No breakdown by disability - Total or not breakdown - All areas - TOTAL - Both sexes",
+   "descriptionShort": "Proportion of population who believe decision-making is inclusive and responsive (%).",
+   "shortUnit": "%",
+   "unit": "%",
+   "timespan": "2016-2025",
+   "type": "Numeric",
+   "owidVariableId": 1301989,
+   "shortName": "_16_7_2__iu_dmk_icrs__all_age_ranges_or_no_breaks_by_age__no_breakdown_by_disability__total_or_not_breakdown__all_areas__total__both_sexes",
+   "lastUpdated": "2026-07-31",
+   "nextUpdate": "2027-07-31",
+   "citationShort": "United Nations Development Programme – processed by Our World in Data",
+   "citationLong": "United Nations Development Programme – processed by Our World in Data. “Proportion of population who believe decision-making is inclusive and responsive (%) - All age ranges or no breaks by age - No breakdown by disability - Total or not breakdown - All areas - TOTAL - Both sexes” [dataset]. United Nations Development Programme, “Data from multiple sources” [original data].",
+   "fullMetadata": "https://api.ourworldindata.org/v1/indicators/1301989.metadata.json"
+  }
+ },
+ "dateDownloaded": "2026-10-29"
+}

@@ -1,0 +1,12 @@
+Figure 04: 04 Number of countries protecting core LGBT+ rights
+Article: Human Rights (2016-06-12)
+
+Title: Number of countries protecting core LGBT+ rights
+Subtitle: Countries that fully implement these core policies. Countries that only partially implement them, such as when laws differ across the country, are not included.
+Note: 
+Source: Mignot (2026); Equaldex (2026)
+Units: countries
+Chart: https://ourworldindata.org/grapher/countries-protecting-core-lgbt-rights
+
+Text before the figure: We do not include countries if they only partially protected these rights, such as when laws differ across the country.
+Text after the figure: # Research & Writing

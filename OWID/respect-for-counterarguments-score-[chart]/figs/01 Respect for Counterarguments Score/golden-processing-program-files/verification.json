@@ -1,0 +1,18 @@
+{
+ "figure": "01 Respect for Counterarguments Score",
+ "checked_at": "2026-10-29T18:06:18.332349+00:00",
+ "status": "match",
+ "gold_rows": 174,
+ "gold_rows_missing_in_reference": 0,
+ "mismatched_cells": {
+  "Respect for counterarguments": 0
+ },
+ "tolerance": {
+  "Respect for counterarguments": {
+   "abs": 0.001,
+   "rel": 1e-06
+  }
+ },
+ "first_mismatches": [],
+ "program": "golden.vdem_pipeline"
+}

@@ -1,0 +1,109 @@
+Entity,Code,Year,Female phone ownership (%),Male phone ownership (%),World region according to OWID,Male phone ownership (%) (Original Year),Female phone ownership (%) (Original Year)
+Algeria,DZA,2025,83.1,92.6,Africa,2018,2018
+Argentina,ARG,2025,89.2,89.4,South America,2022,2022
+Armenia,ARM,2025,81,73.3,Asia,2022,2022
+Australia and New Zealand (UN SDG),UNSDG_ANZ,2025,96.6,98,,,
+Azerbaijan,AZE,2025,85.8,87.4,Asia,,
+Bahrain,BHR,2025,100,100,Asia,2024,2024
+Bangladesh,BGD,2025,58.8,70,Asia,2024,2024
+Belarus,BLR,2025,98.2,97.1,Europe,2024,2024
+Belgium,BEL,2025,87.8,86.6,Europe,2023,2023
+Belize,BLZ,2025,72.7,68.7,North America,2024,2024
+Bhutan,BTN,2025,87.8,86.3,Asia,2021,2021
+Botswana,BWA,2025,69.9,67.4,Africa,2024,2024
+Brazil,BRA,2025,87.6,87.1,South America,2024,2024
+British Virgin Islands,VGB,2025,77.4,75.6,North America,2017,2017
+Brunei,BRN,2025,98.7,90.9,Asia,2019,2019
+Burkina Faso,BFA,2025,44.9,60.9,Africa,2019,2019
+Burundi,BDI,2025,11.9,25.3,Africa,2017,2017
+Cambodia,KHM,2025,70.9,72.4,Asia,2019,2019
+Cape Verde,CPV,2025,70.8,72.5,Africa,2019,2019
+Central and Southern Asia (UN SDG),UNSDG_CSA,2025,57.7,83.5,,,
+Chile,CHL,2025,93.7,93.9,South America,2024,2024
+Colombia,COL,2025,79.4,76.7,South America,2024,2024
+Costa Rica,CRI,2025,86.2,85.8,North America,2015,2015
+Cote d'Ivoire,CIV,2025,61.8,68.8,Africa,2024,2024
+Curacao,CUW,2025,87.9,86.5,North America,2017,2017
+Cyprus,CYP,2025,98.2,99.1,Europe,2018,2018
+Czechia,CZE,2025,98.8,98.7,Europe,2023,2023
+Denmark,DNK,2025,83.2,82.5,Europe,2016,2016
+Djibouti,DJI,2025,51.6,61.3,Africa,2017,2017
+Dominican Republic,DOM,2025,78.9,78.3,North America,2024,2024
+Eastern and South-Eastern Asia (UN SDG),UNSDG_ESEA,2025,89.9,91.7,,,
+Ecuador,ECU,2025,61.6,61.1,South America,2024,2024
+Egypt,EGY,2025,96.2,98.6,Africa,2022,2022
+El Salvador,SLV,2025,78.4,81,North America,2015,2015
+Europe and Northern America (UN SDG),UNSDG_ENA,2025,96.2,97.1,,,
+Finland,FIN,2025,98,98.9,Europe,2018,2018
+France,FRA,2025,95.7,96.1,Europe,2024,2024
+Georgia,GEO,2025,93.7,95.5,Asia,2024,2024
+Grenada,GRD,2025,95,90.3,North America,2017,2017
+Guatemala,GTM,2025,60.3,67.1,North America,2021,2021
+Guinea,GIN,2025,68.9,86,Africa,2018,2018
+Hong Kong,HKG,2025,97.9,98.4,Asia,2024,2024
+India,IND,2025,56.2,83.9,Asia,,
+Indonesia,IDN,2025,64.2,73,Asia,2024,2024
+Iran,IRN,2025,68.3,76.5,Asia,2021,2021
+Iraq,IRQ,2025,81.2,89.8,Asia,2022,2022
+Ireland,IRL,2025,88.3,86.6,Europe,2018,2018
+Israel,ISR,2025,93.6,95,Asia,2018,2018
+Italy,ITA,2025,90.4,92.7,Europe,2016,2016
+Jamaica,JAM,2025,97.2,95.6,North America,2016,2016
+Japan,JPN,2025,93.1,94.5,Asia,2024,2024
+Jordan,JOR,2025,88.2,88.5,Asia,2024,2024
+Kazakhstan,KAZ,2025,93.4,94.1,Asia,2024,2024
+Kenya,KEN,2025,52.9,54.5,Africa,2024,2024
+Kuwait,KWT,2025,99.9,99.9,Asia,,
+Latin America and the Caribbean (UN SDG),UNSDG_LAC,2025,84.2,84.9,,,
+Latin America and the Caribbean (UN),UN_LAC,2025,84.2,84.9,,,
+Least Developed Countries (LDCs),,2025,56.3,70.1,,,
+Lesotho,LSO,2025,82.8,80,Africa,2019,2019
+Lithuania,LTU,2025,95.9,95.5,Europe,2019,2019
+Macao,MAC,2025,93,92.4,Asia,2019,2019
+Malawi,MWI,2025,89.7,41.6,Africa,2023,2023
+Malaysia,MYS,2025,98,98.6,Asia,2024,2024
+Maldives,MDV,2025,92.6,93.9,Asia,2019,2019
+Mauritius,MUS,2025,80.7,85.1,Africa,2020,2020
+Mexico,MEX,2025,69.9,73.2,North America,2015,2015
+Mongolia,MNG,2025,94.7,93.6,Asia,2019,2019
+Morocco,MAR,2025,95.9,96.5,Africa,2021,2021
+Mozambique,MOZ,2025,58.8,98.6,Africa,2022,2022
+Myanmar,MMR,2025,57.4,68,Asia,2017,2017
+Netherlands,NLD,2025,82.4,86.1,Europe,2016,2016
+Niger,NER,2025,49.9,77,Africa,2022,2022
+Northern Africa and Western Asia (UN SDG),UNSDG_NAWA,2025,84.3,90,,,
+Norway,NOR,2025,88.5,90.1,Europe,2019,2019
+Oceania (UN SDG),UNSDG_OC,2025,50.7,54.8,,,
+Oman,OMN,2025,95.6,97.7,Asia,2020,2020
+Pakistan,PAK,2025,25.2,65,Asia,2020,2020
+Palestine,PSE,2025,77.4,84.4,Asia,2023,2023
+Paraguay,PRY,2025,81.4,82.2,South America,2024,2024
+Peru,PER,2025,85.3,87.6,South America,2024,2024
+Philippines,PHL,2025,82.3,77.1,Asia,2024,2024
+Portugal,PRT,2025,97.2,97.6,Europe,2024,2024
+Qatar,QAT,2025,99.6,99.7,Asia,2020,2020
+Romania,ROU,2025,98.5,98.6,Europe,2023,2023
+Russia,RUS,2025,98.9,98.8,Europe,2024,2024
+Saudi Arabia,SAU,2025,100,100,Asia,2024,2024
+Serbia,SRB,2025,97.4,97.4,Europe,2024,2024
+Singapore,SGP,2025,97.8,98.6,Asia,2023,2023
+Slovakia,SVK,2025,74.4,78.3,Europe,2020,2020
+Slovenia,SVN,2025,98.1,97.8,Europe,2024,2024
+Small Island Developing States (SIDS),,2025,73.9,74.7,,,
+South Africa,ZAF,2025,79.7,76.5,Africa,2019,2019
+South Korea,KOR,2025,98.2,97.6,Asia,2024,2024
+Sub-Saharan Africa (UN SDG),UNSDG_SSA,2025,61.1,70.1,,,
+Sudan,SDN,2025,54.2,70.3,Africa,2016,2016
+Thailand,THA,2025,88.8,89.2,Asia,2024,2024
+Togo,TGO,2025,39.5,48.6,Africa,2017,2017
+Tunisia,TUN,2025,76.7,83.4,Africa,2019,2019
+Turkey,TUR,2025,95,98.2,Asia,,
+Uganda,UGA,2025,40.7,46.4,Africa,2024,2024
+Ukraine,UKR,2025,91,90.4,Europe,2021,2021
+United Arab Emirates,ARE,2025,100,100,Asia,2024,2024
+Uruguay,URY,2025,92.4,95.5,South America,2024,2024
+Uzbekistan,UZB,2025,79.1,85.2,Asia,2023,2023
+Vietnam,VNM,2025,78.7,89,Asia,2023,2023
+World,OWID_WRL,2025,77.9,86.8,,,
+Zambia,ZMB,2025,45.2,44,Africa,2018,2018
+Zimbabwe,ZWE,2025,47.8,46.2,Africa,2020,2020

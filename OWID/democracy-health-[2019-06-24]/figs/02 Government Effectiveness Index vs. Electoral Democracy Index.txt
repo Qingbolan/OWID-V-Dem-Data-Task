@@ -1,0 +1,12 @@
+Figure 02: 02 Government Effectiveness Index vs. Electoral Democracy Index
+Article: Does democracy lead to better health? (2019-06-24)
+
+Title: Government Effectiveness Index vs. Electoral Democracy Index
+Subtitle: The government effectiveness index captures perceptions of the quality of public services, the civil service, and policy formulation and implementation (positive values mean higher effectiveness). The electoral democracy index is by [V-Dem](#dod:v-dem), based on expert estimates, and ranges from 0 to 1 (most democratic).
+Note: 
+Source: V-Dem (2026)
+Units: 
+Chart: https://ourworldindata.org/grapher/government-effectiveness-vs-electoral-democracy-index
+
+Text before the figure: The correlation between democracy and government effectiveness is shown in the scatter plot, using data from the Government Effectiveness Index, produced by the World Bank as part of the Worldwide Governance Indicators project. Here, government effectiveness captures "perceptions of the quality of public services, the quality of the civil service and the degree of its independence from political pressures, the quality of policy formulation and implementation, and the credibility of the government's commitment to such policies". 9
+Text after the figure: Considering the evidence as a whole, the conclusion is that (i) there is a strong raw cross-country correlation between population health outcomes and the strength of democratic institutions; (ii) there is evidence that these correlations also hold if you control for other variables, but there are some studies that suggest conditional correlations are less robust; (iii) going beyond correlations, there is good evidence suggesting the observed cross-country correlations are likely causal, hence suggesting that democratization leads to better health; and (iv) the causal mechanism is likely driven by a mix of both higher expenditure on public services, and better public service delivery.

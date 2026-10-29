@@ -1,0 +1,56 @@
+{
+ "title": "Political Civil Liberties Index",
+ "url": "https://ourworldindata.org/grapher/political-civil-liberties-index",
+ "date_published": null,
+ "chart_page": true,
+ "authors": [],
+ "retrieved_at": "2026-10-29T17:38:40.726491+00:00",
+ "materialised_at": "2026-10-29T17:38:40.726498+00:00",
+ "source_original_sha256": "b7b6536131a4062dbd41fecf958c525eb9eb9f4e2af844305de6025e20080be8",
+ "offline_snapshot": {
+  "page": "source.html",
+  "assets": "source_files/",
+  "assets_manifest": "source_files/manifest.json",
+  "asset_count": 73,
+  "removed": "all <script> elements except application/ld+json"
+ },
+ "figures": [
+  {
+   "index": 1,
+   "name": "01 Political Civil Liberties Index",
+   "embed": {
+    "slug": "political-civil-liberties-index",
+    "query": {},
+    "image": null
+   },
+   "view_url": "https://ourworldindata.org/grapher/political-civil-liberties-index",
+   "csv_url": "https://ourworldindata.org/grapher/political-civil-liberties-index.csv?csvType=filtered",
+   "png_url": "https://ourworldindata.org/grapher/political-civil-liberties-index.png",
+   "data_available": true,
+   "config_title": "Political Civil Liberties Index",
+   "config_subtitle": "Data by [V-Dem](#dod:v-dem). Expert estimates of the extent to which people enjoy freedom of expression and association. The index ranges from 0 to 1 (most liberties).",
+   "files": {
+    "txt": {
+     "path": "figs/01 Political Civil Liberties Index.txt",
+     "sha256": "8d47648f5eb43c7ffbc4e586929ebb5d1062237ab9e4c870660a3e6792e5687b"
+    },
+    "csv": {
+     "path": "figs/01 Political Civil Liberties Index.csv",
+     "sha256": "6390a286b5c630c3e6adccf21cba6b24436ef983e1dc8dc9eae74bffc762a565"
+    },
+    "png": {
+     "path": "figs/01 Political Civil Liberties Index.png",
+     "sha256": "255febff712c762d2a709f282580d3407ab8e035c20304f938210284cea4aa8c"
+    }
+   },
+   "chart_slug": "political-civil-liberties-index",
+   "column_short_names": {
+    "Entity": "entity",
+    "Code": "code",
+    "Year": "year",
+    "Political Civil Liberties Index": "pol_libs_vdem__estimate_best",
+    "World region according to OWID": "owid_region"
+   }
+  }
+ ]
+}

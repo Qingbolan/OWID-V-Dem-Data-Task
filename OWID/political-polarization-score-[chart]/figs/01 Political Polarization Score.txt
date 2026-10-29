@@ -1,0 +1,9 @@
+Figure 01: 01 Political Polarization Score
+Article: none; source page is the chart page https://ourworldindata.org/grapher/political-polarization-score
+
+Title: Political Polarization Score
+Subtitle: Data by [V-Dem](#dod:v-dem). Expert estimates of the extent to which society is divided into hostile political camps, and political differences undermine social relationships and discourage interaction across ideological lines. Higher scores indicate more polarization. A score of 0 is approximately the average across all countries and years.
+Note: 
+Source: V-Dem (2026)
+Units: 
+Chart: https://ourworldindata.org/grapher/political-polarization-score

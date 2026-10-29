@@ -1,0 +1,56 @@
+{
+ "title": "Clientelism Index",
+ "url": "https://ourworldindata.org/grapher/clientelism-index",
+ "date_published": null,
+ "chart_page": true,
+ "authors": [],
+ "retrieved_at": "2026-10-29T16:59:50.841173+00:00",
+ "materialised_at": "2026-10-29T16:59:50.841186+00:00",
+ "source_original_sha256": "d8f3c5778e5ae1a4a256eeea0f240732186ee909f1edfcce2854070a8e7fea37",
+ "offline_snapshot": {
+  "page": "source.html",
+  "assets": "source_files/",
+  "assets_manifest": "source_files/manifest.json",
+  "asset_count": 73,
+  "removed": "all <script> elements except application/ld+json"
+ },
+ "figures": [
+  {
+   "index": 1,
+   "name": "01 Clientelism Index",
+   "embed": {
+    "slug": "clientelism-index",
+    "query": {},
+    "image": null
+   },
+   "view_url": "https://ourworldindata.org/grapher/clientelism-index",
+   "csv_url": "https://ourworldindata.org/grapher/clientelism-index.csv?csvType=filtered",
+   "png_url": "https://ourworldindata.org/grapher/clientelism-index.png",
+   "data_available": true,
+   "config_title": "Clientelism Index",
+   "config_subtitle": "Data by [V-Dem](#dod:v-dem). Expert estimates of the extent to which public officials exchange targeted goods, jobs, or cash for electoral support. The index ranges from 0 to 1 (highly clientelistic).",
+   "files": {
+    "txt": {
+     "path": "figs/01 Clientelism Index.txt",
+     "sha256": "3d74a18eb82aaf65a43a928c4e81e41f58bfe45845a223093551d94bbfcd2519"
+    },
+    "csv": {
+     "path": "figs/01 Clientelism Index.csv",
+     "sha256": "7f76861e08ee7e1c40b8310e8489dced956563f75ea89406125ffc641e1330f8"
+    },
+    "png": {
+     "path": "figs/01 Clientelism Index.png",
+     "sha256": "a3759b17255709ff926bae1a9ba610453366486493c7c9beef08995918c5e4d2"
+    }
+   },
+   "chart_slug": "clientelism-index",
+   "column_short_names": {
+    "Entity": "entity",
+    "Code": "code",
+    "Year": "year",
+    "Clientelism Index": "v2xnp_client__estimate_best",
+    "World region according to OWID": "owid_region"
+   }
+  }
+ ]
+}

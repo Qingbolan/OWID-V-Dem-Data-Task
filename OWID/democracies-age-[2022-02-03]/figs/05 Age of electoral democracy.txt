@@ -1,0 +1,12 @@
+Figure 05: 05 Age of electoral democracy
+Article: In most countries, democracy is a recent achievement. Dictatorship is far from a distant memory. (2022-02-03)
+
+Title: Age of electoral democracy
+Subtitle: Data by the Lexical Index of Electoral Democracy. Electoral democracies are political systems with an elected government and parliament, universal voting rights, and competitive elections.
+Note: 
+Source: Lexical Index (2026)
+Units: years
+Chart: https://ourworldindata.org/grapher/age-of-electoral-democracy-lexical?tab=map&country=JOR~GBR~LTU
+
+Text before the figure: The interactive map and bar chart again display the age of democracy in each country and their frequencies by year.
+Text after the figure: The data shows that in 2025, the Lexical Index considers more countries to have been minimally democratic than in RoW’s classification: 117 of the 199 countries covered were considered to have been electoral democracies. This includes small countries which RoW does not cover, such as Andorra and Saint Lucia, plus countries such as Hungary and the aforementioned India which RoW does cover, but recently classifies as electoral autocracies.

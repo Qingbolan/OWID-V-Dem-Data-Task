@@ -1,0 +1,55 @@
+{
+ "title": "Transparent laws",
+ "url": "https://ourworldindata.org/grapher/transparent-laws-row",
+ "date_published": null,
+ "chart_page": true,
+ "authors": [],
+ "retrieved_at": "2026-10-29T17:49:34.071112+00:00",
+ "materialised_at": "2026-10-29T17:49:34.071125+00:00",
+ "source_original_sha256": "b1c14985803a92472c661daba8afeddc8eee03b9fc47980bc8e5f0b654ef7818",
+ "offline_snapshot": {
+  "page": "source.html",
+  "assets": "source_files/",
+  "assets_manifest": "source_files/manifest.json",
+  "asset_count": 73,
+  "removed": "all <script> elements except application/ld+json"
+ },
+ "figures": [
+  {
+   "index": 1,
+   "name": "01 Transparent laws",
+   "embed": {
+    "slug": "transparent-laws-row",
+    "query": {},
+    "image": null
+   },
+   "view_url": "https://ourworldindata.org/grapher/transparent-laws-row",
+   "csv_url": "https://ourworldindata.org/grapher/transparent-laws-row.csv?csvType=filtered",
+   "png_url": "https://ourworldindata.org/grapher/transparent-laws-row.png",
+   "data_available": true,
+   "config_title": "Transparent laws",
+   "config_subtitle": "Data by Lührmann et al. (2018) and [V-Dem](#dod:v-dem). Expert estimates of whether laws are transparent, coherent, and relatively stable, and their enforcement predictable.",
+   "files": {
+    "txt": {
+     "path": "figs/01 Transparent laws.txt",
+     "sha256": "163fd64d61392921debfb1d3ebeed4fcdcf5082b648bfa81fc09f02942909e77"
+    },
+    "csv": {
+     "path": "figs/01 Transparent laws.csv",
+     "sha256": "ecc60dee7853fdfc6339f083edf7d3e2d8ffbf27153797d37df7132068f75631"
+    },
+    "png": {
+     "path": "figs/01 Transparent laws.png",
+     "sha256": "4e2a425381e2ca39716bb90fe9c770b9e13318007a4bd4da032b9a2b7ef20df4"
+    }
+   },
+   "chart_slug": "transparent-laws-row",
+   "column_short_names": {
+    "Entity": "entity",
+    "Code": "code",
+    "Year": "year",
+    "Transparent laws with predictable enforcement": "transplaws_row__estimate_best"
+   }
+  }
+ ]
+}

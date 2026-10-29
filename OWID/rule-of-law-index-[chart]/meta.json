@@ -1,0 +1,56 @@
+{
+ "title": "Rule of Law Index",
+ "url": "https://ourworldindata.org/grapher/rule-of-law-index",
+ "date_published": null,
+ "chart_page": true,
+ "authors": [],
+ "retrieved_at": "2026-10-29T17:44:06.497120+00:00",
+ "materialised_at": "2026-10-29T17:44:06.497127+00:00",
+ "source_original_sha256": "577b18d020215827e93a8c0d580652a1a4e1475c4ab98a17f6060fc0a03f928b",
+ "offline_snapshot": {
+  "page": "source.html",
+  "assets": "source_files/",
+  "assets_manifest": "source_files/manifest.json",
+  "asset_count": 73,
+  "removed": "all <script> elements except application/ld+json"
+ },
+ "figures": [
+  {
+   "index": 1,
+   "name": "01 Rule of Law Index",
+   "embed": {
+    "slug": "rule-of-law-index",
+    "query": {},
+    "image": null
+   },
+   "view_url": "https://ourworldindata.org/grapher/rule-of-law-index",
+   "csv_url": "https://ourworldindata.org/grapher/rule-of-law-index.csv?csvType=filtered",
+   "png_url": "https://ourworldindata.org/grapher/rule-of-law-index.png",
+   "data_available": true,
+   "config_title": "Rule of Law Index",
+   "config_subtitle": "Data by [V-Dem](#dod:v-dem). Expert estimates of the extent to which the government complies with the law, courts are independent, laws transparent, justice accessible, corruption absent, and the bureaucracy is impartial. The index ranges from 0 to 1 (most rule-based).",
+   "files": {
+    "txt": {
+     "path": "figs/01 Rule of Law Index.txt",
+     "sha256": "0f48074f56292fa71bd67e20f5116d7d981ffb13a142556b6725dcd7654048da"
+    },
+    "csv": {
+     "path": "figs/01 Rule of Law Index.csv",
+     "sha256": "c2089aca4b68c81ef1893abe34f405250a52db549fcaff683e619d335e636f65"
+    },
+    "png": {
+     "path": "figs/01 Rule of Law Index.png",
+     "sha256": "744fcc97000f76fc1a377c0b69b3496acab7ae571bfed60fca0d1a3687680e0f"
+    }
+   },
+   "chart_slug": "rule-of-law-index",
+   "column_short_names": {
+    "Entity": "entity",
+    "Code": "code",
+    "Year": "year",
+    "Rule of Law index": "rule_of_law_vdem__estimate_best",
+    "World region according to OWID": "owid_region"
+   }
+  }
+ ]
+}

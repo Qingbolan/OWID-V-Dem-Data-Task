@@ -1,0 +1,8 @@
+Entity,Code,Year,Male,Female
+Central and Southern Asia (UN SDG),UNSDG_CSA,2025,38,3
+Eastern and South-Eastern Asia (UN SDG),UNSDG_ESEA,2025,53,8
+Europe and Northern America (UN SDG),UNSDG_ENA,2025,11,4
+Latin America and the Caribbean (UN SDG),UNSDG_LAC,2025,224,35
+Northern Africa and Western Asia (UN SDG),UNSDG_NAWA,2025,133,14
+Sub-Saharan Africa (UN SDG),UNSDG_SSA,2025,27,
+World,OWID_WRL,2025,486,64

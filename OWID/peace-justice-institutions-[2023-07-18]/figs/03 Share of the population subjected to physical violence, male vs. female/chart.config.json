@@ -1,0 +1,62 @@
+{
+ "id": 5276,
+ "slug": "population-subjected-to-physical-violence",
+ "title": "Share of the population subjected to physical violence, male vs. female",
+ "xAxis": {
+  "max": 25,
+  "min": 0.09,
+  "scaleType": "log",
+  "canChangeScaleType": true
+ },
+ "yAxis": {
+  "max": 25,
+  "min": 0.09,
+  "scaleType": "log",
+  "canChangeScaleType": true
+ },
+ "$schema": "https://files.ourworldindata.org/schemas/grapher-schema.011.json",
+ "minTime": "latest",
+ "version": 34,
+ "subtitle": "Respondents were asked about violence they experienced in the previous year.",
+ "originUrl": "/women-rights",
+ "chartTypes": [
+  "ScatterPlot"
+ ],
+ "colorScale": {
+  "customHiddenCategories": {
+   "No data": true
+  }
+ },
+ "dimensions": [
+  {
+   "display": {
+    "name": "Male",
+    "tolerance": 10
+   },
+   "property": "y",
+   "variableId": 1300996
+  },
+  {
+   "display": {
+    "name": "Female",
+    "tolerance": 10
+   },
+   "property": "x",
+   "variableId": 1300995
+  },
+  {
+   "property": "size",
+   "variableId": 953903
+  },
+  {
+   "property": "color",
+   "variableId": 900801
+  }
+ ],
+ "isPublished": true,
+ "comparisonLines": [
+  {
+   "yEquals": "x"
+  }
+ ]
+}

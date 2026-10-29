@@ -1,0 +1,55 @@
+{
+ "title": "Multi-party elections",
+ "url": "https://ourworldindata.org/grapher/multi-party-elections-row",
+ "date_published": null,
+ "chart_page": true,
+ "authors": [],
+ "retrieved_at": "2026-10-29T17:34:24.880104+00:00",
+ "materialised_at": "2026-10-29T17:34:24.880112+00:00",
+ "source_original_sha256": "5d082b7b719f3fa7be3b970e2b5d8bd811906a106636d1e83d15c11c64ba5cc5",
+ "offline_snapshot": {
+  "page": "source.html",
+  "assets": "source_files/",
+  "assets_manifest": "source_files/manifest.json",
+  "asset_count": 73,
+  "removed": "all <script> elements except application/ld+json"
+ },
+ "figures": [
+  {
+   "index": 1,
+   "name": "01 Multi-party elections",
+   "embed": {
+    "slug": "multi-party-elections-row",
+    "query": {},
+    "image": null
+   },
+   "view_url": "https://ourworldindata.org/grapher/multi-party-elections-row",
+   "csv_url": "https://ourworldindata.org/grapher/multi-party-elections-row.csv?csvType=filtered",
+   "png_url": "https://ourworldindata.org/grapher/multi-party-elections-row.png",
+   "data_available": true,
+   "config_title": "Multi-party elections",
+   "config_subtitle": "Data by Lührmann et al. (2018) and [V-Dem](#dod:v-dem).",
+   "files": {
+    "txt": {
+     "path": "figs/01 Multi-party elections.txt",
+     "sha256": "ba86a6a826bdf04324b8b30dae1fa02a0ad812c7744a0fec6ad43b7793bc7e41"
+    },
+    "csv": {
+     "path": "figs/01 Multi-party elections.csv",
+     "sha256": "f82a48b5eec9639db36895fea3b3a951844018358480d062a13b77091df5b3ba"
+    },
+    "png": {
+     "path": "figs/01 Multi-party elections.png",
+     "sha256": "2b755432c5406bfa0e946ef8ce6587528d47ecb2afe3f739c00fcecb99535245"
+    }
+   },
+   "chart_slug": "multi-party-elections-row",
+   "column_short_names": {
+    "Entity": "entity",
+    "Code": "code",
+    "Year": "year",
+    "Multiparty elections": "electmulpar_row__estimate_best"
+   }
+  }
+ ]
+}

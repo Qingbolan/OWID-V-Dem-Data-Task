@@ -1,0 +1,61 @@
+{
+ "title": "The 'Varieties of Democracy' data: how do researchers measure human rights?",
+ "url": "https://ourworldindata.org/vdem-human-rights-data",
+ "date_published": "2022-12-16",
+ "authors": [
+  "Bastian Herre"
+ ],
+ "retrieved_at": "2026-10-29T15:15:31.431679+00:00",
+ "materialised_at": "2026-10-29T16:53:13.361458+00:00",
+ "source_original_sha256": "156645ea4d2a985c2588c90d9da05e67a02d0ff62adf0e665c11783476b8deaa",
+ "offline_snapshot": {
+  "page": "source.html",
+  "assets": "source_files/",
+  "assets_manifest": "source_files/manifest.json",
+  "asset_count": 79,
+  "removed": "all <script> elements except application/ld+json"
+ },
+ "figures": [
+  {
+   "index": 1,
+   "name": "01 Human Rights Index",
+   "embed": {
+    "slug": "human-rights-index-vdem",
+    "query": {},
+    "image": null
+   },
+   "files": {
+    "html": {
+     "path": "figs/01 Human Rights Index.html",
+     "sha256": "5bef34956a87a94ee44ee7c0e70777684df3e8186e0df45f7c364e54aa7c89b0"
+    },
+    "csv": {
+     "path": "figs/01 Human Rights Index.csv",
+     "sha256": "ca7a41f297bed0afaf819cad63220533a0a1865f3e8ea6e616d5f7042e72fe9a"
+    },
+    "png": {
+     "path": "figs/01 Human Rights Index.png",
+     "sha256": "9ddb8eee39c897b59a0772cb17eff1778f6b95aefa9d5fb6d698c6caf9a2207c"
+    },
+    "txt": {
+     "path": "figs/01 Human Rights Index.txt",
+     "sha256": "b5eacd3ca97bd9309d294e0f9a81daf00848a9a30022a51d5b6d162209780404"
+    }
+   },
+   "view_url": "https://ourworldindata.org/grapher/human-rights-index-vdem",
+   "csv_url": "https://ourworldindata.org/grapher/human-rights-index-vdem.csv?csvType=filtered",
+   "png_url": "https://ourworldindata.org/grapher/human-rights-index-vdem.png",
+   "data_available": true,
+   "config_title": "Human Rights Index",
+   "config_subtitle": "Data by [V-Dem](#dod:v-dem). Expert estimates of the extent to which people are free from government torture, political killings, and forced labor, have property rights, and enjoy the freedoms of movement, religion, expression, and association. The index ranges from 0 to 1 (most rights).",
+   "chart_slug": "human-rights-index-vdem",
+   "column_short_names": {
+    "Entity": "entity",
+    "Code": "code",
+    "Year": "year",
+    "Human Rights Index": "civ_libs_vdem__estimate_best",
+    "World region according to OWID": "owid_region"
+   }
+  }
+ ]
+}

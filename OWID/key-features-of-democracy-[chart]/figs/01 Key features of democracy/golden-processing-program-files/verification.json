@@ -1,0 +1,38 @@
+{
+ "figure": "01 Key features of democracy",
+ "checked_at": "2026-10-29T18:06:17.157445+00:00",
+ "status": "match",
+ "gold_rows": 126,
+ "gold_rows_missing_in_reference": 0,
+ "mismatched_cells": {
+  "Electoral political institutions": 0,
+  "Liberal political institutions": 0,
+  "Participatory political institutions": 0,
+  "Egalitarian political institutions": 0,
+  "Deliberative political institutions": 0
+ },
+ "tolerance": {
+  "Electoral political institutions": {
+   "abs": 0.001,
+   "rel": 1e-06
+  },
+  "Liberal political institutions": {
+   "abs": 0.001,
+   "rel": 1e-06
+  },
+  "Participatory political institutions": {
+   "abs": 0.001,
+   "rel": 1e-06
+  },
+  "Egalitarian political institutions": {
+   "abs": 0.001,
+   "rel": 1e-06
+  },
+  "Deliberative political institutions": {
+   "abs": 0.001,
+   "rel": 1e-06
+  }
+ },
+ "first_mismatches": [],
+ "program": "golden.vdem_pipeline"
+}

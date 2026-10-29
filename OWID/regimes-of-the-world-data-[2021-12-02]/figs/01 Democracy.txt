@@ -1,0 +1,12 @@
+Figure 01: 01 Democracy
+Article: The “Regimes of the World” data: how do researchers measure democracy? (2021-12-02)
+
+Title: Democracy
+Subtitle: Classification by [Lührmann et al. (2018)](#dod:regimes-of-the-world) based on expert estimates by [V-Dem](#dod:v-dem).
+Note: 
+Source: V-Dem (2026)
+Units: 
+Chart: https://ourworldindata.org/grapher/political-regime
+
+Text before the figure: This scoring thereby differs from other approaches such as Varieties of Democracy’s electoral democracy index and other projects , which classify countries as a spectrum, with some being scored as more democratic than others.
+Text after the figure: # What years and countries are covered?

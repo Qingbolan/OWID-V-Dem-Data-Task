@@ -1,0 +1,23 @@
+{
+ "figure": "01 Share of countries that have had a woman as chief executive",
+ "checked_at": "2026-10-29T18:06:18.413162+00:00",
+ "status": "match",
+ "gold_rows": 237,
+ "gold_rows_missing_in_reference": 0,
+ "mismatched_cells": {
+  "Any woman chief executive": 0,
+  "Democratically-elected woman chief executive": 0
+ },
+ "tolerance": {
+  "Any woman chief executive": {
+   "abs": 1e-07,
+   "rel": 1e-06
+  },
+  "Democratically-elected woman chief executive": {
+   "abs": 1e-07,
+   "rel": 1e-06
+  }
+ },
+ "first_mismatches": [],
+ "program": "golden.vdem_pipeline"
+}

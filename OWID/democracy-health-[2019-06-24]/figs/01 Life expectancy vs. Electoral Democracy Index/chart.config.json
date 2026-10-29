@@ -1,0 +1,59 @@
+{
+ "id": 3480,
+ "note": "",
+ "slug": "life-expectancy-vs-electoral-democracy-index",
+ "title": "Life expectancy vs. Electoral Democracy Index",
+ "xAxis": {
+  "max": 1,
+  "min": 0
+ },
+ "yAxis": {
+  "max": 85,
+  "min": 50
+ },
+ "$schema": "https://files.ourworldindata.org/schemas/grapher-schema.011.json",
+ "minTime": "latest",
+ "version": 53,
+ "subtitle": "The [period life expectancy](#dod:period-life-expectancy) at birth, in a given year. The electoral democracy index is by [V-Dem](#dod:v-dem), based on expert estimates, and ranges from 0 to 1 (most democratic).",
+ "originUrl": "/democracy",
+ "chartTypes": [
+  "ScatterPlot"
+ ],
+ "dimensions": [
+  {
+   "display": {
+    "name": "Life expectancy"
+   },
+   "property": "y",
+   "variableId": 1118466
+  },
+  {
+   "display": {
+    "name": "Electoral Democracy Index"
+   },
+   "property": "x",
+   "variableId": 1209753
+  },
+  {
+   "property": "color",
+   "variableId": 900801
+  }
+ ],
+ "isPublished": true,
+ "relatedQuestions": [
+  {
+   "url": "https://ourworldindata.org/explorers/democracy",
+   "text": "How do different approaches score democracy across the world?"
+  }
+ ],
+ "excludedEntityNames": [
+  "World",
+  "Asia",
+  "Africa",
+  "Europe",
+  "Oceania",
+  "South America",
+  "North America"
+ ],
+ "compareEndPointsOnly": true
+}

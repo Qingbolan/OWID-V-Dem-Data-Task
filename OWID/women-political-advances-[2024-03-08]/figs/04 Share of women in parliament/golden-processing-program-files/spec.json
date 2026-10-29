@@ -1,0 +1,43 @@
+{
+ "reproducible": true,
+ "program": "golden.vdem_pipeline",
+ "chart_slug": "share-of-women-in-parliament",
+ "view": "https://ourworldindata.org/grapher/share-of-women-in-parliament",
+ "columns": [
+  "Lower chamber female legislators"
+ ],
+ "solution_columns": [
+  "Lower chamber female legislators"
+ ],
+ "output_precision": {
+  "Lower chamber female legislators": 1
+ },
+ "sources": {
+  "Lower chamber female legislators": {
+   "table": "vdem_multi_with_regions",
+   "column": "wom_parl_vdem",
+   "filter": {
+    "estimate": "best"
+   },
+   "short_name": "wom_parl_vdem__estimate_best",
+   "gold_index": 3
+  }
+ },
+ "gold_column_index": {
+  "Lower chamber female legislators": 3
+ },
+ "entity_mapping": "data/reference/owid_etl/vdem/vdem.countries.json",
+ "compare": {
+  "Lower chamber female legislators": {
+   "abs": 0.1,
+   "rel": 1e-06
+  }
+ },
+ "encodings": {},
+ "scale": {},
+ "stack_relative": false,
+ "time_tolerance": 0,
+ "not_compared": {
+  "World region according to OWID": "OWID's world region (map and scatter colour), not a V-Dem indicator"
+ }
+}

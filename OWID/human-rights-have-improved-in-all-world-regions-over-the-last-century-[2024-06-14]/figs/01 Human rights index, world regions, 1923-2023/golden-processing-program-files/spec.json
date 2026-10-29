@@ -1,0 +1,43 @@
+{
+ "reproducible": true,
+ "program": "golden.vdem_pipeline",
+ "chart_slug": "human-rights-index-vdem",
+ "view": "https://ourworldindata.org/grapher/human-rights-index-vdem?tab=chart&time=1923..2023&country=Africa~Asia~Europe~North+America~Oceania~South+America",
+ "columns": [
+  "Human Rights Index"
+ ],
+ "solution_columns": [
+  "Human Rights Index"
+ ],
+ "output_precision": {
+  "Human Rights Index": 8
+ },
+ "sources": {
+  "Human Rights Index": {
+   "table": "vdem_multi_with_regions",
+   "column": "civ_libs_vdem",
+   "filter": {
+    "estimate": "best"
+   },
+   "short_name": "civ_libs_vdem__estimate_best",
+   "gold_index": 3
+  }
+ },
+ "gold_column_index": {
+  "Human Rights Index": 3
+ },
+ "entity_mapping": "data/reference/owid_etl/vdem/vdem.countries.json",
+ "compare": {
+  "Human Rights Index": {
+   "abs": 1e-08,
+   "rel": 1e-06
+  }
+ },
+ "encodings": {},
+ "scale": {},
+ "stack_relative": false,
+ "time_tolerance": 0,
+ "not_compared": {
+  "World region according to OWID": "OWID's world region (map and scatter colour), not a V-Dem indicator"
+ }
+}

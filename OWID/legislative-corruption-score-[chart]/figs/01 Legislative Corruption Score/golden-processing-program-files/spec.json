@@ -1,0 +1,41 @@
+{
+ "reproducible": true,
+ "program": "golden.vdem_pipeline",
+ "chart_slug": "legislative-corruption-score",
+ "view": "https://ourworldindata.org/grapher/legislative-corruption-score",
+ "columns": [
+  "Legislative Corruption Score"
+ ],
+ "solution_columns": [
+  "Legislative Corruption Score"
+ ],
+ "output_precision": {
+  "Legislative Corruption Score": 3
+ },
+ "sources": {
+  "Legislative Corruption Score": {
+   "table": "vdem_multi_with_regions",
+   "column": "corr_leg_vdem",
+   "filter": {
+    "estimate": "best"
+   },
+   "short_name": "corr_leg_vdem__estimate_best",
+   "gold_index": 3
+  }
+ },
+ "gold_column_index": {
+  "Legislative Corruption Score": 3
+ },
+ "entity_mapping": "data/reference/owid_etl/vdem/vdem.countries.json",
+ "compare": {
+  "Legislative Corruption Score": {
+   "abs": 0.001,
+   "rel": 1e-06
+  }
+ },
+ "encodings": {},
+ "scale": {},
+ "stack_relative": false,
+ "time_tolerance": 0,
+ "not_compared": {}
+}

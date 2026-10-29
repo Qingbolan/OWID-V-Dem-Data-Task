@@ -1,0 +1,56 @@
+{
+ "title": "Women's Civil Liberties Index",
+ "url": "https://ourworldindata.org/grapher/women-civil-liberties-index",
+ "date_published": null,
+ "chart_page": true,
+ "authors": [],
+ "retrieved_at": "2026-10-29T17:52:23.540529+00:00",
+ "materialised_at": "2026-10-29T17:52:23.540604+00:00",
+ "source_original_sha256": "b25a6a4ab166c538050a68a814e0e8ed04b835f7d1838ee28ce75378e584b216",
+ "offline_snapshot": {
+  "page": "source.html",
+  "assets": "source_files/",
+  "assets_manifest": "source_files/manifest.json",
+  "asset_count": 73,
+  "removed": "all <script> elements except application/ld+json"
+ },
+ "figures": [
+  {
+   "index": 1,
+   "name": "01 Women's Civil Liberties Index",
+   "embed": {
+    "slug": "women-civil-liberties-index",
+    "query": {},
+    "image": null
+   },
+   "view_url": "https://ourworldindata.org/grapher/women-civil-liberties-index",
+   "csv_url": "https://ourworldindata.org/grapher/women-civil-liberties-index.csv?csvType=filtered",
+   "png_url": "https://ourworldindata.org/grapher/women-civil-liberties-index.png",
+   "data_available": true,
+   "config_title": "Women's Civil Liberties Index",
+   "config_subtitle": "Data by [V-Dem](#dod:v-dem). Expert estimates of the extent to which women are free from forced labor, have property rights and access to the justice system, and enjoy freedom of movement. The index ranges from 0 to 1 (most rights).",
+   "files": {
+    "txt": {
+     "path": "figs/01 Women's Civil Liberties Index.txt",
+     "sha256": "3a44692d8207182c3cb98a1228a857e0a38ad7a5b98a91439aeaee6ec31b17f5"
+    },
+    "csv": {
+     "path": "figs/01 Women's Civil Liberties Index.csv",
+     "sha256": "1bb108e0f1acc5b37441168c4b7bb8e4c0b7c0cebaaaefd48488a712950a3049"
+    },
+    "png": {
+     "path": "figs/01 Women's Civil Liberties Index.png",
+     "sha256": "a2933f2d42a7b76bc823036905a2728a44803e2a3f9e7b864a4bf039eaac6e73"
+    }
+   },
+   "chart_slug": "women-civil-liberties-index",
+   "column_short_names": {
+    "Entity": "entity",
+    "Code": "code",
+    "Year": "year",
+    "Women's Civil Rights Index": "wom_civ_libs_vdem__estimate_best",
+    "World region according to OWID": "owid_region"
+   }
+  }
+ ]
+}

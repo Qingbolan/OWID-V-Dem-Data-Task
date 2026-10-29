@@ -1,0 +1,12 @@
+Figure 02: 02 Deaths in armed conflicts based on where they occurred
+Article: Promote just, peaceful and inclusive societies (2023-07-18)
+
+Title: Deaths in armed conflicts based on where they occurred
+Subtitle: Reported deaths of combatants and civilians due to fighting in [armed conflicts](#dod:armed-conflict-ucdp). Deaths due to disease and starvation resulting from the conflict are not included. Data for 2026 is incomplete and includes deaths within the first half of the year.
+Note: Data for 2026 is based on quarterly reports from the source, which come with a higher level of uncertainty, and in many cases can be underestimates.
+Source: Uppsala Conflict Data Program (2026); geoBoundaries (2023)
+Units: deaths
+Chart: https://ourworldindata.org/grapher/deaths-in-armed-conflicts-by-country
+
+Text before the figure: Deaths from terrorism
+Text after the figure: ### SDG Indicator 16.1.3 Prevalence of all forms of violence

@@ -1,0 +1,56 @@
+{
+ "title": "Liberal Political Institutions Index",
+ "url": "https://ourworldindata.org/grapher/liberal-political-institutions-index",
+ "date_published": null,
+ "chart_page": true,
+ "authors": [],
+ "retrieved_at": "2026-10-29T17:30:58.544301+00:00",
+ "materialised_at": "2026-10-29T17:30:58.544308+00:00",
+ "source_original_sha256": "536c8421d83b3c8231f7fccc2d299671c2a8a32d541af4f1f40aa7a91ed3a558",
+ "offline_snapshot": {
+  "page": "source.html",
+  "assets": "source_files/",
+  "assets_manifest": "source_files/manifest.json",
+  "asset_count": 73,
+  "removed": "all <script> elements except application/ld+json"
+ },
+ "figures": [
+  {
+   "index": 1,
+   "name": "01 Liberal Political Institutions Index",
+   "embed": {
+    "slug": "liberal-political-institutions-index",
+    "query": {},
+    "image": null
+   },
+   "view_url": "https://ourworldindata.org/grapher/liberal-political-institutions-index",
+   "csv_url": "https://ourworldindata.org/grapher/liberal-political-institutions-index.csv?csvType=filtered",
+   "png_url": "https://ourworldindata.org/grapher/liberal-political-institutions-index.png",
+   "data_available": true,
+   "config_title": "Liberal Political Institutions Index",
+   "config_subtitle": "Data by [V-Dem](#dod:v-dem). Expert estimates of the extent of individual and minority rights, equality before the law, and constraints on the executive by the legislature and courts. The index ranges from 0 to 1 (most liberal).",
+   "files": {
+    "txt": {
+     "path": "figs/01 Liberal Political Institutions Index.txt",
+     "sha256": "1ffe15a0b19d5e255c186a9c99d97a63f1f39eb29e268883f35014e1e9b432f7"
+    },
+    "csv": {
+     "path": "figs/01 Liberal Political Institutions Index.csv",
+     "sha256": "4f72fae115079b5f53ecfe41257ce405b22a9f019e865f392541bb6b3d373fd3"
+    },
+    "png": {
+     "path": "figs/01 Liberal Political Institutions Index.png",
+     "sha256": "644d9a8234e373d855a42017c33cc5976796f3c94be5615e6fefcd3b66fd4193"
+    }
+   },
+   "chart_slug": "liberal-political-institutions-index",
+   "column_short_names": {
+    "Entity": "entity",
+    "Code": "code",
+    "Year": "year",
+    "Liberal Political Institutions Index": "lib_vdem__estimate_best",
+    "World region according to OWID": "owid_region"
+   }
+  }
+ ]
+}

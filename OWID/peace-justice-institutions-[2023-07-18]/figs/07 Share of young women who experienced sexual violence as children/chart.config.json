@@ -1,0 +1,67 @@
+{
+ "id": 2774,
+ "map": {
+  "colorScale": {
+   "baseColorScheme": "YlOrRd",
+   "binningStrategy": "manual",
+   "customNumericColors": [
+    null,
+    null
+   ],
+   "customNumericValues": [
+    0,
+    1,
+    2,
+    5,
+    10,
+    20
+   ]
+  },
+  "columnSlug": "1301106",
+  "timeTolerance": 10
+ },
+ "tab": "map",
+ "slug": "women-who-experienced-sexual-violence-by-age-18",
+ "title": "Share of young women who experienced sexual violence as children",
+ "yAxis": {
+  "max": 0,
+  "min": 0
+ },
+ "$schema": "https://files.ourworldindata.org/schemas/grapher-schema.011.json",
+ "minTime": "latest",
+ "version": 24,
+ "subtitle": "Women aged 18-29 years old who experienced any form of sexual violence before reaching the age of 18. Data is from 2005-2024.",
+ "hasMapTab": true,
+ "originUrl": "/violence-against-rights-for-children",
+ "chartTypes": [
+  "DiscreteBar"
+ ],
+ "colorScale": {
+  "baseColorScheme": "SingleColorPurple"
+ },
+ "dimensions": [
+  {
+   "display": {
+    "tolerance": 10
+   },
+   "property": "y",
+   "variableId": 1301106
+  }
+ ],
+ "isPublished": true,
+ "hideTimeline": true,
+ "showYearLabels": true,
+ "baseColorScheme": "SingleColorTeal",
+ "selectedEntityNames": [
+  "Ghana",
+  "Maldives",
+  "Sao Tome and Principe",
+  "Bangladesh",
+  "Democratic Republic of Congo",
+  "Colombia",
+  "United Kingdom"
+ ],
+ "hideAnnotationFieldsInTitle": {
+  "time": true
+ }
+}

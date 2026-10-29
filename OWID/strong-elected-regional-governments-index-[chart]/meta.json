@@ -1,0 +1,56 @@
+{
+ "title": "Strong Elected Regional Governments Index",
+ "url": "https://ourworldindata.org/grapher/strong-elected-regional-governments-index",
+ "date_published": null,
+ "chart_page": true,
+ "authors": [],
+ "retrieved_at": "2026-10-29T17:48:10.596545+00:00",
+ "materialised_at": "2026-10-29T17:48:10.596555+00:00",
+ "source_original_sha256": "19b02c7f1569d42844716b27b6810835dc34249cf95630b2348320cc62420c64",
+ "offline_snapshot": {
+  "page": "source.html",
+  "assets": "source_files/",
+  "assets_manifest": "source_files/manifest.json",
+  "asset_count": 73,
+  "removed": "all <script> elements except application/ld+json"
+ },
+ "figures": [
+  {
+   "index": 1,
+   "name": "01 Strong Elected Regional Governments Index",
+   "embed": {
+    "slug": "strong-elected-regional-governments-index",
+    "query": {},
+    "image": null
+   },
+   "view_url": "https://ourworldindata.org/grapher/strong-elected-regional-governments-index",
+   "csv_url": "https://ourworldindata.org/grapher/strong-elected-regional-governments-index.csv?csvType=filtered",
+   "png_url": "https://ourworldindata.org/grapher/strong-elected-regional-governments-index.png",
+   "data_available": true,
+   "config_title": "Strong Elected Regional Governments Index",
+   "config_subtitle": "Data by [V-Dem](#dod:v-dem). Expert estimates of the extent to which citizens elect regional governments that are free from the influence of unelected regional actors, except for courts. The index ranges from 0 to 1 (strongest).",
+   "files": {
+    "txt": {
+     "path": "figs/01 Strong Elected Regional Governments Index.txt",
+     "sha256": "8a63ed0a023f8c71c8f2bf85764b704d412f178946ad36c862d9b0e984a7813e"
+    },
+    "csv": {
+     "path": "figs/01 Strong Elected Regional Governments Index.csv",
+     "sha256": "c4f8f006dcfb16c7b6515c3726bcba0a7ad7b83479e276dfc0a1c5b5ff17d093"
+    },
+    "png": {
+     "path": "figs/01 Strong Elected Regional Governments Index.png",
+     "sha256": "6fac737d812bc7271699d6e1f72efed592bdbeba4b7386bcb95fc38bea80ede6"
+    }
+   },
+   "chart_slug": "strong-elected-regional-governments-index",
+   "column_short_names": {
+    "Entity": "entity",
+    "Code": "code",
+    "Year": "year",
+    "Strong Elected Regional Governments Index": "regelect_vdem__estimate_best",
+    "World region according to OWID": "owid_region"
+   }
+  }
+ ]
+}

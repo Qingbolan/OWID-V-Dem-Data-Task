@@ -1,0 +1,126 @@
+{
+ "reproducible": true,
+ "program": "golden.vdem_pipeline",
+ "chart_slug": "key-features-of-liberal-democracy",
+ "view": "https://ourworldindata.org/grapher/key-features-of-liberal-democracy",
+ "columns": [
+  "Liberal democracy overall",
+  "Democratic elections",
+  "Legislative checks on government",
+  "Judicial checks on government",
+  "Rule of Law",
+  "Private civil liberties"
+ ],
+ "solution_columns": [
+  "Liberal democracy overall",
+  "Democratic elections",
+  "Legislative checks on government",
+  "Judicial checks on government",
+  "Rule of Law",
+  "Private civil liberties"
+ ],
+ "output_precision": {
+  "Liberal democracy overall": 3,
+  "Democratic elections": 3,
+  "Legislative checks on government": 3,
+  "Judicial checks on government": 3,
+  "Rule of Law": 3,
+  "Private civil liberties": 3
+ },
+ "sources": {
+  "Liberal democracy overall": {
+   "table": "vdem_multi_with_regions",
+   "column": "libdem_vdem",
+   "filter": {
+    "estimate": "best"
+   },
+   "short_name": "libdem_vdem__estimate_best",
+   "gold_index": 3
+  },
+  "Democratic elections": {
+   "table": "vdem_multi_with_regions",
+   "column": "electdem_vdem",
+   "filter": {
+    "estimate": "best"
+   },
+   "short_name": "electdem_vdem__estimate_best",
+   "gold_index": 4
+  },
+  "Legislative checks on government": {
+   "table": "vdem_multi_with_regions",
+   "column": "legis_constr_vdem",
+   "filter": {
+    "estimate": "best"
+   },
+   "short_name": "legis_constr_vdem__estimate_best",
+   "gold_index": 5
+  },
+  "Judicial checks on government": {
+   "table": "vdem_multi_with_regions",
+   "column": "judicial_constr_vdem",
+   "filter": {
+    "estimate": "best"
+   },
+   "short_name": "judicial_constr_vdem__estimate_best",
+   "gold_index": 6
+  },
+  "Rule of Law": {
+   "table": "vdem_multi_with_regions",
+   "column": "rule_of_law_vdem",
+   "filter": {
+    "estimate": "best"
+   },
+   "short_name": "rule_of_law_vdem__estimate_best",
+   "gold_index": 7
+  },
+  "Private civil liberties": {
+   "table": "vdem_multi_with_regions",
+   "column": "priv_libs_vdem",
+   "filter": {
+    "estimate": "best"
+   },
+   "short_name": "priv_libs_vdem__estimate_best",
+   "gold_index": 8
+  }
+ },
+ "gold_column_index": {
+  "Liberal democracy overall": 3,
+  "Democratic elections": 4,
+  "Legislative checks on government": 5,
+  "Judicial checks on government": 6,
+  "Rule of Law": 7,
+  "Private civil liberties": 8
+ },
+ "entity_mapping": "data/reference/owid_etl/vdem/vdem.countries.json",
+ "compare": {
+  "Liberal democracy overall": {
+   "abs": 0.001,
+   "rel": 1e-06
+  },
+  "Democratic elections": {
+   "abs": 0.001,
+   "rel": 1e-06
+  },
+  "Legislative checks on government": {
+   "abs": 0.001,
+   "rel": 1e-06
+  },
+  "Judicial checks on government": {
+   "abs": 0.001,
+   "rel": 1e-06
+  },
+  "Rule of Law": {
+   "abs": 0.001,
+   "rel": 1e-06
+  },
+  "Private civil liberties": {
+   "abs": 0.001,
+   "rel": 1e-06
+  }
+ },
+ "encodings": {},
+ "scale": {},
+ "stack_relative": false,
+ "time_tolerance": 0,
+ "not_compared": {}
+}

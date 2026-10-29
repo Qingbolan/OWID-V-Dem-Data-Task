@@ -1,0 +1,56 @@
+{
+ "title": "Private Civil Liberties Index",
+ "url": "https://ourworldindata.org/grapher/private-civil-liberties-index",
+ "date_published": null,
+ "chart_page": true,
+ "authors": [],
+ "retrieved_at": "2026-10-29T17:41:41.436174+00:00",
+ "materialised_at": "2026-10-29T17:41:41.436186+00:00",
+ "source_original_sha256": "5bd0007c37f8e6f4f33cfb5e6cbd787cf948131716c49ce636de0ed26cdf229e",
+ "offline_snapshot": {
+  "page": "source.html",
+  "assets": "source_files/",
+  "assets_manifest": "source_files/manifest.json",
+  "asset_count": 79,
+  "removed": "all <script> elements except application/ld+json"
+ },
+ "figures": [
+  {
+   "index": 1,
+   "name": "01 Private Civil Liberties Index",
+   "embed": {
+    "slug": "private-civil-liberties-index",
+    "query": {},
+    "image": null
+   },
+   "view_url": "https://ourworldindata.org/grapher/private-civil-liberties-index",
+   "csv_url": "https://ourworldindata.org/grapher/private-civil-liberties-index.csv?csvType=filtered",
+   "png_url": "https://ourworldindata.org/grapher/private-civil-liberties-index.png",
+   "data_available": true,
+   "config_title": "Private Civil Liberties Index",
+   "config_subtitle": "Data by [V-Dem](#dod:v-dem). Expert estimates of the extent to which people are free from forced labor, have property rights, and enjoy freedom of movement and religion. The index ranges from 0 to 1 (most liberties).",
+   "files": {
+    "txt": {
+     "path": "figs/01 Private Civil Liberties Index.txt",
+     "sha256": "e56a02106e6897b61488df503a53a80683e21c7198c87c60374333c8c85ccd55"
+    },
+    "csv": {
+     "path": "figs/01 Private Civil Liberties Index.csv",
+     "sha256": "2bae5bb510c7d0e601631a5d28de8ec6683d5a57177d326762ee35e4fe0cc81f"
+    },
+    "png": {
+     "path": "figs/01 Private Civil Liberties Index.png",
+     "sha256": "68657488502d37fb5dee430d6dd61c77502f110b657caec9916677a59ba6a10c"
+    }
+   },
+   "chart_slug": "private-civil-liberties-index",
+   "column_short_names": {
+    "Entity": "entity",
+    "Code": "code",
+    "Year": "year",
+    "Private Civil Liberties Index": "priv_libs_vdem__estimate_best",
+    "World region according to OWID": "owid_region"
+   }
+  }
+ ]
+}

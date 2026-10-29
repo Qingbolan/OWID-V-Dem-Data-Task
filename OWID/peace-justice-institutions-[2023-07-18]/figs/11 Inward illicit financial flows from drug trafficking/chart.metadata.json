@@ -1,0 +1,32 @@
+{
+ "chart": {
+  "title": "Inward illicit financial flows from drug trafficking",
+  "subtitle": "A financial flow is considered illicit if it is illicitly generated (e.g., from criminal activities or tax evasion), illicitly transferred (e.g., violating currency controls), or illicitly used (e.g., for financing terrorism). This data is expressed in US dollars. It is not adjusted for inflation or differences in living costs between countries.",
+  "citation": "United Nations Office on Drugs and Crime and United Nations Conference on Trade and Development",
+  "originalChartUrl": "https://ourworldindata.org/grapher/total-inward-financial-flows-from-drug-trafficking",
+  "selection": [
+   "Mexico",
+   "Peru"
+  ]
+ },
+ "columns": {
+  "16.4.1 - Total value of inward illicit financial flows - DI_ILL_IN - Drug trafficking": {
+   "titleShort": "Total value of inward illicit financial flows - Drug trafficking",
+   "titleLong": "Total value of inward illicit financial flows - Drug trafficking",
+   "descriptionShort": "Total value of inward illicit financial flows.",
+   "shortUnit": "",
+   "unit": "millions of current united states dollars",
+   "timespan": "2015-2018",
+   "type": "Integer",
+   "conversionFactor": 1000000,
+   "owidVariableId": 1301137,
+   "shortName": "_16_4_1__di_ill_in__drug_trafficking",
+   "lastUpdated": "2026-07-31",
+   "nextUpdate": "2027-07-31",
+   "citationShort": "United Nations Office on Drugs and Crime and United Nations Conference on Trade and Development – processed by Our World in Data",
+   "citationLong": "United Nations Office on Drugs and Crime and United Nations Conference on Trade and Development – processed by Our World in Data. “Total value of inward illicit financial flows - Drug trafficking” [dataset]. United Nations Office on Drugs and Crime and United Nations Conference on Trade and Development, “Data from multiple sources” [original data].",
+   "fullMetadata": "https://api.ourworldindata.org/v1/indicators/1301137.metadata.json"
+  }
+ },
+ "dateDownloaded": "2026-10-29"
+}

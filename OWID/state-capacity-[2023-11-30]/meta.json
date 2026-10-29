@@ -1,0 +1,267 @@
+{
+ "title": "State Capacity",
+ "url": "https://ourworldindata.org/state-capacity",
+ "date_published": "2023-11-30",
+ "authors": [
+  "Bastian Herre",
+  "Pablo Arriagada"
+ ],
+ "retrieved_at": "2026-10-29T15:15:27.827361+00:00",
+ "materialised_at": "2026-10-29T16:50:01.252085+00:00",
+ "source_original_sha256": "34b79afc7b619f99fb86fff2cb8e85f44f972933cae7616a37d873f45ed3598b",
+ "offline_snapshot": {
+  "page": "source.html",
+  "assets": "source_files/",
+  "assets_manifest": "source_files/manifest.json",
+  "asset_count": 182,
+  "removed": "all <script> elements except application/ld+json"
+ },
+ "figures": [
+  {
+   "index": 1,
+   "name": "01 Tax revenue as share of GDP",
+   "embed": {
+    "slug": "tax-revenues-as-a-share-of-gdp-unu-wider",
+    "query": {},
+    "image": null
+   },
+   "files": {
+    "html": {
+     "path": "figs/01 Tax revenue as share of GDP.html",
+     "sha256": "d764c824edcf956fbf26e98d6f3fc30214fe5477268d9a583a30b17cc6083d55"
+    },
+    "csv": {
+     "path": "figs/01 Tax revenue as share of GDP.csv",
+     "sha256": "ba66acac9ea104231d1ee79b8bd7f8f1b76b934df75a26a8b528f8eb90759cde"
+    },
+    "png": {
+     "path": "figs/01 Tax revenue as share of GDP.png",
+     "sha256": "1842d86087dd0e2968d613c990d2aea214635e2afd3d819040fe458f4cd284f8"
+    },
+    "txt": {
+     "path": "figs/01 Tax revenue as share of GDP.txt",
+     "sha256": "abfeb71af7de36f3897a7819670f5817dfab7b36920b1cda8bb4c02173fc84e3"
+    }
+   },
+   "view_url": "https://ourworldindata.org/grapher/tax-revenues-as-a-share-of-gdp-unu-wider",
+   "csv_url": "https://ourworldindata.org/grapher/tax-revenues-as-a-share-of-gdp-unu-wider.csv?csvType=filtered",
+   "png_url": "https://ourworldindata.org/grapher/tax-revenues-as-a-share-of-gdp-unu-wider.png",
+   "data_available": true,
+   "config_title": "Tax revenue as share of GDP",
+   "config_subtitle": "Direct and indirect taxes as well as social contributions included.",
+   "chart_slug": "tax-revenues-as-a-share-of-gdp-unu-wider",
+   "column_short_names": {
+    "Entity": "entity",
+    "Code": "code",
+    "Year": "year",
+    "Taxes including social contributions": "tax_inc_sc",
+    "World region according to OWID": "owid_region",
+    "Taxes including social contributions (Original Year)": "tax_inc_sc__original_year"
+   }
+  },
+  {
+   "index": 2,
+   "name": "02 Percentage of territory effectively controlled by government",
+   "embed": {
+    "slug": "percentage-of-territory-controlled-by-government",
+    "query": {},
+    "image": null
+   },
+   "files": {
+    "html": {
+     "path": "figs/02 Percentage of territory effectively controlled by government.html",
+     "sha256": "9c7fc847388378568d3ed59a7de647ca82a20332ee4e1bca78e3317b40534afa"
+    },
+    "csv": {
+     "path": "figs/02 Percentage of territory effectively controlled by government.csv",
+     "sha256": "c7504600281041acf6c144b0be74e58b32de50c4851b56fc452c095c601d4020"
+    },
+    "png": {
+     "path": "figs/02 Percentage of territory effectively controlled by government.png",
+     "sha256": "b32e38fefbb1676f31974a34321eec5d927aaeab2dea1c97093c9c2663fd711a"
+    },
+    "txt": {
+     "path": "figs/02 Percentage of territory effectively controlled by government.txt",
+     "sha256": "ced6c6ad47948c7e518de2a9d565ba549b4965c18ca1e0b6e554853f63de5328"
+    }
+   },
+   "view_url": "https://ourworldindata.org/grapher/percentage-of-territory-controlled-by-government",
+   "csv_url": "https://ourworldindata.org/grapher/percentage-of-territory-controlled-by-government.csv?csvType=filtered",
+   "png_url": "https://ourworldindata.org/grapher/percentage-of-territory-controlled-by-government.png",
+   "data_available": true,
+   "config_title": "Percentage of territory effectively controlled by government",
+   "config_subtitle": "Data by [V-Dem](#dod:v-dem). Expert estimates of the extent to which the government is recognized as the main authority, or rejected by others, such as insurgent groups, criminal organizations, or other countries.",
+   "chart_slug": "percentage-of-territory-controlled-by-government",
+   "column_short_names": {
+    "Entity": "entity",
+    "Code": "code",
+    "Year": "year",
+    "Territory under state control": "terr_contr_vdem__estimate_best",
+    "World region according to OWID": "owid_region"
+   }
+  },
+  {
+   "index": 3,
+   "name": "03 Rigorous and Impartial Public Administration Score",
+   "embed": {
+    "slug": "rigorous-and-impartial-public-administration-score",
+    "query": {},
+    "image": null
+   },
+   "files": {
+    "html": {
+     "path": "figs/03 Rigorous and Impartial Public Administration Score.html",
+     "sha256": "639ce5cf28549c935a84887b84c0730a7c456e4622208df55aba11b91ec56107"
+    },
+    "csv": {
+     "path": "figs/03 Rigorous and Impartial Public Administration Score.csv",
+     "sha256": "a3db489142b299b3ed652cb25c1d63ec3a333327c4940d75fbc4c7ca8fab6871"
+    },
+    "png": {
+     "path": "figs/03 Rigorous and Impartial Public Administration Score.png",
+     "sha256": "cc0df2c513e87716f6de54fbd6aeff855328bf585fd69111d9b16724c2e8fe6f"
+    },
+    "txt": {
+     "path": "figs/03 Rigorous and Impartial Public Administration Score.txt",
+     "sha256": "4ac16280f43af1ac5ae9de2a03dc5456be39fb13a83d20930c02e85a343ffe31"
+    }
+   },
+   "view_url": "https://ourworldindata.org/grapher/rigorous-and-impartial-public-administration-score",
+   "csv_url": "https://ourworldindata.org/grapher/rigorous-and-impartial-public-administration-score.csv?csvType=filtered",
+   "png_url": "https://ourworldindata.org/grapher/rigorous-and-impartial-public-administration-score.png",
+   "data_available": true,
+   "config_title": "Rigorous and Impartial Public Administration Score",
+   "config_subtitle": "Data by [V-Dem](#dod:v-dem). Expert estimates of the extent to which public officials follow the law and show no favoritism or discrimination. Higher scores mean more rigor and impartiality. A score of 0 is approximately the average across all countries and years.",
+   "chart_slug": "rigorous-and-impartial-public-administration-score",
+   "column_short_names": {
+    "Entity": "entity",
+    "Code": "code",
+    "Year": "year",
+    "Rigorous and impartial public administration": "public_admin_vdem__estimate_best"
+   }
+  },
+  {
+   "index": 4,
+   "name": "04 State Capacity Index",
+   "embed": {
+    "slug": "state-capacity-index",
+    "query": {
+     "tab": "line",
+     "time": "earliest..2015"
+    },
+    "image": null
+   },
+   "files": {
+    "html": {
+     "path": "figs/04 State Capacity Index.html",
+     "sha256": "3fc9b6dd099a4075503166ef4acc2ff669862bac02481cddcc82bce9696c34aa"
+    },
+    "csv": {
+     "path": "figs/04 State Capacity Index.csv",
+     "sha256": "b1fbd320988b234a652f1f23dc0a5c7a1694f999a3579d93b34a8b49c2ad51c6"
+    },
+    "png": {
+     "path": "figs/04 State Capacity Index.png",
+     "sha256": "c645dd901590db83bab241cabfd8f27415bbb0528a0c9aa93f8d6dca88813ab6"
+    },
+    "txt": {
+     "path": "figs/04 State Capacity Index.txt",
+     "sha256": "937403b282bc0b1c50e8fa47b03c9134deda9e2f41962752461de6a772169726"
+    }
+   },
+   "view_url": "https://ourworldindata.org/grapher/state-capacity-index?tab=line&time=earliest..2015",
+   "csv_url": "https://ourworldindata.org/grapher/state-capacity-index.csv?csvType=filtered&tab=line&time=earliest..2015",
+   "png_url": "https://ourworldindata.org/grapher/state-capacity-index.png?tab=line&time=earliest..2015",
+   "data_available": true,
+   "config_title": "State Capacity Index",
+   "config_subtitle": "The index captures the extent to which the state controls its territory, sustainably raises sufficient resources, and has skilled and impartial security forces and public servants. Higher scores mean more capacity.",
+   "chart_slug": "state-capacity-index",
+   "column_short_names": {
+    "Entity": "entity",
+    "Code": "code",
+    "Year": "year",
+    "State Capacity Index": "capacity"
+   }
+  },
+  {
+   "index": 5,
+   "name": "05 European overseas colonies by colonizer",
+   "embed": {
+    "slug": "european-overseas-colonies-by-colonizer",
+    "query": {},
+    "image": null
+   },
+   "files": {
+    "html": {
+     "path": "figs/05 European overseas colonies by colonizer.html",
+     "sha256": "04452d8e227dc5b0657fc068e001972d0bb1b47d2d684cc107785c21c3c85265"
+    },
+    "csv": {
+     "path": "figs/05 European overseas colonies by colonizer.csv",
+     "sha256": "c90879fb603f32131afcb5f8a0819b9eba0ea1565e944580dfa25039ae258b14"
+    },
+    "png": {
+     "path": "figs/05 European overseas colonies by colonizer.png",
+     "sha256": "6f99ab3f7a6aa7ea2f1ce9b669cbf2672c6a289b836f367a6b6e0e1c9db1d585"
+    },
+    "txt": {
+     "path": "figs/05 European overseas colonies by colonizer.txt",
+     "sha256": "e78a7f95a09048b03f9cf191e89709fb66264be8594440b1c90404ce0ed667d6"
+    }
+   },
+   "view_url": "https://ourworldindata.org/grapher/european-overseas-colonies-by-colonizer",
+   "csv_url": "https://ourworldindata.org/grapher/european-overseas-colonies-by-colonizer.csv?csvType=filtered",
+   "png_url": "https://ourworldindata.org/grapher/european-overseas-colonies-by-colonizer.png",
+   "data_available": true,
+   "config_title": "European overseas colonies by colonizer",
+   "config_subtitle": "Only countries that are independent today are considered.",
+   "chart_slug": "european-overseas-colonies-by-colonizer",
+   "column_short_names": {
+    "Entity": "entity",
+    "Code": "code",
+    "Year": "year",
+    "Number of colonies": "total_colonies"
+   }
+  },
+  {
+   "index": 6,
+   "name": "06 European overseas colonies by colonizer",
+   "embed": {
+    "slug": "european-overseas-colonies-by-colonizer",
+    "query": {},
+    "image": null
+   },
+   "files": {
+    "html": {
+     "path": "figs/06 European overseas colonies by colonizer.html",
+     "sha256": "4211c88140018c9b7a95ccd298e7a8361eab46afa1b056ed6918db9bfbe6ae48"
+    },
+    "csv": {
+     "path": "figs/06 European overseas colonies by colonizer.csv",
+     "sha256": "c90879fb603f32131afcb5f8a0819b9eba0ea1565e944580dfa25039ae258b14"
+    },
+    "png": {
+     "path": "figs/06 European overseas colonies by colonizer.png",
+     "sha256": "6f99ab3f7a6aa7ea2f1ce9b669cbf2672c6a289b836f367a6b6e0e1c9db1d585"
+    },
+    "txt": {
+     "path": "figs/06 European overseas colonies by colonizer.txt",
+     "sha256": "f2709475d13e69bc27f79d55321630a3e56d8abce0d4a7e79ee715a7c261a5ce"
+    }
+   },
+   "view_url": "https://ourworldindata.org/grapher/european-overseas-colonies-by-colonizer",
+   "csv_url": "https://ourworldindata.org/grapher/european-overseas-colonies-by-colonizer.csv?csvType=filtered",
+   "png_url": "https://ourworldindata.org/grapher/european-overseas-colonies-by-colonizer.png",
+   "data_available": true,
+   "config_title": "European overseas colonies by colonizer",
+   "config_subtitle": "Only countries that are independent today are considered.",
+   "chart_slug": "european-overseas-colonies-by-colonizer",
+   "column_short_names": {
+    "Entity": "entity",
+    "Code": "code",
+    "Year": "year",
+    "Number of colonies": "total_colonies"
+   }
+  }
+ ]
+}

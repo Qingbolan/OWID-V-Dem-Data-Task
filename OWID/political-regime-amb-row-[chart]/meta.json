@@ -1,0 +1,55 @@
+{
+ "title": "Democracy",
+ "url": "https://ourworldindata.org/grapher/political-regime-amb-row",
+ "date_published": null,
+ "chart_page": true,
+ "authors": [],
+ "retrieved_at": "2026-10-29T17:40:50.864879+00:00",
+ "materialised_at": "2026-10-29T17:40:50.864887+00:00",
+ "source_original_sha256": "af98f7d36a5350cd4db6190c796f8e54aadafeffde3e97a12065943848069342",
+ "offline_snapshot": {
+  "page": "source.html",
+  "assets": "source_files/",
+  "assets_manifest": "source_files/manifest.json",
+  "asset_count": 73,
+  "removed": "all <script> elements except application/ld+json"
+ },
+ "figures": [
+  {
+   "index": 1,
+   "name": "01 Democracy",
+   "embed": {
+    "slug": "political-regime-amb-row",
+    "query": {},
+    "image": null
+   },
+   "view_url": "https://ourworldindata.org/grapher/political-regime-amb-row",
+   "csv_url": "https://ourworldindata.org/grapher/political-regime-amb-row.csv?csvType=filtered",
+   "png_url": "https://ourworldindata.org/grapher/political-regime-amb-row.png",
+   "data_available": true,
+   "config_title": "Democracy",
+   "config_subtitle": "Classification by [Lührmann et al. (2018)](#dod:regimes-of-the-world) based on expert estimates by [V-Dem](#dod:v-dem). The intermediate categories indicate that the country may belong in the next-higher or next-lower group.",
+   "files": {
+    "txt": {
+     "path": "figs/01 Democracy.txt",
+     "sha256": "355567145f41a7101ded69be6890f4da6ea3d4f0ce77eda7c246fe50b1e4728e"
+    },
+    "csv": {
+     "path": "figs/01 Democracy.csv",
+     "sha256": "acd817ce4081e98c6257a3fdd27a9387a81b16fd39b5bf45e623e27e6d70aed1"
+    },
+    "png": {
+     "path": "figs/01 Democracy.png",
+     "sha256": "a33cf7fa8f8522369523b9aa2cd028fc7a951bf58efb2945b8ffe1b1f51b99b6"
+    }
+   },
+   "chart_slug": "political-regime-amb-row",
+   "column_short_names": {
+    "Entity": "entity",
+    "Code": "code",
+    "Year": "year",
+    "Political regime": "regime_amb_row_owid"
+   }
+  }
+ ]
+}

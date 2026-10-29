@@ -1,0 +1,18 @@
+{
+ "figure": "02 Percentage of territory effectively controlled by government",
+ "checked_at": "2026-10-29T18:06:18.425663+00:00",
+ "status": "match",
+ "gold_rows": 174,
+ "gold_rows_missing_in_reference": 0,
+ "mismatched_cells": {
+  "Territory under state control": 0
+ },
+ "tolerance": {
+  "Territory under state control": {
+   "abs": 0.001,
+   "rel": 1e-06
+  }
+ },
+ "first_mismatches": [],
+ "program": "golden.vdem_pipeline"
+}

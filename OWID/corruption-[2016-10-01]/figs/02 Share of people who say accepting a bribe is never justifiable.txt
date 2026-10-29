@@ -1,0 +1,12 @@
+Figure 02: 02 Share of people who say accepting a bribe is never justifiable
+Article: Corruption (2016-10-01)
+
+Title: Share of people who say accepting a bribe is never justifiable
+Subtitle: Share of people who said accepting a bribe is "never justifiable" (score of 1), when asked to rate how acceptable bribery is on a scale from 1 to 10 ("always justifiable").
+Note: 
+Source: Integrated Values Surveys (2024)
+Units: %
+Chart: https://ourworldindata.org/grapher/share-of-people-who-say-accepting-a-bribe-is-never-justifiable
+
+Text before the figure: In most countries, most respondents say taking bribes is never justified — but in other countries, many think it can be acceptable in some cases.
+Text after the figure: ## How often do firms pay bribes?

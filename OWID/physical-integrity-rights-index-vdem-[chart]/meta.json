@@ -1,0 +1,56 @@
+{
+ "title": "Physical Integrity Rights Index",
+ "url": "https://ourworldindata.org/grapher/physical-integrity-rights-index-vdem",
+ "date_published": null,
+ "chart_page": true,
+ "authors": [],
+ "retrieved_at": "2026-10-29T17:37:17.263242+00:00",
+ "materialised_at": "2026-10-29T17:37:17.263251+00:00",
+ "source_original_sha256": "f9e394e3e845e34331c81430f1b8eca822e102893eac7ecef8552264a6ac1654",
+ "offline_snapshot": {
+  "page": "source.html",
+  "assets": "source_files/",
+  "assets_manifest": "source_files/manifest.json",
+  "asset_count": 73,
+  "removed": "all <script> elements except application/ld+json"
+ },
+ "figures": [
+  {
+   "index": 1,
+   "name": "01 Physical Integrity Rights Index",
+   "embed": {
+    "slug": "physical-integrity-rights-index-vdem",
+    "query": {},
+    "image": null
+   },
+   "view_url": "https://ourworldindata.org/grapher/physical-integrity-rights-index-vdem",
+   "csv_url": "https://ourworldindata.org/grapher/physical-integrity-rights-index-vdem.csv?csvType=filtered",
+   "png_url": "https://ourworldindata.org/grapher/physical-integrity-rights-index-vdem.png",
+   "data_available": true,
+   "config_title": "Physical Integrity Rights Index",
+   "config_subtitle": "Data by [V-Dem](#dod:v-dem). Expert estimates of the extent to which people are free from government torture and political killings. The index ranges from 0 to 1 (most rights).",
+   "files": {
+    "txt": {
+     "path": "figs/01 Physical Integrity Rights Index.txt",
+     "sha256": "6cc7353464b358019d0cf22f07768bebbd3d2bafbc72bccea5a511971b734efb"
+    },
+    "csv": {
+     "path": "figs/01 Physical Integrity Rights Index.csv",
+     "sha256": "9ce2b4b1f24a61071b8638329aa055febecbf46aca44e74f7af8c2455d781237"
+    },
+    "png": {
+     "path": "figs/01 Physical Integrity Rights Index.png",
+     "sha256": "1c220bba5101039b3cb10eba8cc3c5da2d9722c973731b0a467c202c40b86035"
+    }
+   },
+   "chart_slug": "physical-integrity-rights-index-vdem",
+   "column_short_names": {
+    "Entity": "entity",
+    "Code": "code",
+    "Year": "year",
+    "Physical Integrity Rights Index": "phys_integr_libs_vdem__estimate_best",
+    "World region according to OWID": "owid_region"
+   }
+  }
+ ]
+}

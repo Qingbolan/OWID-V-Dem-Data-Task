@@ -1,0 +1,41 @@
+{
+ "reproducible": true,
+ "program": "golden.vdem_pipeline",
+ "chart_slug": "transparent-laws-row",
+ "view": "https://ourworldindata.org/grapher/transparent-laws-row",
+ "columns": [
+  "Transparent laws with predictable enforcement"
+ ],
+ "solution_columns": [
+  "Transparent laws with predictable enforcement"
+ ],
+ "output_precision": {
+  "Transparent laws with predictable enforcement": 0
+ },
+ "sources": {
+  "Transparent laws with predictable enforcement": {
+   "table": "vdem_multi_without_regions",
+   "column": "transplaws_row",
+   "filter": {
+    "estimate": "best"
+   },
+   "short_name": "transplaws_row__estimate_best",
+   "gold_index": 3
+  }
+ },
+ "gold_column_index": {
+  "Transparent laws with predictable enforcement": 3
+ },
+ "entity_mapping": "data/reference/owid_etl/vdem/vdem.countries.json",
+ "compare": {
+  "Transparent laws with predictable enforcement": {
+   "abs": 1.0,
+   "rel": 1e-06
+  }
+ },
+ "encodings": {},
+ "scale": {},
+ "stack_relative": false,
+ "time_tolerance": 0,
+ "not_compared": {}
+}
